@@ -1,32 +1,32 @@
 {
- "updated": "2026-10-12T00:48:40.790910+00:00",
+ "updated": "2026-10-12T03:40:59.352253+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 6,
+   "new": 8,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 11,
+   "new": 5,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 5,
    "note": ""
   },
   {
@@ -54,7 +54,7 @@
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -68,21 +68,21 @@
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 35,
+   "new": 36,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 2,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 12,
    "note": ""
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 27,
+   "new": 28,
    "note": ""
   },
   {
@@ -173,7 +173,7 @@
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 21,
+   "new": 22,
    "note": ""
   },
   {
@@ -187,7 +187,7 @@
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -201,7 +201,7 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 20,
+   "new": 18,
    "note": ""
   },
   {
@@ -236,7 +236,7 @@
    "name": "Bulletin of the Atomic Scientists",
    "group": "Nuclear",
    "ok": true,
-   "new": 6,
+   "new": 7,
    "note": "via backup feed"
   },
   {
