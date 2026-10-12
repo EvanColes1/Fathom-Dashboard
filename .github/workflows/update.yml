@@ -1,9 +1,9 @@
-name: Update SITREP
+name: Update Fathom
 
 on:
   schedule:
     - cron: "17 */3 * * *"   # news every 3 hours
-    - cron: "43 5 * * *"     # sanctions and energy data once a day
+    - cron: "43 5 * * *"     # sanctions, energy and UK data once a day
   workflow_dispatch:          # lets you run it by hand from the Actions tab
   push:
     branches: [main]
@@ -15,7 +15,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: sitrep-update
+  group: fathom-update
   cancel-in-progress: false
 
 jobs:
@@ -38,9 +38,9 @@ jobs:
         id: parts
         run: |
           if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "17 */3 * * *" ]; then
-            echo "list=news" >> "$GITHUB_OUTPUT"
+            echo "list=news home" >> "$GITHUB_OUTPUT"
           else
-            echo "list=news sanctions energy" >> "$GITHUB_OUTPUT"
+            echo "list=news sanctions energy uk home" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Collect data
@@ -48,11 +48,14 @@ jobs:
           EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
         run: python collect.py ${{ steps.parts.outputs.list }}
 
+      - name: Score countries (same engine as the dashboard)
+        run: node score.js
+
       - name: Save the new data to the repository
         run: |
-          git config user.name "sitrep-bot"
-          git config user.email "sitrep-bot@users.noreply.github.com"
-          for f in news.json sanctions.json energy.json status.json meta.json; do
+          git config user.name "fathom-bot"
+          git config user.email "fathom-bot@users.noreply.github.com"
+          for f in news.json history.json scores.json sanctions.json energy.json uk.json home.json status.json meta.json; do
             if [ -f "$f" ]; then git add "$f"; fi
           done
           git diff --cached --quiet && exit 0
@@ -72,3 +75,4 @@ jobs:
           path: .
       - id: deploy
         uses: actions/deploy-pages@v4
+
