@@ -1,32 +1,32 @@
 {
- "updated": "2026-10-12T15:39:55.987661+00:00",
+ "updated": "2026-10-12T18:41:55.321055+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 5,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 13,
+   "new": 16,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 21,
+   "new": 9,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 13,
+   "new": 8,
    "note": ""
   },
   {
@@ -40,49 +40,49 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 25,
+   "new": 24,
    "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 40,
+   "new": 32,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 7,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 9,
+   "new": 4,
    "note": ""
   },
   {
@@ -110,7 +110,7 @@
    "name": "RUSI",
    "group": "Think tank",
    "ok": true,
-   "new": 8,
+   "new": 9,
    "note": ""
   },
   {
@@ -138,7 +138,7 @@
    "name": "Atlantic Council",
    "group": "Think tank",
    "ok": true,
-   "new": 49,
+   "new": 54,
    "note": ""
   },
   {
@@ -159,35 +159,35 @@
    "name": "UK Financial Sanctions (OFSI)",
    "group": "Sanctions",
    "ok": true,
-   "new": 7,
+   "new": 6,
    "note": ""
   },
   {
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 5,
+   "new": 6,
    "note": ""
   },
   {
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 21,
+   "new": 20,
    "note": ""
   },
   {
    "name": "Carbon Brief",
    "group": "Energy",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -201,21 +201,21 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 15,
+   "new": 19,
    "note": ""
   },
   {
    "name": "The Record",
    "group": "Cyber",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 51,
+   "new": 47,
    "note": "via backup feed"
   },
   {
@@ -229,7 +229,7 @@
    "name": "Arms Control Association",
    "group": "Nuclear",
    "ok": true,
-   "new": 10,
+   "new": 9,
    "note": ""
   },
   {
@@ -243,7 +243,7 @@
    "name": "IAEA News",
    "group": "Nuclear",
    "ok": true,
-   "new": 9,
+   "new": 11,
    "note": ""
   }
  ],
