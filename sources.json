@@ -222,6 +222,403 @@
     "acled": {
       "name": "ACLED conflict events",
       "needs_key": "ACLED_EMAIL and ACLED_PASSWORD (free researcher account)"
+    },
+    "uk": {
+      "window_days": 30,
+      "govuk_organisations": [
+        "foreign-commonwealth-development-office",
+        "office-of-financial-sanctions-implementation",
+        "hm-treasury",
+        "prime-ministers-office-10-downing-street",
+        "ministry-of-defence",
+        "department-for-energy-security-and-net-zero",
+        "department-for-business-and-trade",
+        "home-office"
+      ],
+      "legislation_terms": [
+        "sanctions",
+        "export control"
+      ],
+      "country_count": 12,
+      "skip_countries": [
+        "United Kingdom",
+        "European Union"
+      ],
+      "hansard_aliases": {
+        "Palestine": "Gaza"
+      },
+      "hansard_issues": [
+        {
+          "term": "shadow fleet",
+          "theme": "maritime"
+        },
+        {
+          "term": "sanctions",
+          "theme": "sanctions"
+        },
+        {
+          "term": "energy security",
+          "theme": "energy"
+        },
+        {
+          "term": "Red Sea",
+          "theme": "maritime"
+        },
+        {
+          "term": "critical minerals",
+          "theme": "trade"
+        },
+        {
+          "term": "cyber attack",
+          "theme": "cyber"
+        },
+        {
+          "term": "small boats",
+          "theme": "migration"
+        },
+        {
+          "term": "nuclear deterrent",
+          "theme": "nuclear"
+        }
+      ]
+    },
+    "home": {
+      "government_party": "Labour",
+      "feeds": [
+        {
+          "name": "BBC Politics",
+          "group": "News",
+          "url": "https://feeds.bbci.co.uk/news/politics/rss.xml"
+        },
+        {
+          "name": "Guardian Politics",
+          "group": "News",
+          "url": "https://www.theguardian.com/politics/rss"
+        },
+        {
+          "name": "Sky News Politics",
+          "group": "News",
+          "url": "https://feeds.skynews.com/feeds/rss/politics.xml"
+        },
+        {
+          "name": "Independent Politics",
+          "group": "News",
+          "url": "https://www.independent.co.uk/news/uk/politics/rss"
+        },
+        {
+          "name": "BBC Business",
+          "group": "Economy news",
+          "url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        {
+          "name": "Sky News Business",
+          "group": "Economy news",
+          "url": "https://feeds.skynews.com/feeds/rss/business.xml"
+        },
+        {
+          "name": "ConservativeHome",
+          "group": "Party voices",
+          "party": "Conservative",
+          "url": "https://conservativehome.com/feed/"
+        },
+        {
+          "name": "LabourList",
+          "group": "Party voices",
+          "party": "Labour",
+          "url": "https://labourlist.org/feed/"
+        },
+        {
+          "name": "Lib Dem Voice",
+          "group": "Party voices",
+          "party": "Liberal Democrat",
+          "url": "https://www.libdemvoice.org/feed"
+        },
+        {
+          "name": "UK in a Changing Europe",
+          "group": "Analysis",
+          "url": "https://ukandeu.ac.uk/feed/"
+        },
+        {
+          "name": "House of Commons Library",
+          "group": "Analysis",
+          "url": "https://commonslibrary.parliament.uk/feed/"
+        },
+        {
+          "name": "Office for Budget Responsibility",
+          "group": "Tax and fiscal",
+          "url": "https://obr.uk/feed/"
+        },
+        {
+          "name": "Institute for Fiscal Studies",
+          "group": "Tax and fiscal",
+          "url": "https://ifs.org.uk/rss.xml",
+          "parse": "cards",
+          "link_pattern": "https://ifs.org.uk/(?:publications|articles)/[^\"'#?]+"
+        },
+        {
+          "name": "Resolution Foundation",
+          "group": "Tax and fiscal",
+          "url": "https://www.resolutionfoundation.org/feed/"
+        },
+        {
+          "name": "Tax Policy Associates",
+          "group": "Tax and fiscal",
+          "url": "https://taxpolicy.org.uk/feed/"
+        }
+      ],
+      "govuk_tax_organisations": [
+        "hm-revenue-customs",
+        "hm-treasury"
+      ],
+      "parties": {
+        "Labour": [
+          "labour",
+          "labour party",
+          "burnham"
+        ],
+        "Conservative": [
+          "conservative",
+          "conservatives",
+          "tory",
+          "tories",
+          "badenoch"
+        ],
+        "Reform UK": [
+          "reform uk",
+          "reform party",
+          "farage"
+        ],
+        "Liberal Democrat": [
+          "lib dem",
+          "lib dems",
+          "liberal democrat",
+          "liberal democrats"
+        ],
+        "Green Party": [
+          "green party",
+          "greens",
+          "polanski"
+        ],
+        "Scottish National Party": [
+          "snp",
+          "scottish national party"
+        ],
+        "Plaid Cymru": [
+          "plaid cymru",
+          "plaid"
+        ],
+        "Your Party": [
+          "your party"
+        ],
+        "Restore Britain": [
+          "restore britain"
+        ]
+      },
+      "topics": {
+        "Tax and spending": [
+          "tax",
+          "taxes",
+          "budget",
+          "spending review",
+          "chancellor",
+          "treasury",
+          "fiscal",
+          "borrowing",
+          "public finances",
+          "obr"
+        ],
+        "Economy": [
+          "inflation",
+          "interest rate",
+          "bank of england",
+          "growth",
+          "gdp",
+          "recession",
+          "wages",
+          "pay",
+          "cost of living",
+          "jobs",
+          "unemployment"
+        ],
+        "Elections": [
+          "election",
+          "elections",
+          "by-election",
+          "poll",
+          "polling",
+          "voters",
+          "mayor",
+          "council"
+        ],
+        "Party leadership": [
+          "leader",
+          "leadership",
+          "reshuffle",
+          "cabinet",
+          "prime minister",
+          "defect",
+          "defection"
+        ],
+        "Immigration": [
+          "immigration",
+          "migration",
+          "asylum",
+          "small boats",
+          "visa",
+          "refugee"
+        ],
+        "NHS and care": [
+          "nhs",
+          "hospital",
+          "social care",
+          "gp",
+          "waiting list",
+          "doctors",
+          "nurses"
+        ],
+        "Housing": [
+          "housing",
+          "renters",
+          "rent",
+          "landlord",
+          "planning",
+          "mortgage",
+          "homes"
+        ],
+        "Energy bills": [
+          "energy bills",
+          "price cap",
+          "ofgem",
+          "net zero",
+          "heating"
+        ],
+        "Europe": [
+          "eu",
+          "europe",
+          "european",
+          "brexit",
+          "single market",
+          "customs union"
+        ],
+        "Defence": [
+          "defence",
+          "armed forces",
+          "military",
+          "nato"
+        ]
+      },
+      "tax_terms": {
+        "Income tax": [
+          "income tax",
+          "tax threshold",
+          "personal allowance",
+          "fiscal drag"
+        ],
+        "National Insurance": [
+          "national insurance",
+          "nics"
+        ],
+        "VAT": [
+          "vat"
+        ],
+        "Inheritance tax": [
+          "inheritance tax",
+          "iht"
+        ],
+        "Capital gains tax": [
+          "capital gains"
+        ],
+        "Council tax": [
+          "council tax"
+        ],
+        "Pensions": [
+          "pension",
+          "pensions",
+          "triple lock",
+          "state pension"
+        ],
+        "Corporation tax": [
+          "corporation tax"
+        ],
+        "Property and stamp duty": [
+          "stamp duty",
+          "property tax",
+          "mansion tax"
+        ],
+        "Fuel and duties": [
+          "fuel duty",
+          "alcohol duty",
+          "tobacco duty",
+          "vaping duty"
+        ],
+        "Wealth taxes": [
+          "wealth tax",
+          "non-dom",
+          "non-doms"
+        ]
+      },
+      "indicators": [
+        {
+          "key": "cpi",
+          "label": "CPI inflation",
+          "unit": "%",
+          "path": "/economy/inflationandpriceindices/timeseries/d7g7/mm23",
+          "freq": "months",
+          "good": "down",
+          "source": "ONS"
+        },
+        {
+          "key": "unemp",
+          "label": "Unemployment rate",
+          "unit": "%",
+          "path": "/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms",
+          "freq": "months",
+          "good": "down",
+          "source": "ONS"
+        },
+        {
+          "key": "pay",
+          "label": "Regular pay growth",
+          "unit": "%",
+          "path": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/timeseries/kai9/lms",
+          "freq": "months",
+          "good": "up",
+          "source": "ONS"
+        },
+        {
+          "key": "psnb",
+          "label": "Public sector net borrowing, month",
+          "unit": "£bn",
+          "scale": 0.001,
+          "path": "/economy/governmentpublicsectorandtaxes/publicsectorfinance/timeseries/j5ii/pusf",
+          "freq": "months",
+          "good": "down",
+          "source": "ONS"
+        },
+        {
+          "key": "debt",
+          "label": "Public sector net debt",
+          "unit": "% of GDP",
+          "path": "/economy/governmentpublicsectorandtaxes/publicsectorfinance/timeseries/hf6x/pusf",
+          "freq": "months",
+          "good": "down",
+          "source": "ONS"
+        }
+      ],
+      "key_dates": [
+        {
+          "date": "2026-10-28",
+          "label": "Autumn Budget and OBR Economic and fiscal outlook",
+          "kind": "Fiscal",
+          "url": "https://obr.uk/autumn-2026-forecast-date-announced/"
+        },
+        {
+          "date": "2026-11-05",
+          "label": "Bank of England interest rate decision",
+          "kind": "Monetary",
+          "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
+        }
+      ]
     }
   }
 }

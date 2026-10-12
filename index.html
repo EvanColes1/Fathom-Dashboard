@@ -3,35 +3,80 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>SITREP</title>
-<meta name="description" content="A live tracker of sanctions, energy, shipping, conflict and political risk across six regions and ten themes.">
+<title>Fathom</title>
+<meta name="description" content="Fathom: geopolitical risk, sounded daily. Sanctions, energy, shipping, conflict and the UK response, tracked from open sources by Evan Coles.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..800&family=Martian+Mono:wdth,wght@75..112.5,300..600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<nav class="topbar" aria-label="Sections">
-  <div class="wrap topbar-inner">
-    <a class="brand" href="#overview">SITREP</a>
-    <ul class="nav-links">
-      <li><a href="#overview">Overview</a></li>
-      <li><a href="#risk">Risk monitor</a></li>
-      <li><a href="#news">News</a></li>
-      <li><a href="#sanctions">Sanctions</a></li>
-      <li><a href="#energy">Energy</a></li>
-      <li><a href="#method">Method</a></li>
-      <li><a href="#sources">Sources</a></li>
+<div class="shell">
+<aside class="rail" aria-label="Fathom">
+  <a class="brand" href="#overview"><svg class="brand-mark" viewBox="0 0 16 24" aria-hidden="true"><path class="bm-line" d="M8 1v14M5 4.5h6M5.8 8h4.4M6.6 11.5h2.8"/><path class="bm-lead" d="M8 14.5 12 19l-4 4.5L4 19z"/></svg><span class="brand-text"><span class="brand-name">Fathom</span><span class="brand-tag">Geopolitical risk, sounded daily</span></span></a>
+  <nav aria-label="Views">
+    <ul class="rail-nav">
+      <li class="rail-group grp-world" aria-hidden="true"><span class="desk-dot"></span>World Desk</li>
+      <li><a class="rail-link" href="#overview" data-view="overview"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 3h6v6H3zM11 3h6v4h-6zM11 9h6v8h-6zM3 11h6v6H3z"/></svg><span class="rail-label">Overview</span><span class="rail-badge" id="badge-overview"></span></a></li>
+      <li><a class="rail-link" href="#risk" data-view="risk"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 2.5 18 17H2z"/><path d="M10 8v4.5M10 14.6v.4"/></svg><span class="rail-label">Risk</span><span class="rail-badge" id="badge-risk"></span></a></li>
+      <li><a class="rail-link" href="#news" data-view="news"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 4h14M3 8h14M3 12h9M3 16h11"/></svg><span class="rail-label">News</span><span class="rail-badge" id="badge-news"></span></a></li>
+      <li><a class="rail-link" href="#sanctions" data-view="sanctions"><svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="7.5"/><path d="m4.7 4.7 10.6 10.6"/></svg><span class="rail-label">Sanctions</span><span class="rail-badge" id="badge-sanctions"></span></a></li>
+      <li><a class="rail-link" href="#energy" data-view="energy"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M11 2 4 11.5h5L8 18l7-9.5h-5z"/></svg><span class="rail-label">Energy</span><span class="rail-badge" id="badge-energy"></span></a></li>
+      <li class="rail-group grp-home" aria-hidden="true"><span class="desk-dot"></span>Home Desk</li>
+      <li><a class="rail-link" href="#home" data-view="home"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 8.5 10 4l7 4.5M4.5 9v6.5M8 9v6.5M12 9v6.5M15.5 9v6.5M3 17h14"/></svg><span class="rail-label">UK response</span><span class="rail-badge" id="badge-home"></span></a></li>
+      <li><a class="rail-link" href="#politics" data-view="politics"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 17V9M8 17V6M12 17v-5M16 17V4M2.5 17.5h15"/></svg><span class="rail-label">Politics</span><span class="rail-badge" id="badge-politics"></span></a></li>
+      <li><a class="rail-link" href="#tax" data-view="tax"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M5 3.5h10v13l-2-1.3-1.5 1.3-1.5-1.3-1.5 1.3L7 15.2l-2 1.3z"/><path d="M8 7.5h4M8 10.5h4"/></svg><span class="rail-label">Tax &amp; economy</span><span class="rail-badge" id="badge-tax"></span></a></li>
+      <li class="rail-group" aria-hidden="true">Fathom</li>
+      <li><a class="rail-link" href="#weekly" data-view="weekly"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 3.5h12v13H4z"/><path d="M4 7h12M7.5 2v3M12.5 2v3M7 10.5h2.5M7 13.5h6"/></svg><span class="rail-label">Weekly summary</span><span class="rail-badge" id="badge-weekly"></span></a></li>
+      <li><a class="rail-link" href="#method" data-view="method"><svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="3"/><path d="M10 2v2.5M10 15.5V18M2 10h2.5M15.5 10H18M4.3 4.3l1.8 1.8M13.9 13.9l1.8 1.8M4.3 15.7l1.8-1.8M13.9 6.1l1.8-1.8"/></svg><span class="rail-label">Method</span><span class="rail-badge" id="badge-method"></span></a></li>
     </ul>
-    <p class="live"><span class="pulse" aria-hidden="true"></span><span id="updated">Loading…</span></p>
+  </nav>
+  <div class="rail-foot">
+    <p class="live"><span class="pulse" aria-hidden="true"></span><span id="updated">Loading&hellip;</span></p>
+    <dl class="rail-stats">
+      <div><dt>UTC</dt><dd id="rail-utc">&ndash;</dd></div>
+      <div><dt>London</dt><dd id="rail-lon">&ndash;</dd></div>
+      <div><dt>Feeds</dt><dd id="rail-feeds">&ndash;</dd></div>
+    </dl>
   </div>
-</nav>
+</aside>
+
+<div class="stage">
+<header class="cmdbar">
+  <div class="crumb"><span class="crumb-root">FATHOM</span><span class="crumb-sep" aria-hidden="true">/</span><span class="crumb-desk" id="crumb-desk">World Desk</span><span class="crumb-sep" aria-hidden="true">/</span><h1 id="view-title">Overview</h1></div>
+  <div class="wire"><span class="wire-label" id="wire-label">World wire</span><div class="ticker" id="ticker" aria-label="Latest headlines"><div class="ticker-track" id="ticker-track"></div></div></div>
+  <div class="desk-switch" role="group" aria-label="Choose a desk" id="desk-switch"><button type="button" data-desk="world" aria-pressed="true">World</button><button type="button" data-desk="home" aria-pressed="false">Home</button></div>
+  <button type="button" class="finder-btn" id="finder-open" aria-label="Search Fathom"><svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="m13 13 4.5 4.5"/></svg><span>Search</span><kbd>/</kbd></button>
+</header>
 
 
-<header class="board" id="overview">
+<main class="views" id="main">
+<div class="view" data-view="overview">
+<section class="masthead" aria-label="Fathom">
+  <svg class="mh-water" id="mh-water" viewBox="0 0 640 170" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Fathom">
+    <defs>
+      <filter id="mh-ripple" x="-5%" y="-25%" width="110%" height="150%">
+        <feTurbulence id="mh-turb" type="fractalNoise" baseFrequency="0.012 0.09" numOctaves="2" seed="3"/>
+        <feDisplacementMap in="SourceGraphic" scale="8" xChannelSelector="R" yChannelSelector="G"/>
+      </filter>
+      <linearGradient id="mh-fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+      <mask id="mh-mask"><rect x="0" y="100" width="640" height="70" fill="url(#mh-fade)"/></mask>
+    </defs>
+    <text class="mh-word" id="mh-word" x="300" y="90" text-anchor="middle"></text>
+    <g mask="url(#mh-mask)"><text class="mh-word mh-refl" id="mh-refl" x="300" y="90" text-anchor="middle" transform="translate(0 198) scale(1 -1)" filter="url(#mh-ripple)"></text></g>
+    <line class="mh-line" x1="0" x2="640" y1="99" y2="99"/>
+    <g id="mh-rings"></g>
+    <line class="mh-cord" id="mh-cord" x1="560" x2="560" y1="0" y2="0"/>
+    <path class="mh-lead" id="mh-lead" d="M560 -10 l5 6 -5 6 -5 -6z"/>
+    <text class="mh-tag" x="300" y="160" text-anchor="middle">Geopolitical risk, sounded daily</text>
+  </svg>
+  <div class="mh-console" id="mh-console" aria-live="off"></div>
+</section>
+<header class="board panel" id="overview">
   <div class="wrap clocks" id="clocks" aria-label="World clocks"></div>
   <div class="wrap board-grid">
     <div class="board-copy">
+      <p class="kicker">World Desk &middot; Global situation</p>
       <h1 class="board-title"><span id="hero-count">–</span> stories in the last 7 days</h1>
       <p class="board-sub" id="hero-sub">Tracking 35 sources across six regions and ten themes.</p>
       <dl class="board-stats">
@@ -55,7 +100,40 @@
   </div>
 </header>
 
-<main class="wrap">
+  <section id="brief" aria-labelledby="brief-title" class="anchor brief">
+    <div class="brief-main">
+      <div class="section-head">
+        <h2 id="brief-title">Daily brief</h2>
+        <p class="hint" id="brief-time"></p>
+      </div>
+      <ol class="brief-list" id="brief-list"></ol>
+    </div>
+    <aside class="watch" aria-labelledby="watch-title">
+      <h3 id="watch-title" class="mini-title">Your watchlist</h3>
+      <p class="hint" id="watch-since"></p>
+      <ul class="watch-list" id="watch-list"></ul>
+    </aside>
+  </section>
+
+  <div class="view-grid">
+    <section aria-labelledby="ew-title" class="ew-panel">
+      <div class="section-head"><p class="kicker">World Desk</p><h2 id="ew-title">Swell warnings</h2><p class="hint">Early warning: countries whose Depth Index has climbed unusually fast for several days, before they reach High.</p></div>
+      <ol class="ew-list" id="ew-list"></ol>
+    </section>
+    <section aria-labelledby="dev-title">
+      <div class="section-head"><p class="kicker">World Desk</p><h2 id="dev-title">Currents</h2><p class="hint">Top developments in the last 48 hours, as events rather than articles: the same story from many outlets counts once, and specialist sources count for more.</p></div>
+      <ol class="dev-list" id="dev-list"></ol>
+    </section>
+  </div>
+
+  <section class="desk-home-panel" aria-labelledby="glance-title">
+    <div class="section-head with-control">
+      <div><p class="kicker kicker-home">Home Desk</p><h2 id="glance-title">Home Desk at a glance</h2></div>
+      <a class="desk-jump home" href="#politics" data-go="politics">Open the Home Desk</a>
+    </div>
+    <div class="glance" id="glance"></div>
+  </section>
+
   <section aria-labelledby="signals-title">
     <div class="section-head">
       <h2 id="signals-title">Signals</h2>
@@ -64,10 +142,21 @@
     <div class="signals" id="signals"></div>
   </section>
 
+</div>
+
+<div class="view" data-view="risk" hidden>
   <section id="risk" aria-labelledby="risk-title" class="anchor">
     <div class="section-head">
+      <p class="kicker">World Desk</p>
       <h2 id="risk-title">Risk monitor</h2>
-      <p class="hint">A composite index from news volume, severity and momentum. Select a country to open its dossier.</p>
+      <p class="hint">The Fathom Depth Index scores each country against its own normal, weighs escalation in the coverage, adds sanctions exposure and says how confident it is. Select a country to open its dossier.</p>
+    </div>
+    <div class="risk-tools">
+      <div class="seg" role="group" aria-label="Risk model" id="risk-model">
+        <button type="button" data-m="v2" aria-pressed="true">Depth Index</button>
+        <button type="button" data-m="v1" aria-pressed="false">Surface Index</button>
+      </div>
+      <p class="hint" id="risk-model-note"></p>
     </div>
     <div class="risk-grid">
       <div class="table-wrap"><table class="data risk-table" id="risk-table"></table></div>
@@ -79,6 +168,15 @@
     </div>
   </section>
 
+  <section aria-labelledby="pillar-title">
+    <div class="section-head"><h2 id="pillar-title">Soundings</h2><p class="hint">Six-part risk profiles: each country's score in six areas, 0 to 100, for the 15 highest-rated countries. Select a row to open its dossier.</p></div>
+    <div class="table-wrap"><table class="pillar-map" id="pillar-map"></table></div>
+  </section>
+  <section aria-labelledby="track-title">
+    <div class="section-head"><h2 id="track-title">Logbook</h2><p class="hint">The track record. Does a High or Severe rating come before trouble? Fathom checks every stored day against the week that followed.</p></div>
+    <div id="track"></div>
+  </section>
+  <div class="view-grid">
   <section aria-labelledby="choke-title">
     <div class="section-head">
       <h2 id="choke-title">Chokepoint watch</h2>
@@ -95,6 +193,7 @@
     <div class="pulse-grid" id="pulse"></div>
   </section>
 
+  </div>
   <section aria-labelledby="matrix-title">
     <div class="section-head">
       <h2 id="matrix-title">Region and theme, this week</h2>
@@ -103,8 +202,12 @@
     <div class="matrix-scroll"><table class="matrix" id="matrix"></table></div>
   </section>
 
+</div>
+
+<div class="view" data-view="news" hidden>
   <section id="news" aria-labelledby="news-title" class="anchor">
     <div class="section-head">
+      <p class="kicker">World Desk</p>
       <h2 id="news-title">News</h2>
       <p class="hint" id="feed-count"></p>
     </div>
@@ -144,8 +247,12 @@
     </div>
   </section>
 
+</div>
+
+<div class="view" data-view="sanctions" hidden>
   <section id="sanctions" aria-labelledby="sanc-title" class="anchor">
     <div class="section-head">
+      <p class="kicker">World Desk</p>
       <h2 id="sanc-title">Sanctions</h2>
       <p class="hint">New listings and sanctioned vessels from US, UK, EU and other lists, via OpenSanctions.</p>
     </div>
@@ -178,9 +285,13 @@
     </div>
   </section>
 
+</div>
+
+<div class="view" data-view="energy" hidden>
   <section id="energy" aria-labelledby="energy-title" class="anchor">
     <div class="section-head with-control">
       <div>
+        <p class="kicker">World Desk</p>
         <h2 id="energy-title">Energy prices</h2>
         <p class="hint">Daily spot prices from the US EIA. Hover for exact values.</p>
       </div>
@@ -193,25 +304,218 @@
     <div class="energy-grid" id="energy-charts"></div>
   </section>
 
+</div>
+
+<div class="view" data-view="home" hidden>
+  <section id="uk" aria-labelledby="uk-title" class="anchor uk-wing">
+    <div class="section-head">
+      <p class="kicker">Home Desk</p>
+      <h2 id="uk-title">How the UK is responding</h2>
+      <p class="hint">How Whitehall and Westminster are responding to what the World Desk is tracking. From GOV.UK, legislation.gov.uk and Hansard, tagged with the same countries and themes as the news.</p>
+      <p class="preview-note" id="uk-preview" hidden></p>
+    </div>
+    <div class="kpis" id="uk-kpis"></div>
+    <div class="uk-body">
+      <h3 class="mini-title">Global story against Westminster attention</h3>
+      <ul class="legend"><li><span class="dot global"></span>Share of global coverage</li><li><span class="dot wm"></span>Share of Westminster attention</li></ul>
+      <div class="attention" id="uk-attention"></div>
+      <p class="hint" id="uk-att-note"></p>
+      <div class="uk-timeline-wrap" id="uk-timeline-wrap">
+        <div class="uk-feed-head">
+          <h3 class="mini-title">Response timeline</h3>
+          <label class="select-label" for="tl-country">Country <select id="tl-country"></select></label>
+        </div>
+        <ul class="legend"><li><span class="dot global"></span>Stories per day naming the country</li><li><span class="diamond"></span>UK action</li></ul>
+        <div class="timeline" id="uk-timeline"></div>
+        <p class="hint" id="tl-note"></p>
+      </div>
+      <div class="two-col uk-cols">
+        <div>
+          <div class="uk-feed-head">
+            <h3 class="mini-title">Whitehall feed <span class="count" id="uk-feed-count"></span></h3>
+            <div class="seg" role="group" aria-label="Filter Whitehall feed" id="uk-filter">
+              <button type="button" data-g="all" aria-pressed="true">All</button>
+              <button type="button" data-g="sanctions">Sanctions</button>
+              <button type="button" data-g="statements">Statements</button>
+              <button type="button" data-g="travel">Travel advice</button>
+            </div>
+          </div>
+          <ol class="feed-list" id="uk-feed"></ol>
+        </div>
+        <div>
+          <h3 class="mini-title">New sanctions law</h3>
+          <ol class="dossier-stories uk-laws" id="uk-laws"></ol>
+          <h3 class="mini-title" id="uk-speech-title">In Parliament</h3>
+          <ol class="speeches" id="uk-speeches"></ol>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<div class="view" data-view="politics" hidden>
+  <section aria-labelledby="pol-title" class="home-head">
+    <div class="section-head">
+      <p class="kicker">Home Desk</p>
+      <h2 id="pol-title">Politics and elections</h2>
+      <p class="hint">The state of the parties, every upcoming council election and by-election, what Westminster is arguing about, and what the public is petitioning for.</p>
+      <p class="preview-note home-preview" hidden></p>
+    </div>
+    <div class="kpis" id="pol-kpis"></div>
+  </section>
+  <div class="view-grid">
+    <section aria-labelledby="seats-title">
+      <div class="section-head"><h2 id="seats-title">House of Commons</h2><p class="hint" id="seats-note">Seats held by each party today.</p></div>
+      <div class="hemicycle" id="hemicycle"></div>
+      <ul class="party-legend" id="party-legend"></ul>
+    </section>
+    <section aria-labelledby="attn-title">
+      <div class="section-head"><h2 id="attn-title">Party attention</h2><p class="hint">How often each party is named in political coverage over the last 7 days. Party-aligned sites are excluded so they don't inflate their own side.</p></div>
+      <ol class="pbars" id="party-attn"></ol>
+      <h3 class="mini-title">What Westminster is talking about</h3>
+      <ol class="bars" id="pol-topics"></ol>
+    </section>
+  </div>
+  <div class="view-grid">
+    <section aria-labelledby="elec-title">
+      <div class="section-head with-control">
+        <div><h2 id="elec-title">Election calendar</h2><p class="hint" id="elec-note">Upcoming council elections and by-elections, from Democracy Club.</p></div>
+      </div>
+      <ol class="elec-list" id="elec-list"></ol>
+      <button type="button" class="btn more" id="elec-more" hidden>Show all</button>
+    </section>
+    <section aria-labelledby="pet-title">
+      <div class="section-head"><h2 id="pet-title">Top petitions</h2><p class="hint">The most-signed open petitions to Parliament. Government responds at 10,000 signatures; Parliament considers a debate at 100,000.</p></div>
+      <ol class="petitions" id="petitions"></ol>
+    </section>
+  </div>
+  <section aria-labelledby="wf-title">
+    <div class="section-head with-control">
+      <div><h2 id="wf-title">Westminster feed</h2><p class="hint" id="wf-count"></p></div>
+      <div class="seg" role="group" aria-label="Filter Westminster feed" id="wf-filter">
+        <button type="button" data-g="all" aria-pressed="true">All</button>
+        <button type="button" data-g="News">News</button>
+        <button type="button" data-g="Party voices">Party voices</button>
+        <button type="button" data-g="Analysis">Analysis</button>
+      </div>
+    </div>
+    <div class="two-col">
+      <ol class="feed-list" id="wf-list"></ol>
+      <div>
+        <h3 class="mini-title">New from the Commons Library</h3>
+        <ol class="dossier-stories" id="library"></ol>
+      </div>
+    </div>
+  </section>
+</div>
+
+<div class="view" data-view="tax" hidden>
+  <section aria-labelledby="tax-title" class="home-head tax-head">
+    <div class="tax-hero">
+      <div class="section-head">
+        <p class="kicker">Home Desk</p>
+        <h2 id="tax-title">Tax and the economy</h2>
+        <p class="hint">Budget timing, the headline numbers the Chancellor is working with, and every new tax announcement and analysis.</p>
+        <p class="preview-note home-preview" hidden></p>
+      </div>
+      <div class="countdown" id="countdown"></div>
+    </div>
+    <div class="indicators" id="indicators"></div>
+  </section>
+  <div class="view-grid tax-grid">
+    <section aria-labelledby="tf-title">
+      <div class="section-head with-control">
+        <div><h2 id="tf-title">Tax and fiscal feed</h2><p class="hint" id="tf-count"></p></div>
+        <div class="seg" role="group" aria-label="Filter tax feed" id="tf-filter">
+          <button type="button" data-g="all" aria-pressed="true">All</button>
+          <button type="button" data-g="Government">HMRC &amp; Treasury</button>
+          <button type="button" data-g="Tax and fiscal">Watchdogs &amp; think tanks</button>
+          <button type="button" data-g="Economy news">News</button>
+        </div>
+      </div>
+      <ol class="feed-list" id="tf-list"></ol>
+    </section>
+    <section aria-labelledby="ti-title">
+      <div class="section-head"><h2 id="ti-title">Tax issues in play</h2><p class="hint">Taxes named in political, economic and fiscal coverage over the last 14 days.</p></div>
+      <ol class="bars" id="tax-issues"></ol>
+      <h3 class="mini-title">Coming up</h3>
+      <ol class="dates" id="key-dates"></ol>
+    </section>
+  </div>
+</div>
+
+<div class="view" data-view="weekly" hidden>
+  <section aria-labelledby="wk-title" class="weekly-head">
+    <div class="section-head with-control">
+      <div>
+        <p class="kicker">Fathom weekly</p>
+        <h2 id="wk-title">The week in risk</h2>
+        <p class="hint" id="wk-period"></p>
+      </div>
+      <div class="wk-actions">
+        <button type="button" class="btn" id="wk-copy">Copy as text</button>
+      </div>
+    </div>
+    <p class="wk-note" id="wk-note" hidden></p>
+    <textarea id="wk-text" class="wk-text" rows="10" readonly hidden aria-label="Weekly summary as plain text"></textarea>
+  </section>
+  <div class="view-grid">
+    <section class="wk-desk world" aria-labelledby="wk-world-title">
+      <div class="section-head"><p class="kicker kicker-world">World Desk</p><h2 id="wk-world-title">Around the world</h2></div>
+      <ol class="wk-list" id="wk-world"></ol>
+    </section>
+    <section class="wk-desk home" aria-labelledby="wk-home-title">
+      <div class="section-head"><p class="kicker kicker-home">Home Desk</p><h2 id="wk-home-title">At home</h2></div>
+      <ol class="wk-list" id="wk-home"></ol>
+    </section>
+  </div>
+  <section aria-labelledby="wk-head-title">
+    <div class="section-head"><h2 id="wk-head-title">Headlines of the week</h2><p class="hint">One story per source from each desk, for a quick read.</p></div>
+    <div class="two-col even">
+      <ol class="dossier-stories" id="wk-heads-world"></ol>
+      <ol class="dossier-stories" id="wk-heads-home"></ol>
+    </div>
+  </section>
+</div>
+
+<div class="view" data-view="method" hidden>
   <section id="method" aria-labelledby="method-title" class="anchor">
     <div class="section-head">
+      <p class="kicker">About Fathom</p>
       <h2 id="method-title">Method</h2>
-      <p class="hint">How SITREP collects, tags and scores the data.</p>
+      <p class="hint">How Fathom collects, tags and scores the data.</p>
     </div>
+    <figure class="pipes" aria-label="How the two pipelines fit together">
+      <div class="pipe">
+        <p class="pipe-name">World Desk</p>
+        <ol><li>35 news and research feeds</li><li>OpenSanctions and US EIA</li></ol>
+      </div>
+      <div class="pipe">
+        <p class="pipe-name">Home Desk</p>
+        <ol><li>GOV.UK, legislation.gov.uk, Hansard</li><li>Commons seats, petitions, Democracy Club</li><li>15 politics, tax and economy feeds; ONS and Bank of England</li></ol>
+      </div>
+      <div class="pipe-join"><span>One tagger</span>The same country and theme rules tag both</div>
+      <div class="pipe-out"><span>Linked views</span>Response table, country dossiers, Whitehall feed</div>
+    </figure>
     <div class="method">
       <div>
         <h3>Collection</h3>
         <p>Every three hours the collector reads 35 news and research feeds, trying a backup address if a publisher blocks the main one. It removes duplicate stories by link and by headline, and keeps 14 days of history. Sanctions and energy data refresh once a day.</p>
+        <h3>Home Desk</h3>
+        <p>Once a day the Home Desk reads the latest GOV.UK publications from eight departments, this year's sanctions and export control laws, and Hansard. For each of the week's most covered countries it counts spoken contributions in Parliament over the last 30 days. Comparing that share with the country's share of global coverage shows where Westminster is ahead of the news, and where it is quiet.</p>
         <h3>Tagging</h3>
         <p>Each story is matched against more than 250 theme keywords and 500 country, capital and leader names. Headline matches count double. Short acronyms such as US, UK and EU only match in capitals, so the word “us” is never read as the United States.</p>
       </div>
       <div>
         <h3>Signals</h3>
-        <p>For every theme, region and country, SITREP compares the last 24 hours with the average day over the previous 13. A signal needs at least 3 stories and is ranked by the ratio (24-hour count + 1) ÷ (baseline + 1), which stops tiny numbers from producing huge ratios.</p>
-        <h3>Risk index</h3>
-        <p>A 0–100 score for each country, built from three parts:</p>
+        <p>For every theme, region and country, Fathom compares the last 24 hours with the average day over the previous 13. A signal needs at least 3 stories and is ranked by the ratio (24-hour count + 1) ÷ (baseline + 1), which stops tiny numbers from producing huge ratios.</p>
+        <h3>Fathom Depth Index</h3>
+        <p>A 0–100 score for each country, built from <span id="method-model">four parts</span>. Each part is scored 0 to 1, then weighted:</p>
         <ul class="weights" id="weights"></ul>
-        <p>Bands: Low under 25, Guarded 25–44, Elevated 45–64, High 65–79, Severe 80 and over. The index measures attention and activity in open sources. It is not a forecast.</p>
+        <p>Bands: Low under 25, Guarded 25–44, Elevated 45–64, High 65–79, Severe 80 and over.</p>
+        <p>The <b>Surface Index</b>, Fathom's original score, is kept for comparison. It reads only how much coverage a country gets. <b>Soundings</b> break each country into six areas, <b>Swell warnings</b> flag scores climbing fast for three days, <b>Currents</b> group the same story from many outlets into one event, and the <b>Logbook</b> tests ratings against what happened next.</p>
+        <p>Confidence is High when at least 10 independent sources cover the country and a month of baseline exists, Medium with fewer sources or a shorter baseline, and Low otherwise. Fathom stores a daily history of up to 120 days, so baselines strengthen over time. The index measures risk signals in open sources. It is not a forecast.</p>
       </div>
     </div>
   </section>
@@ -223,11 +527,13 @@
     </div>
     <div class="table-wrap"><table class="data" id="status"></table></div>
   </section>
-</main>
-
-<footer class="wrap footer">
-  <p>Built by Evan Coles. Headlines link to their original publishers. Sanctions data from OpenSanctions (CC BY-NC 4.0), energy data from the US EIA, map from Natural Earth.</p>
+<footer class="footer">
+  <p>Fathom is built and maintained by Evan Coles. Headlines link to their original publishers. Sanctions data from OpenSanctions (CC BY-NC 4.0), energy data from the US EIA, map from Natural Earth. UK data from GOV.UK, legislation.gov.uk and Hansard under the Open Government and Open Parliament Licences.</p>
 </footer>
+</div>
+</main>
+</div>
+</div>
 
 <div id="scrim" class="scrim" hidden></div>
 <aside id="dossier" class="dossier" role="dialog" aria-modal="true" aria-labelledby="dossier-title" hidden>
@@ -236,15 +542,30 @@
       <p class="dossier-kicker" id="dossier-region"></p>
       <h2 id="dossier-title"></h2>
     </div>
-    <button type="button" class="close" id="dossier-close" aria-label="Close dossier">×</button>
+    <div class="dossier-actions">
+      <button type="button" class="d-btn" id="dossier-watch" aria-pressed="false">&#9734; Watch</button>
+      <button type="button" class="d-btn" id="dossier-link">Copy link</button>
+      <button type="button" class="close" id="dossier-close" aria-label="Close dossier">×</button>
+    </div>
   </div>
+  <p class="dossier-link-note" id="dossier-link-note" hidden></p>
   <div class="dossier-body" id="dossier-body"></div>
 </aside>
+
+<div id="finder" class="finder" role="dialog" aria-modal="true" aria-label="Search Fathom" hidden>
+  <div class="finder-box">
+    <label for="finder-q" class="finder-label">Search countries, stories and UK documents</label>
+    <input id="finder-q" type="search" autocomplete="off" spellcheck="false" placeholder="Try Russia, tanker or OFSI" role="combobox" aria-expanded="true" aria-controls="finder-results">
+    <ul id="finder-results" class="finder-results" role="listbox"></ul>
+    <p class="finder-foot"><kbd>&uarr;</kbd><kbd>&darr;</kbd> move <kbd>Enter</kbd> open <kbd>Esc</kbd> close</p>
+  </div>
+</div>
 
 <div id="tip" class="tip" role="tooltip" hidden></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+<script src="risk.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
