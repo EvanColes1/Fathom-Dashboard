@@ -1,39 +1,39 @@
 {
- "updated": "2026-10-12T20:50:24.825669+00:00",
+ "updated": "2026-10-12T20:54:45.854802+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 0,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 10,
+   "new": 0,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 7,
+   "new": 0,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -47,70 +47,70 @@
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 22,
+   "new": 0,
    "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 34,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 0,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Americas Quarterly",
    "group": "Regional",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": "via backup feed"
   },
   {
    "name": "Crisis Group",
    "group": "Think tank",
    "ok": true,
-   "new": 9,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 23,
+   "new": 0,
    "note": "via backup feed"
   },
   {
    "name": "RUSI",
    "group": "Think tank",
    "ok": true,
-   "new": 9,
+   "new": 0,
    "note": ""
   },
   {
@@ -124,84 +124,84 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 32,
+   "new": 0,
    "note": "via backup feed"
   },
   {
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 15,
+   "new": 0,
    "note": "via backup feed"
   },
   {
    "name": "Atlantic Council",
    "group": "Think tank",
    "ok": true,
-   "new": 53,
+   "new": 0,
    "note": ""
   },
   {
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 22,
+   "new": 0,
    "note": ""
   },
   {
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 27,
+   "new": 0,
    "note": ""
   },
   {
    "name": "UK Financial Sanctions (OFSI)",
    "group": "Sanctions",
    "ok": true,
-   "new": 6,
+   "new": 0,
    "note": ""
   },
   {
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 20,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Carbon Brief",
    "group": "Energy",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 7,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Splash247",
    "group": "Maritime",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 25,
+   "new": 0,
    "note": ""
   },
   {
@@ -215,35 +215,35 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 45,
+   "new": 0,
    "note": "via backup feed"
   },
   {
    "name": "Migration Policy Institute",
    "group": "Migration",
    "ok": true,
-   "new": 12,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Arms Control Association",
    "group": "Nuclear",
    "ok": true,
-   "new": 7,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Bulletin of the Atomic Scientists",
    "group": "Nuclear",
    "ok": true,
-   "new": 7,
+   "new": 0,
    "note": "via backup feed"
   },
   {
    "name": "IAEA News",
    "group": "Nuclear",
    "ok": true,
-   "new": 11,
+   "new": 0,
    "note": ""
   }
  ],
