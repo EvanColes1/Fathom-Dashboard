@@ -1,46 +1,46 @@
 {
- "updated": "2026-10-12T18:41:55.321055+00:00",
+ "updated": "2026-10-12T20:50:24.825669+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 16,
+   "new": 8,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 9,
+   "new": 10,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 7,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -61,28 +61,28 @@
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 24,
+   "new": 22,
    "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 32,
+   "new": 34,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 7,
+   "new": 6,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 4,
+   "new": 1,
    "note": ""
   },
   {
@@ -103,7 +103,7 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 21,
+   "new": 23,
    "note": "via backup feed"
   },
   {
@@ -131,28 +131,28 @@
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 14,
+   "new": 15,
    "note": "via backup feed"
   },
   {
    "name": "Atlantic Council",
    "group": "Think tank",
    "ok": true,
-   "new": 54,
+   "new": 53,
    "note": ""
   },
   {
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 23,
+   "new": 22,
    "note": ""
   },
   {
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 28,
+   "new": 27,
    "note": ""
   },
   {
@@ -166,7 +166,7 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 6,
+   "new": 2,
    "note": ""
   },
   {
@@ -187,35 +187,35 @@
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 3,
+   "new": 7,
    "note": ""
   },
   {
    "name": "Splash247",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 19,
+   "new": 25,
    "note": ""
   },
   {
    "name": "The Record",
    "group": "Cyber",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 47,
+   "new": 45,
    "note": "via backup feed"
   },
   {
@@ -229,7 +229,7 @@
    "name": "Arms Control Association",
    "group": "Nuclear",
    "ok": true,
-   "new": 9,
+   "new": 7,
    "note": ""
   },
   {
@@ -255,6 +255,16 @@
   },
   {
    "name": "energy",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "name": "uk",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "name": "home",
    "ok": true,
    "note": ""
   }
