@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T05:58:15.108999+00:00",
+ "updated": "2026-10-13T06:48:46.092933+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-13T05:58:15.108999+00:00",
+   "published": "2026-10-13T06:48:46.092933+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,9 +20,27 @@
    "countries": []
   },
   {
+   "id": "bab49791774771c5",
+   "title": "Ministers often care about their ‘legacy’ – it turns out they should all be more worried about what they inherit",
+   "summary": "John Healey has inherited a far darker economic prospect from the ‘previous Government’, this time one he himself was part of – right up until he resigned because the then PM and the Chancellor weren’t taking defence spending seriously. It's an inherited economy struggling under the burdens his own…",
+   "url": "https://conservativehome.com/2026/10/13/ministers-often-care-about-their-legacy-it-turns-out-they-should-all-be-more-worried-about-what-they-inherit/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-13T06:00:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "7e140eef757fe345",
-   "title": "UK growth upgraded but energy prices and rates to bite in 2027",
-   "summary": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+   "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+   "summary": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
    "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
@@ -4739,7 +4757,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -4753,14 +4771,14 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -5351,7 +5369,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129146,
+   "signatures": 129152,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -5360,7 +5378,7 @@
   {
    "id": 764268,
    "title": "Protect legal right to support for children with SEND",
-   "signatures": 116099,
+   "signatures": 116108,
    "created": "2026-03-13T19:29:47.335Z",
    "responded": true,
    "debate": true,
@@ -5369,7 +5387,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 112824,
+   "signatures": 112875,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -5396,7 +5414,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 82961,
+   "signatures": 82983,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -5405,7 +5423,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 77215,
+   "signatures": 77286,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": false,
    "debate": false,
@@ -5414,7 +5432,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 69455,
+   "signatures": 69515,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -5423,7 +5441,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 60778,
+   "signatures": 60781,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -5441,7 +5459,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 48747,
+   "signatures": 48753,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -5450,7 +5468,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 41688,
+   "signatures": 41706,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
