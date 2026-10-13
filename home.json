@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T09:39:20.839971+00:00",
+ "updated": "2026-10-13T12:48:43.609823+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,401 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-13T09:39:20.839971+00:00",
+   "published": "2026-10-13T12:48:43.609823+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1bf82dd84362dfb8",
+   "title": "‘Back Burnham over Brexit’",
+   "summary": "The Prime Minister has chosen to begin this week on a firm footing, by doubling down against Brexiteers… The post ‘Back Burnham over Brexit’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/back-burnham-over-brexit/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-13T12:45:49+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4ea91bad0674bc41",
+   "title": "Fly-tipping: The illegal dumping of waste",
+   "summary": "Fly-tipping rose 9% from 2023/24 to 2024/25. The government is proposing various measures to reduce the problem.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn05672/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-13T12:37:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b95819a61e475b6b",
+   "title": "Transitional guidance for VAT specified supplies",
+   "summary": "Find out about the transitional guidance on VAT treatment of transactions of specified supplies of finance and insurance services.",
+   "url": "https://www.gov.uk/guidance/transitional-guidance-for-vat-specified-supplies",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-13T12:35:25Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "VAT"
+   ],
+   "countries": []
+  },
+  {
+   "id": "ebf253523800b18e",
+   "title": "MI5 chief Ken McCallum confirms Russia did interfere in Brexit referendum but says it had little impact – UK politics live",
+   "summary": "He argued there was no evidence to suggest the result of the Brexit vote had been swayed as a result of the effort Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU Zia Yusuf , Reform UK’s home affairs spokesperson, has said he does not agree with his colleague Suella…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T12:32:06+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Reform UK"
+   ],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "1fb2a5fa59d6783e",
+   "title": "Welsh government and Labour strike budget deal with £60m for additional learning needs",
+   "summary": "The Plaid Cymru-led administration had failed to pass its spending plans during the summer.",
+   "url": "https://www.bbc.co.uk/news/articles/c6pqg7n9l312o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T12:29:36+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Plaid Cymru"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3c955476371f7f0f",
+   "title": "Car finance compensation payments delayed until next year",
+   "summary": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+   "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T12:27:36+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0088a993d187ab70",
+   "title": "Poundland in rescue talks as owners seek buyer",
+   "summary": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T12:17:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "eb429ab977372dc7",
+   "title": "Reform falls to third place in the polls as Tories feel Badenoch bounce",
+   "summary": "Reform UK has been declining in the polls in recent months following ongoing turbulence for the party",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-polls-conservatives-kemi-badenoch-farage-b3065664.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T12:12:03+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative",
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d6d4853b8f487890",
+   "title": "AI could give terrorists access to bioweapons if guardrails fail – MI5 chief",
+   "summary": "Sir Ken McCallum gave his annual speech on threats to the UK at Thames House on Tuesday.",
+   "url": "https://www.independent.co.uk/news/uk/politics/mi5-national-cyber-security-centre-national-crime-agency-ukraine-ann-widdecombe-b3065877.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T12:10:36+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7e3dd004c634110b",
+   "title": "Donna Jones: We cannot keep missing the early chances to keep vulnerable children safe",
+   "summary": "We welcome the Government’s aim of spotting needs sooner and building up support in mainstream schools, and the additional funding that comes with it. But more money for mainstream settings will not, on its own, meet the needs of children with the most complex conditions. The post Donna Jones: We…",
+   "url": "https://conservativehome.com/2026/10/13/donna-jones-we-cannot-keep-missing-the-early-chances-to-keep-vulnerable-children-safe/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-13T12:00:18+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5dbf14be7f72a5ff",
+   "title": "Rightwing extremists increasingly likely to consider terrorist attacks, MI5 chief says",
+   "summary": "Move from anti-immigration or anti-Muslim views to violence is ‘most marked trend’ in spy agency’s caseload over last year Extremists holding anti-immigration opinions are becoming increasingly likely to consider carrying out terrorist attacks against immigration centres and asylum hotels in the…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/13/rightwing-extremists-increasingly-likely-to-consider-terrorist-attacks-mi5-chief-says",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T12:00:14+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cf791c9100d1c4d2",
+   "title": "Three things we've learnt about the UK economy from the IMF",
+   "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+   "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T11:58:43+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "a3069a901d415151",
+   "title": "BA flight forced to turn back over cracked window",
+   "summary": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
+   "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T11:48:07+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fe8ad7f07a7e8cf6",
+   "title": "F1 champion Norris revs up with stake in premium tickets platform Seat Unique",
+   "summary": "Lando Norris, the reigning Formula One world champion, has become the latest sports star to join the illustrious share register of Seat Unique, the premium ticketing and hospitality platform.",
+   "url": "https://news.sky.com/story/f1-champion-norris-revs-up-with-stake-in-premium-tickets-platform-seat-unique-13598789",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T10:40:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "65fda6c5f899b2d5",
+   "title": "Pro-Palestine Greens call for former leader Caroline Lucas to be ousted over ‘Zionism is racism’ motion criticism",
+   "summary": "The former party leader has been a vocal critic of the controversial motion passed last week",
+   "url": "https://www.independent.co.uk/news/uk/politics/caroline-lucas-green-party-zionism-racism-palestine-b3065716.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T10:33:50+00:00",
+   "dateonly": false,
+   "parties": [
+    "Green Party"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "db022e9c64466c3f",
+   "title": "Pay the VAT due on your One Stop Shop VAT Return",
+   "summary": "How to pay the VAT due on your One Stop Shop VAT (OSS) Return and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-the-vat-due-on-your-one-stop-shop-vat-return",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-13T10:29:52Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [
+    "VAT"
+   ],
+   "countries": []
+  },
+  {
+   "id": "4072cb1d13a2d534",
+   "title": "Andy Burnham will be the man to take Britain back into the EU, Neil Kinnock says",
+   "summary": "Former Labour leader says it’s ‘obvious’ the prime minister is hoping to rejoin the bloc",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-uk-rejoin-eu-brexit-neil-kinnock-b3065755.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T10:28:54+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7a78699205918519",
+   "title": "Pay Alcohol Duty",
+   "summary": "How to pay Alcohol Duty if you are an approved alcoholic products producer, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-alcohol-duty",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-13T10:28:48Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [
+    "Fuel and duties"
+   ],
+   "countries": []
+  },
+  {
+   "id": "711691a152c43546",
+   "title": "AI driving economic growth spurt in UK, new report shows",
+   "summary": "Prime Minister Andy Burnham is also now expected to see UK economic growth slow down next year, according to fresh forecasts",
+   "url": "https://www.independent.co.uk/news/uk/politics/uk-households-inflation-imf-burnham-healey-b3065391.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T10:15:40+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0d020eda3e865447",
+   "title": "Andrew Gilligan: Mercy, please and mark my words – fewer media hungry ministers in a future Tory team would be a blessing",
+   "summary": "The lesson is clear: a little like the armed forces, you can survive in politics only as a team, not as individuals. Mercer and Francois, despite both having served in the Army, forgot this. The importance of discipline does, thankfully, appear to have been learned by the diminished remnants of the…",
+   "url": "https://conservativehome.com/2026/10/13/andrew-gilligan-mercy-please-and-mark-my-words-fewer-media-hungry-ministers-in-a-future-tory-team-would-be-a-blessing/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-13T10:00:35+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1ace804503660064",
+   "title": "Check if a business is registered for money laundering supervision",
+   "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
+   "url": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-13T09:58:20Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a419b72b1077d921",
+   "title": "Elton John and Ian McKellen lead backlash over Braverman’s call to crack down on gay asylum seekers",
+   "summary": "Rocket Man issues rocket for home secretary as senior Tories warn Sunak: ‘Suella has lost us millions of pink votes’",
+   "url": "https://www.independent.co.uk/news/uk/politics/suella-braverman-speech-elton-john-b2419100.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T09:46:50+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Immigration"
    ],
    "tax": [],
    "countries": []
@@ -71,26 +461,6 @@
     "Reform UK"
    ],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ebf253523800b18e",
-   "title": "Andy Burnham will take Britain back into European Union, Neil Kinnock claims – UK politics live",
-   "summary": "Former Labour leader says he believes the prime minister has an ‘authentic commitment’ to taking the UK back into the EU Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU Andy Burnham has been warned that progress on beefing up ethical standards in public life is “stalling”.…",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T09:18:18+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership",
-    "Europe"
-   ],
    "tax": [],
    "countries": []
   },
@@ -180,6 +550,21 @@
    "countries": []
   },
   {
+   "id": "a1a57fc4c3dd255c",
+   "title": "Former CBI chair Soames handed lobby group £750,000 loan",
+   "summary": "The former head of the CBI has handed the business lobby group a six-figure loan as it continues to cut its cost base following the scandal which brought it to the brink of collapse in 2023.",
+   "url": "https://news.sky.com/story/former-cbi-chair-soames-handed-lobby-group-750000-loan-13598749",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T08:56:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "6676c3ee7afd4511",
    "title": "IMF raises UK growth forecast as economist says Healey should ‘stay the course’",
    "summary": "Fund upgrades UK’s GDP growth forecast for 2026 to 1.3%, but says it is likely to edge down next year IMF warns global economy ‘could soon test the limits of resilience’ John Healey should “stay the course” and continue repairing the UK’s public finances, the International Monetary Fund’s top…",
@@ -225,24 +610,6 @@
    "party_voice": "",
    "published": "2026-10-13T07:34:16Z",
    "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "eb429ab977372dc7",
-   "title": "Reform falls to third place in the polls as Tories feel Badenoch bounce",
-   "summary": "Reform UK has been declining in the polls in recent months following ongoing turbulence for the party",
-   "url": "https://www.independent.co.uk/news/uk/politics/reform-polls-conservatives-kemi-badenoch-farage-b3065664.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T07:32:57+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative",
-    "Reform UK"
-   ],
    "topics": [],
    "tax": [],
    "countries": []
@@ -318,7 +685,7 @@
   },
   {
    "id": "8ec290b0354d67f1",
-   "title": "Cost-of-living struggles inspire Community Cupboard",
+   "title": "Cost of living struggles inspire 'social supermarket'",
    "summary": "New social supermarket offers cheaper groceries with dignity and choice.",
    "url": "https://www.bbc.co.uk/news/articles/cq4g1enm58npo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -327,7 +694,9 @@
    "published": "2026-10-13T05:32:23+00:00",
    "dateonly": false,
    "parties": [],
-   "topics": [],
+   "topics": [
+    "Economy"
+   ],
    "tax": [],
    "countries": []
   },
@@ -440,28 +809,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "711691a152c43546",
-   "title": "UK households to face sharper rise in inflation than previously thought, IMF warns",
-   "summary": "Prime Minister Andy Burnham is also now expected to see UK economic growth slow down next year, according to fresh forecasts",
-   "url": "https://www.independent.co.uk/news/uk/politics/uk-households-inflation-imf-burnham-healey-b3065391.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T02:00:00+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Economy",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": [
-    "IMF / World Bank"
-   ]
   },
   {
    "id": "f89ae431d31769c2",
@@ -4322,26 +4669,6 @@
    "countries": []
   },
   {
-   "id": "8d9ad45ca73071e8",
-   "title": "Andy Burnham: Northern PM's long journey to power",
-   "summary": "The former mayor of Greater Manchester has had designs on the top job since 2010 when he first ran to be Labour leader.",
-   "url": "https://www.bbc.co.uk/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-09-29T10:15:52+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "11cd50a6775bd720",
    "title": "What happens next if power sharing at Stormont collapses over Drumcree?",
    "summary": "Conor J. Kelly and Colin Murray discuss what would happen next if one of the major parties pulled out of the Stormont... The post What happens next if power sharing at Stormont collapses over Drumcree? appeared first on UK in a changing Europe .",
@@ -5002,14 +5329,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 1,
    "note": ""
   },
   {
@@ -5023,35 +5350,35 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 4,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": false,
-   "new": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
+   "ok": true,
+   "new": 2,
+   "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -5072,7 +5399,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -5086,7 +5413,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -5118,110 +5445,7 @@
    "note": ""
   }
  ],
- "parties": [
-  {
-   "name": "Labour",
-   "abbr": "Lab",
-   "colour": "#d50000",
-   "seats": 404
-  },
-  {
-   "name": "Conservative",
-   "abbr": "Con",
-   "colour": "#0063ba",
-   "seats": 118
-  },
-  {
-   "name": "Liberal Democrat",
-   "abbr": "LD",
-   "colour": "#fc7d0b",
-   "seats": 71
-  },
-  {
-   "name": "Independent",
-   "abbr": "Ind",
-   "colour": "#909090",
-   "seats": 11
-  },
-  {
-   "name": "Reform UK",
-   "abbr": "RUK",
-   "colour": "#12b6cf",
-   "seats": 8
-  },
-  {
-   "name": "Scottish National Party",
-   "abbr": "SNP",
-   "colour": "#fff685",
-   "seats": 8
-  },
-  {
-   "name": "Sinn Féin",
-   "abbr": "SF",
-   "colour": "#02665f",
-   "seats": 7
-  },
-  {
-   "name": "Democratic Unionist Party",
-   "abbr": "DUP",
-   "colour": "#d46a4c",
-   "seats": 5
-  },
-  {
-   "name": "Green Party",
-   "abbr": "Green",
-   "colour": "#78b82a",
-   "seats": 5
-  },
-  {
-   "name": "Plaid Cymru",
-   "abbr": "PC",
-   "colour": "#348837",
-   "seats": 4
-  },
-  {
-   "name": "Social Democratic & Labour Party",
-   "abbr": "SDLP",
-   "colour": "#4ea268",
-   "seats": 2
-  },
-  {
-   "name": "Your Party",
-   "abbr": "YP",
-   "colour": "#ff3131",
-   "seats": 2
-  },
-  {
-   "name": "Alliance",
-   "abbr": "APNI",
-   "colour": "#cdaf2d",
-   "seats": 1
-  },
-  {
-   "name": "Restore Britain",
-   "abbr": "RB",
-   "colour": "#8a96a0",
-   "seats": 1
-  },
-  {
-   "name": "Speaker",
-   "abbr": "Spk",
-   "colour": "#8a96a0",
-   "seats": 1
-  },
-  {
-   "name": "Traditional Unionist Voice",
-   "abbr": "TUV",
-   "colour": "#0c3a6a",
-   "seats": 1
-  },
-  {
-   "name": "Ulster Unionist Party",
-   "abbr": "UUP",
-   "colour": "#a1cdf0",
-   "seats": 1
-  }
- ],
+ "parties": [],
  "elections": [
   {
    "id": "local.stroud.2026-10-13",
@@ -5636,13 +5860,31 @@
    "level": "ballot",
    "by": true,
    "org": "Fareham Borough Council"
+  },
+  {
+   "id": "local.south-staffordshire.2026-11-19",
+   "title": "South Staffordshire local election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "organisation",
+   "by": false,
+   "org": "South Staffordshire Council"
+  },
+  {
+   "id": "local.south-staffordshire.huntington-hatherton.by.2026-11-19",
+   "title": "South Staffordshire local election Huntington & Hatherton by-election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "ballot",
+   "by": true,
+   "org": "South Staffordshire Council"
   }
  ],
  "petitions": [
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129181,
+   "signatures": 129217,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -5651,7 +5893,7 @@
   {
    "id": 764268,
    "title": "Protect legal right to support for children with SEND",
-   "signatures": 116204,
+   "signatures": 116319,
    "created": "2026-03-13T19:29:47.335Z",
    "responded": true,
    "debate": true,
@@ -5660,7 +5902,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 113061,
+   "signatures": 113195,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -5678,7 +5920,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 105986,
+   "signatures": 105992,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -5687,7 +5929,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83095,
+   "signatures": 83134,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -5696,16 +5938,16 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 77637,
+   "signatures": 77975,
    "created": "2026-08-23T11:46:16.594Z",
-   "responded": false,
+   "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/780269"
   },
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 69727,
+   "signatures": 69934,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -5714,7 +5956,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 60807,
+   "signatures": 60894,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -5723,7 +5965,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55269,
+   "signatures": 55274,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -5732,7 +5974,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 48778,
+   "signatures": 48802,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -5741,7 +5983,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 41756,
+   "signatures": 41816,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -6352,5 +6594,7 @@
    "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
   }
  ],
- "problems": []
+ "problems": [
+  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
+ ]
 }
