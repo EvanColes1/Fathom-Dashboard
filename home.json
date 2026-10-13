@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T06:48:46.092933+00:00",
+ "updated": "2026-10-13T09:39:20.839971+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,275 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-13T06:48:46.092933+00:00",
+   "published": "2026-10-13T09:39:20.839971+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7e140eef757fe345",
+   "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
+   "summary": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
+   "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T09:38:54+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Economy",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "5724c448c331e191",
+   "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
+   "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
+   "url": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T09:34:43+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "97edfc6f7a6a3d19",
+   "title": "Nigel Farage rows back on Jenrick’s claim that Reform would let Navy use ‘lethal force’ against migrants",
+   "summary": "Mr Jenrick had earlier on Monday claimed that a Reform government would let the Royal Marines use ‘lethal force’ against migrants crossing the Channel without permission",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-robert-jenrick-migrants-navy-nigel-farage-channel-b3065681.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T09:25:43+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ebf253523800b18e",
+   "title": "Andy Burnham will take Britain back into European Union, Neil Kinnock claims – UK politics live",
+   "summary": "Former Labour leader says he believes the prime minister has an ‘authentic commitment’ to taking the UK back into the EU Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU Andy Burnham has been warned that progress on beefing up ethical standards in public life is “stalling”.…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T09:18:18+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "22a7a1f00614d231",
+   "title": "UK import trade in goods by country of origin and country of dispatch 2025",
+   "summary": "This publication outlines and explains UK import trade by country of origin (CoO) for 2025, and makes comparisons with import trade by country of dispatch (CoD).",
+   "url": "https://www.gov.uk/government/statistics/announcements/uk-import-trade-in-goods-by-country-of-origin-and-country-of-dispatch-2025",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "official_statistics_announcement",
+   "party_voice": "",
+   "published": "2026-10-13T09:08:17Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "11b7a49387b62a0b",
+   "title": "More than 600,000 families conjure up Hallowe’en savings with Tax-Free Childcare",
+   "summary": "Working families urged to sign up to Tax-Free Childcare to save on their childcare costs.",
+   "url": "https://www.gov.uk/government/news/more-than-600000-families-conjure-up-halloween-savings-with-tax-free-childcare",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "press_release",
+   "party_voice": "",
+   "published": "2026-10-13T09:08:06Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f488eecb8d1d1d20",
+   "title": "Sign up for Making Tax Digital for Income Tax",
+   "summary": "If you're a sole trader or landlord, use the online service to sign up for Making Tax Digital for Income Tax.",
+   "url": "https://www.gov.uk/guidance/sign-up-for-making-tax-digital-for-income-tax",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-13T09:07:56Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Housing"
+   ],
+   "tax": [
+    "Income tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "fc162cb87c88743b",
+   "title": "Apply to make changes to your approval as an authorised excise warehousekeeper",
+   "summary": "Apply to HMRC to make changes to an approval for existing warehousekeepers.",
+   "url": "https://www.gov.uk/guidance/apply-to-add-remove-or-change-a-warehouse-as-an-authorised-excise-warehousekeeper",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-13T08:58:06Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "03bef1655289effb",
+   "title": "Farage denies Reform would let troops shoot small boats after Jenrick’s ‘lethal force’ claim",
+   "summary": "Party leader says Jenrick’s comments ‘misconstrued’, after MP said Royal Marines would be allowed to fire at those on boats UK politics live – latest updates Nigel Farage has denied that a Reform UK government would authorise lethal force against migrant crossings in the Channel, hours after one of…",
+   "url": "https://www.theguardian.com/politics/2026/oct/13/nigel-farage-reform-robert-jenrick-small-boats-royal-marines-lethal-force",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T08:56:16+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Party leadership",
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6676c3ee7afd4511",
+   "title": "IMF raises UK growth forecast as economist says Healey should ‘stay the course’",
+   "summary": "Fund upgrades UK’s GDP growth forecast for 2026 to 1.3%, but says it is likely to edge down next year IMF warns global economy ‘could soon test the limits of resilience’ John Healey should “stay the course” and continue repairing the UK’s public finances, the International Monetary Fund’s top…",
+   "url": "https://www.theguardian.com/business/2026/oct/13/john-healey-uk-finances-imf-gdp-growth-forecast-2026",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T07:58:56+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "78a9bbc945442a24",
+   "title": "Why are hundreds of prisoners being released early?",
+   "summary": "More people going to prison, and for longer, is why governments including the current one have had to release prisoners early.",
+   "url": "https://www.bbc.co.uk/news/articles/cp3rxlyz6w3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T07:55:58+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2788d808021611c3",
+   "title": "Find software suppliers for filing charities repayments online",
+   "summary": "Find recognised suppliers and software to file charity repayment claims online.",
+   "url": "https://www.gov.uk/government/publications/charities-online-commercial-software-suppliers",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-13T07:34:16Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "eb429ab977372dc7",
+   "title": "Reform falls to third place in the polls as Tories feel Badenoch bounce",
+   "summary": "Reform UK has been declining in the polls in recent months following ongoing turbulence for the party",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-polls-conservatives-kemi-badenoch-farage-b3065664.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T07:32:57+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative",
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a5ac4a897f26a24b",
+   "title": "One thing must now be clear to Andy Burnham. The rightwing press is on a war footing – and he’s the enemy | Jane Martinson",
+   "summary": "Farage was its champion, now it’s Badenoch – and the aim is the PM’s defeat at all costs While the merits of a so-called Britannia shield to protect Britain from missiles and drones are debatable, the Conservatives’ proposal did achieve one thing last week: the very idea of the shield was used to…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/13/andy-burnham-rightwing-press-nigel-farage-kemi-badenoch",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T07:00:18+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative",
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e1bfda075079fd48",
+   "title": "Grocery inflation ticks up again - as energy costs weigh on shoppers",
+   "summary": "A closely-watched measure of grocery inflation has ticked up for a second consecutive month amid fears of an energy-led surge ahead.",
+   "url": "https://news.sky.com/story/grocery-inflation-ticks-up-again-as-energy-costs-weigh-on-shoppers-13598268",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T07:00:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
    ],
    "tax": [],
    "countries": []
@@ -38,25 +302,19 @@
    "countries": []
   },
   {
-   "id": "7e140eef757fe345",
-   "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
-   "summary": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
-   "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "id": "36ffe3e49c73a288",
+   "title": "Chronic UTIs made MP 'feel like a drug user'",
+   "summary": "Dr Allison Gardner MP has been living with the \"searing pain\" of recurring infections for a decade.",
+   "url": "https://www.bbc.co.uk/news/articles/c6m2r5gyprmvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
-   "published": "2026-10-13T05:55:12+00:00",
+   "published": "2026-10-13T05:38:00+00:00",
    "dateonly": false,
    "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy",
-    "Party leadership"
-   ],
+   "topics": [],
    "tax": [],
-   "countries": [
-    "IMF / World Bank"
-   ]
+   "countries": []
   },
   {
    "id": "8ec290b0354d67f1",
@@ -207,8 +465,8 @@
   },
   {
    "id": "f89ae431d31769c2",
-   "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
-   "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+   "title": "Dating app Bumble in $1bn takeover talks, say reports",
+   "summary": "The dating app which recently ditched its \"women-first\" chat rule could be bought by an investment firm.",
    "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
@@ -259,8 +517,8 @@
   },
   {
    "id": "06b6956a87b228ab",
-   "title": "‘Tom Belger: ‘Labour must keep its pledges to the self-employed – or lose votes’",
-   "summary": "Have you had problems with parcels lately? More and more are getting lost, damaged or left in broad… The post ‘Tom Belger: ‘Labour must keep its pledges to the self-employed – or lose votes’ appeared first on LabourList .",
+   "title": "Tom Belger: ‘Labour must keep its pledges to the self-employed – or lose votes’",
+   "summary": "Have you had problems with parcels lately? More and more are getting lost, damaged or left in broad… The post Tom Belger: ‘Labour must keep its pledges to the self-employed – or lose votes’ appeared first on LabourList .",
    "url": "https://labourlist.org/2026/10/tom-belger-labour-must-keep-its-pledges-to-the-self-employed-or-lose-votes/",
    "source": "LabourList",
    "group": "Party voices",
@@ -645,7 +903,7 @@
   {
    "id": "fdce1e2d5076a678",
    "title": "Ben Jennings on Reform’s pledge to suspend the UK asylum system – cartoon",
-   "summary": "Continue reading...",
+   "summary": "Discover and buy more of Ben’s cartoons here Order your own print of this cartoon from the Guardian Print Shop Ben’s latest book, Drawn to the Chaos, is available to pre-order now Continue reading...",
    "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/12/ben-jennings-reforms-pledge-suspend-uk-asylum-system-cartoon",
    "source": "Guardian Politics",
    "group": "News",
@@ -3910,6 +4168,21 @@
    "countries": []
   },
   {
+   "id": "c5d117b90faf705a",
+   "title": "Long-run trends in corporate investment and leverage in the UK: A decomposition",
+   "summary": "",
+   "url": "https://ifs.org.uk/publications/long-run-trends-corporate-investment-and-leverage-uk-decomposition",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-01T00:00:00+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "fa3f05d9463c5838",
    "title": "The AI telling farmers when to harvest",
    "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
@@ -4729,14 +5002,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 4,
    "note": ""
   },
   {
@@ -4750,29 +5023,29 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": true,
-   "new": 1,
-   "note": ""
+   "ok": false,
+   "new": 0,
+   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
   },
   {
    "name": "LabourList",
@@ -4813,7 +5086,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -5369,7 +5642,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129152,
+   "signatures": 129181,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -5378,7 +5651,7 @@
   {
    "id": 764268,
    "title": "Protect legal right to support for children with SEND",
-   "signatures": 116108,
+   "signatures": 116204,
    "created": "2026-03-13T19:29:47.335Z",
    "responded": true,
    "debate": true,
@@ -5387,7 +5660,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 112875,
+   "signatures": 113061,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -5396,7 +5669,7 @@
   {
    "id": 764785,
    "title": "Support the Ceramics Industry and protect British manufacturing jobs and skills",
-   "signatures": 111222,
+   "signatures": 111223,
    "created": "2026-03-19T10:58:30.234Z",
    "responded": true,
    "debate": true,
@@ -5414,7 +5687,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 82983,
+   "signatures": 83095,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -5423,7 +5696,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 77286,
+   "signatures": 77637,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": false,
    "debate": false,
@@ -5432,7 +5705,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 69515,
+   "signatures": 69727,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -5441,7 +5714,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 60781,
+   "signatures": 60807,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -5450,7 +5723,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55268,
+   "signatures": 55269,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -5459,7 +5732,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 48753,
+   "signatures": 48778,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -5468,7 +5741,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 41706,
+   "signatures": 41756,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -6058,7 +6331,7 @@
      "v": 3.75
     },
     {
-     "d": "2026-10-09",
+     "d": "2026-10-12",
      "v": 3.75
     }
    ],

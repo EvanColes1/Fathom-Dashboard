@@ -1,32 +1,32 @@
 {
- "updated": "2026-10-13T06:48:46.092933+00:00",
+ "updated": "2026-10-13T09:39:20.839971+00:00",
  "feeds": [
   {
    "name": "BBC World",
-   "group": "World news",
-   "ok": true,
-   "new": 0,
-   "note": ""
-  },
-  {
-   "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
    "new": 3,
    "note": ""
   },
   {
+   "name": "Al Jazeera",
+   "group": "World news",
+   "ok": true,
+   "new": 10,
+   "note": ""
+  },
+  {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 4,
+   "new": 12,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 9,
    "note": ""
   },
   {
@@ -40,42 +40,42 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
@@ -110,7 +110,7 @@
    "name": "RUSI",
    "group": "Think tank",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -145,14 +145,14 @@
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -166,7 +166,7 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -194,14 +194,14 @@
    "name": "Splash247",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 8,
    "note": ""
   },
   {
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": "via backup feed"
   },
   {
