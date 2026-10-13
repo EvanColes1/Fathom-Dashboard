@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T00:50:33.213315+00:00",
+ "updated": "2026-10-13T03:39:17.211865+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-13T00:50:33.213315+00:00",
+   "published": "2026-10-13T03:39:17.211865+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -18,6 +18,101 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "7e140eef757fe345",
+   "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+   "summary": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+   "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T03:14:13+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "711691a152c43546",
+   "title": "UK households to face sharper rise in inflation than previously thought, IMF warns",
+   "summary": "Prime Minister Andy Burnham is also now expected to see UK economic growth slow down next year, according to fresh forecasts",
+   "url": "https://www.independent.co.uk/news/uk/politics/uk-households-inflation-imf-burnham-healey-b3065391.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T02:00:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "f89ae431d31769c2",
+   "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+   "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T01:50:47+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "230fd1800e971d41",
+   "title": "Why the prime minister wants to talk about Brexit again",
+   "summary": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
+   "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T01:27:59+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "acbdd7dd5115446b",
+   "title": "UK economy to grow more than expected - but households face sharper rise in inflation, IMF says",
+   "summary": "The UK economy is set to grow faster than expected this year, though households are expected to face higher rates of inflation, according to forecasts from the International Monetary Fund (IMF).",
+   "url": "https://news.sky.com/story/uk-economy-to-grow-more-than-expected-but-households-face-sharper-rise-in-inflation-imf-says-13598675",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T00:16:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "IMF / World Bank"
+   ]
   },
   {
    "id": "06b6956a87b228ab",
@@ -1949,6 +2044,23 @@
    "countries": []
   },
   {
+   "id": "d324f6992f5642c7",
+   "title": "Money Box",
+   "summary": "What age will you get your state pension?",
+   "url": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-10T11:30:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
    "id": "cbe8f17b673c1e45",
    "title": "Further taxes on warehouses ruled out ahead of budget after M&S and John Lewis issue warnings",
    "summary": "Further taxes on warehouses have been ruled out by the chancellor ahead of the budget, Sky News understands, after a warning was issued the boss of a high street giant.",
@@ -2188,8 +2300,8 @@
    "title": "Burnham promises to curb non-compete rules in job contracts",
    "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
    "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-09T16:15:30+00:00",
    "dateonly": false,
@@ -2472,6 +2584,21 @@
    "countries": []
   },
   {
+   "id": "6829f3776a531555",
+   "title": "Why are there so many sports subscriptions?",
+   "summary": "Pete Oliver of DAZN explains why the is a growing number of sports subscriptions and why they are getting more expensive.",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-09T10:07:13+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "25ca4d9bde8f66ce",
    "title": "Jonathan Guttentag: Excellence is the aspiration, toil is the discipline and responsibility is the purpose",
    "summary": "Two Hebrew verses 400 years are carved in an Old English town: one teaches us how to develop human potential. The other reminds us that human effort, indispensable though it is, must rest upon foundations of moral purpose. Here lies the enduring significance of a conversation Thatcher had and a…",
@@ -2702,6 +2829,36 @@
    "group": "Economy news",
    "party_voice": "",
    "published": "2026-10-08T23:09:56+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0bb03daf396ccddd",
+   "title": "Business Daily",
+   "summary": "Economic conditions around the world are making young people rise up in protest",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9x?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-08T23:01:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c64d75b0380d68b6",
+   "title": "How soon into dating do you talk about your salary?",
+   "summary": "You've met someone and it's going well so far. But bringing up how much you both earn can be a tricky conversation.",
+   "url": "https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-08T18:26:41+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -4429,14 +4586,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -4457,14 +4614,14 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 6,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -4478,7 +4635,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -5069,7 +5226,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129142,
+   "signatures": 129144,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -5078,7 +5235,7 @@
   {
    "id": 764268,
    "title": "Protect legal right to support for children with SEND",
-   "signatures": 116074,
+   "signatures": 116078,
    "created": "2026-03-13T19:29:47.335Z",
    "responded": true,
    "debate": true,
@@ -5087,7 +5244,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 112748,
+   "signatures": 112763,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -5114,7 +5271,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 82925,
+   "signatures": 82933,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -5123,7 +5280,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 77087,
+   "signatures": 77129,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": false,
    "debate": false,
@@ -5132,7 +5289,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 69385,
+   "signatures": 69406,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -5141,7 +5298,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 60769,
+   "signatures": 60772,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -5150,7 +5307,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55267,
+   "signatures": 55268,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -5159,7 +5316,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 48742,
+   "signatures": 48744,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -5168,7 +5325,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 41667,
+   "signatures": 41674,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
