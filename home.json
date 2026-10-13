@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T15:40:26.877363+00:00",
+ "updated": "2026-10-13T18:46:44.870934+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-13T15:40:26.877363+00:00",
+   "published": "2026-10-13T18:46:44.870934+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,14 +20,196 @@
    "countries": []
   },
   {
+   "id": "f5066ed6608db03f",
+   "title": "Lib Dems seek court order to evict former member with terminal cancer from her home",
+   "summary": "Jo Hayes, 71, lost her legal bid against being expelled by the party - and now it is pursuing costs",
+   "url": "https://www.independent.co.uk/news/uk/politics/lib-dems-evict-party-member-b3065862.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T17:51:53+00:00",
+   "dateonly": false,
+   "parties": [
+    "Liberal Democrat"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fc7f2ccb5ef4cbf0",
+   "title": "UK high street bosses urge chancellor to cut cost of employing young people",
+   "summary": "Retailers call on John Healey to reduce national insurance contributions threshold in his first budget Some of the UK’s biggest retailers and hospitality businesses, including Tesco, Costa Coffee and the Co-op, have met John Healey to urge him to cut the cost of employing young people in his first…",
+   "url": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T17:43:19+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "National Insurance"
+   ],
+   "countries": []
+  },
+  {
+   "id": "5728271b4827b7da",
+   "title": "Wes Streeting’s unintelligible jargon shows how well he’s bedded in at the MoD | John Crace",
+   "summary": "For the first time in his life, Wes is enjoying keeping secrets – though he did admit he isn’t ‘keen on fighting a war’ When Andy Burnham announced his first cabinet in July, few would have had Wes Streeting marked down as a likely defence secretary. Not even Wes. And no one is more bullish about…",
+   "url": "https://www.theguardian.com/politics/2026/oct/13/wes-streeting-might-be-an-unlikely-defence-secretary-but-hes-still-a-better-bet-than-penny-mordaunt",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T17:42:24+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e3998d4ca2d8b30b",
+   "title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
+   "summary": "Exclusive: Caution urged over Javier Milei government’s ‘red notice’ requests for arrest of individuals linked to oil project Britain has appealed to Interpol to reject Argentina’s requests for the arrest of individuals involved in a large oil project off the Falkland Islands. With tensions over…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T17:42:03+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Argentina"
+   ]
+  },
+  {
+   "id": "238c1ba2b0eb3139",
+   "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
+   "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
+   "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T17:36:43+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Argentina"
+   ]
+  },
+  {
+   "id": "a76d8c3e5494cb21",
+   "title": "The Guardian view on Burnham’s Brexit reset: overdue, but proceed with care | Editorial",
+   "summary": "The prime minister is correct to judge the time is right to push for closer links with the EU. The political risk is far outweighed by the potential rewards The German philosopher GWF Hegel famously evoked the owl of Minerva when discussing the historical wisdom that comes through hindsight. This…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/13/the-guardian-view-on-burnhams-brexit-reset-an-overdue-show-of-ambition",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T17:30:25+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "03e43b21ff7be03e",
+   "title": "The Guardian view on probation: overcrowded prisons need an outlet | Editorial",
+   "summary": "To win support for early releases, the government will have to show that community supervision works The early release of thousands of prisoners was bound to be awkward for a new prime minister. Politically speaking, Andy Burnham’s decision to exclude those convicted of manslaughter and some other…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/13/the-guardian-view-on-probation-overcrowded-prisons-need-an-outlet",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T17:29:03+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "382b9388b067bd2c",
+   "title": "MI5 chief warns against overstating Russian interference in Brexit vote",
+   "summary": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum.",
+   "url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T17:06:18+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "d1a30a862e45ea0c",
+   "title": "OpenAI ‘not racing to the bottom’ on AI safety, MPs told",
+   "summary": "The ChatGPT maker scrapped a recent AI model over safety concerns.",
+   "url": "https://www.independent.co.uk/news/uk/politics/mps-openai-chatgpt-anthropic-claude-b3066114.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T16:49:12+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3cf9c18f7b8332b9",
+   "title": "Tech firms promise to take down AI platforms if British secret services show they are unsafe",
+   "summary": "OpenAI and Anthropic have promised to take down their AIs if the British secret services show them they are unsafe - activating what some describe as a \"kill switch\".",
+   "url": "https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T16:30:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "ebf253523800b18e",
-   "title": "MI5 chief Ken McCallum confirms Russia did interfere in Brexit referendum but says it had little impact – UK politics live",
+   "title": "MI5 chief Ken McCallum confirms Russia did interfere in Brexit referendum but says it had little impact – as it happened",
    "summary": "He argued there was no evidence to suggest the result of the Brexit vote had been swayed as a result of the effort Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU Zia Yusuf , Reform UK’s home affairs spokesperson, has said he does not agree with his colleague Suella…",
    "url": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
    "source": "Guardian Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-13T15:17:50+00:00",
+   "published": "2026-10-13T16:23:21+00:00",
    "dateonly": false,
    "parties": [
     "Labour",
@@ -40,6 +222,122 @@
    "countries": [
     "Russia"
    ]
+  },
+  {
+   "id": "87cba4098e90c84f",
+   "title": "Russia did try to interfere into Brexit referendum, MI5 boss confirms",
+   "summary": "Sir Ken McCallum said the UK should not ‘play into our adversaries’ hands’ by amplifying the impact of Russian trolls",
+   "url": "https://www.independent.co.uk/news/uk/politics/russia-brexit-referendum-interference-mi5-mccallum-burnham-b3066088.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T16:22:40+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "f9a49fa0adc8ca50",
+   "title": "Exchequer Secretary to the Treasury speech at the West Midlands Growth Summit",
+   "summary": "The Exchequer Secretary to the Treasury delivered his speech at the West Midlands Growth Summit on 8 October 2026.",
+   "url": "https://www.gov.uk/government/speeches/exchequer-secretary-to-the-treasury-speech-at-the-west-midlands-growth-summit",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "speech",
+   "party_voice": "",
+   "published": "2026-10-13T16:22:29Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "05eea153a874ee7f",
+   "title": "British troops training to ‘recapture Falklands’ amid rising Argentinian hostility",
+   "summary": "Relations between the UK and Argentina have continued to sour",
+   "url": "https://www.independent.co.uk/news/uk/politics/falkland-islands-uk-troops-training-exercise-argentina-war-b3066060.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T16:10:39+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Argentina"
+   ]
+  },
+  {
+   "id": "aedb0b09355eaf9b",
+   "title": "Local Housing Allowance (LHA): Help with rent for private tenants",
+   "summary": "Local Housing Allowance (LHA) sets maximum amounts private tenants can get in benefit support to help with rent",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn04957/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-13T16:10:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "207919ef21a55acb",
+   "title": "Regulator would quit over Man City interference",
+   "summary": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T16:00:18+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f89ae431d31769c2",
+   "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+   "summary": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T15:59:07+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c3ad979b64120edc",
+   "title": "NI company in talks to save Poundland from administration",
+   "summary": "Poundland says Martin Property Group from Londonderry is the management team's \"preferred partner\"",
+   "url": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T15:44:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
   },
   {
    "id": "d6d4853b8f487890",
@@ -57,6 +355,25 @@
    "countries": []
   },
   {
+   "id": "7de84b58d89f2178",
+   "title": "Russia did try to interfere in Brexit referendum, head of MI5 confirms",
+   "summary": "Ken McCallum says Kremlin attempted to influence vote through social media and TV reports but had little impact Russia did try to interfere in the Brexit referendum through social media and television reports, the head of MI5 said on Tuesday, but he added that did not mean the Kremlin had any…",
+   "url": "https://www.theguardian.com/politics/2026/oct/13/russia-brexit-eu-referendum-interference-mi5",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T15:15:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
    "id": "32d2bbd84849804e",
    "title": "The Sabrina Carpenter clip which helped a 22-year-old make £120,000 a year",
    "summary": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
@@ -72,24 +389,9 @@
    "countries": []
   },
   {
-   "id": "f89ae431d31769c2",
-   "title": "Dating app Bumble bought for $1.3bn",
-   "summary": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-13T14:57:21+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "03bef1655289effb",
    "title": "Farage denies Reform would let troops shoot small boats after Jenrick’s ‘lethal force’ claim",
-   "summary": "Farage’s intervention comes as Reform chair Zia Yusuf criticises ‘everybody’ in former Tory government that included Jenrick and Suella Braverman UK politics live – latest updates Nigel Farage has denied that a Reform UK government would authorise lethal force against small boat crossings in the…",
+   "summary": "Farage’s intervention comes as Reform chair Zia Yusuf criticises ‘everybody’ in former Tory government that included Jenrick and Suella Braverman Nigel Farage has denied that a Reform UK government would authorise lethal force against small boat crossings in the Channel, hours after one of his MPs…",
    "url": "https://www.theguardian.com/politics/2026/oct/13/nigel-farage-reform-robert-jenrick-small-boats-royal-marines-lethal-force",
    "source": "Guardian Politics",
    "group": "News",
@@ -131,6 +433,21 @@
    "kind": "manual",
    "party_voice": "",
    "published": "2026-10-13T14:17:36Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "40306f571cb812c8",
+   "title": "Leonardo Fennell: What does Ed Sheeran teach us about cancel culture?",
+   "summary": "But there is hope in the fact that this is not ultimately a problem belonging to the left or the right. If cancel culture grows from our tendency to see ourselves as morally righteous and our opponents as morally corrupt, then the corrective is available to everyone. The post Leonardo Fennell: What…",
+   "url": "https://conservativehome.com/2026/10/13/leonardo-fennell-what-does-ed-sheeran-teach-us-about-cancel-culture/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-13T14:00:46+00:00",
+   "dateonly": false,
    "parties": [],
    "topics": [],
    "tax": [],
@@ -245,6 +562,21 @@
    "group": "Analysis",
    "party_voice": "",
    "published": "2026-10-13T13:01:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9c4588795fec7594",
+   "title": "Hundreds more prisoners being freed in second phase of early release scheme",
+   "summary": "The second tranche of prisoners being released includes those serving up to two and a half years.",
+   "url": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T12:48:51+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -391,7 +723,7 @@
   {
    "id": "5dbf14be7f72a5ff",
    "title": "Rightwing extremists increasingly likely to consider terrorist attacks, MI5 chief says",
-   "summary": "Move from anti-immigration or anti-Muslim views to violence is ‘most marked trend’ in spy agency’s caseload over last year Extremists holding anti-immigration opinions are becoming increasingly likely to consider carrying out terrorist attacks against immigration centres and asylum hotels in the…",
+   "summary": "Move from anti-immigration or anti-Muslim views to violence is ‘most marked trend’ in spy agency’s caseload over last year Extremists with anti-migrant opinions are becoming increasingly likely to consider carrying out terrorist attacks against immigration centres and asylum hotels in the UK, the…",
    "url": "https://www.theguardian.com/uk-news/2026/oct/13/rightwing-extremists-increasingly-likely-to-consider-terrorist-attacks-mi5-chief-says",
    "source": "Guardian Politics",
    "group": "News",
@@ -1147,6 +1479,21 @@
    "group": "News",
    "party_voice": "",
    "published": "2026-10-12T23:01:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "210d0db30e35dc3b",
+   "title": "Attorney General approval required for serious Troubles prosecutions",
+   "summary": "It is among a series of amendments the government has tabled for its bill, which seeks to deal with the unresolved legacy of the decades-long violent conflict.",
+   "url": "https://www.bbc.co.uk/news/articles/crq8nynzpq0vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-12T20:50:53+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -4825,25 +5172,6 @@
    ]
   },
   {
-   "id": "bc8d78bfb3b1560b",
-   "title": "What is the triple lock and why are people talking about it?",
-   "summary": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
-   "url": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-09-29T17:09:46+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
    "id": "11cd50a6775bd720",
    "title": "What happens next if power sharing at Stormont collapses over Drumcree?",
    "summary": "Conor J. Kelly and Colin Murray discuss what would happen next if one of the major parties pulled out of the Stormont... The post What happens next if power sharing at Stormont collapses over Drumcree? appeared first on UK in a changing Europe .",
@@ -5504,14 +5832,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 6,
    "note": ""
   },
   {
@@ -5525,29 +5853,29 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 4,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": false,
-   "new": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
+   "ok": true,
+   "new": 1,
+   "note": ""
   },
   {
    "name": "LabourList",
@@ -5574,15 +5902,15 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Office for Budget Responsibility",
    "group": "Tax and fiscal",
-   "ok": true,
+   "ok": false,
    "new": 0,
-   "note": ""
+   "note": "403 Client Error: Forbidden for url: https://obr.uk/feed/"
   },
   {
    "name": "Institute for Fiscal Studies",
@@ -6162,7 +6490,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129258,
+   "signatures": 129282,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -6171,7 +6499,7 @@
   {
    "id": 764268,
    "title": "Protect legal right to support for children with SEND",
-   "signatures": 116399,
+   "signatures": 116492,
    "created": "2026-03-13T19:29:47.335Z",
    "responded": true,
    "debate": true,
@@ -6180,7 +6508,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 113314,
+   "signatures": 113426,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -6189,7 +6517,7 @@
   {
    "id": 764785,
    "title": "Support the Ceramics Industry and protect British manufacturing jobs and skills",
-   "signatures": 111224,
+   "signatures": 111225,
    "created": "2026-03-19T10:58:30.234Z",
    "responded": true,
    "debate": true,
@@ -6198,7 +6526,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 105994,
+   "signatures": 105995,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -6207,7 +6535,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83159,
+   "signatures": 83196,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -6216,7 +6544,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 78339,
+   "signatures": 79008,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -6225,7 +6553,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 70111,
+   "signatures": 70279,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -6234,7 +6562,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 60975,
+   "signatures": 61099,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -6243,7 +6571,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55277,
+   "signatures": 55278,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -6252,7 +6580,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 48828,
+   "signatures": 48859,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -6261,7 +6589,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 41878,
+   "signatures": 41931,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
