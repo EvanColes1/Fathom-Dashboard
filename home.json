@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T18:46:44.870934+00:00",
+ "updated": "2026-10-13T21:48:08.927412+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-13T18:46:44.870934+00:00",
+   "published": "2026-10-13T21:48:08.927412+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,19 +20,120 @@
    "countries": []
   },
   {
+   "id": "aa337c25492c7411",
+   "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+   "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+   "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-13T21:42:49+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "779a1c17bfdc8a6d",
+   "title": "Zelensky and Burnham to meet in Downing Street",
+   "summary": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+   "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T21:31:30+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "357b50510a71a8f5",
+   "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
+   "summary": "Prime minister reiterates UK backing after the Ukrainian president’s latest round of difficulties with Donald Trump Andy Burnham will host Volodymyr Zelenskyy at Downing Street on Wednesday as the UK seeks to further underline its support for the Ukrainian president, in contrast to his difficulties…",
+   "url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T21:30:35+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "9b1b598d212f3981",
+   "title": "Burnham sends fresh message to Ukraine ahead of Zelensky visit after Trump's diesel deal with Russia",
+   "summary": "Burnham will hold talks with Zelensky on Wednesday at Downing Street",
+   "url": "https://www.independent.co.uk/news/uk/politics/burnham-zelensky-trump-russia-diesel-deal-b3066176.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T21:30:31+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
    "id": "f5066ed6608db03f",
-   "title": "Lib Dems seek court order to evict former member with terminal cancer from her home",
+   "title": "Lib Dems seek court order to evict former member with incurable cancer from her home",
    "summary": "Jo Hayes, 71, lost her legal bid against being expelled by the party - and now it is pursuing costs",
    "url": "https://www.independent.co.uk/news/uk/politics/lib-dems-evict-party-member-b3065862.html",
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-13T17:51:53+00:00",
+   "published": "2026-10-13T21:03:03+00:00",
    "dateonly": false,
    "parties": [
     "Liberal Democrat"
    ],
    "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "bdd81ea14bc69e67",
+   "title": "Ed Davey retains Liberal Democrat leadership as challenge collapses after marathon meeting",
+   "summary": "Ed Davey was expected to face a challenge to his leadership but a vote failed to take place",
+   "url": "https://www.independent.co.uk/news/uk/politics/ed-davey-liberal-democrat-leadership-challenge-no-confidence-vote-b3066231.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T21:03:03+00:00",
+   "dateonly": false,
+   "parties": [
+    "Liberal Democrat"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
    "tax": [],
    "countries": []
   },
@@ -94,7 +195,7 @@
   },
   {
    "id": "238c1ba2b0eb3139",
-   "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
+   "title": "Argentina targets UK in legal claim over Falklands oil exploration",
    "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
    "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
@@ -5832,14 +5933,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 6,
+   "new": 1,
    "note": ""
   },
   {
@@ -5853,7 +5954,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
@@ -5867,14 +5968,14 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -5902,7 +6003,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -6490,7 +6591,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129282,
+   "signatures": 129351,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -6499,7 +6600,7 @@
   {
    "id": 764268,
    "title": "Protect legal right to support for children with SEND",
-   "signatures": 116492,
+   "signatures": 116618,
    "created": "2026-03-13T19:29:47.335Z",
    "responded": true,
    "debate": true,
@@ -6508,7 +6609,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 113426,
+   "signatures": 113575,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -6526,7 +6627,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 105995,
+   "signatures": 105998,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -6535,7 +6636,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83196,
+   "signatures": 83215,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -6544,7 +6645,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 79008,
+   "signatures": 79732,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -6553,7 +6654,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 70279,
+   "signatures": 70488,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -6562,7 +6663,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 61099,
+   "signatures": 61163,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -6571,7 +6672,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55278,
+   "signatures": 55279,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -6580,7 +6681,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 48859,
+   "signatures": 48896,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -6589,7 +6690,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 41931,
+   "signatures": 42015,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
