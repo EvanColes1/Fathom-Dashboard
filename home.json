@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T09:51:15.562568+00:00",
+ "updated": "2026-10-14T13:01:41.507363+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,131 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-14T09:51:15.562568+00:00",
+   "published": "2026-10-14T13:01:41.507363+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a32ea0407b172eb5",
+   "title": "Pay duty on biofuels or road fuel gas",
+   "summary": "How to pay duty on biofuels or road fuel gas, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-duty-on-biofuels-or-gas-for-road-use",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-14T12:55:06Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "77b3d6b344cc109f",
+   "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+   "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+   "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T12:47:43+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "928277f3a9d06586",
+   "title": "US inflation rises more than expected ahead of midterm elections",
+   "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+   "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T12:47:07+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Elections"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "85595c6b9a771d1d",
+   "title": "Badenoch and Farage embroiled in furious row over Falklands and Chagos Islands",
+   "summary": "The dispute erupted after Mr Farage ppeared to suggest he would be willing to “trade” the Diego Garcia military base to secure Donald Trump’s silence on the Falklands",
+   "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-nigel-farage-chagos-falklands-b3066561.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T12:40:30+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative",
+    "Reform UK"
+   ],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "779a1c17bfdc8a6d",
+   "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+   "summary": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street.",
+   "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T12:36:24+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "d3f66e641b60ae2b",
+   "title": "Andy Burnham rules out deal with Zack Polanski’s Green Party",
+   "summary": "The prime minister branded the recent motion passed by the Green Party conference that ‘zionism is racism’ as antisemitic",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-polanski-green-party-deal-pmqs-b3066613.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T12:13:31+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Green Party"
+   ],
+   "topics": [
+    "Party leadership"
    ],
    "tax": [],
    "countries": []
@@ -27,10 +147,273 @@
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-14T09:42:04+00:00",
+   "published": "2026-10-14T12:09:45+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ef32056c9efb4d2e",
+   "title": "Joe Walker Cousins: Saudi Arabia will remember who stood with it",
+   "summary": "The attacks on Riyadh’s King Khalid International Airport show that Saudi Arabia is not a passing regional story, and Britain’s relationship with the Kingdom cannot be managed through short-term reactions. Britain needs a long-term Gulf strategy and the political leadership to deliver it. The post…",
+   "url": "https://conservativehome.com/2026/10/14/joe-walker-cousins-saudi-arabia-will-remember-who-stood-with-it/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-14T12:00:31+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "ddb7184c19609822",
+   "title": "Burnham rules out deal with Greens as he condemns ‘Zionism is racism’ policy as ‘antisemitic’– UK politics live",
+   "summary": "Prime minister tells PMQs that the Green party motion was ‘wrong’ and says no way Labour would make a deal PMQs is about to start. Here is the list of MPs down to ask a question. After @genevieve_holl reported this last night, various sources in the Trump administration who are supportive of Farage…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T11:57:25+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Reform UK",
+    "Green Party"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "184ed16968740247",
+   "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+   "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+   "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T11:57:22+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3e6900cc60880791",
+   "title": "Man City owners did not discuss Premier League charges with me, Andy Burnham says",
+   "summary": "The prime minister said he was ‘very happy’ to set out details of the meetings with the club’s owners",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-man-city-charges-khaldoon-al-mubarak-b3066611.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T11:52:36+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "dba85754580bc917",
+   "title": "UK government apologises for past burials of stillborn babies in mass graves",
+   "summary": "Yvette Cooper acknowledges ‘unthinkable pain’ caused by practice between 1930s and 1980s after campaign by Wirral woman and others The health secretary, Yvette Cooper, has issued a “profound apology” for the “unthinkable pain” caused to parents whose stillborn babies were buried in mass graves.…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/14/uk-government-apologises-stillborn-babies-mass-graves",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T11:42:22+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4a02a10c2a1016d7",
+   "title": "Chancellor targets Amazon and Temu in tax crackdown to deliver Budget for ‘white van man’",
+   "summary": "It comes amid growing concern that Chinese retailers are using online marketplaces to undercut British competitors by evading the 20 per cent VAT on all their sales",
+   "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-temu-amazon-tax-vat-b3066393.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T11:30:51+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "VAT"
+   ],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "db022e9c64466c3f",
+   "title": "Pay the VAT due on your One Stop Shop VAT Return",
+   "summary": "How to pay the VAT due on your One Stop Shop VAT (OSS) Return and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-the-vat-due-on-your-one-stop-shop-vat-return",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-14T11:25:16Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [
+    "VAT"
+   ],
+   "countries": []
+  },
+  {
+   "id": "8d0c58acd861d413",
+   "title": "Nigel Farage says charities that help asylum seekers reach UK should be prosecuted",
+   "summary": "Reform leader did not say who should be targeted but party figures have been critical of small boat rescues by RNLI Charities and volunteers who help asylum seekers get to the UK should face potential criminal prosecution, Nigel Farage has said in an interview with a rightwing US podcaster. While…",
+   "url": "https://www.theguardian.com/politics/2026/oct/14/nigel-farage-charities-help-asylum-seekers-uk-prosecute",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T11:18:27+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Party leadership",
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "0fc679e8091b93dc",
+   "title": "Job cuts could fund diesel price drop says deputy",
+   "summary": "With the ongoing war in the Middle East increasing prices, one deputy is ask for duty to be frozen.",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T11:13:10+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "aae7dc9798d65f2f",
+   "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+   "summary": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
+   "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T11:04:12+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": [
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "f440d451b5b8f139",
+   "title": "How much triple lock change will impact current - and future - pensioners",
+   "summary": "People approaching retirement are likely to be among the least affected by Andy Burnham's proposed overhaul of the state pension triple lock, according to new analysis from investment platform AJ Bell.",
+   "url": "https://news.sky.com/story/how-much-triple-lock-change-will-impact-current-and-future-pensioners-13599191",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T10:41:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "81cd8085ecb23a86",
+   "title": "HMRC: business appointment rules advice",
+   "summary": "All outside appointments or employment taken up by former HMRC staff at senior civil service levels SCS1 and SCS2.",
+   "url": "https://www.gov.uk/government/collections/hmrc-business-appointment-rules-advice",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "document_collection",
+   "party_voice": "",
+   "published": "2026-10-14T10:19:28Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "547bee20418d52a7",
+   "title": "Rafe Fletcher: The Tories should go further on National Insurance",
+   "summary": "A pension exchange can help employers, shift mindsets around universal guarantees, and offer a carrot to workers. After all, no one enjoys seeing deductions on a pay cheque. But it’s easier to bear when you see those funds being put to work in your own account. The post Rafe Fletcher: The Tories…",
+   "url": "https://conservativehome.com/2026/10/14/rafe-fletcher-the-tories-should-go-further-on-national-insurance/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-14T10:00:42+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [
+    "National Insurance",
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "f1ae93f5ef41f092",
+   "title": "'It's definitely tight trying to budget on maternity leave'",
+   "summary": "An estimated 47,500 people in Sheffield are unable to make ends meet and pay their bills.",
+   "url": "https://www.bbc.co.uk/news/articles/c3ewegye0g0qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T09:59:51+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
    "tax": [],
    "countries": []
   },
@@ -61,6 +444,21 @@
    "kind": "guidance",
    "party_voice": "",
    "published": "2026-10-14T09:32:19Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "82650b4da818dcdf",
+   "title": "AI regulation in the UK",
+   "summary": "This briefing provides an introduction to artificial intelligence (AI) and how it is regulated in the UK.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10003/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-14T09:28:58+00:00",
+   "dateonly": false,
    "parties": [],
    "topics": [],
    "tax": [],
@@ -104,26 +502,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "ddb7184c19609822",
-   "title": "Badenoch and Farage in spat over Chagos Islands, as she calls his offer to Trump ‘humiliating’ – UK politics live",
-   "summary": "Nigel Farage says Kemi Badenoch misinterpreted his suggestion for a deal with Donald Trump While in some respects the Nigel Farage/Kemi Badenoch Chagos Islands row (see 9.56am ) is just a slightly manufactured spat between two leaders who are not in a position to decide the future of the Chagos…",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T09:01:23+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative",
-    "Reform UK"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
   },
   {
    "id": "ed51030dc55fc5d5",
@@ -199,25 +577,21 @@
    "countries": []
   },
   {
-   "id": "4a02a10c2a1016d7",
-   "title": "Chancellor targets Amazon and Temu in tax crackdown to deliver Budget for ‘white van man’",
-   "summary": "It comes amid growing concern that Chinese retailers are using online marketplaces to undercut British competitors by evading the 20 per cent VAT on all their sales",
-   "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-temu-amazon-tax-vat-b3066393.html",
-   "source": "Independent Politics",
+   "id": "fb8be759a67968f5",
+   "title": "John Healey ‘targets tax crackdown on online marketplaces’ in first budget",
+   "summary": "Move aimed at firms such as Amazon and eBay could raise up to £1bn more for Treasury, says report A tax crackdown on online marketplaces such as Amazon and eBay that could raise up to £1bn more for the Treasury is reportedly being drawn up for John Healey’s first budget. The chancellor is said to…",
+   "url": "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget",
+   "source": "Guardian Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-14T07:32:41+00:00",
+   "published": "2026-10-14T07:42:48+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
-   "tax": [
-    "VAT"
-   ],
-   "countries": [
-    "China"
-   ]
+   "tax": [],
+   "countries": []
   },
   {
    "id": "3d830939d0c392d1",
@@ -298,6 +672,24 @@
    "topics": [],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "bbec8288459994a2",
+   "title": "Trump says 'massive' oil, gas and mineral exploration will begin in 'our' Greenland",
+   "summary": "Donald Trump says that preparations are underway to launch a \"massive\" oil, gas ‌and mineral exploration in Greenland.",
+   "url": "https://news.sky.com/story/trump-announces-that-massive-oil-gas-and-mineral-exploration-will-begin-in-greenland-13599119",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T06:33:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Denmark",
+    "United States"
+   ]
   },
   {
    "id": "dc44e9724965fa26",
@@ -731,28 +1123,6 @@
    "tax": [],
    "countries": [
     "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "779a1c17bfdc8a6d",
-   "title": "Zelensky and Burnham to meet in Downing Street",
-   "summary": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
-   "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T21:31:30+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": [
-    "Ukraine",
-    "United States"
    ]
   },
   {
@@ -1615,25 +1985,6 @@
    "countries": []
   },
   {
-   "id": "db022e9c64466c3f",
-   "title": "Pay the VAT due on your One Stop Shop VAT Return",
-   "summary": "How to pay the VAT due on your One Stop Shop VAT (OSS) Return and how long it takes for your payment to reach HMRC.",
-   "url": "https://www.gov.uk/guidance/pay-the-vat-due-on-your-one-stop-shop-vat-return",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-13T10:29:52Z",
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
    "id": "4072cb1d13a2d534",
    "title": "Andy Burnham will be the man to take Britain back into the EU, Neil Kinnock says",
    "summary": "Former Labour leader says it’s ‘obvious’ the prime minister is hoping to rejoin the bloc",
@@ -1770,7 +2121,7 @@
   },
   {
    "id": "5b96080066e5f478",
-   "title": "'Money-saving hack' for school photos is illegal, photographer warns",
+   "title": "'Money-saving hack' for school photos 'is theft'",
    "summary": "A photographer has warned against a \"money-saving\" tip for school photos that parents are sharing on social media.",
    "url": "https://news.sky.com/story/money-saving-hack-for-school-photos-is-illegal-photographer-warns-13598769",
    "source": "Sky News Business",
@@ -2281,7 +2632,7 @@
   },
   {
    "id": "210d0db30e35dc3b",
-   "title": "Attorney General approval required for serious Troubles prosecutions",
+   "title": "Attorney general approval required for serious Troubles prosecutions",
    "summary": "It is among a series of amendments the government has tabled for its bill, which seeks to deal with the unresolved legacy of the decades-long violent conflict.",
    "url": "https://www.bbc.co.uk/news/articles/crq8nynzpq0vo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
@@ -6616,42 +6967,42 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 6,
+   "new": 3,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -6679,7 +7030,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -7227,6 +7578,24 @@
    "org": "Fareham Borough Council"
   },
   {
+   "id": "local.rotherham.2026-11-19",
+   "title": "Rotherham local election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "organisation",
+   "by": false,
+   "org": "Rotherham Metropolitan Borough Council"
+  },
+  {
+   "id": "local.rotherham.anston-woodsetts.by.2026-11-19",
+   "title": "Rotherham local election Anston & Woodsetts by-election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "ballot",
+   "by": true,
+   "org": "Rotherham Metropolitan Borough Council"
+  },
+  {
    "id": "local.south-staffordshire.2026-11-19",
    "title": "South Staffordshire local election",
    "date": "2026-11-19",
@@ -7249,7 +7618,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129395,
+   "signatures": 129423,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -7258,7 +7627,7 @@
   {
    "id": 764268,
    "title": "Protect legal right to support for children with SEND",
-   "signatures": 116796,
+   "signatures": 116884,
    "created": "2026-03-13T19:29:47.335Z",
    "responded": true,
    "debate": true,
@@ -7267,7 +7636,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 113838,
+   "signatures": 113957,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -7276,7 +7645,7 @@
   {
    "id": 764785,
    "title": "Support the Ceramics Industry and protect British manufacturing jobs and skills",
-   "signatures": 111226,
+   "signatures": 111227,
    "created": "2026-03-19T10:58:30.234Z",
    "responded": true,
    "debate": true,
@@ -7285,7 +7654,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106001,
+   "signatures": 106002,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -7294,7 +7663,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83261,
+   "signatures": 83278,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -7303,7 +7672,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 80382,
+   "signatures": 80692,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -7312,7 +7681,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 70811,
+   "signatures": 70999,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -7321,7 +7690,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 61239,
+   "signatures": 61480,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -7330,7 +7699,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55286,
+   "signatures": 55287,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -7339,7 +7708,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 48948,
+   "signatures": 48983,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -7348,7 +7717,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42127,
+   "signatures": 42170,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
