@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T06:08:57.598108+00:00",
+ "updated": "2026-10-14T07:04:45.542715+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,12 +10,57 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-14T06:08:57.598108+00:00",
+   "published": "2026-10-14T07:04:45.542715+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3ba64607633ca566",
+   "title": "'Spray and pray': How AI job applications can backfire",
+   "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+   "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T06:52:33+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4167d34e55e21490",
+   "title": "Import Control System 2: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Import Control System 2 (ICS2) service.",
+   "url": "https://www.gov.uk/government/publications/import-control-system-2-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-14T06:44:27Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "78fd0d27a24ad0a3",
+   "title": "Find out who has been granted a utility direction",
+   "summary": "Check who's been granted a Climate Change Levy (CCL) utility direction for gas and electricity, so you can decide whether to charge CCL.",
+   "url": "https://www.gov.uk/government/publications/find-out-who-has-been-granted-a-utility-direction",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-14T06:36:40Z",
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -124,6 +169,23 @@
    "topics": [
     "Energy bills"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a77cb722443fb7c5",
+   "title": "Chris Mason: Lib Dems rally behind Davey as he pledges change",
+   "summary": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations.",
+   "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T05:11:33+00:00",
+   "dateonly": false,
+   "parties": [
+    "Liberal Democrat"
+   ],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -368,23 +430,8 @@
    "countries": []
   },
   {
-   "id": "3ba64607633ca566",
-   "title": "Is it OK for jobseekers or employers to use AI?",
-   "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
-   "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-13T23:04:39+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "66adcbdcf2ecaac1",
-   "title": "Royal Mail losing 400 postal workers a week, says union",
+   "title": "Hundreds of Royal Mail staff quitting each week amid efficiency drive",
    "summary": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
    "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -6308,14 +6355,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -6329,35 +6376,35 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -6948,7 +6995,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129366,
+   "signatures": 129372,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -6957,7 +7004,7 @@
   {
    "id": 764268,
    "title": "Protect legal right to support for children with SEND",
-   "signatures": 116678,
+   "signatures": 116703,
    "created": "2026-03-13T19:29:47.335Z",
    "responded": true,
    "debate": true,
@@ -6966,7 +7013,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 113689,
+   "signatures": 113724,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -6993,7 +7040,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83233,
+   "signatures": 83236,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -7002,7 +7049,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 79981,
+   "signatures": 80072,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -7011,7 +7058,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 70580,
+   "signatures": 70634,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -7020,7 +7067,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 61184,
+   "signatures": 61194,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -7038,7 +7085,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 48904,
+   "signatures": 48916,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -7047,7 +7094,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42064,
+   "signatures": 42076,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
