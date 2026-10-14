@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T18:59:50.351558+00:00",
+ "updated": "2026-10-14T21:50:01.020360+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-14T18:59:50.351558+00:00",
+   "published": "2026-10-14T21:50:01.020360+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -18,6 +18,92 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "7ebc908bc9f2bd64",
+   "title": "UK threatens to ban Eritreans over migrant return policy",
+   "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
+   "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T21:30:13+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1ebb7af55d0ce7f4",
+   "title": "UK hospitality sector to offer up to 100,000 jobs to young people out of work",
+   "summary": "Restaurants and pubs such as Nando’s and Fuller’s will create placements for 18- to 24-year-olds under DWP-backed scheme Bars, clubs and restaurants will offer up to 100,000 jobs to young people not in employment, education or training (Neet) over the next three years in an effort to give them a…",
+   "url": "https://www.theguardian.com/society/2026/oct/14/uk-hospitality-sector-100000-jobs-young-people-neets",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T21:30:13+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cbd7bde214b6bf32",
+   "title": "Reform suspends members after undercover investigation exposes councillors making racist remarks",
+   "summary": "One Reform councillor called for King Charles to be beheaded, saying he was a Muslim",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-councillors-racist-farage-itv-b3066949.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T21:27:52+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "993e08381c8d5257",
+   "title": "Reform UK councillors and candidates filmed making racist and extreme comments",
+   "summary": "Party faces fresh crisis as three councillors quit after ITV undercover filming exposed violence, misogyny and racist views Reform UK has been rocked by a fresh crisis after councillors and election candidates for the party were caught on film making graphic threats of extreme violence and…",
+   "url": "https://www.theguardian.com/politics/2026/oct/14/reform-uk-councillors-and-candidates-filmed-making-racist-and-extreme-comments",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T19:36:16+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "867c5c6e712c79a6",
+   "title": "We are behind you and that will not change, PM tells Zelensky",
+   "summary": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
+   "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T19:22:28+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Ukraine",
+    "United States"
+   ]
   },
   {
    "id": "2ba84aacbf8904ff",
@@ -102,26 +188,6 @@
    "tax": [],
    "countries": [
     "G7 / G20"
-   ]
-  },
-  {
-   "id": "867c5c6e712c79a6",
-   "title": "We are behind you and that will not change, PM tells Zelensky",
-   "summary": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
-   "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T17:20:58+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Ukraine",
-    "United States"
    ]
   },
   {
@@ -7618,7 +7684,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 8,
+   "new": 2,
    "note": ""
   },
   {
@@ -7632,21 +7698,21 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -7681,7 +7747,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -8269,7 +8335,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129483,
+   "signatures": 129546,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -8278,7 +8344,7 @@
   {
    "id": 764268,
    "title": "Protect legal right to support for children with SEND",
-   "signatures": 117088,
+   "signatures": 117286,
    "created": "2026-03-13T19:29:47.335Z",
    "responded": true,
    "debate": true,
@@ -8287,7 +8353,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 114132,
+   "signatures": 114239,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -8305,7 +8371,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106008,
+   "signatures": 106010,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -8314,7 +8380,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83314,
+   "signatures": 83339,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -8323,7 +8389,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 81258,
+   "signatures": 81506,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -8332,7 +8398,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 71266,
+   "signatures": 71511,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -8341,7 +8407,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 62565,
+   "signatures": 62899,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -8350,7 +8416,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55293,
+   "signatures": 55294,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -8359,7 +8425,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49016,
+   "signatures": 49033,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -8368,7 +8434,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42253,
+   "signatures": 42299,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
