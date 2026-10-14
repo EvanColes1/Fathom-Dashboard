@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T07:04:45.542715+00:00",
+ "updated": "2026-10-14T09:51:15.562568+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-14T07:04:45.542715+00:00",
+   "published": "2026-10-14T09:51:15.562568+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,16 +20,251 @@
    "countries": []
   },
   {
+   "id": "f37f8bc9dee5bd9d",
+   "title": "Wayfair among firms fined millions for misleading sales tactics",
+   "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+   "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T09:42:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e5f1c7027c95307d",
+   "title": "MP recalls terrifying parachute accident after jumping from a plane at 15,000 feet",
+   "summary": "The Tory MP described how the skydive went wrong on a ‘grey and windy’ day in Devon",
+   "url": "https://www.independent.co.uk/news/uk/politics/david-reed-devon-skydive-royal-marine-b3066502.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T09:38:56+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "22ef2ddb96cbde8d",
+   "title": "Excise movement and control system: service availability and issues",
+   "summary": "Check the availability and any issues affecting the excise movement and control system (EMCS) online service.",
+   "url": "https://www.gov.uk/government/publications/excise-movement-and-control-system-emcs-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-14T09:32:19Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b6d5da3c4e897b4b",
+   "title": "In The Room | Does Andy Burnham want to reverse Brexit?",
+   "summary": "In recent weeks, the Prime Minister has made a series of pointed interventions on Britain’s relationship with the EU. At Labour conference, he said Brexit had done “more harm than good”. In a BBC interview, he suggested it was “possible” that a future Labour manifesto could promise another in-out…",
+   "url": "https://www.independent.co.uk/tv/in-the-room/andy-burnham-brexit-reverse-europe-eu-b3066503.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T09:23:50+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "bc295f95296939c6",
+   "title": "Are Burnham’s Brexit promises distracting him from an impending food and fuel crisis?",
+   "summary": "In The Room hosts Helen MacNamara and Cleo Watson say Whitehall risks too much focus on long-term EU ambitions while more immediate pressures build around diesel, farming and food security. Report by Maja Anushka",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-brexit-eu-europe-food-shortage-crisis-fuel-b3066050.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T09:19:54+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ddb7184c19609822",
+   "title": "Badenoch and Farage in spat over Chagos Islands, as she calls his offer to Trump ‘humiliating’ – UK politics live",
+   "summary": "Nigel Farage says Kemi Badenoch misinterpreted his suggestion for a deal with Donald Trump While in some respects the Nigel Farage/Kemi Badenoch Chagos Islands row (see 9.56am ) is just a slightly manufactured spat between two leaders who are not in a position to decide the future of the Chagos…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T09:01:23+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative",
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "ed51030dc55fc5d5",
+   "title": "Tories leapfrog Reform in poll for the second time this week",
+   "summary": "Nigel Farage’s leadership is in crisis after a second poll in 24 hours confirms his party is in third place",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-poll-conservatives-labour-badenoch-farage-b3066433.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T08:58:45+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative",
+    "Reform UK"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c4929317997f0743",
+   "title": "Bookies in last-ditch plea to Healey to avert budget tax bombshell",
+   "summary": "Britain's biggest bookmakers are stepping up their efforts to avert a budget tax bombshell in a last-ditch letter warning that half of the betting shops in the prime minister's constituency would be at risk from a further raid.",
+   "url": "https://news.sky.com/story/bookies-in-last-ditch-plea-to-healey-to-avert-budget-tax-bombshell-13599154",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T08:50:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "3ba64607633ca566",
-   "title": "'Spray and pray': How AI job applications can backfire",
+   "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
    "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
    "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-14T06:52:33+00:00",
+   "published": "2026-10-14T08:27:17+00:00",
    "dateonly": false,
    "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "71a5ca125eef97f5",
+   "title": "Pay Air Passenger Duty",
+   "summary": "How to pay Air Passenger Duty, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-air-passenger-duty",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-14T07:59:31Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4a02a10c2a1016d7",
+   "title": "Chancellor targets Amazon and Temu in tax crackdown to deliver Budget for ‘white van man’",
+   "summary": "It comes amid growing concern that Chinese retailers are using online marketplaces to undercut British competitors by evading the 20 per cent VAT on all their sales",
+   "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-temu-amazon-tax-vat-b3066393.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T07:32:41+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "VAT"
+   ],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "3d830939d0c392d1",
+   "title": "Andy Burnham to meet swimmer Archie Goodburn after emotional plea on BBC Breakfast",
+   "summary": "The Scottish swimmer has urged Mr Burnham to appoint a national brain cancer lead",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-archie-goodburn-brain-tumour-b3066417.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T07:31:13+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "66adcbdcf2ecaac1",
+   "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+   "summary": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
+   "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T07:18:08+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7ac5047fd1f56dce",
+   "title": "This civil war on the British right is a charade – its politics are more united than ever | Jonathan Liew",
+   "summary": "Don’t be fooled by its bickering leaders. Their calibrated fake fighting will probably end in coalition Kapow! In a warmly received conference speech, Kemi Badenoch turns her fire on Reform UK, describing it as “weird”, and ruling out an electoral pact. Slap! Not to be outdone, her former colleague…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/14/civil-war-british-right-charade-politics-united-coalition",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T07:00:48+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative",
+    "Reform UK"
+   ],
    "topics": [],
    "tax": [],
    "countries": []
@@ -119,6 +354,21 @@
    "countries": []
   },
   {
+   "id": "51d970847271ee3c",
+   "title": "Why 'cool kids' won't let Swindon in Thames Valley",
+   "summary": "Why the \"popular kids\" in Oxfordshire are not letting Swindon in on the Thames Valley devolution deal.",
+   "url": "https://www.bbc.co.uk/news/articles/cx8dz4235vnyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T05:31:14+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "df64fe4a7bdd9804",
    "title": "Katie Lam: Our plan to get Britain building again",
    "summary": "At last week’s Conservative Party Conference, Kemi laid out the clear dividing lines between us and Labour. They’ll always take more of people’s money; we want to let people keep what they earn. They’ll always think that the state has all the answers; we know that our country does best when people…",
@@ -157,8 +407,8 @@
   },
   {
    "id": "680ebbd7a1d83cb8",
-   "title": "Heating oil users face fuel or food winter choice'",
-   "summary": "It comes as ministers say they will tighten up rules on heating oil and promote competition",
+   "title": "Heating oil users facing fuel or food winter choice",
+   "summary": "It comes as ministers say they will tighten up rules on heating oil and promote competition.",
    "url": "https://www.bbc.co.uk/news/articles/cv4g18we232ro?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
@@ -430,21 +680,6 @@
    "countries": []
   },
   {
-   "id": "66adcbdcf2ecaac1",
-   "title": "Hundreds of Royal Mail staff quitting each week amid efficiency drive",
-   "summary": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
-   "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-13T23:03:59+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "f8f2e025e9279a77",
    "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
    "summary": "Former investor alleges BitMEX sold products in UK despite not being regulated by Financial Conduct Authority A cryptocurrency exchange founded by the billionaire Reform UK donor Ben Delo is being sued for £20m over claims that the company mis-sold financial products in the UK. Lewis Barber, who is…",
@@ -483,7 +718,7 @@
   },
   {
    "id": "aa337c25492c7411",
-   "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+   "title": "Saudi employee charged with planting recording device in OpenAI office",
    "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
    "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -579,7 +814,7 @@
   {
    "id": "fc7f2ccb5ef4cbf0",
    "title": "UK high street bosses urge chancellor to cut cost of employing young people",
-   "summary": "Retailers call on John Healey to reduce national insurance contributions threshold in his first budget Some of the UK’s biggest retailers and hospitality businesses, including Tesco, Costa Coffee and the Co-op, have met John Healey to urge him to cut the cost of employing young people in his first…",
+   "summary": "Retailers call on John Healey to raise national insurance contributions threshold in his first budget Some of the UK’s biggest retailers and hospitality businesses, including Tesco, Costa Coffee and the Co-op, have met John Healey to urge him to cut the cost of employing young people in his first…",
    "url": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
    "source": "Guardian Politics",
    "group": "News",
@@ -915,7 +1150,7 @@
   },
   {
    "id": "32d2bbd84849804e",
-   "title": "The Sabrina Carpenter clip which helped a 22-year-old make £120,000 a year",
+   "title": "The Sabrina Carpenter clip that helped a 22-year-old make £120,000 a year",
    "summary": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
    "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -1105,6 +1340,25 @@
    "dateonly": false,
    "parties": [],
    "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "37bb0dd8f73aed9a",
+   "title": "Budget 'beerlaterals': How Burnham and Healey really work",
+   "summary": "👉Listen to Politics at Sam and Anne's on your podcast app👈",
+   "url": "https://news.sky.com/story/budget-beerlaterals-how-burnham-and-healey-really-work-13598838",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-13T12:49:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
    "tax": [],
    "countries": []
   },
@@ -6362,35 +6616,35 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 6,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -6995,7 +7249,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129372,
+   "signatures": 129395,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -7004,7 +7258,7 @@
   {
    "id": 764268,
    "title": "Protect legal right to support for children with SEND",
-   "signatures": 116703,
+   "signatures": 116796,
    "created": "2026-03-13T19:29:47.335Z",
    "responded": true,
    "debate": true,
@@ -7013,7 +7267,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 113724,
+   "signatures": 113838,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -7040,7 +7294,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83236,
+   "signatures": 83261,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -7049,7 +7303,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 80072,
+   "signatures": 80382,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -7058,7 +7312,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 70634,
+   "signatures": 70811,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -7067,7 +7321,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 61194,
+   "signatures": 61239,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -7076,7 +7330,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55280,
+   "signatures": 55286,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -7085,7 +7339,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 48916,
+   "signatures": 48948,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -7094,7 +7348,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42076,
+   "signatures": 42127,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -7684,7 +7938,7 @@
      "v": 3.75
     },
     {
-     "d": "2026-10-12",
+     "d": "2026-10-13",
      "v": 3.75
     }
    ],
