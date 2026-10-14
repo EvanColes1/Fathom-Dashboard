@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T01:02:11.773492+00:00",
+ "updated": "2026-10-14T03:52:16.816168+00:00",
  "days": {
   "2026-09-28": {
    "total": 2,
@@ -894,7 +894,7 @@
    }
   },
   "2026-10-12": {
-   "total": 533,
+   "total": 534,
    "c": {
     "Saudi Arabia": 58,
     "Yemen": 47,
@@ -909,8 +909,8 @@
     "Israel": 31,
     "Germany": 7,
     "Poland": 9,
-    "Russia": 60,
-    "Ukraine": 60,
+    "Russia": 61,
+    "Ukraine": 61,
     "Italy": 7,
     "Peru": 1,
     "Argentina": 1,
@@ -1109,13 +1109,14 @@
    }
   },
   "2026-10-13": {
-   "total": 551,
+   "total": 555,
    "c": {
+    "Rwanda": 10,
     "Ghana": 2,
     "Saudi Arabia": 42,
     "United States": 109,
     "Russia": 65,
-    "Ukraine": 48,
+    "Ukraine": 49,
     "Germany": 6,
     "Iran": 36,
     "Israel": 22,
@@ -1136,11 +1137,10 @@
     "Australia": 11,
     "Italy": 5,
     "Taiwan": 3,
-    "European Union": 15,
+    "European Union": 16,
     "North Korea": 2,
     "Egypt": 3,
     "Greece": 5,
-    "Rwanda": 9,
     "DR Congo": 8,
     "Singapore": 2,
     "Somalia": 3,
@@ -1209,6 +1209,7 @@
     "Laos": 1
    },
    "s": {
+    "Rwanda": 3,
     "Ghana": 2,
     "Saudi Arabia": 10,
     "United States": 21,
@@ -1238,7 +1239,6 @@
     "North Korea": 1,
     "Egypt": 2,
     "Greece": 4,
-    "Rwanda": 3,
     "DR Congo": 5,
     "Singapore": 2,
     "Somalia": 3,
@@ -1308,36 +1308,58 @@
    }
   },
   "2026-10-14": {
-   "total": 12,
+   "total": 39,
    "c": {
+    "Iran": 7,
+    "United States": 11,
+    "Saudi Arabia": 4,
+    "Yemen": 6,
+    "Israel": 6,
+    "Palestine": 4,
+    "Greece": 2,
+    "Ukraine": 4,
+    "Germany": 1,
+    "Russia": 4,
+    "Australia": 3,
+    "India": 1,
+    "United Kingdom": 1,
+    "Pakistan": 1,
+    "Panama": 1,
+    "Colombia": 1,
+    "Portugal": 1,
+    "European Union": 1,
+    "Namibia": 1,
+    "Japan": 1,
     "China": 1,
-    "Israel": 3,
-    "Palestine": 3,
-    "Russia": 1,
-    "Ukraine": 1,
-    "United States": 2,
-    "Iran": 2,
     "Oman": 1,
-    "Yemen": 2,
     "Jordan": 1,
-    "Egypt": 1,
-    "Australia": 1,
-    "Saudi Arabia": 1
+    "Egypt": 1
    },
    "s": {
-    "China": 1,
+    "Iran": 2,
+    "United States": 5,
+    "Saudi Arabia": 3,
+    "Yemen": 3,
     "Israel": 2,
     "Palestine": 2,
-    "Russia": 1,
-    "Ukraine": 1,
-    "United States": 2,
-    "Iran": 2,
-    "Oman": 1,
-    "Yemen": 2,
-    "Jordan": 1,
-    "Egypt": 1,
+    "Greece": 2,
+    "Ukraine": 3,
+    "Germany": 1,
+    "Russia": 4,
     "Australia": 1,
-    "Saudi Arabia": 1
+    "India": 1,
+    "United Kingdom": 1,
+    "Pakistan": 1,
+    "Panama": 1,
+    "Colombia": 1,
+    "Portugal": 1,
+    "European Union": 1,
+    "Namibia": 1,
+    "Japan": 1,
+    "China": 1,
+    "Oman": 1,
+    "Jordan": 1,
+    "Egypt": 1
    }
   }
  }

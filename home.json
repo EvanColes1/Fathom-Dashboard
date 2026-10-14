@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T01:02:11.773492+00:00",
+ "updated": "2026-10-14T03:52:16.816168+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-14T01:02:11.773492+00:00",
+   "published": "2026-10-14T03:52:16.816168+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -18,6 +18,48 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "9b1b598d212f3981",
+   "title": "Burnham sends fresh message to Ukraine ahead of Zelensky visit after Trump's diesel deal with Russia",
+   "summary": "Burnham will hold talks with Zelensky on Wednesday at Downing Street",
+   "url": "https://www.independent.co.uk/news/uk/politics/burnham-zelensky-trump-russia-diesel-deal-b3066176.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T02:03:42+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "e0cc3ae4f3f2defa",
+   "title": "PM pledges 'rock-solid' support ahead of Zelenskyy visit after Trump's diesel deal with Russia",
+   "summary": "Andy Burnham will welcome Volodymyr Zelenskyy to Downing Street today in a show of support days after Donald Trump's controversial diesel deal with Russia.",
+   "url": "https://news.sky.com/story/pm-pledges-rock-solid-support-ahead-of-zelenskyy-visit-after-trumps-diesel-deal-with-russia-13599080",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T00:52:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
   },
   {
    "id": "f5066ed6608db03f",
@@ -175,27 +217,6 @@
    ],
    "tax": [],
    "countries": [
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "9b1b598d212f3981",
-   "title": "Burnham sends fresh message to Ukraine ahead of Zelensky visit after Trump's diesel deal with Russia",
-   "summary": "Burnham will hold talks with Zelensky on Wednesday at Downing Street",
-   "url": "https://www.independent.co.uk/news/uk/politics/burnham-zelensky-trump-russia-diesel-deal-b3066176.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T21:30:31+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Russia",
     "Ukraine",
     "United States"
    ]
@@ -6005,28 +6026,28 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -6638,7 +6659,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129357,
+   "signatures": 129359,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -6647,7 +6668,7 @@
   {
    "id": 764268,
    "title": "Protect legal right to support for children with SEND",
-   "signatures": 116659,
+   "signatures": 116664,
    "created": "2026-03-13T19:29:47.335Z",
    "responded": true,
    "debate": true,
@@ -6656,7 +6677,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 113633,
+   "signatures": 113648,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -6683,7 +6704,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83228,
+   "signatures": 83230,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -6692,7 +6713,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 79846,
+   "signatures": 79876,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -6701,7 +6722,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 70523,
+   "signatures": 70537,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -6710,7 +6731,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 61173,
+   "signatures": 61177,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -6737,7 +6758,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42053,
+   "signatures": 42058,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
