@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T15:56:15.770802+00:00",
+ "updated": "2026-10-14T18:59:50.351558+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-14T15:56:15.770802+00:00",
+   "published": "2026-10-14T18:59:50.351558+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,18 +20,139 @@
    "countries": []
   },
   {
+   "id": "2ba84aacbf8904ff",
+   "title": "PM: We need The Independent more than ever",
+   "summary": "Marking the milestone in a letter celebrating four decades of The Independent, Andy Burnham praised how it always seeks ‘different points of view’",
+   "url": "https://www.independent.co.uk/news/uk/politics/pm-andy-burham-independent-40-anniversary-b3066864.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T18:42:39+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "57a9c7dd67771353",
+   "title": "TV licence fee non-payment: should it be decriminalised?",
+   "summary": "The government has launched the BBC Charter review. This will examine the BBC's funding model and licence fee collection.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn06860/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-14T18:07:46+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f7570566a2a826dc",
+   "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+   "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+   "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T17:46:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cc91999e8d6d36a9",
+   "title": "The Guardian view on Trump’s deal with Putin: grim and grubby, but not gamechanging | Editorial",
+   "summary": "President Zelenskyy’s allies must show the Russian president that American perfidy won’t alter the course of a war the Kremlin is losing When Donald Trump pledged to end the war in Ukraine  within 24 hours of re-entering the White House last year, no one with any depth of insight into the conflict…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/14/the-guardian-view-on-trumps-deal-with-putin-grim-and-grubby-but-not-gamechanging",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T17:30:08+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "1e2d24ad54c3a504",
+   "title": "GDP international comparisons: Economic indicators",
+   "summary": "GDP measures the size of the economy. Find the latest GDP growth data for the UK and comparisons with other G7 economies.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02784/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-14T17:22:33+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "G7 / G20"
+   ]
+  },
+  {
+   "id": "867c5c6e712c79a6",
+   "title": "We are behind you and that will not change, PM tells Zelensky",
+   "summary": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
+   "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T17:20:58+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "ecb2a5d378a50b9d",
+   "title": "Burnham told to apologise over Ann Widdecombe murder case comments during PMQs",
+   "summary": "Mr Burnham referred in the House of Commons to the “individual responsible for the murder”, despite the legal process still being in its early stages",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-ann-widdecombe-jesse-norman-b3066877.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T17:08:06+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "ddb7184c19609822",
-   "title": "Andy Burnham hosts Volodymyr Zelenskyy at Downing Street – UK politics live",
-   "summary": "Burnham welcomes Ukraine’s president to No 10 for the first time since he became PM PMQs is about to start. Here is the list of MPs down to ask a question. After @genevieve_holl reported this last night, various sources in the Trump administration who are supportive of Farage said Badenoch was…",
+   "title": "Burnham tells Zelenskyy’s UK’s support for Ukraine ‘will not change’ – as it happened",
+   "summary": "Zelenskyy says he will be discussing intelligence sharing ‘difficulties’ and Starlink access with Burnham PMQs is about to start. Here is the list of MPs down to ask a question. After @genevieve_holl reported this last night, various sources in the Trump administration who are supportive of Farage…",
    "url": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
    "source": "Guardian Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-14T15:45:51+00:00",
+   "published": "2026-10-14T17:06:58+00:00",
    "dateonly": false,
    "parties": [
     "Labour",
-    "Conservative",
     "Reform UK"
    ],
    "topics": [],
@@ -42,6 +163,139 @@
    ]
   },
   {
+   "id": "6fb2558e9ca57e7c",
+   "title": "UK’s ‘incoherent’ approach to China plagued by lack of expertise, report says",
+   "summary": "International alliance of China-sceptic legislators warns of risks inherent in misjudging bilateral relationship The UK’s approach to China is “beset by incoherence” and plagued by a lack of senior expertise, according to a report warning of the risks inherent in misjudging the bilateral…",
+   "url": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T17:00:14+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "f6897a77380fd2f5",
+   "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
+   "summary": "Global human rights commitments adopted by government extend reach to enablers of unlawful activity The UK is expanding its sanctions powers to freeze assets and target entities enabling illegal Israeli settlements, obstructing humanitarian aid or unlawfully holding prisoners. The statutory…",
+   "url": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T16:51:25+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "314f227cf7e599a3",
+   "title": "Plan unveiled to increase share of land farmed organically in England to 10%",
+   "summary": "Government says ambition for 2036 will be good for food and climate resilience, but concerns remain over funding The government has set an ambition to increase the share of English land farmed organically to 10% by 2036, but concerns remain over how the transition will be funded. Currently, just…",
+   "url": "https://www.theguardian.com/environment/2026/oct/14/land-farmed-organically-england-share-10-pc-2036-plan-food-climate",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T16:49:15+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fad774142212cfe6",
+   "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+   "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+   "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T16:47:32+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "bc509c7979d6cf18",
+   "title": "The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster",
+   "summary": "Jason O’Connell’s suspected use of the specs to aid his speech in Senedd reignites debate over AI-enabled devices It was a flowing speech packed full of precise statistics – but Jason O’Connell, a Reform UK Senedd member, was not quite the gifted orator he had first appeared. The periodic flashing…",
+   "url": "https://www.theguardian.com/technology/2026/oct/14/smart-glasses-ai-technology-reform-senedd-westminster-ban",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T16:43:27+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c0257cc3806c42e7",
+   "title": "The UK energy secretary is flirting with a bad idea for bills – the ‘rising block tariff’",
+   "summary": "There are many reasons to reject this affordability ‘solution’, not least it being complex and fiddly. Just keep things simple ‘My mark of failure or success is whether I can get bills down or not. That’s the only thing I’m in this job to do.” So said Miatta Fahnbulleh, the energy secretary,…",
+   "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/14/the-uk-energy-secretary-is-flirting-with-a-bad-idea-for-bills-the-rising-block-tariff",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T16:43:15+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d18e883ba2abe24c",
+   "title": "Burnham rules out coalition with Greens after 'Zionism is racism' motion",
+   "summary": "Andy Burnham condemns the motion approved by Green Party members and says his party would \"have nothing to do with it\".",
+   "url": "https://www.bbc.co.uk/news/articles/cr3el59j9y17o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T16:37:59+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Green Party"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "de96e0d1c27e3fa3",
+   "title": "Andrew Bailey calls for clampdown on ‘downright criminal’ social media scams",
+   "summary": "Andrew Bailey, head of the British central bank, told an audience in Bangkok that there has been ‘no real liability’ for some social media firms.",
+   "url": "https://www.independent.co.uk/news/uk/politics/andrew-bailey-bank-of-england-bangkok-british-kristalina-georgieva-b3066853.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T16:22:15+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Thailand"
+   ]
+  },
+  {
    "id": "704df3fbbfb0dbb4",
    "title": "That Kemi is spectacularly wrong about almost everything is a big help to the PM | John Crace",
    "summary": "One good poll has convinced the Tory leader she is invincible. She was back in her happy place with a scattergun PMQs Little things please little minds. And minds don’t come much smaller than some of those in Westminster. If a researcher had come up with a study that showed one element two points…",
@@ -49,7 +303,7 @@
    "source": "Guardian Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-14T15:36:12+00:00",
+   "published": "2026-10-14T16:18:54+00:00",
    "dateonly": false,
    "parties": [
     "Conservative"
@@ -60,6 +314,81 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "8e82fce38941383f",
+   "title": "Palantir and Sadiq Khan drop legal battle over Met contract",
+   "summary": "Dispute related to claims London mayor blocked US tech firm from £50m police deal because of concerns over its values Palantir and the London mayor, Sadiq Khan, have called off their legal fight over claims the Labour mayor was blocking the US tech company from signing a contract with the…",
+   "url": "https://www.theguardian.com/technology/2026/oct/14/palantir-and-sadiq-khan-drop-legal-battle-over-met-contract",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T16:05:22+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "0fa9705221b47cf1",
+   "title": "Done family took £30m dividend from Betfred before warning of job cuts",
+   "summary": "Money was withdrawn from gambling firm before founder warned chancellor against doubling machine games duty The billionaire Done family took a £30m dividend from their Betfred gambling empire, before warning that they would close hundreds of bookies and cut jobs if the government increases tax on…",
+   "url": "https://www.theguardian.com/society/2026/oct/14/done-family-dividend-betfred-job-cuts",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T16:03:10+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "639a7f145d6868d9",
+   "title": "'It's rough out here': Americans struggle with rising inflation",
+   "summary": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.",
+   "url": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T15:57:11+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "32f880d6d58b348f",
+   "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+   "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+   "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T15:54:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Saudi Arabia"
+   ]
   },
   {
    "id": "64e14d845673ff17",
@@ -140,6 +469,23 @@
    ]
   },
   {
+   "id": "d52d31676c77f78b",
+   "title": "Downing Street calls in IPO candidates and investors for talks",
+   "summary": "Andy Burnham's top business advisor has called in some of Britain's most valuable private companies and a group of major investors for talks aimed at boosting London's flagging pipeline of bumper stock market listings.",
+   "url": "https://news.sky.com/story/downing-street-calls-in-ipo-candidates-and-investors-for-talks-13599298",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T15:04:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "797f9725666e40f3",
    "title": "Strategic Defence Review and spending plans for the Royal Navy",
    "summary": "The Royal Navy will become a ‘hybrid navy’ with uncrewed vessels operating alongside traditional warships. What does this mean and how will it be funded?",
@@ -167,24 +513,6 @@
    "party_voice": "",
    "published": "2026-10-14T14:48:54Z",
    "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d18e883ba2abe24c",
-   "title": "Burnham rules out coalition with Greens after 'Zionism is racism' motion",
-   "summary": "Andy Burnham condemns the motion approved by Green Party members and says his party would \"have nothing to do with it\".",
-   "url": "https://www.bbc.co.uk/news/articles/cr3el59j9y17o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T14:44:06+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Green Party"
-   ],
    "topics": [],
    "tax": [],
    "countries": []
@@ -6574,28 +6902,6 @@
    "countries": []
   },
   {
-   "id": "0619d62e5d828147",
-   "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
-   "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money.",
-   "url": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-09-30T16:14:23+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Economy",
-    "NHS and care"
-   ],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
    "id": "8ee397addcf52c84",
    "title": "Treasury Minutes – September 2026",
    "summary": "Government departments respond to the Public Accounts Committee reports through a Treasury minute.",
@@ -7305,14 +7611,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 8,
    "note": ""
   },
   {
@@ -7326,28 +7632,28 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -7375,7 +7681,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
@@ -7963,7 +8269,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129456,
+   "signatures": 129483,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -7972,7 +8278,7 @@
   {
    "id": 764268,
    "title": "Protect legal right to support for children with SEND",
-   "signatures": 116957,
+   "signatures": 117088,
    "created": "2026-03-13T19:29:47.335Z",
    "responded": true,
    "debate": true,
@@ -7981,7 +8287,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 114043,
+   "signatures": 114132,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -7990,7 +8296,7 @@
   {
    "id": 764785,
    "title": "Support the Ceramics Industry and protect British manufacturing jobs and skills",
-   "signatures": 111229,
+   "signatures": 111230,
    "created": "2026-03-19T10:58:30.234Z",
    "responded": true,
    "debate": true,
@@ -7999,7 +8305,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106004,
+   "signatures": 106008,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -8008,7 +8314,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83292,
+   "signatures": 83314,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -8017,7 +8323,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 80999,
+   "signatures": 81258,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -8026,7 +8332,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 71139,
+   "signatures": 71266,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -8035,7 +8341,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 61968,
+   "signatures": 62565,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -8044,7 +8350,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55290,
+   "signatures": 55293,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -8053,7 +8359,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 48999,
+   "signatures": 49016,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -8062,7 +8368,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42213,
+   "signatures": 42253,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
