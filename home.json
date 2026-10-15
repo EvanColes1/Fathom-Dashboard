@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:59:51.723140+00:00",
+ "updated": "2026-10-15T21:49:45.065527+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,83 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-15T18:59:51.723140+00:00",
+   "published": "2026-10-15T21:49:45.065527+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2a56fd9b2a159917",
+   "title": "‘Take the f***ing deal’: Farage secretly filmed letting off Reform candidate accused of racist attack against David Lammy",
+   "summary": "ITV captured a conversation between Nigel Farage and the party’s director of communications on a mayoral candidate accused of racism",
+   "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-uk-itv-undercover-chris-parry-b3067660.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T21:20:46+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7ebc908bc9f2bd64",
+   "title": "UK threatens to ban Eritreans over migrant return policy",
+   "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
+   "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T20:08:41+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d6cf0d0199d6f226",
+   "title": "France drops opposition to UK being included in ‘Made in Europe’ legislation",
+   "summary": "British government must however align with the European Union’s position over tariffs on Chinese EVs France has dropped its opposition to the UK being included in the EU’s “Made in Europe” legislation as long as the British government aligns with the bloc’s position over tariffs on Chinese EVs.…",
+   "url": "https://www.theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T19:28:34+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "France",
+    "China"
+   ]
+  },
+  {
+   "id": "3e7695d033c7b6d4",
+   "title": "Farage accused of ‘protecting’ Reform candidate over racist slurs against David Lammy",
+   "summary": "Exclusive: ITV investigation shows leader stood by mayoral candidate who said Labour MP should ‘go home to the Caribbean’ Nigel Farage was told by a senior Reform official that he was “protecting” a high-profile mayoral candidate accused of making racist comments about David Lammy, an undercover…",
+   "url": "https://www.theguardian.com/politics/2026/oct/15/farage-accused-protecting-reform-candidate-racist-slurs-david-lammy-itv-film",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T19:09:46+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Reform UK"
+   ],
+   "topics": [
+    "Party leadership"
    ],
    "tax": [],
    "countries": []
@@ -290,7 +362,7 @@
   {
    "id": "896ab598873743af",
    "title": "John Healey poised to raise taxes on banks in budget",
-   "summary": "Exclusive: Chancellor to target sector in his first budget to help offset damage caused by Iran war on public finances John Healey is poised to tax Britain’s banks in his 28 October budget to help offset the damage inflicted on the public finances by war in the Middle East, the Guardian…",
+   "summary": "Exclusive: Chancellor to target sector in his first budget, to help offset Iran war’s damage to public finances John Healey is poised to tax Britain’s banks in his 28 October budget, to help offset the damage inflicted on the public finances by war in the Middle East, the Guardian understands. The…",
    "url": "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget",
    "source": "Guardian Politics",
    "group": "News",
@@ -379,21 +451,6 @@
    "countries": [
     "Eritrea"
    ]
-  },
-  {
-   "id": "7ebc908bc9f2bd64",
-   "title": "UK threatens to ban Eritreans over migrant return policy",
-   "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
-   "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T15:51:17+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "c516881ae589d1ef",
@@ -9373,14 +9430,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 7,
+   "new": 2,
    "note": ""
   },
   {
@@ -9394,14 +9451,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -9443,7 +9500,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
@@ -10103,7 +10160,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129701,
+   "signatures": 129736,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -10112,7 +10169,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 114760,
+   "signatures": 114896,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -10130,7 +10187,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106047,
+   "signatures": 106075,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -10139,7 +10196,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 85778,
+   "signatures": 86578,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -10148,7 +10205,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83445,
+   "signatures": 83466,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -10157,7 +10214,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 72230,
+   "signatures": 72343,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -10166,7 +10223,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 64448,
+   "signatures": 65027,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -10175,7 +10232,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55316,
+   "signatures": 55320,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -10184,7 +10241,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49106,
+   "signatures": 49114,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -10193,7 +10250,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42498,
+   "signatures": 42525,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -10202,7 +10259,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40012,
+   "signatures": 40055,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
