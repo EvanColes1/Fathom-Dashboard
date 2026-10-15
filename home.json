@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T06:09:36.739975+00:00",
+ "updated": "2026-10-15T07:06:05.749844+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-15T06:09:36.739975+00:00",
+   "published": "2026-10-15T07:06:05.749844+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,19 +20,33 @@
    "countries": []
   },
   {
+   "id": "7ebc908bc9f2bd64",
+   "title": "UK threatens to ban Eritreans over migrant return policy",
+   "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
+   "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T07:04:11+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "3e64b0135523e925",
    "title": "UK economy grew 0.1% in August ahead of Healey's first Budget",
-   "summary": "The Office for National Statistics (ONS) said GDP grew in August.",
+   "summary": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show.",
    "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-15T06:09:36.739975+00:00",
+   "published": "2026-10-15T06:42:13+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
-    "Tax and spending",
-    "Economy"
+    "Tax and spending"
    ],
    "tax": [],
    "countries": []
@@ -172,7 +186,7 @@
   {
    "id": "c171cf19dfcae120",
    "title": "Surprise GDP growth as UK economy stronger than first thought",
-   "summary": "The UK economy has surprisingly grown, despite predictions it would shrink, official figures show.",
+   "summary": "The UK economy has grown, confounding predictions it would shrink, official figures show.",
    "url": "https://news.sky.com/story/surprise-gdp-growth-as-uk-economy-stronger-than-first-thought-13599446",
    "source": "Sky News Business",
    "group": "Economy news",
@@ -434,21 +448,6 @@
    "group": "News",
    "party_voice": "",
    "published": "2026-10-14T22:34:47+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7ebc908bc9f2bd64",
-   "title": "UK threatens to ban Eritreans over migrant return policy",
-   "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
-   "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T21:30:13+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -8039,7 +8038,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -8053,35 +8052,35 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": true,
-   "new": 3,
-   "note": ""
+   "ok": false,
+   "new": 0,
+   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -8690,7 +8689,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129561,
+   "signatures": 129566,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -8699,7 +8698,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 114307,
+   "signatures": 114338,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -8717,7 +8716,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106012,
+   "signatures": 106017,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -8726,7 +8725,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83358,
+   "signatures": 83366,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -8735,7 +8734,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 81687,
+   "signatures": 81763,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -8744,7 +8743,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 71698,
+   "signatures": 71753,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -8753,7 +8752,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 63071,
+   "signatures": 63116,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -8762,7 +8761,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55298,
+   "signatures": 55299,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -8771,7 +8770,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49042,
+   "signatures": 49045,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -8780,7 +8779,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42330,
+   "signatures": 42339,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -8789,7 +8788,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 39896,
+   "signatures": 39902,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
