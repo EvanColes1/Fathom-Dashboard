@@ -1,7 +1,451 @@
 {
- "updated": "2026-10-15T13:05:16.954364+00:00",
+ "updated": "2026-10-15T15:53:11.941986+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "ecffaeecb1eb927b",
+   "title": "Green Budget 2026: Full report",
+   "summary": "",
+   "url": "https://ifs.org.uk/publications/green-budget-2026-full-report",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-15T15:53:11.941986+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7ebc908bc9f2bd64",
+   "title": "UK threatens to ban Eritreans over migrant return policy",
+   "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
+   "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T15:51:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d41a430b50a0567b",
+   "title": "BBC to force more to pay licence fee with ‘YouTube tax’",
+   "summary": "Exclusive: A government white paper set to be published before Christmas is expected to include plans to extend the licence fee to cover YouTube, Netflix, Amazon and Disney Plus",
+   "url": "https://www.independent.co.uk/news/uk/politics/bbc-licence-fee-charter-youtube-tax-netflix-disney-b3067500.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T15:43:51+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0e91fdf9e974a2b8",
+   "title": "Top health civil servant urged to play no role in clampdown on ADHD clinics",
+   "summary": "Four MPs raise conflict of interest concerns over Samantha Jones’s past links to a big provider of ADHD assessments A senior civil servant should play no part in ministers’ crackdown on private ADHD and autism clinics because of her recent ties to the industry, MPs have said. Labour and Liberal…",
+   "url": "https://www.theguardian.com/politics/2026/oct/15/health-department-civil-servant-adhd-clinics-clampdown",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T15:35:21+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "92aeffa8ab4ec62c",
+   "title": "UK Government Green Financing Programme",
+   "summary": "Publications linked to the UK Government Green Financing Programme, including the Green Financing Framework and allocation and impact reports.",
+   "url": "https://www.gov.uk/government/collections/uk-government-green-financing-programme",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "document_collection",
+   "party_voice": "",
+   "published": "2026-10-15T15:30:01Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c7bf2019b8be77de",
+   "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
+   "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists.",
+   "url": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T15:26:21+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "45d15a8157aea3cc",
+   "title": "Wes Streeting in US for Hegseth meeting as Ukraine tensions escalate – as it happened",
+   "summary": "This live blog is now closed, you can read more of our UK political coverage here Labour says it’s told all of its local councils who share power with the Green Party to review their agreements after the Greens passed a “Zionism is Racism” motion at their autumn conference earlier this month. If…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T15:19:08+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Green Party"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "d2e94ee51ef68cf6",
+   "title": "Labour to break from Green council groups that back Zionism policy",
+   "summary": "Labour says it will end power-sharing deals with councillors that do not disown the party's new stance.",
+   "url": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T15:17:56+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7dfc3b946472d2bf",
+   "title": "How Jeffrey Donaldson’s victims triggered former DUP leader’s downfall",
+   "summary": "Judge Paul Ramsey observed Donaldson had shown no 'regret, apology or shame' after he was convicted of 18 offences",
+   "url": "https://www.independent.co.uk/news/uk/crime/jeffrey-donaldson-sentence-prison-dup-b3067533.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T15:16:27+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ee45cfe7f05e28d5",
+   "title": "Just as Saint Nige thought it was safe to reappear, along comes pesky ITV | John Crace",
+   "summary": "How dare the channel reveal more racism and bigotry within Reform just as he was planning a press conference? Sometimes the world can be very unfair. As though life is just one cruel joke. How else to make sense of everything? For when the history books come to be written, Nigel Farage will go down…",
+   "url": "https://www.theguardian.com/politics/2026/oct/15/nigel-farage-itv-reform",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T15:11:28+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "93377c660eeebb84",
+   "title": "Church Appointments (Repeal of Discriminatory Provision) Bill 2026-27",
+   "summary": "A briefing on the Church Appointments (Repeal of Discriminatory Provision) Bill 2026-27",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12191/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-15T14:55:23+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8c10caeeb8978038",
+   "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+   "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+   "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T14:55:21+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4a17038c1e1bf0e0",
+   "title": "Chancellor says ‘It is my job to protect resilience of the UK economy and the budget will do that’ in the face of international headwinds",
+   "summary": "Chancellor of the Exchequer, John Healey used the IMF Annual Meetings in Bangkok to set out how the UK and its international partners can work together to respond to global economic headwinds and strengthen the conditions for growth.",
+   "url": "https://www.gov.uk/government/news/chancellor-says-it-is-my-job-to-protect-resilience-of-the-uk-economy-and-the-budget-will-do-that-in-the-face-of-international-headwinds",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "news_story",
+   "party_voice": "",
+   "published": "2026-10-15T14:51:51Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "Thailand",
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "cb0d95760dc6f3ae",
+   "title": "How to make a voluntary disclosure to HMRC",
+   "summary": "Find out about the different ways to make a voluntary disclosure to HMRC if you think you have not paid the correct amount of tax.",
+   "url": "https://www.gov.uk/government/publications/hmrc-your-guide-to-making-a-disclosure",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-15T14:48:40Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2cb2c35e207c2df4",
+   "title": "Check genuine HMRC contact that uses more than one communication method",
+   "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+   "url": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-15T14:24:48Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ed03a64a92136a62",
+   "title": "Labour councils told to end agreements with Greens who do not condemn ‘Zionism is racism’ policy",
+   "summary": "Party chair calls on Labour groups to end local deals if Green councillors do not reject motion attacked as ‘antisemitic’ UK politics live – latest updates Labour councils who share power with the Greens have been told to terminate agreements if their Green partners do not condemn the party’s new…",
+   "url": "https://www.theguardian.com/politics/2026/oct/15/labour-councils-greens-zionism-racism",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T14:21:50+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Green Party"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "364f086f57f78a90",
+   "title": "UK Resettlement Scheme reopening and new refugee sponsorship routes",
+   "summary": "Many constituents are asking how refugees can get permission to come to the UK through the UK Resettlement Scheme or the forthcoming community sponsorship routes.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12229/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-15T14:18:26+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d801a73f70f8166c",
+   "title": "Labour peer claims royal family not doing ‘real work’ as £100m funding questioned",
+   "summary": "Labour peer Lord Foulkes of Cumnock argued that the monarchy is not providing value for money",
+   "url": "https://www.independent.co.uk/news/uk/politics/royal-family-funding-king-charles-sovereign-grant-b3067226.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T14:15:09+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "84fa79725b8c9521",
+   "title": "'Bring it on': Flynn challenges Burnham on independence referendum",
+   "summary": "The SNP's Stephen Flynn tells his party's conference independence supporters are \"winning the argument\".",
+   "url": "https://www.bbc.co.uk/news/articles/cv2d658g1erro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T14:08:55+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Scottish National Party"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0c0a1dfa08e800c2",
+   "title": "Check if an email you've received from HMRC is genuine",
+   "summary": "Check a list of recent emails from HMRC to help you decide if the email you've received is a scam.",
+   "url": "https://www.gov.uk/guidance/check-if-an-email-youve-received-from-hmrc-is-genuine",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-15T14:08:26Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "81b712d954023271",
+   "title": "Burnham asks for 'manual trawl' of records for former Man City links",
+   "summary": "The PM has faced fresh questions about hospitality dinners since the club was found guilty of Premier League rule breaches.",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2ve4nr9pgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T14:08:02+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "54695172942d5c35",
+   "title": "Ahmed Imtiaz: We must confront the debt crisis before it’s too late",
+   "summary": "We've just had the 50th anniversary of the IMF bailout to the UK, we should be proactive in addressing this debt crisis as a country; a serious debt crisis is brewing, which needs to be addressed by reducing the size of the state regardless of the political capital that needs to be spent. The post…",
+   "url": "https://conservativehome.com/2026/10/15/ahmed-imtiaz-we-must-confront-the-debt-crisis-before-its-too-late/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-15T14:00:52+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "3a6cfa5dedae1652",
+   "title": "How to use your ATA Carnet",
+   "summary": "Find out to use your carnet at customs when temporarily exporting and importing goods.",
+   "url": "https://www.gov.uk/guidance/how-to-use-your-ata-carnet",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-15T13:45:35Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3e64b0135523e925",
+   "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+   "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+   "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T13:25:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "21d86ea6589aa90f",
+   "title": "Tied Oils Enquiry Service: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Tied Oils Enquiry Service online service.",
+   "url": "https://www.gov.uk/government/publications/tied-oils-enquiry-service-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-15T13:20:51Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f6dcf92939d7cc49",
+   "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+   "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
+   "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T13:13:26+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "37c4e6204280bde6",
    "title": "CWG2: further guide to PAYE and National Insurance contributions",
@@ -22,19 +466,17 @@
    "countries": []
   },
   {
-   "id": "ecffaeecb1eb927b",
-   "title": "Green Budget 2026: Full report",
-   "summary": "",
-   "url": "https://ifs.org.uk/publications/green-budget-2026-full-report",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
+   "id": "97e20e22569f9bd0",
+   "title": "Nandy 'minded to intervene' in Sky's proposed £1.6bn takeover of ITV",
+   "summary": "She is pondering concerns about the impact of the deal on free expression of opinion in news media",
+   "url": "https://www.independent.co.uk/news/uk/politics/sky-itv-deal-lisa-nandy-b3067411.html",
+   "source": "Independent Politics",
+   "group": "News",
    "party_voice": "",
-   "published": "2026-10-15T13:05:16.954364+00:00",
-   "dateonly": true,
+   "published": "2026-10-15T13:03:54+00:00",
+   "dateonly": false,
    "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -54,63 +496,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "81bc9c9da3e270b7",
-   "title": "Andy Burnham ‘apologises’ for comments about Ann Widdecombe’s murder at PMQs",
-   "summary": "The prime minister was accused of a ‘breach of the presumption of innocence’",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-ann-widdecombe-pmqs-b3067403.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T12:59:56+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "97e20e22569f9bd0",
-   "title": "Nandy 'minded to intervene' in Sky's proposed £1.6bn takeover of ITV",
-   "summary": "Culture Secretary Lisa Nandy says she is “minded to intervene” in Sky’s proposed £1.6 billion takeover of ITV’s media and entertainment division.",
-   "url": "https://www.independent.co.uk/news/uk/politics/sky-itv-deal-lisa-nandy-b3067411.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T12:42:32+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "45d15a8157aea3cc",
-   "title": "Wes Streeting in US for Hegseth meeting as Ukraine tensions escalate – UK politics live",
-   "summary": "Defence secretary’s meeting comes after Burnham said he would help facilitate reconciliation between Zelenskyy and Trump Labour says it’s told all of its local councils who share power with the Green Party to review their agreements after the Greens passed a “Zionism is Racism” motion at their…",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T12:38:35+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Green Party"
-   ],
-   "topics": [
-    "Defence"
-   ],
-   "tax": [],
-   "countries": [
-    "Ukraine",
-    "United States"
-   ]
   },
   {
    "id": "de71eb6ac926b3d9",
@@ -145,42 +530,28 @@
    "countries": []
   },
   {
-   "id": "d2e94ee51ef68cf6",
-   "title": "Labour could end local coalitions with Greens over Zionism policy",
-   "summary": "Labour says it will end power-sharing deals with councillors that do not disown the party's new stance.",
-   "url": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
+   "id": "81bc9c9da3e270b7",
+   "title": "Andy Burnham ‘apologises’ for comments about Ann Widdecombe’s murder at PMQs",
+   "summary": "The prime minister was accused of a ‘breach of the presumption of innocence’",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-ann-widdecombe-pmqs-b3067403.html",
+   "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-15T12:34:32+00:00",
+   "published": "2026-10-15T12:30:40+00:00",
    "dateonly": false,
    "parties": [
-    "Labour",
-    "Green Party"
+    "Labour"
    ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2cb2c35e207c2df4",
-   "title": "Check genuine HMRC contact that uses more than one communication method",
-   "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
-   "url": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-15T12:06:19Z",
-   "parties": [],
-   "topics": [],
+   "topics": [
+    "Party leadership"
+   ],
    "tax": [],
    "countries": []
   },
   {
    "id": "fbd1fa035e80f501",
    "title": "Former DUP leader Jeffrey Donaldson sentenced to 15 years for child sexual offences",
-   "summary": "Donaldson was found guilty in June of 18 counts of sexual abuse including one rape between 1985 and 2008 Jeffrey Donaldson has been sentenced to 15 years for sexual offences against two women who were children when he abused them, paving what was described as a “catastrophic descent into disgrace”.…",
+   "summary": "Donaldson was found guilty in June of 18 counts of sexual abuse including one rape between 1985 and 2008 Jeffrey Donaldson has been sentenced to 15 years for sexual offences against two women who were children when he abused them, completing what was described as a “catastrophic descent into…",
    "url": "https://www.theguardian.com/uk-news/2026/oct/15/jeffrey-donaldson-sentenced-to-15-years-for-child-sexual-offences",
    "source": "Guardian Politics",
    "group": "News",
@@ -193,6 +564,27 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "0c145cdd73ebcbe2",
+   "title": "George Beglan: Washington’s Greenland outlives NATO and Britain must take the hint",
+   "summary": "Washington secured what it wanted in Greenland by permanently securing what it would otherwise have had to keep asking allies for. Britain can no longer draft treaties on those terms. The post George Beglan: Washington’s Greenland outlives NATO and Britain must take the hint appeared first on…",
+   "url": "https://conservativehome.com/2026/10/15/george-beglan-washingtons-greenland-outlives-nato-and-britain-must-take-the-hint/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-15T12:00:37+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": [
+    "Denmark",
+    "United States",
+    "NATO"
+   ]
   },
   {
    "id": "b86214b91ce97950",
@@ -419,7 +811,7 @@
    "group": "Government",
    "kind": "promotional",
    "party_voice": "",
-   "published": "2026-10-15T10:30:04Z",
+   "published": "2026-10-15T10:30:00Z",
    "parties": [],
    "topics": [],
    "tax": [
@@ -439,6 +831,28 @@
    "dateonly": false,
    "parties": [],
    "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "546a134cd3628da5",
+   "title": "Caroline Elsom: Burnham’s housing benefit bill is coming back to haunt him",
+   "summary": "After years knocking on the No.11 door demanding benefit treats, Burnham must now find a way to pay for them at the Budget. He will find little sympathy on the Conservative benches, which have adopted Onward’s plan to reset Local Housing Allowance to the 10th percentile and extend the caps to…",
+   "url": "https://conservativehome.com/2026/10/15/caroline-elsom-burnhams-housing-benefit-bill-is-coming-back-to-haunt-him/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-15T10:00:21+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Economy",
+    "Housing"
+   ],
    "tax": [],
    "countries": []
   },
@@ -475,56 +889,6 @@
    "countries": [
     "United Arab Emirates"
    ]
-  },
-  {
-   "id": "3e64b0135523e925",
-   "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-   "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-   "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-15T09:29:54+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7ebc908bc9f2bd64",
-   "title": "UK threatens to ban Eritreans over migrant return policy",
-   "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
-   "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T09:17:57+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d801a73f70f8166c",
-   "title": "Labour peer claims royal family not doing ‘real work’ as £100m funding questioned",
-   "summary": "Labour peer Lord Foulkes of Cumnock argued that the monarchy is not providing value for money",
-   "url": "https://www.independent.co.uk/news/uk/politics/royal-family-funding-king-charles-sovereign-grant-b3067226.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T08:49:42+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "eb74ddc5a29fcf6a",
@@ -1024,6 +1388,23 @@
    "countries": []
   },
   {
+   "id": "0c6da72e8bf22654",
+   "title": "Is the Chancellor’s spending plan credible?",
+   "summary": "",
+   "url": "https://ifs.org.uk/articles/chancellors-spending-plan-credible",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-15T00:00:00+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "87cd317dee173a69",
    "title": "How backlash against data centres could shape the US midterm elections",
    "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
@@ -1044,8 +1425,8 @@
   },
   {
    "id": "e9db7b2bc5deecc4",
-   "title": "How a Chinese-made toy gets to a US retailer",
-   "summary": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+   "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
+   "summary": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
    "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
@@ -1208,6 +1589,21 @@
    "group": "Analysis",
    "party_voice": "",
    "published": "2026-10-14T18:07:46+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e85a902846c506e9",
+   "title": "Government pilots online pornography monitor to tackle violent content",
+   "summary": "The government has commissioned the body that age rates films in the UK to test the feasibility of monitoring online pornography for violent and abusive content.",
+   "url": "https://news.sky.com/story/government-pilots-online-pornography-monitor-to-tackle-violent-content-13599345",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T18:04:00+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -5462,21 +5858,6 @@
    "countries": []
   },
   {
-   "id": "0c0a1dfa08e800c2",
-   "title": "Check if an email you've received from HMRC is genuine",
-   "summary": "Check a list of recent emails from HMRC to help you decide if the email you've received is a scam.",
-   "url": "https://www.gov.uk/guidance/check-if-an-email-youve-received-from-hmrc-is-genuine",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-12T08:00:07Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "8995e1d474934972",
    "title": "‘Dereliction of duty’ not to seek closer ties with EU, Andy Burnham to tells MPs",
    "summary": "The prime minister will call on all parties to support the government’s EU approach",
@@ -6559,23 +6940,6 @@
     "Reform UK"
    ],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "364f086f57f78a90",
-   "title": "UK Resettlement Scheme reopening and new refugee sponsorship routes",
-   "summary": "Many constituents are asking how refugees can get permission to come to the UK through the UK Resettlement Scheme or the forthcoming community sponsorship routes.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12229/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-09T14:31:14+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Immigration"
-   ],
    "tax": [],
    "countries": []
   },
@@ -8691,14 +9055,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
@@ -8712,7 +9076,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 6,
+   "new": 2,
    "note": ""
   },
   {
@@ -8726,21 +9090,21 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": false,
-   "new": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
+   "ok": true,
+   "new": 3,
+   "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -8761,7 +9125,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
@@ -8775,7 +9139,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -9421,7 +9785,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129636,
+   "signatures": 129676,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -9430,7 +9794,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 114581,
+   "signatures": 114670,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -9439,7 +9803,7 @@
   {
    "id": 764785,
    "title": "Support the Ceramics Industry and protect British manufacturing jobs and skills",
-   "signatures": 111235,
+   "signatures": 111238,
    "created": "2026-03-19T10:58:30.234Z",
    "responded": true,
    "debate": true,
@@ -9448,7 +9812,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106029,
+   "signatures": 106034,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -9457,7 +9821,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 83723,
+   "signatures": 84648,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -9466,7 +9830,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83405,
+   "signatures": 83424,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -9475,7 +9839,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 72035,
+   "signatures": 72132,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -9484,7 +9848,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 63456,
+   "signatures": 63767,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -9493,7 +9857,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55311,
+   "signatures": 55313,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -9502,7 +9866,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49092,
+   "signatures": 49098,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -9511,7 +9875,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42412,
+   "signatures": 42462,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -9520,7 +9884,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 39954,
+   "signatures": 39976,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
