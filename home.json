@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T21:50:01.020360+00:00",
+ "updated": "2026-10-15T00:59:51.012933+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,12 +10,165 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-14T21:50:01.020360+00:00",
+   "published": "2026-10-15T00:59:51.012933+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cbd7bde214b6bf32",
+   "title": "Reform suspends members after undercover investigation exposes councillors making racist remarks",
+   "summary": "One Reform councillor called for King Charles to be beheaded, saying he was a Muslim",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-councillors-racist-farage-itv-b3066949.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T00:23:02+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "87cd317dee173a69",
+   "title": "How backlash against data centres could shape the US midterm elections",
+   "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+   "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T23:02:57+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "3122f62d67e440af",
+   "title": "Britain pledges £17 million to repair Chernobyl power plant hit by Russian drone strike",
+   "summary": "Andy Burnham has reinforced his support for Ukraine following talks with Volodymyr Zelensky",
+   "url": "https://www.independent.co.uk/news/world/europe/chernobyl-power-plant-repairs-uk-support-burnham-russia-drone-strike-b3067038.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T23:01:53+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "e9db7b2bc5deecc4",
+   "title": "How a Chinese-made toy gets to a US retailer",
+   "summary": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+   "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T23:01:28+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "China",
+    "United States"
+   ]
+  },
+  {
+   "id": "be10fef40401e7d7",
+   "title": "Stopping Pip for ADHD or autism would not make big savings, says thinktank",
+   "summary": "Resolution Foundation says ‘crude changes’ to benefits system would probably make it harder for people to work Banning people with anxiety, ADHD or autism from claiming disability benefits would not deliver major financial savings and would probably make it harder for them to get or stay in a job…",
+   "url": "https://www.theguardian.com/society/2026/oct/15/pip-ban-adhd-autism-savings-resolution-foundation",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T23:01:15+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b7f0a53f88321bab",
+   "title": "How much is the minimum wage?",
+   "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+   "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-14T23:01:11+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0e2c2e0cf934dc25",
+   "title": "Britain funds critical repairs to Chornobyl nuclear power plant damaged by Russian drone attack",
+   "summary": "UK to provide £17m in funding towards repairs to the Chornobyl nuclear power plant damaged by Russian drone strike last year.",
+   "url": "https://www.gov.uk/government/news/britain-funds-critical-repairs-to-chornobyl-nuclear-power-plant-damaged-by-russian-drone-attack",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "press_release",
+   "party_voice": "",
+   "published": "2026-10-14T23:01:02Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "ecb2a5d378a50b9d",
+   "title": "Burnham told to apologise over Ann Widdecombe murder case comments during PMQs",
+   "summary": "Shadow Commons leader Jesse Norman said Mr Burnham’s remarks were a ‘breach of the presumption of innocence’",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-ann-widdecombe-jesse-norman-b3066877.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T22:39:32+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e5876713c5c91030",
+   "title": "Reform faces criticism after councillors filmed making racist comments",
+   "summary": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended.",
+   "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-14T22:34:47+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -48,21 +201,6 @@
    "topics": [
     "Economy"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "cbd7bde214b6bf32",
-   "title": "Reform suspends members after undercover investigation exposes councillors making racist remarks",
-   "summary": "One Reform councillor called for King Charles to be beheaded, saying he was a Muslim",
-   "url": "https://www.independent.co.uk/news/uk/politics/reform-councillors-racist-farage-itv-b3066949.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T21:27:52+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -189,23 +327,6 @@
    "countries": [
     "G7 / G20"
    ]
-  },
-  {
-   "id": "ecb2a5d378a50b9d",
-   "title": "Burnham told to apologise over Ann Widdecombe murder case comments during PMQs",
-   "summary": "Mr Burnham referred in the House of Commons to the “individual responsible for the murder”, despite the legal process still being in its early stages",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-ann-widdecombe-jesse-norman-b3066877.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T17:08:06+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "ddb7184c19609822",
@@ -6936,21 +7057,6 @@
    "countries": []
   },
   {
-   "id": "fa3f05d9463c5838",
-   "title": "The AI telling farmers when to harvest",
-   "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-   "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-09-30T23:02:21+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "210c78ae812cc611",
    "title": "September Round-up",
    "summary": "Welcome to this month’s round-up – it’s a special one! This month we published First Jobs, New Barriers, our deep dive into how technology can support young people without degrees as they move from education into work. It asks how technology can help young people – especially those without…",
@@ -7684,7 +7790,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
@@ -7705,7 +7811,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -8335,25 +8441,16 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129546,
+   "signatures": 129557,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
    "url": "https://petition.parliament.uk/petitions/767687"
   },
   {
-   "id": 764268,
-   "title": "Protect legal right to support for children with SEND",
-   "signatures": 117286,
-   "created": "2026-03-13T19:29:47.335Z",
-   "responded": true,
-   "debate": true,
-   "url": "https://petition.parliament.uk/petitions/764268"
-  },
-  {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 114239,
+   "signatures": 114274,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -8371,7 +8468,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106010,
+   "signatures": 106011,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -8380,7 +8477,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83339,
+   "signatures": 83354,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -8389,7 +8486,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 81506,
+   "signatures": 81585,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -8398,7 +8495,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 71511,
+   "signatures": 71575,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -8407,7 +8504,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 62899,
+   "signatures": 63001,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -8416,7 +8513,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55294,
+   "signatures": 55296,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -8425,7 +8522,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49033,
+   "signatures": 49038,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -8434,11 +8531,20 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42299,
+   "signatures": 42322,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/781598"
+  },
+  {
+   "id": 776949,
+   "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
+   "signatures": 39886,
+   "created": "2026-07-13T16:08:22.844Z",
+   "responded": true,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/776949"
   }
  ],
  "indicators": [
