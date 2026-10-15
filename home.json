@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T00:59:51.012933+00:00",
+ "updated": "2026-10-15T03:52:17.937067+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,12 +10,61 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-15T00:59:51.012933+00:00",
+   "published": "2026-10-15T03:52:17.937067+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ebce4d43dc621c47",
+   "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+   "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+   "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T03:33:08+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "77b3d6b344cc109f",
+   "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+   "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+   "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T01:07:59+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "27d91064b754b644",
+   "title": "Hospitality companies to create 100,000 new roles for NEETs",
+   "summary": "The UK's leading hospitality businesses have committed to hiring 100,000 young people not in education, employment or training (NEET), it has been announced.",
+   "url": "https://news.sky.com/story/hospitality-companies-to-create-100000-new-roles-for-neets-13599436",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T01:01:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -977,25 +1026,6 @@
    "parties": [],
    "topics": [
     "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "77b3d6b344cc109f",
-   "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-   "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-   "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T12:47:43+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
    ],
    "tax": [],
    "countries": []
@@ -2961,8 +2991,8 @@
    "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
    "summary": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
    "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-13T09:38:54+00:00",
    "dateonly": false,
@@ -3375,8 +3405,8 @@
    "title": "UK economy to grow more than expected - but households face sharper rise in inflation, IMF says",
    "summary": "The UK economy is set to grow faster than expected this year, though households are expected to face higher rates of inflation, according to forecasts from the International Monetary Fund (IMF).",
    "url": "https://news.sky.com/story/uk-economy-to-grow-more-than-expected-but-households-face-sharper-rise-in-inflation-imf-says-13598675",
-   "source": "Sky News Business",
-   "group": "Economy news",
+   "source": "Sky News Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-13T00:16:00+00:00",
    "dateonly": false,
@@ -4459,8 +4489,8 @@
    "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
    "summary": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
    "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-12T08:50:22+00:00",
    "dateonly": false,
@@ -7783,14 +7813,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -7804,21 +7834,21 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -8450,7 +8480,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 114274,
+   "signatures": 114284,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -8459,7 +8489,7 @@
   {
    "id": 764785,
    "title": "Support the Ceramics Industry and protect British manufacturing jobs and skills",
-   "signatures": 111230,
+   "signatures": 111231,
    "created": "2026-03-19T10:58:30.234Z",
    "responded": true,
    "debate": true,
@@ -8477,7 +8507,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83354,
+   "signatures": 83355,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -8486,7 +8516,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 81585,
+   "signatures": 81602,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -8495,7 +8525,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 71575,
+   "signatures": 71600,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -8504,7 +8534,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 63001,
+   "signatures": 63024,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -8513,7 +8543,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55296,
+   "signatures": 55298,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -8522,7 +8552,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49038,
+   "signatures": 49039,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -8531,7 +8561,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42322,
+   "signatures": 42323,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -8540,7 +8570,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 39886,
+   "signatures": 39887,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
