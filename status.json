@@ -1,32 +1,32 @@
 {
- "updated": "2026-10-15T03:52:17.937067+00:00",
+ "updated": "2026-10-15T06:09:36.739975+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 6,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 12,
+   "new": 6,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 4,
+   "new": 10,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 4,
    "note": ""
   },
   {
@@ -40,7 +40,7 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -75,14 +75,14 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 7,
+   "new": 5,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 16,
    "note": ""
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -166,7 +166,7 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -201,7 +201,7 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": "via backup feed"
   },
   {

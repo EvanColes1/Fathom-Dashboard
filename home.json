@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T03:52:17.937067+00:00",
+ "updated": "2026-10-15T06:09:36.739975+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-15T03:52:17.937067+00:00",
+   "published": "2026-10-15T06:09:36.739975+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,6 +20,245 @@
    "countries": []
   },
   {
+   "id": "3e64b0135523e925",
+   "title": "UK economy grew 0.1% in August ahead of Healey's first Budget",
+   "summary": "The Office for National Statistics (ONS) said GDP grew in August.",
+   "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T06:09:36.739975+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2c0e3e99a44e56fb",
+   "title": "No timeline for lifting Land Registry paywall as ownership remains opaque",
+   "summary": "Defra promised in March to work towards free access to data on large plots in England and Wales The government has refused to say when the public will be able to freely access information about who owns large plots of land across England and Wales. Emma Reynolds, the previous secretary of state for…",
+   "url": "https://www.theguardian.com/environment/2026/oct/15/no-timeline-for-lifting-land-registry-paywall-as-ownership-remains-opaque",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T06:00:24+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c5585a9e6b45c5a9",
+   "title": "Burnham v Swinney: will the UK PM overshadow the SNP’s conference?",
+   "summary": "Prime minister presents new kind of challenge for SNP, and his Scottish visit will loom large over its big event This year, even Andy Burnham is invited to the Scottish National party conference. But by the time John Swinney stands up to address members on Saturday afternoon in Aberdeen to…",
+   "url": "https://www.theguardian.com/politics/2026/oct/15/andy-burnham-scotland-visit-snp-conference",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T06:00:23+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Scottish National Party"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d918139f9dfa5035",
+   "title": "Eritreans face total UK visa ban in row over return of small boat migrants",
+   "summary": "The east African country has ‘refused’ to accept the return of its criminals, says Shabana Mahmood",
+   "url": "https://www.independent.co.uk/news/uk/politics/eritreans-meaning-visas-shabana-mahmood-b3067125.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T05:46:44+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3059ddf2111ec8e8",
+   "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
+   "summary": "About 6,000 workers in NI are paid the Real Living Wage - which is voluntarily paid to reflect the cost of living.",
+   "url": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T05:37:44+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "974553345f91f04d",
+   "title": "Bob Seely: Why is Burnham re-opening the Brexit debate?",
+   "summary": "So, yes, of course we need to be mindful of disinformation campaigns from Russia and other states, especially given the centrality of its role in modern conflict. But we also need to be mindful of the lies peddled by our own government and other European leaders. The post Bob Seely: Why is Burnham…",
+   "url": "https://conservativehome.com/2026/10/15/bob-seely-why-is-burnham-re-opening-the-brexit-debate/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-15T05:30:09+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "5ca140db55575e1b",
+   "title": "Ben Houchen and Paul Bristow: Conservative Mayors win and deliver. London is next",
+   "summary": "London is not a Labour city. It is a city that has been run by Labour for a decade, and Londoners can see the results. We have shown elsewhere what happens when Conservatives back a mayor with a plan and the will to deliver it. James can do that for London, and when London succeeds, the whole…",
+   "url": "https://conservativehome.com/2026/10/15/ben-houchen-and-paul-bristow-conservative-mayors-win-and-deliver-london-is-next/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-15T05:20:36+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "738664c78c041925",
+   "title": "Susan Hall: Why won’t Khan speak out against the Government’s anti London cash grab?",
+   "summary": "In fact, the Mayor has publicly backed the High Value Council Tax Surcharge, claiming it will mean “those with the broadest shoulders carrying the greatest burden\". The post Susan Hall: Why won’t Khan speak out against the Government’s anti London cash grab? appeared first on Conservative Home .",
+   "url": "https://conservativehome.com/2026/10/15/susan-hall-why-wont-khan-speak-out-against-the-governments-anti-london-cash-grab/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-15T05:10:25+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Elections"
+   ],
+   "tax": [
+    "Council tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "c171cf19dfcae120",
+   "title": "Surprise GDP growth as UK economy stronger than first thought",
+   "summary": "The UK economy has surprisingly grown, despite predictions it would shrink, official figures show.",
+   "url": "https://news.sky.com/story/surprise-gdp-growth-as-uk-economy-stronger-than-first-thought-13599446",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T05:06:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a6643df74f3e4c50",
+   "title": "‘Reopening the Brexit debate would be a mistake’",
+   "summary": "Britain’s debate about Europe has been trapped between two competing stories. One says Brexit liberated Britain from an… The post ‘Reopening the Brexit debate would be a mistake’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/reopening-brexit-debate-would-be-mistake/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-15T05:00:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "927e6bed6ea5dcda",
+   "title": "UK households have paid extra £13,961 on bills since 2021 amid soaring inflation, TUC says",
+   "summary": "Trades Union Congress urges chancellor to tackle rising additional living costs in this month’s budget UK households have paid almost £14,000 on average in additional costs for mortgages, loans, energy and water bills over the past five years, according to a report urging the chancellor to tackle…",
+   "url": "https://www.theguardian.com/business/2026/oct/15/uk-households-extra-bills-inflation-tuc",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T05:00:23+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "ac22f782e3b53c7f",
+   "title": "Friends of the Month: Amritpal Gill",
+   "summary": "Friends of LabourList are vital in supporting our work. Every month, we celebrate one of our Friends and… The post Friends of the Month: Amritpal Gill appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/friends-of-the-month-amritpal-gill/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-15T05:00:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3122f62d67e440af",
+   "title": "Britain pledges £17 million to repair Chernobyl power plant hit by Russian drone strike",
+   "summary": "Andy Burnham reinforces support for Ukraine following talks with Volodymyr Zelensky",
+   "url": "https://www.independent.co.uk/news/world/europe/chernobyl-power-plant-repairs-uk-support-burnham-russia-drone-strike-b3067038.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T04:55:31+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
    "id": "ebce4d43dc621c47",
    "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
    "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
@@ -27,7 +266,7 @@
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-15T03:33:08+00:00",
+   "published": "2026-10-15T04:19:17+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -100,26 +339,6 @@
    "tax": [],
    "countries": [
     "United States"
-   ]
-  },
-  {
-   "id": "3122f62d67e440af",
-   "title": "Britain pledges £17 million to repair Chernobyl power plant hit by Russian drone strike",
-   "summary": "Andy Burnham has reinforced his support for Ukraine following talks with Volodymyr Zelensky",
-   "url": "https://www.independent.co.uk/news/world/europe/chernobyl-power-plant-repairs-uk-support-burnham-russia-drone-strike-b3067038.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T23:01:53+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Russia",
-    "Ukraine"
    ]
   },
   {
@@ -255,7 +474,7 @@
   },
   {
    "id": "993e08381c8d5257",
-   "title": "Reform UK councillors and candidates filmed making racist and extreme comments",
+   "title": "Reform UK councillors and candidates filmed making racist and misogynist comments",
    "summary": "Party faces fresh crisis as three councillors quit after ITV undercover filming exposed violence, misogyny and racist views Reform UK has been rocked by a fresh crisis after councillors and election candidates for the party were caught on film making graphic threats of extreme violence and…",
    "url": "https://www.theguardian.com/politics/2026/oct/14/reform-uk-councillors-and-candidates-filmed-making-racist-and-extreme-comments",
    "source": "Guardian Politics",
@@ -7820,7 +8039,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -7834,14 +8053,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
@@ -7855,14 +8074,14 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -8471,7 +8690,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129557,
+   "signatures": 129561,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -8480,7 +8699,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 114284,
+   "signatures": 114307,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -8498,7 +8717,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106011,
+   "signatures": 106012,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -8507,7 +8726,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83355,
+   "signatures": 83358,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -8516,7 +8735,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 81602,
+   "signatures": 81687,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -8525,7 +8744,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 71600,
+   "signatures": 71698,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -8534,7 +8753,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 63024,
+   "signatures": 63071,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -8552,7 +8771,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49039,
+   "signatures": 49042,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -8561,7 +8780,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42323,
+   "signatures": 42330,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -8570,7 +8789,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 39887,
+   "signatures": 39896,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
