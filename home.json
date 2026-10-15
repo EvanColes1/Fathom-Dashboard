@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T07:06:05.749844+00:00",
+ "updated": "2026-10-15T09:51:36.523391+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,48 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-15T07:06:05.749844+00:00",
+   "published": "2026-10-15T09:51:36.523391+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "45d15a8157aea3cc",
+   "title": "Charity watchdog to criticise ‘intimidation’ after Farage calls for prosecution of groups helping asylum seekers – UK politics live",
+   "summary": "Charity commissioner to use speech to say there is a difference between ‘heated discussion’ and harassment or abuse And to another key story today on immigration – Home Secretary Shabana Mahmood has warned that Eritreans could be blocked from coming to the UK unless the east African country accepts…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T09:39:58+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3e64b0135523e925",
+   "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+   "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+   "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T09:29:54+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
    ],
    "tax": [],
    "countries": []
@@ -27,7 +64,7 @@
    "source": "BBC Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-15T07:04:11+00:00",
+   "published": "2026-10-15T09:17:57+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -35,19 +72,244 @@
    "countries": []
   },
   {
-   "id": "3e64b0135523e925",
-   "title": "UK economy grew 0.1% in August ahead of Healey's first Budget",
-   "summary": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show.",
-   "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "id": "d801a73f70f8166c",
+   "title": "Labour peer claims royal family not doing ‘real work’ as £100m funding questioned",
+   "summary": "Labour peer Lord Foulkes of Cumnock argued that the monarchy is not providing value for money",
+   "url": "https://www.independent.co.uk/news/uk/politics/royal-family-funding-king-charles-sovereign-grant-b3067226.html",
+   "source": "Independent Politics",
+   "group": "News",
    "party_voice": "",
-   "published": "2026-10-15T06:42:13+00:00",
+   "published": "2026-10-15T08:49:42+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e2743ab0571bd08e",
+   "title": "UK threatens to ban Eritreans over returns policy",
+   "summary": "Move comes after east African country abruptly withdrew returns cooperation earlier this year UK politics live – latest updates Eritreans could be stopped from coming to the UK unless the country agrees to accept more rejected asylum seekers and criminals, Shabana Mahmood has warned. VIPs and…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/15/uk-threatens-to-ban-eritreans-over-returns-policy",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T08:45:43+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
-    "Tax and spending"
+    "Immigration"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "eb74ddc5a29fcf6a",
+   "title": "UK trade in goods statistics",
+   "summary": "UK overseas trade in goods statistics and UK regional trade in goods statistics at summary product and country level, and by UK regions and devolved administrations.",
+   "url": "https://www.gov.uk/government/collections/uk-trade-in-goods-statistics",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "document_collection",
+   "party_voice": "",
+   "published": "2026-10-15T08:30:03Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e3b36fb9f7da1c6d",
+   "title": "Non-domestic rating: business floorspace, March 2026",
+   "summary": "Statistics on the floorspace of a range of classes of properties on the 2023 rating list as at 31 March 2026.",
+   "url": "https://www.gov.uk/government/statistics/non-domestic-rating-business-floorspace-march-2026",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "official_statistics",
+   "party_voice": "",
+   "published": "2026-10-15T08:30:01Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "aa7a4d90dfc4355f",
+   "title": "UK overseas trade in goods statistics August 2026: import and export data",
+   "summary": "EU and non-EU import and export data for August 2026.",
+   "url": "https://www.gov.uk/government/statistical-data-sets/uk-overseas-trade-in-goods-statistics-august-2026-import-and-export-data",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "statistical_data_set",
+   "party_voice": "",
+   "published": "2026-10-15T08:30:01Z",
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b98b8eac008f3df1",
+   "title": "UK overseas trade in goods statistics: August 2026",
+   "summary": "This publication provides details of the overseas trade in goods statistics (OTS) of the UK. They are a comprehensive dataset covering the UK's trade in goods at country and product level. They provide both aggregated and detailed data for over 9,000 commodities and more than 200 partner countries.",
+   "url": "https://www.gov.uk/government/statistics/uk-overseas-trade-in-goods-statistics-august-2026",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "national_statistics",
+   "party_voice": "",
+   "published": "2026-10-15T08:30:01Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4a39297be8902925",
+   "title": "Royal Mail performance",
+   "summary": "Royal Mail has missed delivery targets for several years, and has been fined by Ofcom.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10383/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-15T08:21:43+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6f37b50e4b478861",
+   "title": "Electronic text file specifications for ISA annual returns",
+   "summary": "Find out how to send annual returns if you're an ISA manager.",
+   "url": "https://www.gov.uk/government/publications/isa-annual-returns-electronic-text-file-specification",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-15T08:02:22Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "280594d00bb3e5d7",
+   "title": "Check the recognised overseas pension schemes notification list",
+   "summary": "Find schemes that have told HMRC they meet the conditions to be a recognised overseas pension scheme (ROPS).",
+   "url": "https://www.gov.uk/guidance/check-the-recognised-overseas-pension-schemes-notification-list",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-15T08:00:02Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "c0cf27804c07a675",
+   "title": "Components of GDP: Economic indicators",
+   "summary": "GDP measures the size of the economy. Find the latest data on the industries and elements that make up the UK’s GDP.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02787/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-15T07:53:52+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "aac7422718422cba",
+   "title": "Safeguarding in English schools",
+   "summary": "Information on the safeguarding duties of English schools, governing bodies and staff, including during recruitment, and in dealing with allegations",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-8023/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-15T07:52:02+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "77d8bc67dd60de53",
+   "title": "Rebated Oils Enquiry Services: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Rebated Oils Enquiry Services online service.",
+   "url": "https://www.gov.uk/government/publications/rebated-oils-enquiry-services-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-15T07:49:28Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ebce4d43dc621c47",
+   "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+   "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+   "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T07:20:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f0feb9f126d4a7fa",
+   "title": "UK economy unexpectedly grows in August despite fall in consumer spending",
+   "summary": "Latest data showing surprise 0.1% growth is boost to John Healey a fortnight before his first budget Business news – live updates The UK economy unexpectedly continued to grow in August despite a fall in consumer spending before John Healey’s first budget as chancellor. Figures from the Office for…",
+   "url": "https://www.theguardian.com/business/2026/oct/15/uk-economy-unexpectedly-grows-01-in-august-despite-fuel-hit-to-household-budgets",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T06:05:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3ebf4494f5be4512",
+   "title": "Welcome to the world of ‘what I meant was’",
+   "summary": "What would be ideal, for all politicians including Farage, Burnham and Badenoch, is that what they say is what they meant, and in all honesty could be taken as meaning what they said. Honesty is becoming an increasingly valuable political commodity. Long may it remain so. The post Welcome to the…",
+   "url": "https://conservativehome.com/2026/10/15/welcome-to-the-world-of-what-i-meant-was/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-15T06:00:39+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative",
+    "Reform UK"
+   ],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -201,6 +463,23 @@
    "countries": []
   },
   {
+   "id": "29197592062d7cc5",
+   "title": "'I paid thousands to a company for jobs that never came'",
+   "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+   "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T05:02:37+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "a6643df74f3e4c50",
    "title": "‘Reopening the Brexit debate would be a mistake’",
    "summary": "Britain’s debate about Europe has been trapped between two competing stories. One says Brexit liberated Britain from an… The post ‘Reopening the Brexit debate would be a mistake’ appeared first on LabourList .",
@@ -214,6 +493,23 @@
    "topics": [
     "Europe"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "78ca2f72a3ca5654",
+   "title": "‘The message from Labour Conference is clear: we must get SEND reform right’",
+   "summary": "At Labour Party Conference this year, special educational needs and disabilities (SEND) proved impossible to ignore as the… The post ‘The message from Labour Conference is clear: we must get SEND reform right’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/we-must-get-send-reform-right/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-15T05:00:42+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -271,21 +567,6 @@
     "Russia",
     "Ukraine"
    ]
-  },
-  {
-   "id": "ebce4d43dc621c47",
-   "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-   "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-   "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-15T04:19:17+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "77b3d6b344cc109f",
@@ -412,7 +693,7 @@
    "group": "Government",
    "kind": "press_release",
    "party_voice": "",
-   "published": "2026-10-14T23:01:02Z",
+   "published": "2026-10-14T23:01:00Z",
    "parties": [],
    "topics": [],
    "tax": [],
@@ -8038,7 +8319,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -8052,14 +8333,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -8072,15 +8353,15 @@
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": false,
-   "new": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
+   "ok": true,
+   "new": 1,
+   "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -8101,7 +8382,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -8631,6 +8912,42 @@
    "org": "Wigan Metropolitan Borough Council"
   },
   {
+   "id": "local.caerphilly.2026-11-19",
+   "title": "Caerphilly local election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "organisation",
+   "by": false,
+   "org": "Caerphilly County Borough Council"
+  },
+  {
+   "id": "local.caerphilly.risca-east.by.2026-11-19",
+   "title": "Caerphilly local election Risca East by-election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "ballot",
+   "by": true,
+   "org": "Caerphilly County Borough Council"
+  },
+  {
+   "id": "local.county-durham.2026-11-19",
+   "title": "County Durham local election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "organisation",
+   "by": false,
+   "org": "Durham County Council"
+  },
+  {
+   "id": "local.county-durham.craghead-south-moor.by.2026-11-19",
+   "title": "County Durham local election Craghead & South Moor by-election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "ballot",
+   "by": true,
+   "org": "Durham County Council"
+  },
+  {
    "id": "local.fareham.2026-11-19",
    "title": "Fareham local election",
    "date": "2026-11-19",
@@ -8689,7 +9006,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129566,
+   "signatures": 129596,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -8698,7 +9015,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 114338,
+   "signatures": 114457,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -8716,7 +9033,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106017,
+   "signatures": 106022,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -8725,7 +9042,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83366,
+   "signatures": 83376,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -8734,7 +9051,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 81763,
+   "signatures": 82591,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -8743,7 +9060,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 71753,
+   "signatures": 71897,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -8752,7 +9069,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 63116,
+   "signatures": 63285,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -8761,7 +9078,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55299,
+   "signatures": 55304,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -8770,7 +9087,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49045,
+   "signatures": 49066,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -8779,7 +9096,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42339,
+   "signatures": 42365,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -8788,7 +9105,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 39902,
+   "signatures": 39929,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -9378,7 +9695,7 @@
      "v": 3.75
     },
     {
-     "d": "2026-10-13",
+     "d": "2026-10-14",
      "v": 3.75
     }
    ],
