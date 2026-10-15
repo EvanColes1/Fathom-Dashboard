@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-15T09:51:36.523391+00:00",
+ "updated": "2026-10-15T13:05:16.954364+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "37c4e6204280bde6",
+   "title": "CWG2: further guide to PAYE and National Insurance contributions",
+   "summary": "Find out about detailed Pay As You Earn (PAYE) and National Insurance contributions for current and previous years if you're an employer.",
+   "url": "https://www.gov.uk/government/publications/cwg2-further-guide-to-paye-and-national-insurance-contributions",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-15T13:05:36Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [
+    "National Insurance"
+   ],
+   "countries": []
+  },
   {
    "id": "ecffaeecb1eb927b",
    "title": "Green Budget 2026: Full report",
@@ -10,7 +29,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-15T09:51:36.523391+00:00",
+   "published": "2026-10-15T13:05:16.954364+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,23 +39,442 @@
    "countries": []
   },
   {
+   "id": "d10c7644f0ebbbd4",
+   "title": "‘The zero-emission vehicle mandate is a major climate test for Burnham’",
+   "summary": "Against the backdrop of a summer of extreme heat, wildfires and record poor harvests in the UK, and… The post ‘The zero-emission vehicle mandate is a major climate test for Burnham’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/zero-emission-vehicle-mandate-burnham-test/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-15T13:00:51+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "81bc9c9da3e270b7",
+   "title": "Andy Burnham ‘apologises’ for comments about Ann Widdecombe’s murder at PMQs",
+   "summary": "The prime minister was accused of a ‘breach of the presumption of innocence’",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-ann-widdecombe-pmqs-b3067403.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T12:59:56+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "97e20e22569f9bd0",
+   "title": "Nandy 'minded to intervene' in Sky's proposed £1.6bn takeover of ITV",
+   "summary": "Culture Secretary Lisa Nandy says she is “minded to intervene” in Sky’s proposed £1.6 billion takeover of ITV’s media and entertainment division.",
+   "url": "https://www.independent.co.uk/news/uk/politics/sky-itv-deal-lisa-nandy-b3067411.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T12:42:32+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "45d15a8157aea3cc",
-   "title": "Charity watchdog to criticise ‘intimidation’ after Farage calls for prosecution of groups helping asylum seekers – UK politics live",
-   "summary": "Charity commissioner to use speech to say there is a difference between ‘heated discussion’ and harassment or abuse And to another key story today on immigration – Home Secretary Shabana Mahmood has warned that Eritreans could be blocked from coming to the UK unless the east African country accepts…",
+   "title": "Wes Streeting in US for Hegseth meeting as Ukraine tensions escalate – UK politics live",
+   "summary": "Defence secretary’s meeting comes after Burnham said he would help facilitate reconciliation between Zelenskyy and Trump Labour says it’s told all of its local councils who share power with the Green Party to review their agreements after the Greens passed a “Zionism is Racism” motion at their…",
    "url": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
    "source": "Guardian Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-15T09:39:58+00:00",
+   "published": "2026-10-15T12:38:35+00:00",
    "dateonly": false,
    "parties": [
-    "Reform UK"
+    "Labour",
+    "Green Party"
    ],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "de71eb6ac926b3d9",
+   "title": "Gross domestic product (GDP): Economic indicators",
+   "summary": "GDP measures the size of the economy. Find the latest GDP data for the UK and updated forecasts for GDP growth.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02783/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-15T12:37:10+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3a8e9f2562f03d8d",
+   "title": "Child Benefit: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Child Benefit online service.",
+   "url": "https://www.gov.uk/government/publications/child-benefit-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-15T12:35:03Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d2e94ee51ef68cf6",
+   "title": "Labour could end local coalitions with Greens over Zionism policy",
+   "summary": "Labour says it will end power-sharing deals with councillors that do not disown the party's new stance.",
+   "url": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T12:34:32+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Green Party"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2cb2c35e207c2df4",
+   "title": "Check genuine HMRC contact that uses more than one communication method",
+   "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+   "url": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-15T12:06:19Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fbd1fa035e80f501",
+   "title": "Former DUP leader Jeffrey Donaldson sentenced to 15 years for child sexual offences",
+   "summary": "Donaldson was found guilty in June of 18 counts of sexual abuse including one rape between 1985 and 2008 Jeffrey Donaldson has been sentenced to 15 years for sexual offences against two women who were children when he abused them, paving what was described as a “catastrophic descent into disgrace”.…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/15/jeffrey-donaldson-sentenced-to-15-years-for-child-sexual-offences",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T12:06:08+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b86214b91ce97950",
+   "title": "Labour tells local Green groups to reject ‘Zionism is racism’ policy or it will end council pacts",
+   "summary": "Andy Burnham has ruled out a future power-sharing deal with the Green Party but it was unclear whether this would extend to local councils",
+   "url": "https://www.independent.co.uk/news/uk/politics/labour-greens-councils-zionism-andy-burnham-b3067317.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T11:59:09+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Green Party"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "62115cc7bdb7eae4",
+   "title": "Ask your employer for Statutory Sick Pay",
+   "summary": "You can use the SC2 form to ask your employer for Statutory Sick Pay (SSP).",
+   "url": "https://www.gov.uk/guidance/ask-your-employer-for-statutory-sick-pay",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-15T11:53:00Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5129f2fe4a8a822b",
+   "title": "John Healey vows to give ‘breathing space’ to consumers and businesses in first budget",
+   "summary": "Speaking at IMF meeting, chancellor says he will stick to fiscal rules while recognising business and living costs UK politics live – latest updates Business live – latest updates John Healey has promised to use his first budget in a fortnight’s time to offer consumers and businesses a “breathing…",
+   "url": "https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T11:47:32+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": [
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "e07fa515afa914ef",
+   "title": "How much aid does the UK spend in Pakistan, and why?",
+   "summary": "What is the value of UK aid to Pakistan, on what priorities does it focus, and how effective has it been?",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12237/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-15T11:47:29+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "e2743ab0571bd08e",
+   "title": "UK threatens to ban Eritreans over returns policy",
+   "summary": "Move comes after east African country abruptly withdrew returns cooperation earlier this year UK politics live – latest updates Eritreans could be stopped from coming to the UK unless the country agrees to accept more rejected asylum seekers and criminals, Shabana Mahmood has warned. VIPs and…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/15/uk-threatens-to-ban-eritreans-over-returns-policy",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T11:42:28+00:00",
+   "dateonly": false,
+   "parties": [],
    "topics": [
     "Immigration"
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "ebce4d43dc621c47",
+   "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+   "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+   "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T11:34:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "73b130b05e7b0d72",
+   "title": "Nigel Farage predicts ‘strikes, riots, protests’ in the UK if Reform wins power",
+   "summary": "The admission of potential chaos follows a string of hardline policy announcements from the party",
+   "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-uk-government-riots-protests-b3066865.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T11:31:23+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "37df4a59dd37bee0",
+   "title": "Airport fee 'rip-offs' to be reviewed after ministers raise price changes",
+   "summary": "The average drop-off cost had increased by a third to £7",
+   "url": "https://www.independent.co.uk/travel/news-and-advice/airport-dropoff-charges-heathrow-gatwick-b3067346.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T11:12:42+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5e701fe9d0777c2b",
+   "title": "Agent update: issue 148",
+   "summary": "Get guidance from HMRC if you're a tax agent or an adviser",
+   "url": "https://www.gov.uk/government/publications/agent-update-issue-148",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-15T11:00:00Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "91152d13b51468e0",
+   "title": "Nandy 'minded to intervene' in Sky-ITV deal",
+   "summary": "The culture secretary has warned she is \"minded\" to intervene in Sky's £1.6bn deal to buy ITV's broadcast and streaming operations.",
+   "url": "https://news.sky.com/story/sky-itv-deal-culture-secretary-minded-to-intervene-13599540",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T10:54:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "de96e0d1c27e3fa3",
+   "title": "Andrew Bailey calls for clampdown on ‘downright criminal’ social media scams",
+   "summary": "Andrew Bailey, head of the British central bank, told an audience in Bangkok that there has been ‘no real liability’ for some social media firms.",
+   "url": "https://www.independent.co.uk/news/uk/politics/andrew-bailey-bank-of-england-bangkok-british-kristalina-georgieva-b3066853.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T10:51:41+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Thailand"
+   ]
+  },
+  {
+   "id": "8e5314389a133bb5",
+   "title": "Check the statutory market values for oil",
+   "summary": "Find statutory market values for disposal of category 1 oil from a UK field, which has not been sold at arm's length.",
+   "url": "https://www.gov.uk/government/publications/check-the-statutory-market-values-for-oil",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-15T10:51:37Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d1a30a862e45ea0c",
+   "title": "OpenAI ‘not racing to the bottom’ on AI safety, MPs told",
+   "summary": "The ChatGPT maker scrapped a recent AI model over safety concerns.",
+   "url": "https://www.independent.co.uk/news/uk/politics/mps-openai-chatgpt-anthropic-claude-b3066114.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T10:49:33+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7e6f2dbbad6269bd",
+   "title": "Help with VAT on cryptoassets — GfC21",
+   "summary": "Find out how UK VAT applies to cryptoasset activities, including when to register, place of supply rules and record‑keeping.",
+   "url": "https://www.gov.uk/government/publications/help-with-vat-on-cryptoassets-gfc21",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "promotional",
+   "party_voice": "",
+   "published": "2026-10-15T10:30:04Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "VAT"
+   ],
+   "countries": []
+  },
+  {
+   "id": "e5876713c5c91030",
+   "title": "Reform faces criticism after councillors filmed making racist comments",
+   "summary": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended.",
+   "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T10:20:51+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "77a4f0a7ffbe723a",
+   "title": "Poundland owners parachute in directors amid crunch sale talks",
+   "summary": "The owners of ailing Poundland are parachuting in a trio of restructuring experts to its board ahead of a sale or filing for administration which is expected within days.",
+   "url": "https://news.sky.com/story/poundland-owners-parachute-in-directors-amid-crunch-sale-talks-13599519",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T09:42:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b93d704da8621f98",
+   "title": "Government to publish Telegraph probes amid Burnham Abu Dhabi row",
+   "summary": "The government is to publish the long-delayed results of probes into Abu Dhabi's failed attempt to buy The Daily Telegraph - a move which risks stoking tensions with the United Arab Emirates (UAE) amid a row over Andy Burnham's links to the owners of Manchester City.",
+   "url": "https://news.sky.com/story/government-to-publish-telegraph-probes-amid-burnham-abu-dhabi-row-13599517",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T09:30:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United Arab Emirates"
+   ]
   },
   {
    "id": "3e64b0135523e925",
@@ -85,23 +523,6 @@
     "Labour"
    ],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e2743ab0571bd08e",
-   "title": "UK threatens to ban Eritreans over returns policy",
-   "summary": "Move comes after east African country abruptly withdrew returns cooperation earlier this year UK politics live – latest updates Eritreans could be stopped from coming to the UK unless the country agrees to accept more rejected asylum seekers and criminals, Shabana Mahmood has warned. VIPs and…",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/15/uk-threatens-to-ban-eritreans-over-returns-policy",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T08:45:43+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Immigration"
-   ],
    "tax": [],
    "countries": []
   },
@@ -256,21 +677,6 @@
    "kind": "guidance",
    "party_voice": "",
    "published": "2026-10-15T07:49:28Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ebce4d43dc621c47",
-   "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-   "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-   "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-15T07:20:45+00:00",
-   "dateonly": false,
    "parties": [],
    "topics": [],
    "tax": [],
@@ -721,21 +1127,6 @@
    "countries": []
   },
   {
-   "id": "e5876713c5c91030",
-   "title": "Reform faces criticism after councillors filmed making racist comments",
-   "summary": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended.",
-   "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T22:34:47+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "1ebb7af55d0ce7f4",
    "title": "UK hospitality sector to offer up to 100,000 jobs to young people out of work",
    "summary": "Restaurants and pubs such as Nando’s and Fuller’s will create placements for 18- to 24-year-olds under DWP-backed scheme Bars, clubs and restaurants will offer up to 100,000 jobs to young people not in employment, education or training (Neet) over the next three years in an effort to give them a…",
@@ -1012,23 +1403,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "de96e0d1c27e3fa3",
-   "title": "Andrew Bailey calls for clampdown on ‘downright criminal’ social media scams",
-   "summary": "Andrew Bailey, head of the British central bank, told an audience in Bangkok that there has been ‘no real liability’ for some social media firms.",
-   "url": "https://www.independent.co.uk/news/uk/politics/andrew-bailey-bank-of-england-bangkok-british-kristalina-georgieva-b3066853.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T16:22:15+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Thailand"
-   ]
   },
   {
    "id": "704df3fbbfb0dbb4",
@@ -2205,7 +2579,7 @@
   },
   {
    "id": "a77cb722443fb7c5",
-   "title": "Chris Mason: Lib Dems rally behind Davey as he pledges change",
+   "title": "Lib Dems rally behind Davey as he pledges change",
    "summary": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations.",
    "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
@@ -2704,21 +3078,6 @@
    "countries": [
     "Russia"
    ]
-  },
-  {
-   "id": "d1a30a862e45ea0c",
-   "title": "OpenAI ‘not racing to the bottom’ on AI safety, MPs told",
-   "summary": "The ChatGPT maker scrapped a recent AI model over safety concerns.",
-   "url": "https://www.independent.co.uk/news/uk/politics/mps-openai-chatgpt-anthropic-claude-b3066114.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T16:49:12+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "3cf9c18f7b8332b9",
@@ -7095,6 +7454,26 @@
    "countries": []
   },
   {
+   "id": "a8e2cc38d4a5dd81",
+   "title": "UK poll tracker: Is the Badenoch bounce real?",
+   "summary": "One poll has put Labour five points clear after Burnham’s conference speech",
+   "url": "https://www.independent.co.uk/news/uk/politics/uk-poll-burnham-labour-farage-badenoch-voting-intention-tracker-reform-conservative-tory-b3067364.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-06T11:19:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "6de44bc22a8a4c74",
    "title": "Chasing Reform voters could backfire for Badenoch",
    "summary": "Paula Surridge argues that the Conservative Party’s attempts to win back former voters who have switched to Reform UK are unlikely to... The post Chasing Reform voters could backfire for Badenoch appeared first on UK in a changing Europe .",
@@ -8312,50 +8691,50 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 6,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": true,
-   "new": 1,
-   "note": ""
+   "ok": false,
+   "new": 0,
+   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
   },
   {
    "name": "LabourList",
@@ -8382,7 +8761,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
@@ -8966,6 +9345,42 @@
    "org": "Fareham Borough Council"
   },
   {
+   "id": "local.hertfordshire.2026-11-19",
+   "title": "Hertfordshire local election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "organisation",
+   "by": false,
+   "org": "Hertfordshire County Council"
+  },
+  {
+   "id": "local.hertfordshire.letchworth-north.by.2026-11-19",
+   "title": "Hertfordshire local election Letchworth North by-election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "ballot",
+   "by": true,
+   "org": "Hertfordshire County Council"
+  },
+  {
+   "id": "local.north-hertfordshire.2026-11-19",
+   "title": "North Hertfordshire local election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "organisation",
+   "by": false,
+   "org": "North Hertfordshire District Council"
+  },
+  {
+   "id": "local.north-hertfordshire.letchworth-norton.by.2026-11-19",
+   "title": "North Hertfordshire local election Letchworth Norton by-election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "ballot",
+   "by": true,
+   "org": "North Hertfordshire District Council"
+  },
+  {
    "id": "local.rotherham.2026-11-19",
    "title": "Rotherham local election",
    "date": "2026-11-19",
@@ -9006,7 +9421,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129596,
+   "signatures": 129636,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -9015,7 +9430,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 114457,
+   "signatures": 114581,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -9024,7 +9439,7 @@
   {
    "id": 764785,
    "title": "Support the Ceramics Industry and protect British manufacturing jobs and skills",
-   "signatures": 111231,
+   "signatures": 111235,
    "created": "2026-03-19T10:58:30.234Z",
    "responded": true,
    "debate": true,
@@ -9033,34 +9448,34 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106022,
+   "signatures": 106029,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
    "url": "https://petition.parliament.uk/petitions/764553"
   },
   {
-   "id": 773633,
-   "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83376,
-   "created": "2026-06-17T16:29:16.669Z",
-   "responded": true,
-   "debate": false,
-   "url": "https://petition.parliament.uk/petitions/773633"
-  },
-  {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 82591,
+   "signatures": 83723,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/780269"
   },
   {
+   "id": 773633,
+   "title": "Launch a public inquiry into illegal migration in the UK",
+   "signatures": 83405,
+   "created": "2026-06-17T16:29:16.669Z",
+   "responded": true,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/773633"
+  },
+  {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 71897,
+   "signatures": 72035,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -9069,7 +9484,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 63285,
+   "signatures": 63456,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -9078,7 +9493,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55304,
+   "signatures": 55311,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -9087,7 +9502,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49066,
+   "signatures": 49092,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -9096,7 +9511,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42365,
+   "signatures": 42412,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -9105,7 +9520,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 39929,
+   "signatures": 39954,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
