@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T07:05:18.751902+00:00",
+ "updated": "2026-10-16T09:51:07.834020+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-16T07:05:18.751902+00:00",
+   "published": "2026-10-16T09:51:07.834020+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,22 +20,227 @@
    "countries": []
   },
   {
+   "id": "643290ac1965b65e",
+   "title": "Nick Clegg’s wife says Gibraltar is Spanish, not British",
+   "summary": "‘Women don’t think the same as their husband; we have minds of our own’, Ms González Durántez said",
+   "url": "https://www.independent.co.uk/news/uk/politics/gibraltar-spain-uk-miriam-gonzalez-durantez-nick-clegg-b3067961.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T09:34:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "77dfb2e9cebf26b2",
+   "title": "What is a ‘YouTube tax’ and how would it work?",
+   "summary": "The Independent revealed on Thursday that the government is set to unveil plans to extend the licence fee",
+   "url": "https://www.independent.co.uk/news/uk/politics/youtube-tax-licence-fee-bbc-b3067909.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T09:29:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "758cc7cd8360c336",
+   "title": "Black History Month",
+   "summary": "There will be a general debate on Black History Month on Thursday 22 October 2026. The debate will take place in the House of Commons Chamber.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12242/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-16T09:06:09+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8bddfb7498e86225",
+   "title": "‘A direct cultural threat’: your questions on the rise of the right across Europe answered",
+   "summary": "With support for far right politics well established across Europe, how might upcoming elections shape its future? Europe correspondents Jon Henley and Ashifa Kassam answered Reddit users’ questions about their reporting from the continent Support for far-right parties has been growing across…",
+   "url": "https://www.theguardian.com/community/2026/oct/16/far-right-politics-rise-across-europe-afd-germany-elections-your-questions-answered",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T09:00:56+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "5ee51802dfb1b6bf",
-   "title": "Banks say Healey planning to increase tax on their profits in Budget",
+   "title": "Banks expect to be hit with higher taxes in Budget",
    "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
    "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-16T06:42:12+00:00",
+   "published": "2026-10-16T08:54:43+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3faa0f705d1005eb",
+   "title": "Councils warned of risks of high street pedestrianisation",
+   "summary": "The government says the process \"needs to be well considered\", warning that banning traffic could damage local economies.",
+   "url": "https://www.bbc.co.uk/news/articles/cqdjv9pzzkd7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T08:47:32+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2f4e71504bea8f04",
+   "title": "Reform faces questions over candidate vetting after undercover filming",
+   "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\".",
+   "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T08:43:01+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d3b079ba3cbcd0e3",
+   "title": "Jenrick claims Farage has done more to stand against racism than ‘almost anybody’",
+   "summary": "Reform MP defends leader after ITV footage shows official warning Farage he is ‘protecting’ candidate over racist David Lammy comments The Reform UK MP Robert Jenrick sought to defend the party against fresh allegations that it hosts extremists by claiming that Nigel Farage had “probably done more…",
+   "url": "https://www.theguardian.com/politics/2026/oct/16/jenrick-farage-reform-done-more-stand-against-racism-than-almost-anybody",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T08:40:34+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d4129af72bfbd96b",
+   "title": "Online services for agents",
+   "summary": "Information about services available to agents, including Self Assessment and PAYE for agents online services, multi-factor authentication, calculators and the HMRC App. Find out about service availability and any current issues.",
+   "url": "https://www.gov.uk/guidance/tax-agents-handbook/online-services-for-agents",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual_section",
+   "party_voice": "",
+   "published": "2026-10-16T08:12:33Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0907f451b9f6271b",
+   "title": "The Tax Agent's Handbook",
+   "summary": "Information to help tax agents and advisers find guidance, use HMRC's services and contact HMRC.",
+   "url": "https://www.gov.uk/guidance/tax-agents-handbook",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual",
+   "party_voice": "",
+   "published": "2026-10-16T08:12:33Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "86fd278b63795c23",
+   "title": "£1.5m homes ‘to avoid new mansion tax’",
+   "summary": "There had been speculation that Mr Healey was weighing up cutting the threshold to £1.5m in order to raise money at the Budget",
+   "url": "https://www.independent.co.uk/news/uk/politics/mansion-tax-budget-2026-property-housing-b3067894.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T08:12:23+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
     "Tax and spending",
     "Housing"
    ],
+   "tax": [
+    "Property and stamp duty"
+   ],
+   "countries": []
+  },
+  {
+   "id": "f0328610f50ec655",
+   "title": "Annual Tax on Enveloped Dwellings: enquiries",
+   "summary": "Call or write to HMRC for help with ATED, including making payments and returns.",
+   "url": "https://www.gov.uk/find-hmrc-contacts/annual-tax-on-enveloped-dwellings-enquiries",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "hmrc_contact",
+   "party_voice": "",
+   "published": "2026-10-16T07:19:16Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "39bdd855de8b9bea",
+   "title": "UK could quickly re-enter EU with ‘Switzerland plus’ deal, senior MEP says",
+   "summary": "Bernd Lange, who was involved in Brexit talks, says deal could be negotiated within months of any decision to deepen ties The UK could re-enter the EU in a “Switzerland plus” package that could be negotiated within months of any decision to deepen ties with the bloc, the head of a European…",
+   "url": "https://www.theguardian.com/politics/2026/oct/16/uk-eu-europe-switzerland-plus-bernd-lange-brexit",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T07:00:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Switzerland"
+   ]
   },
   {
    "id": "2a56fd9b2a159917",
@@ -282,6 +487,21 @@
    "countries": []
   },
   {
+   "id": "3cb35e61d8ec8bd9",
+   "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+   "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+   "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-16T05:00:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "ff63e8c69c564e4a",
    "title": "Compliance checks: Penalties for digital platform operators — CC/FS98",
    "summary": "This factsheet explains the penalties HMRC may charge digital platform operators for not meeting their reporting obligations.",
@@ -329,26 +549,9 @@
    "countries": []
   },
   {
-   "id": "2f4e71504bea8f04",
-   "title": "Reform faces questions over candidate vetting after undercover filming",
-   "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\".",
-   "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T23:52:27+00:00",
-   "dateonly": false,
-   "parties": [
-    "Reform UK"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "34217d6a0ccd548c",
    "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
-   "summary": "UK defence secretary says he has been ‘reassured directly’ counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensions Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the…",
+   "summary": "UK defence secretary says he has been ‘reassured directly’ by counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensions Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the…",
    "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
    "source": "Guardian Politics",
    "group": "News",
@@ -9785,14 +9988,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -9806,14 +10009,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -9827,7 +10030,7 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
@@ -9855,7 +10058,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -10443,7 +10646,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129757,
+   "signatures": 129797,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -10452,7 +10655,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 115057,
+   "signatures": 115229,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -10461,7 +10664,7 @@
   {
    "id": 764785,
    "title": "Support the Ceramics Industry and protect British manufacturing jobs and skills",
-   "signatures": 111238,
+   "signatures": 111242,
    "created": "2026-03-19T10:58:30.234Z",
    "responded": true,
    "debate": true,
@@ -10470,7 +10673,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106093,
+   "signatures": 106107,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -10479,7 +10682,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 87253,
+   "signatures": 87894,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -10488,7 +10691,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83489,
+   "signatures": 83524,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -10497,7 +10700,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 72431,
+   "signatures": 72517,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -10506,7 +10709,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 65390,
+   "signatures": 65638,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -10515,7 +10718,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55326,
+   "signatures": 55331,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -10524,7 +10727,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49122,
+   "signatures": 49141,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -10533,20 +10736,20 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42556,
+   "signatures": 42649,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/781598"
   },
   {
-   "id": 776949,
-   "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40099,
-   "created": "2026-07-13T16:08:22.844Z",
+   "id": 771401,
+   "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
+   "signatures": 40874,
+   "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
-   "url": "https://petition.parliament.uk/petitions/776949"
+   "url": "https://petition.parliament.uk/petitions/771401"
   }
  ],
  "indicators": [
@@ -11132,7 +11335,7 @@
      "v": 3.75
     },
     {
-     "d": "2026-10-14",
+     "d": "2026-10-15",
      "v": 3.75
     }
    ],
