@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T13:04:17.430664+00:00",
+ "updated": "2026-10-16T15:51:11.342151+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-16T13:04:17.430664+00:00",
+   "published": "2026-10-16T15:51:11.342151+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,40 +20,632 @@
    "countries": []
   },
   {
-   "id": "f2e35628ca3ec7c6",
-   "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
-   "summary": "The prime minister said he wanted regions to have more power while on his first substantive trip to Scotland since moving into Downing Street.",
-   "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
+   "id": "78ac3d2bc6908103",
+   "title": "Housing loans granted while Burnham was mayor investigated by councillors",
+   "summary": "A senior councillor says concerns have been raised about the transparency of the process to approve the loans.",
+   "url": "https://www.bbc.co.uk/news/articles/ck5yn70v2yp8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-16T13:03:19+00:00",
+   "published": "2026-10-16T15:46:11+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
    ],
    "topics": [
-    "Party leadership"
+    "Elections",
+    "Housing"
    ],
    "tax": [],
    "countries": []
   },
   {
+   "id": "b165bdad24c2d021",
+   "title": "Target pensions or welfare, not banks, IMF tells John Healey",
+   "summary": "Supporters of planned tax, however, say banks were bailed out by taxpayers during the financial crisis and can afford to pay more now John Healey poised to raise taxes on banks in budget The International Monetary Fund has urged John Healey to target savings on pensions and welfare, instead of…",
+   "url": "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T15:33:29+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": [
+    "IMF / World Bank"
+   ]
+  },
+  {
+   "id": "72d96497a1b98a5f",
+   "title": "UK could rejoin EU ‘within months’ with ‘Switzerland plus’ deal, MEP says",
+   "summary": "German MEP Bernard Lange lay out a potential speedy route for Britain to rejoin the EU",
+   "url": "https://www.independent.co.uk/news/uk/politics/uk-brexit-rejoin-eu-switzerland-bernard-lange-b3067997.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T15:21:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Germany",
+    "Switzerland"
+   ]
+  },
+  {
+   "id": "2c11c3e509c1b2de",
+   "title": "Reform councillor quits over offensive remarks",
+   "summary": "Alan Feeney was captured on undercover filming calling Asian homeowners \"parasites\".",
+   "url": "https://www.bbc.co.uk/news/articles/c64g1803dkp7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T15:18:32+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "83f1af2cc73d143a",
-   "title": "Burnham says he wants to devolve power so places can ‘change things for themselves’ – UK politics live",
-   "summary": "The prime minister is speaking about devolving decision-making powers away from both Westminster and Holyrood towards regions and towns Burnham spoke of Ravenscraig, once the pride of Scotland’s steel industry that employed tens of thousands of people before it closed in 1992. He said: When it…",
+   "title": "Burnham says ‘too much time is wasted in those dramas’ when asked about Scottish independence – as it happened",
+   "summary": "This blog is now closed Burnham spoke of Ravenscraig, once the pride of Scotland’s steel industry that employed tens of thousands of people before it closed in 1992. He said: When it closed, it wasn’t just a works that shut, it was a whole community which saw the pillars underneath it just taken…",
    "url": "https://www.theguardian.com/politics/live/2026/oct/16/andy-burnham-scotland-devolution-speech-reform-uk-documentary-jenrick-farage-latest-news-updates",
    "source": "Guardian Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-16T12:58:29+00:00",
+   "published": "2026-10-16T15:18:01+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "29e14ef93da53b54",
+   "title": "Tory shadow minister slammed for calling Manchester Arena attack anti-terror act her ‘most hated law’",
+   "summary": "Shadow housing, communities and local government minister Katie Lam called Martyn’s law an ‘absurd set of regulations’",
+   "url": "https://www.independent.co.uk/news/uk/politics/katie-lam-martyn-s-law-terror-attack-legislation-tory-b3068096.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T14:54:48+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "92b8254a85f258cd",
+   "title": "Labour calls for M4 relief road, seven years after axing the plan",
+   "summary": "Seven years after the party axed the project, Labour says the Welsh government should build the road.",
+   "url": "https://www.bbc.co.uk/news/articles/c39wzge1j28yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T14:53:03+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8144538e7d0c2ef8",
+   "title": "UK risks losing key role in European space industry over satellite contract, says Airbus boss",
+   "summary": "Guillaume Faury writes to Andy Burnham warning him against choosing US firm Lockheed Martin to build Skynet satellites The boss of Airbus has told Andy Burnham that choosing its US rival Lockheed Martin to manufacture military satellites could cost the UK a key role in the European space industry,…",
+   "url": "https://www.theguardian.com/business/2026/oct/16/uk-risk-role-european-space-industry-satellite-contract-airbus-boss",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T14:47:16+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
    ],
    "topics": [
-    "Party leadership"
+    "Europe",
+    "Defence"
    ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "f80ad91ca017c2e1",
+   "title": "Herbal smoking products and Tobacco Products Duty",
+   "summary": "Tobacco Products Duty applies to herbal smoking products unless they are used exclusively for medical purposes.",
+   "url": "https://www.gov.uk/guidance/herbal-smoking-products",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-16T14:46:46Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "72febb9b22a34b17",
+   "title": "Ex-culture secretary blasts ‘retrograde’ plan for ‘YouTube tax’ to fund BBC",
+   "summary": "Baroness Nicky Morgan said that many BBC programmes should be available for subscription instead of a levy",
+   "url": "https://www.independent.co.uk/news/uk/politics/bbc-tv-licence-youtube-tax-nicky-morgan-b3068168.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T14:44:05+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "15e3c75d891f85c8",
+   "title": "Former MI5 chief warns Burnham he can’t pit international aid against defence spending",
+   "summary": "‘My advice to the prime minister would be to say you need to think about this as a holistic issue... defence doesn't stand alone’, says Lord Jonathan Evans",
+   "url": "https://www.independent.co.uk/news/uk/politics/uk-mi5-defence-spy-conflict-aid-spending-b3068201.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T14:42:38+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f2e35628ca3ec7c6",
+   "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
+   "summary": "On his first substantive trip to Scotland since becoming PM, he says politicians should focus on solutions \"right now\" and move beyond the issue of Scottish independence.",
+   "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T14:36:27+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9b00bec9cfe4e26b",
+   "title": "Martin Rowson on John Healey’s first budget – cartoon",
+   "summary": "Continue reading...",
+   "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/16/martin-rowson-john-healey-first-budget-cartoon",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T14:27:22+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9bd7af7d73286422",
+   "title": "Trade in goods and services: Economic indicators",
+   "summary": "The UK exports and imports billions of pounds worth of goods and services. Find the latest data on UK trade and the current account.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02815/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-16T14:21:07+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f72c9615b09ace09",
+   "title": "Community Amateur Sports Clubs detailed guidance notes",
+   "summary": "Find out about how the Community Amateur Sports Club (CASC) scheme works and about reliefs you might be able to benefit from.",
+   "url": "https://www.gov.uk/government/publications/community-amateur-sports-clubs-detailed-guidance-notes",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-16T14:19:49Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2b4338e7b2f50cda",
+   "title": "Council by-election results from this week and forthcoming contests",
+   "summary": "Labour gained a seat from Reform UK in Leicestershire. The post Council by-election results from this week and forthcoming contests appeared first on Conservative Home .",
+   "url": "https://conservativehome.com/2026/10/16/council-by-election-results-this-week-and-forthcoming-contests/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-16T14:00:29+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative",
+    "Reform UK"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6feba7e626308d78",
+   "title": "Conflict in Ukraine: A timeline (current conflict, 2022 – present)",
+   "summary": "This paper provides a timeline of the major events in the Ukraine-Russia conflict since the 2022 Russian invasion.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9847/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-16T13:54:42+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "44156fefe2ef9e9a",
+   "title": "Nigel Farage has done more to tackle racism and the far-right than ‘almost anybody’, Robert Jenrick claims",
+   "summary": "The extraordinary claim came as Reform’s Treasury spokesperson sought to defend the party after a new undercover sting operation found councillors and candidates within Reform UK had used racist language",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-uk-itv-nigel-farage-racism-robert-jenrick-b3068003.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T13:48:06+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3b45d5bee1f724dc",
+   "title": "Software developers providing customs declaration software",
+   "summary": "Check a list of software developers who can provide Customs Declaration Service software.",
+   "url": "https://www.gov.uk/guidance/list-of-software-developers-providing-customs-declaration-support",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-16T13:47:41Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "266f56a22f1c1fc5",
+   "title": "One Stop Shop Union scheme: service availability and issues",
+   "summary": "Check the availability and any issues affecting the One Stop Shop (OSS) Union scheme online service.",
+   "url": "https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-16T13:46:25Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "bb19f805dab2f616",
+   "title": "VAT Import One Stop Shop Scheme: service availability and issues",
+   "summary": "Check the availability and any issues affecting the VAT Import One Stop Shop (IOSS) Scheme online service.",
+   "url": "https://www.gov.uk/government/publications/vat-import-one-stop-shop-scheme-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-16T13:46:12Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "VAT"
+   ],
+   "countries": []
+  },
+  {
+   "id": "b9e9e95b9b3f2c02",
+   "title": "TV licences for the over-75s",
+   "summary": "People who are over-75 and receiving Pension Credit are eligible for a free TV licence.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn04955/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-16T13:42:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "78da5ce6372fd672",
+   "title": "Inflation international comparisons: Economic indicators",
+   "summary": "Inflation measures the change in prices over time. Find the latest data on inflation in the UK, the Eurozone, and selected EU countries.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02794/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-16T13:28:50+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7c6b4a626418fb8f",
+   "title": "Using Making Tax Digital for Income Tax for the first time",
+   "summary": "Making Tax Digital for Income Tax explained and a timetable for your first year.",
+   "url": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/using-making-tax-digital-for-income-tax-for-the-first-time",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual_section",
+   "party_voice": "",
+   "published": "2026-10-16T13:18:36Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Income tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "dc9a45b49886d0a4",
+   "title": "Rates for the Carbon Border Adjustment Mechanism (CBAM)",
+   "summary": "Find out about rates for CBAM goods and how they apply to your imports.",
+   "url": "https://www.gov.uk/guidance/rates-for-the-carbon-border-adjustment-mechanism-cbam",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-16T13:18:36Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d1cb1aa440dafbc2",
+   "title": "Use Making Tax Digital for Income Tax",
+   "summary": "Guidance for sole traders, landlords, and agents about how to use HMRC's new way to do Self Assessment.",
+   "url": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual",
+   "party_voice": "",
+   "published": "2026-10-16T13:18:36Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Income tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "39f1257a00b9ca81",
+   "title": "Check if Making Tax Digital for Income Tax has been added to your HMRC online account",
+   "summary": "How to check the new service has been added and what you can do in your online account.",
+   "url": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/check-if-making-tax-digital-for-income-tax-has-been-added-to-your-hmrc-online-account",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual_section",
+   "party_voice": "",
+   "published": "2026-10-16T13:18:36Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Income tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "a996f171c78b0e92",
+   "title": "Send quarterly updates",
+   "summary": "How and when to send quarterly updates and what’s included in them.",
+   "url": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual_section",
+   "party_voice": "",
+   "published": "2026-10-16T13:18:36Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2c85ae6cc48a61dd",
+   "title": "Gwirio a yw’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm wedi’i ychwanegu at eich cyfrif ar-lein CThEF",
+   "summary": "Sut i wirio a yw’r gwasanaeth newydd wedi’i ychwanegu a’r hyn y gallwch ei wneud yn eich cyfrif ar-lein.",
+   "url": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/gwirio-a-yw-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm-wedi-i-ychwanegu-at-eich-cyfrif-ar-lein-cthef",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual_section",
+   "party_voice": "",
+   "published": "2026-10-16T13:18:30Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5e1593312d4c1c05",
+   "title": "Anfon diweddariadau chwarterol",
+   "summary": "Sut a phryd i anfon diweddariad-au chwarterol, yn seiliedig ar eich cyfnod cyfrifyddu.",
+   "url": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/anfon-diweddariadau-chwarterol",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual_section",
+   "party_voice": "",
+   "published": "2026-10-16T13:18:30Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cfdee07518efb6d1",
+   "title": "Defnyddio’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm am y tro cyntaf",
+   "summary": "Esboniad o’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm ac arweiniad ar gyfer eich blwyddyn gyntaf.",
+   "url": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm-am-y-tro-cyntaf",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual_section",
+   "party_voice": "",
+   "published": "2026-10-16T13:18:30Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0a2f073911215efe",
+   "title": "Defnyddio’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm",
+   "summary": "Arweiniad ar gyfer unig fasnachwyr, landlordiaid ac asiantau ynghylch sut i ddefnyddio ffordd newydd CThEF o wneud Hunanasesiad.",
+   "url": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual",
+   "party_voice": "",
+   "published": "2026-10-16T13:18:30Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2757ce3ba9d8057e",
+   "title": "Getting the emissions intensity when importing Carbon Border Adjustment Mechanism (CBAM) goods",
+   "summary": "Find out how to get your emissions intensity as an importer (also known as a liable person) when importing Carbon Border Adjustment Mechanism (CBAM) goods into the UK.",
+   "url": "https://www.gov.uk/guidance/getting-the-emissions-intensity-when-importing-carbon-border-adjustment-mechanism-cbam-goods",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-16T13:18:00Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fc6e899db463098a",
+   "title": "Monitoring emissions as an overseas installation producing Carbon Border Adjustment Mechanism (CBAM) goods, exported to the UK",
+   "summary": "Find out about monitoring emissions and getting emissions verified if you are an installation exporting Carbon Border Adjustment Mechanism (CBAM) goods.",
+   "url": "https://www.gov.uk/guidance/monitoring-emissions-asan-overseas-installation-producing-carbon-border-adjustment-mechanism-cbam-goods-exported-to-the-uk",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-16T13:17:00Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e7163079fb7ed235",
+   "title": "Verifying emissions data for Carbon Border Adjustment Mechanism (CBAM) goods",
+   "summary": "Find out what you must do if you’re verifying emissions data for the Carbon Border Adjustment Mechanism (CBAM).",
+   "url": "https://www.gov.uk/guidance/verifyingemissions-data-for-carbon-border-adjustment-mechanismcbamgoods",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-16T13:16:38Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "75ccb89cb0196701",
+   "title": "Responsibilities if you accredit verifiers for Carbon Border Adjustment Mechanism (CBAM) goods",
+   "summary": "Find out your responsibilities as an accreditation body if you accredit verifiers for the Carbon Border Adjustment Mechanism (CBAM).",
+   "url": "https://www.gov.uk/guidance/responsibilities-if-you-accredit-verifiers-for-carbon-border-adjustment-mechanism-cbam-goods",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-16T13:15:57Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7b23b69d5e862f51",
+   "title": "Carbon Border Adjustment Mechanism (CBAM): technical guidance for monitoring, verifying and reporting emissions",
+   "summary": "This guide provides detailed information for overseas installation operators, verifiers and importers (liable persons) who monitor, verify and report Carbon Border Adjustment Mechanism (CBAM) emissions.",
+   "url": "https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-technical-guidance-for-monitoring-verifying-and-reporting-emissions",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-16T13:14:42Z",
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -123,6 +715,21 @@
    "tax": [
     "Corporation tax"
    ],
+   "countries": []
+  },
+  {
+   "id": "1e5723faa31b0813",
+   "title": "Watch: Did Tesla really just unveil a flying car?",
+   "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+   "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-16T12:32:31+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
    "countries": []
   },
   {
@@ -255,25 +862,6 @@
    "published": "2026-10-16T11:07:10+00:00",
    "dateonly": false,
    "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "44156fefe2ef9e9a",
-   "title": "Nigel Farage has done more to tackle racism and the far-right than ‘almost anybody’, Robert Jenrick claims",
-   "summary": "The extraordinary claim came as Reform’s Treasury spokesperson sought to defend the party after a new undercover sting operation found councillors and candidates within Reform UK had used racist language",
-   "url": "https://www.independent.co.uk/news/uk/politics/reform-uk-itv-nigel-farage-racism-robert-jenrick-b3068003.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-16T11:06:44+00:00",
-   "dateonly": false,
-   "parties": [
-    "Reform UK"
-   ],
    "topics": [
     "Tax and spending"
    ],
@@ -524,26 +1112,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "72d96497a1b98a5f",
-   "title": "UK could rejoin EU ‘within months’ with ‘Switzerland plus’ deal, MEP says",
-   "summary": "German MEP Bernard Lange lay out a potential speedy route for Britain to rejoin the EU",
-   "url": "https://www.independent.co.uk/news/uk/politics/uk-brexit-rejoin-eu-switzerland-bernard-lange-b3067997.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-16T10:09:46+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Germany",
-    "Switzerland"
-   ]
   },
   {
    "id": "5199bb03f610ac47",
@@ -7145,23 +7713,6 @@
    "countries": []
   },
   {
-   "id": "bb19f805dab2f616",
-   "title": "VAT Import One Stop Shop Scheme: service availability and issues",
-   "summary": "Check the availability and any issues affecting the VAT Import One Stop Shop (IOSS) Scheme online service.",
-   "url": "https://www.gov.uk/government/publications/vat-import-one-stop-shop-scheme-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-12T08:54:49Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
    "id": "11a55d843dc421aa",
    "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
    "summary": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
@@ -7211,21 +7762,6 @@
    "party_voice": "",
    "published": "2026-10-12T08:37:46+00:00",
    "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "266f56a22f1c1fc5",
-   "title": "One Stop Shop Union scheme: service availability and issues",
-   "summary": "Check the availability and any issues affecting the One Stop Shop (OSS) Union scheme online service.",
-   "url": "https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-12T08:21:50Z",
    "parties": [],
    "topics": [],
    "tax": [],
@@ -10485,49 +11021,49 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 3,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -10548,7 +11084,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 5,
+   "new": 4,
    "note": ""
   },
   {
@@ -10569,7 +11105,7 @@
    "name": "Resolution Foundation",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -11024,6 +11560,24 @@
    "org": "Caerphilly County Borough Council"
   },
   {
+   "id": "local.conwy.2026-11-19",
+   "title": "Conwy local election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "organisation",
+   "by": false,
+   "org": "Conwy County Borough Council"
+  },
+  {
+   "id": "local.conwy.bryn.by.2026-11-19",
+   "title": "Conwy local election Bryn by-election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "ballot",
+   "by": true,
+   "org": "Conwy County Borough Council"
+  },
+  {
    "id": "local.county-durham.2026-11-19",
    "title": "County Durham local election",
    "date": "2026-11-19",
@@ -11058,6 +11612,24 @@
    "level": "ballot",
    "by": true,
    "org": "Fareham Borough Council"
+  },
+  {
+   "id": "local.havant.2026-11-19",
+   "title": "Havant local election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "organisation",
+   "by": false,
+   "org": "Havant Borough Council"
+  },
+  {
+   "id": "local.havant.emsworth.by.2026-11-19",
+   "title": "Havant local election Emsworth by-election",
+   "date": "2026-11-19",
+   "type": "Local elections",
+   "level": "ballot",
+   "by": true,
+   "org": "Havant Borough Council"
   },
   {
    "id": "local.hertfordshire.2026-11-19",
@@ -11130,13 +11702,31 @@
    "level": "ballot",
    "by": true,
    "org": "South Staffordshire Council"
+  },
+  {
+   "id": "local.east-ayrshire.2026-12-10",
+   "title": "East Ayrshire local election",
+   "date": "2026-12-10",
+   "type": "Local elections",
+   "level": "organisation",
+   "by": false,
+   "org": "The East Ayrshire Council"
+  },
+  {
+   "id": "local.east-ayrshire.cumnock-and-new-cumnock.by.2026-12-10",
+   "title": "East Ayrshire local election Cumnock and New Cumnock by-election",
+   "date": "2026-12-10",
+   "type": "Local elections",
+   "level": "ballot",
+   "by": true,
+   "org": "The East Ayrshire Council"
   }
  ],
  "petitions": [
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129826,
+   "signatures": 129858,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -11145,7 +11735,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 115372,
+   "signatures": 115472,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -11163,7 +11753,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106169,
+   "signatures": 106234,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -11172,7 +11762,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 88589,
+   "signatures": 89169,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -11181,7 +11771,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83552,
+   "signatures": 83570,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -11190,7 +11780,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 72606,
+   "signatures": 72673,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -11199,7 +11789,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 65822,
+   "signatures": 65939,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -11208,7 +11798,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55334,
+   "signatures": 55336,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -11217,7 +11807,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49158,
+   "signatures": 49165,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -11226,7 +11816,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42861,
+   "signatures": 42946,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -11235,7 +11825,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 41506,
+   "signatures": 41896,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
