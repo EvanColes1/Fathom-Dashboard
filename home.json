@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:59:21.159502+00:00",
+ "updated": "2026-10-16T03:52:07.544116+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,12 +10,27 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-16T00:59:21.159502+00:00",
+   "published": "2026-10-16T03:52:07.544116+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d4937be5438de41a",
+   "title": "UK to ban three types of extreme pornography from next month",
+   "summary": "A ban on pornography depicting strangulation and incestuous relationships - as well as someone pretending to be a child under 16 - will come into effect next month.",
+   "url": "https://news.sky.com/story/uk-to-ban-three-types-of-extreme-pornography-from-next-month-13599799",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T01:25:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -47,7 +62,7 @@
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-15T23:44:07+00:00",
+   "published": "2026-10-15T23:47:50+00:00",
    "dateonly": false,
    "parties": [
     "Reform UK"
@@ -9506,21 +9521,21 @@
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -10150,7 +10165,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129743,
+   "signatures": 129744,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -10159,7 +10174,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 114958,
+   "signatures": 114970,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -10186,7 +10201,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 86816,
+   "signatures": 86877,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -10195,7 +10210,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83478,
+   "signatures": 83479,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -10204,7 +10219,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 72369,
+   "signatures": 72379,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -10213,7 +10228,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 65233,
+   "signatures": 65259,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -10240,7 +10255,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42545,
+   "signatures": 42550,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -10249,7 +10264,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40071,
+   "signatures": 40073,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,

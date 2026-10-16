@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:59:21.159502+00:00",
+ "updated": "2026-10-16T03:52:07.544116+00:00",
  "days": {
   "2026-09-28": {
    "total": 2,
@@ -58,7 +58,7 @@
    }
   },
   "2026-10-02": {
-   "total": 37,
+   "total": 36,
    "c": {
     "Kosovo": 1,
     "United States": 11,
@@ -294,11 +294,11 @@
    }
   },
   "2026-10-08": {
-   "total": 72,
+   "total": 73,
    "c": {
     "Iran": 4,
     "India": 4,
-    "United States": 15,
+    "United States": 16,
     "Russia": 16,
     "Ukraine": 15,
     "United Kingdom": 2,
@@ -1447,7 +1447,7 @@
    }
   },
   "2026-10-15": {
-   "total": 559,
+   "total": 560,
    "c": {
     "United Kingdom": 41,
     "France": 36,
@@ -1456,7 +1456,7 @@
     "Israel": 43,
     "Lebanon": 6,
     "Russia": 60,
-    "Ukraine": 62,
+    "Ukraine": 63,
     "Syria": 7,
     "United States": 131,
     "Saudi Arabia": 20,
@@ -1662,30 +1662,48 @@
    }
   },
   "2026-10-16": {
-   "total": 9,
+   "total": 35,
    "c": {
-    "Saudi Arabia": 2,
-    "Yemen": 2,
-    "France": 1,
-    "Iran": 2,
-    "United States": 3,
-    "Iraq": 1,
-    "Israel": 1,
-    "Palestine": 1,
-    "United Kingdom": 1,
-    "Russia": 1
+    "Israel": 4,
+    "United States": 12,
+    "Iraq": 2,
+    "United Kingdom": 3,
+    "Russia": 4,
+    "Saudi Arabia": 5,
+    "Yemen": 6,
+    "Palestine": 3,
+    "China": 2,
+    "Iran": 4,
+    "Peru": 1,
+    "Argentina": 2,
+    "Pakistan": 1,
+    "Ukraine": 1,
+    "Belgium": 1,
+    "European Union": 1,
+    "Myanmar": 1,
+    "Zimbabwe": 1,
+    "France": 1
    },
    "s": {
+    "Israel": 2,
+    "United States": 5,
+    "Iraq": 2,
+    "United Kingdom": 2,
+    "Russia": 3,
     "Saudi Arabia": 2,
     "Yemen": 2,
-    "France": 1,
+    "Palestine": 2,
+    "China": 2,
     "Iran": 2,
-    "United States": 3,
-    "Iraq": 1,
-    "Israel": 1,
-    "Palestine": 1,
-    "United Kingdom": 1,
-    "Russia": 1
+    "Peru": 1,
+    "Argentina": 1,
+    "Pakistan": 1,
+    "Ukraine": 1,
+    "Belgium": 1,
+    "European Union": 1,
+    "Myanmar": 1,
+    "Zimbabwe": 1,
+    "France": 1
    }
   }
  }
