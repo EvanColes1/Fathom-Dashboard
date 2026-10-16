@@ -1,88 +1,88 @@
 {
- "updated": "2026-10-16T09:51:07.834020+00:00",
+ "updated": "2026-10-16T13:04:17.430664+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 14,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 11,
+   "new": 9,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 5,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 5,
    "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 13,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 8,
    "note": ""
   },
   {
@@ -103,7 +103,7 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": "via backup feed"
   },
   {
@@ -124,7 +124,7 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": "via backup feed"
   },
   {
@@ -145,7 +145,7 @@
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -166,7 +166,7 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 2,
+   "new": 5,
    "note": ""
   },
   {
@@ -180,7 +180,7 @@
    "name": "Carbon Brief",
    "group": "Energy",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -194,14 +194,14 @@
    "name": "Splash247",
    "group": "Maritime",
    "ok": true,
-   "new": 7,
+   "new": 1,
    "note": ""
   },
   {
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
@@ -243,7 +243,7 @@
    "name": "IAEA News",
    "group": "Nuclear",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   }
  ],
