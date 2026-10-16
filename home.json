@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T18:56:30.227056+00:00",
+ "updated": "2026-10-16T21:48:21.348187+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-16T18:56:30.227056+00:00",
+   "published": "2026-10-16T21:48:21.348187+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -18,6 +18,44 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "23dc0dc71791eff0",
+   "title": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
+   "summary": "Chancellor says government will study responses to public consultation, with airports being ‘big part of jobs and growth’ John Healey has said there is a pro-growth case for going ahead with a third runway at Heathrow despite the prime minister declining to back it. Healey’s predecessor as…",
+   "url": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T21:30:12+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Economy",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "13870feec35d35ad",
+   "title": "Police assess Palestine Action post by national security adviser's wife",
+   "summary": "Downing Street says Sarah Helm, the wife of Jonathan Powell, \"does not represent the government in any capacity\".",
+   "url": "https://www.bbc.co.uk/news/articles/crn4el88y7p2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T18:58:05+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Palestine"
+   ]
   },
   {
    "id": "2c11c3e509c1b2de",
@@ -11182,14 +11220,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 1,
    "note": ""
   },
   {
@@ -11203,7 +11241,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
@@ -11894,7 +11932,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129887,
+   "signatures": 129936,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -11903,7 +11941,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 115598,
+   "signatures": 115754,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -11912,7 +11950,7 @@
   {
    "id": 764785,
    "title": "Support the Ceramics Industry and protect British manufacturing jobs and skills",
-   "signatures": 111246,
+   "signatures": 111247,
    "created": "2026-03-19T10:58:30.234Z",
    "responded": true,
    "debate": true,
@@ -11921,7 +11959,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106270,
+   "signatures": 106300,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -11930,7 +11968,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 89853,
+   "signatures": 90347,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -11939,7 +11977,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83596,
+   "signatures": 83632,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -11948,7 +11986,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 72764,
+   "signatures": 72818,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -11957,7 +11995,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 66053,
+   "signatures": 66152,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -11966,7 +12004,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55341,
+   "signatures": 55346,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -11975,7 +12013,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49175,
+   "signatures": 49181,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -11984,7 +12022,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43053,
+   "signatures": 43175,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -11993,7 +12031,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 42342,
+   "signatures": 42706,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
