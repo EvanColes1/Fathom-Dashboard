@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:49:45.065527+00:00",
+ "updated": "2026-10-16T00:59:21.159502+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-15T21:49:45.065527+00:00",
+   "published": "2026-10-16T00:59:21.159502+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,19 +20,119 @@
    "countries": []
   },
   {
+   "id": "34217d6a0ccd548c",
+   "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+   "summary": "UK defence secretary says he has been ‘reassured directly’ counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensions Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the…",
+   "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T23:49:57+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
    "id": "2a56fd9b2a159917",
-   "title": "‘Take the f***ing deal’: Farage secretly filmed letting off Reform candidate accused of racist attack against David Lammy",
+   "title": "‘Take the f***ing deal’: Farage secretly filmed letting off Reform candidate accused of racist slur against David Lammy",
    "summary": "ITV captured a conversation between Nigel Farage and the party’s director of communications on a mayoral candidate accused of racism",
    "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-uk-itv-undercover-chris-parry-b3067660.html",
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-15T21:20:46+00:00",
+   "published": "2026-10-15T23:44:07+00:00",
    "dateonly": false,
    "parties": [
     "Reform UK"
    ],
    "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "42e795f0c3807bc9",
+   "title": "Living with a stink? Technology might help",
+   "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+   "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T23:18:21+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "08df3cd49e9c3b79",
+   "title": "I find it quite demoralising in store - why I do all my shopping online",
+   "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+   "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-15T23:16:12+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d70a05fa45f38f42",
+   "title": "New law could see children taught how to stop ‘life-threatening bleeding’ after stabbings and car crashes",
+   "summary": "The Bill by Conservative MP Neil Shastri-Hurst would build on current life-saving teaching in schools, which already includes CPR",
+   "url": "https://www.independent.co.uk/news/uk/politics/children-pupils-emergencies-bleeding-neil-shastri-hurst-b3067596.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T23:01:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "297061ca1a82e8d8",
+   "title": "These types of extreme pornography will be banned from November",
+   "summary": "The content will be outlawed from November 6, the government has announced",
+   "url": "https://www.independent.co.uk/news/uk/politics/porn-incest-strangulation-ban-government-b3067607.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T23:01:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d41a430b50a0567b",
+   "title": "BBC licence fee to be extended with ‘YouTube tax’ to force more to pay",
+   "summary": "Exclusive: A government white paper set to be published before Christmas is expected to include plans to extend the licence fee to cover YouTube, Netflix, Amazon and Disney Plus",
+   "url": "https://www.independent.co.uk/news/uk/politics/bbc-licence-fee-charter-youtube-tax-netflix-disney-b3067500.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T22:59:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
    "tax": [],
    "countries": []
   },
@@ -54,7 +154,7 @@
   {
    "id": "d6cf0d0199d6f226",
    "title": "France drops opposition to UK being included in ‘Made in Europe’ legislation",
-   "summary": "British government must however align with the European Union’s position over tariffs on Chinese EVs France has dropped its opposition to the UK being included in the EU’s “Made in Europe” legislation as long as the British government aligns with the bloc’s position over tariffs on Chinese EVs.…",
+   "summary": "British government must however align with the European Union’s position over tariffs on Chinese EVs France has dropped its opposition to the UK being included in the EU’s “Made in Europe” legislation as long as the British government aligns with the bloc’s position over tariffs on Chinese EVs. In…",
    "url": "https://www.theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation",
    "source": "Guardian Politics",
    "group": "News",
@@ -105,26 +205,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "34217d6a0ccd548c",
-   "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
-   "summary": "UK defence secretary trying to cool tensions and is arguing it is in America’s economic interests to support Kyiv Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is…",
-   "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T18:09:14+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Defence"
-   ],
-   "tax": [],
-   "countries": [
-    "Ukraine",
-    "United States"
-   ]
   },
   {
    "id": "eaf157fb57172efe",
@@ -246,24 +326,6 @@
    "topics": [
     "Tax and spending",
     "Housing"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d41a430b50a0567b",
-   "title": "BBC licence fee to be extended with ‘YouTube tax’ to force more to pay",
-   "summary": "Exclusive: A government white paper set to be published before Christmas is expected to include plans to extend the licence fee to cover YouTube, Netflix, Amazon and Disney Plus",
-   "url": "https://www.independent.co.uk/news/uk/politics/bbc-licence-fee-charter-youtube-tax-netflix-disney-b3067500.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T17:10:24+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
    ],
    "tax": [],
    "countries": []
@@ -9437,7 +9499,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -9451,14 +9513,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -9651,78 +9713,6 @@
   }
  ],
  "elections": [
-  {
-   "id": "local.flintshire.2026-10-15",
-   "title": "Flintshire local election",
-   "date": "2026-10-15",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Flintshire County Council"
-  },
-  {
-   "id": "local.flintshire.higher-kinnerton.by.2026-10-15",
-   "title": "Flintshire local election Higher Kinnerton by-election",
-   "date": "2026-10-15",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Flintshire County Council"
-  },
-  {
-   "id": "local.leicestershire.2026-10-15",
-   "title": "Leicestershire local election",
-   "date": "2026-10-15",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Leicestershire County Council"
-  },
-  {
-   "id": "local.leicestershire.shepshed.by.2026-10-15",
-   "title": "Leicestershire local election Shepshed by-election",
-   "date": "2026-10-15",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Leicestershire County Council"
-  },
-  {
-   "id": "local.mid-devon.2026-10-15",
-   "title": "Mid Devon local election",
-   "date": "2026-10-15",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Mid Devon District Council"
-  },
-  {
-   "id": "local.mid-devon.bradninch.by.2026-10-15",
-   "title": "Mid Devon local election Bradninch by-election",
-   "date": "2026-10-15",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Mid Devon District Council"
-  },
-  {
-   "id": "local.wiltshire.2026-10-15",
-   "title": "Wiltshire local election",
-   "date": "2026-10-15",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Wiltshire Council"
-  },
-  {
-   "id": "local.wiltshire.salisbury-milford.by.2026-10-15",
-   "title": "Wiltshire local election Salisbury Milford by-election",
-   "date": "2026-10-15",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Wiltshire Council"
-  },
   {
    "id": "local.carmarthenshire.2026-10-22",
    "title": "Carmarthenshire local election",
@@ -10160,7 +10150,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129736,
+   "signatures": 129743,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -10169,7 +10159,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 114896,
+   "signatures": 114958,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -10187,7 +10177,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106075,
+   "signatures": 106082,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -10196,7 +10186,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 86578,
+   "signatures": 86816,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -10205,7 +10195,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83466,
+   "signatures": 83478,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -10214,7 +10204,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 72343,
+   "signatures": 72369,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -10223,7 +10213,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 65027,
+   "signatures": 65233,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -10232,7 +10222,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55320,
+   "signatures": 55324,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -10241,7 +10231,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49114,
+   "signatures": 49116,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -10250,7 +10240,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42525,
+   "signatures": 42545,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -10259,7 +10249,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40055,
+   "signatures": 40071,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
