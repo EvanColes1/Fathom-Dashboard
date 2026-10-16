@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T06:09:19.868034+00:00",
+ "updated": "2026-10-16T07:05:18.751902+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,12 +10,47 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-16T06:09:19.868034+00:00",
+   "published": "2026-10-16T07:05:18.751902+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5ee51802dfb1b6bf",
+   "title": "Banks say Healey planning to increase tax on their profits in Budget",
+   "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+   "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-16T06:42:12+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2a56fd9b2a159917",
+   "title": "Farage secretly filmed letting off Reform candidate accused of racist slur against David Lammy",
+   "summary": "ITV captured a conversation between Nigel Farage and the party’s director of communications on a mayoral candidate accused of racism",
+   "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-uk-itv-undercover-chris-parry-b3067660.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T06:35:02+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -40,6 +75,23 @@
    "countries": []
   },
   {
+   "id": "e6de5010a1aba89e",
+   "title": "Does the mainstream media have it out for Reform UK?",
+   "summary": "Reform are not the victims of some big, mainstream media stitch up. They are the victims of their own incompetence. They continue to prance around, begging to be taken seriously as a political party, boasting of how they will flood the green benches of House of Commons with their MPs come the next…",
+   "url": "https://conservativehome.com/2026/10/16/does-the-mainstream-media-have-it-out-for-reform-uk/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-16T06:00:15+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "623b6457cbdbe2d4",
    "title": "Fuel costs squeezing margins for some businesses",
    "summary": "Diesel recently topped £2 per litre and there is concern that a duty freeze will not go far enough.",
@@ -55,6 +107,60 @@
    "countries": []
   },
   {
+   "id": "1eebb06fb517df38",
+   "title": "Sarah Ingham: There’s a quite simple answer to the question of reparations for slavery – just say no",
+   "summary": "Reparative justice campaigners rarely acknowledge Britain’s role in ending the slave trade in much of the world. They are silent on the Royal Navy’s role. They refuse to consider the centuries of enslavement of Africans by Arab traders, commemorated in Zanzibar. The post Sarah Ingham: There’s a…",
+   "url": "https://conservativehome.com/2026/10/16/sarah-ingham-theres-a-quite-simple-answer-to-the-question-of-reparations-for-slavery-just-say-no/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-16T05:30:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f2e35628ca3ec7c6",
+   "title": "Burnham to urge Swinney to work with him on devolution during Scottish visit",
+   "summary": "The prime minister will speak on his first substantive trip to Scotland since moving into Downing Street.",
+   "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-16T05:22:31+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "eec0799edcd792a3",
+   "title": "Georgia L Gilholy: Badenoch is asking a lot if she wants a free pass on immigration – she was part of the problem",
+   "summary": "By play-acting as if high immigration was an accident her party wandered into, Badenoch is guilty of admitting either her party’s deceit or incompetence. Neither of these implications is attractive to our exhausted electorate. British voters are desperate for concrete solutions to the problems that…",
+   "url": "https://conservativehome.com/2026/10/16/georgia-l-gilholy-badenoch-is-asking-a-lot-if-she-wants-a-free-pass-on-immigration-she-was-part-of-the-problem/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-16T05:20:03+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Elections",
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "297061ca1a82e8d8",
    "title": "These types of extreme pornography will be banned from November",
    "summary": "The content will be outlawed from November 6, the government has announced",
@@ -65,6 +171,24 @@
    "published": "2026-10-16T05:12:36+00:00",
    "dateonly": false,
    "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e18ac55725f7d17f",
+   "title": "Shazna Muzammil: Reform UK can buy leaflets. It can’t buy trust – yet",
+   "summary": "The Conservative Party's local government network remains one of our greatest political assets. We have councillors who know their communities. Members and volunteers who have spent years campaigning in them. The post Shazna Muzammil: Reform UK can buy leaflets. It can’t buy trust – yet appeared…",
+   "url": "https://conservativehome.com/2026/10/16/shazna-muzammil-reform-uk-can-buy-leaflets-it-cant-buy-trust-yet/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-16T05:10:54+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative",
+    "Reform UK"
+   ],
    "topics": [],
    "tax": [],
    "countries": []
@@ -205,6 +329,23 @@
    "countries": []
   },
   {
+   "id": "2f4e71504bea8f04",
+   "title": "Reform faces questions over candidate vetting after undercover filming",
+   "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\".",
+   "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-15T23:52:27+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "34217d6a0ccd548c",
    "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
    "summary": "UK defence secretary says he has been ‘reassured directly’ counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensions Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the…",
@@ -225,17 +366,17 @@
    ]
   },
   {
-   "id": "2a56fd9b2a159917",
-   "title": "‘Take the f***ing deal’: Farage secretly filmed letting off Reform candidate accused of racist slur against David Lammy",
-   "summary": "ITV captured a conversation between Nigel Farage and the party’s director of communications on a mayoral candidate accused of racism",
-   "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-uk-itv-undercover-chris-parry-b3067660.html",
-   "source": "Independent Politics",
+   "id": "24213b35ca3288c9",
+   "title": "Porn showing choking or incest to be banned from early November, government says",
+   "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+   "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-15T23:47:50+00:00",
+   "published": "2026-10-15T23:27:57+00:00",
    "dateonly": false,
    "parties": [
-    "Reform UK"
+    "Conservative"
    ],
    "topics": [],
    "tax": [],
@@ -478,24 +619,6 @@
    ],
    "topics": [
     "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "5ee51802dfb1b6bf",
-   "title": "Banks say Healey planning to increase tax on their profits in Budget",
-   "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-   "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-15T17:14:36+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Housing"
    ],
    "tax": [],
    "countries": []
@@ -9662,14 +9785,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -9690,7 +9813,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -9703,15 +9826,15 @@
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": false,
-   "new": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
+   "ok": true,
+   "new": 4,
+   "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -10320,7 +10443,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129750,
+   "signatures": 129757,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -10329,7 +10452,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 115007,
+   "signatures": 115057,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -10347,7 +10470,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106089,
+   "signatures": 106093,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -10356,7 +10479,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 87088,
+   "signatures": 87253,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -10365,7 +10488,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83485,
+   "signatures": 83489,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -10374,7 +10497,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 72406,
+   "signatures": 72431,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -10383,7 +10506,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 65322,
+   "signatures": 65390,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -10401,7 +10524,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49119,
+   "signatures": 49122,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -10410,7 +10533,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 42555,
+   "signatures": 42556,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -10419,7 +10542,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40084,
+   "signatures": 40099,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
