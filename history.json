@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T01:00:54.021108+00:00",
+ "updated": "2026-10-17T03:49:58.040583+00:00",
  "days": {
   "2026-09-28": {
    "total": 2,
@@ -58,50 +58,32 @@
    }
   },
   "2026-10-06": {
-   "total": 34,
+   "total": 14,
    "c": {
-    "Russia": 6,
-    "United Kingdom": 2,
-    "Israel": 3,
-    "India": 1,
-    "Ukraine": 3,
-    "Palestine": 2,
-    "Yemen": 1,
-    "Turkey": 1,
-    "United States": 4,
-    "Taiwan": 3,
-    "Somalia": 1,
-    "Sri Lanka": 1,
-    "Brazil": 1,
-    "France": 1,
-    "South Korea": 1,
-    "China": 3,
-    "Kazakhstan": 1,
-    "European Union": 1
-   },
-   "s": {
     "Russia": 4,
-    "United Kingdom": 2,
-    "Israel": 3,
+    "United Kingdom": 1,
+    "Israel": 2,
     "India": 1,
     "Ukraine": 2,
-    "Palestine": 2,
+    "Palestine": 1,
     "Yemen": 1,
     "Turkey": 1,
-    "United States": 3,
-    "Taiwan": 1,
-    "Somalia": 1,
-    "Sri Lanka": 1,
-    "Brazil": 1,
-    "France": 1,
-    "South Korea": 1,
-    "China": 1,
-    "Kazakhstan": 1,
-    "European Union": 1
+    "United States": 1
+   },
+   "s": {
+    "Russia": 2,
+    "United Kingdom": 1,
+    "Israel": 2,
+    "India": 1,
+    "Ukraine": 1,
+    "Palestine": 1,
+    "Yemen": 1,
+    "Turkey": 1,
+    "United States": 1
    }
   },
   "2026-10-07": {
-   "total": 59,
+   "total": 60,
    "c": {
     "Thailand": 2,
     "United States": 11,
@@ -1721,24 +1703,44 @@
    }
   },
   "2026-10-17": {
-   "total": 6,
+   "total": 25,
    "c": {
+    "Israel": 4,
+    "Palestine": 4,
+    "Cameroon": 1,
+    "United Kingdom": 1,
+    "Australia": 3,
+    "United States": 7,
+    "Mexico": 4,
+    "Brazil": 2,
+    "Russia": 1,
+    "Ukraine": 1,
+    "Iran": 4,
+    "Spain": 1,
+    "Yemen": 2,
+    "Canada": 1,
     "India": 1,
-    "Palestine": 3,
     "United Nations": 1,
-    "Italy": 1,
-    "Israel": 2,
-    "Iran": 1,
-    "United States": 1
+    "Italy": 1
    },
    "s": {
-    "India": 1,
-    "Palestine": 1,
-    "United Nations": 1,
-    "Italy": 1,
     "Israel": 1,
-    "Iran": 1,
-    "United States": 1
+    "Palestine": 1,
+    "Cameroon": 1,
+    "United Kingdom": 1,
+    "Australia": 2,
+    "United States": 4,
+    "Mexico": 3,
+    "Brazil": 2,
+    "Russia": 1,
+    "Ukraine": 1,
+    "Iran": 2,
+    "Spain": 1,
+    "Yemen": 2,
+    "Canada": 1,
+    "India": 1,
+    "United Nations": 1,
+    "Italy": 1
    }
   }
  }
