@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T12:54:29.698386+00:00",
+ "updated": "2026-10-17T15:44:29.839016+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,12 +10,78 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-17T12:54:29.698386+00:00",
+   "published": "2026-10-17T15:44:29.839016+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "21d95dc978047f02",
+   "title": "Reform councillor resigns after being filmed making racist remarks",
+   "summary": "Alan Feeney recorded by an undercover journalist calling Asian homeowners ‘parasites’",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-resign-councillor-alan-feeney-itv-b3068451.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-17T15:20:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "07aaa509169c3bda",
+   "title": "Low-cost clinic helps pet owners with vet bills",
+   "summary": "RSPCA Medway West launches its clinic for the pets of people with low incomes.",
+   "url": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-17T14:12:02+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d2891269b127dea0",
+   "title": "Voices: Why Burnham could be the longest-serving PM since Blair",
+   "summary": "Andrew Neil asks if the new tenant of No 10 is the latest in a series of leaders unqualified for the role – but he could be the longest-serving prime minister since Tony Blair, writes John Rentoul",
+   "url": "https://www.independent.co.uk/voices/burnham-blair-andrew-neil-dud-b3068518.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-17T13:09:12+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "426cc428c50927ff",
+   "title": "SNP members back resolution supporting UK-wide ban on X",
+   "summary": "The resolution, which also said the SNP should remove itself from the social media platform, was passed overwhelmingly at the party’s conference.",
+   "url": "https://www.independent.co.uk/news/uk/politics/snp-scottish-government-elon-musk-holyrood-aberdeen-b3068529.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-17T12:52:08+00:00",
+   "dateonly": false,
+   "parties": [
+    "Scottish National Party"
+   ],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -57,8 +123,8 @@
   },
   {
    "id": "7ed9977216f27468",
-   "title": "‘We are in hiding’: Briton with severe health issues fears deportation from Sweden",
-   "summary": "Mark Smith, who is married to a Swedish woman, says he was told three times he needed to do nothing in order to remain after Brexit A seriously ill British man living in Sweden has been forced into hiding amid fears he will be deported as a result of what he says is a government Brexit residency…",
+   "title": "Briton threatened with deportation from Sweden over Brexit rules goes into hiding",
+   "summary": "Mark Smith, who has severe health issues, says he was told three times he needed to do nothing in order to remain after Brexit A seriously ill British man living in Sweden has been forced into hiding amid fears he will be deported as a result of what he says is a government Brexit residency error.…",
    "url": "https://www.theguardian.com/uk-news/2026/oct/17/we-are-in-hiding-briton-severe-health-issues-fears-deportation-sweden",
    "source": "Guardian Politics",
    "group": "News",
@@ -73,6 +139,23 @@
    "countries": [
     "Sweden"
    ]
+  },
+  {
+   "id": "488b0bd09839eb89",
+   "title": "Water bills face £40 hike if sector is downgraded, industry chief warns",
+   "summary": "Water customers face having to pay an extra £40 a year to suppliers if the industry is hit by a fresh ratings downgrade, the head of the industry's main lobbying group has warned.",
+   "url": "https://news.sky.com/story/water-bills-face-40-hike-if-sector-is-downgraded-industry-chief-warns-13600137",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-17T10:21:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
   },
   {
    "id": "f6a07fc7613f6c54",
@@ -92,21 +175,6 @@
     "Economy",
     "Party leadership"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "21d95dc978047f02",
-   "title": "Reform councillor resigns after being filmed making racist remarks",
-   "summary": "Alan Feeney recorded by an undercover journalist calling Asian homeowners ‘parasites’",
-   "url": "https://www.independent.co.uk/news/uk/politics/reform-resign-councillor-alan-feeney-itv-b3068451.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-17T07:54:12+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -5184,8 +5252,8 @@
    "title": "Bookies in last-ditch plea to Healey to avert budget tax bombshell",
    "summary": "Britain's biggest bookmakers are stepping up their efforts to avert a budget tax bombshell in a last-ditch letter warning that half of the betting shops in the prime minister's constituency would be at risk from a further raid.",
    "url": "https://news.sky.com/story/bookies-in-last-ditch-plea-to-healey-to-avert-budget-tax-bombshell-13599154",
-   "source": "Sky News Business",
-   "group": "Economy news",
+   "source": "Sky News Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-14T08:50:00+00:00",
    "dateonly": false,
@@ -11526,7 +11594,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -11540,21 +11608,21 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -12231,7 +12299,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130220,
+   "signatures": 130277,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -12240,7 +12308,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 116122,
+   "signatures": 116204,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -12249,7 +12317,7 @@
   {
    "id": 764785,
    "title": "Support the Ceramics Industry and protect British manufacturing jobs and skills",
-   "signatures": 111253,
+   "signatures": 111254,
    "created": "2026-03-19T10:58:30.234Z",
    "responded": true,
    "debate": true,
@@ -12258,7 +12326,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106882,
+   "signatures": 106909,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -12267,7 +12335,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 91575,
+   "signatures": 91885,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -12276,7 +12344,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83764,
+   "signatures": 83811,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -12285,7 +12353,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73016,
+   "signatures": 73040,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -12294,7 +12362,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 66335,
+   "signatures": 66451,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -12303,7 +12371,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55361,
+   "signatures": 55363,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -12312,7 +12380,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49281,
+   "signatures": 49305,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -12321,7 +12389,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 43530,
+   "signatures": 43689,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -12330,7 +12398,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43377,
+   "signatures": 43406,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
