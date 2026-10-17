@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T03:49:58.040583+00:00",
+ "updated": "2026-10-17T06:05:02.558919+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-17T03:49:58.040583+00:00",
+   "published": "2026-10-17T06:05:02.558919+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -18,6 +18,96 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "7d9de05a48c43c7e",
+   "title": "Nightclubs are disappearing - and it's affecting young people",
+   "summary": "One young person said with no nightlife in their town they cannot \"let loose and mess around\".",
+   "url": "https://www.bbc.co.uk/news/articles/cm5yngn0pl2ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-17T06:01:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8eb6c0b25c0b263c",
+   "title": "‘Why Iceland’s EU referendum matters to British progressives’",
+   "summary": "On August 29, Icelanders voted on whether to resume EU membership negotiations. The results were decisive, with 47… The post ‘Why Iceland’s EU referendum matters to British progressives’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/iceland-eu-referendum-british-progressives/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-17T05:00:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Iceland"
+   ]
+  },
+  {
+   "id": "4d540a51f12fcec3",
+   "title": "Brexit’s back – but are British voters ready to contemplate a reversal?",
+   "summary": "As Andy Burnham talks up closer alignment with the EU and a poll suggests half in UK would rejoin, the B-word is back on the agenda In February 2016, days after David Cameron announced the UK would hold a referendum on leaving the EU, he told workers in Slough not to imagine they could change their…",
+   "url": "https://www.theguardian.com/politics/2026/oct/17/brexit-back-british-voters-ready-contemplate-reversal",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-17T05:00:23+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Elections",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "860f6063881e7f72",
+   "title": "‘Beyond recruitment: a new fostering plan that offers real hope’",
+   "summary": "The Labour government’s new national fostering campaign recognises that recruiting more foster carers is only the beginning. To… The post ‘Beyond recruitment: a new fostering plan that offers real hope’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/beyond-recruitment-new-fostering-campaign/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-17T05:00:18+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f9de3d4ddc233f27",
+   "title": "Palestine Action post by wife of PM's adviser being assessed by police",
+   "summary": "The Metropolitan Police are assessing a social media post referencing support for Palestine Action from Sarah Helm, author and wife of Andy Burnham's national security adviser.",
+   "url": "https://news.sky.com/story/palestine-action-post-by-sarah-helms-wife-of-national-security-adviser-being-assessed-by-met-police-13600095",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-17T01:31:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Palestine"
+   ]
   },
   {
    "id": "b666c18239eb9f63",
@@ -11242,14 +11332,14 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -11263,7 +11353,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -11284,7 +11374,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -11947,7 +12037,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 129949,
+   "signatures": 129965,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -11956,7 +12046,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 115821,
+   "signatures": 115849,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -11974,7 +12064,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106322,
+   "signatures": 106350,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -11983,7 +12073,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 90540,
+   "signatures": 90615,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -11992,7 +12082,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83659,
+   "signatures": 83663,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -12001,7 +12091,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 72840,
+   "signatures": 72858,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -12010,7 +12100,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 66194,
+   "signatures": 66202,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -12019,7 +12109,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55350,
+   "signatures": 55351,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -12037,7 +12127,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43236,
+   "signatures": 43246,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -12046,7 +12136,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 42879,
+   "signatures": 42951,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
