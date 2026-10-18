@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T01:01:17.477959+00:00",
+ "updated": "2026-10-18T03:49:57.077819+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,28 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-18T01:01:17.477959+00:00",
+   "published": "2026-10-18T03:49:57.077819+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6e6fa200487edab9",
+   "title": "NHS faces 'more challenging' winter after summer of heatwaves, minister warns",
+   "summary": "The NHS faces a \"more challenging\" winter than normal after this summer's record-breaking heat, the health secretary has warned.",
+   "url": "https://news.sky.com/story/nhs-faces-more-challenging-winter-after-summer-of-heatwaves-yvette-cooper-warns-13600504",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-18T00:52:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "NHS and care"
    ],
    "tax": [],
    "countries": []
@@ -11756,21 +11773,21 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -12461,7 +12478,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130395,
+   "signatures": 130397,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -12470,7 +12487,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 116465,
+   "signatures": 116467,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -12488,7 +12505,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 92651,
+   "signatures": 92676,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -12497,7 +12514,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83891,
+   "signatures": 83897,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -12506,7 +12523,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73133,
+   "signatures": 73134,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -12515,7 +12532,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 66684,
+   "signatures": 66691,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -12533,7 +12550,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49343,
+   "signatures": 49344,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -12542,7 +12559,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 44118,
+   "signatures": 44134,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -12551,7 +12568,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43505,
+   "signatures": 43513,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -12560,7 +12577,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40388,
+   "signatures": 40390,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
