@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T21:44:19.814603+00:00",
+ "updated": "2026-10-18T01:01:17.477959+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,48 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-17T21:44:19.814603+00:00",
+   "published": "2026-10-18T01:01:17.477959+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "303f68e144300085",
+   "title": "Zack Polanski’s poll approval ratings hit new low amid ‘Zionism is racism’ row",
+   "summary": "The Green Party leader’s support among young voters has nosedived, according to Ispos",
+   "url": "https://www.independent.co.uk/news/uk/politics/zack-polanski-green-party-poll-zionism-b3068590.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-17T23:01:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Green Party"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "049d1e875b6608b8",
+   "title": "Yvette Cooper pledges £140m to boost urgent care as NHS faces ‘tough’ winter",
+   "summary": "Health secretary says government has been preparing early and will spend money on ambulances and A&E upgrades The NHS faces a more challenging winter than normal, the health secretary has warned, as she announced a £140m increase for urgent care in England. Yvette Cooper said the money would help…",
+   "url": "https://www.theguardian.com/society/2026/oct/18/yvette-cooper-140m-boost-urgent-care-nhs-tough-winter",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-17T23:00:43+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "NHS and care"
    ],
    "tax": [],
    "countries": []
@@ -90,20 +127,19 @@
   },
   {
    "id": "82aec918130e4d47",
-   "title": "'We don't need to be trapped in Brexit Britain': Emotional John Swinney says he'll deliver Scottish independence for teenage son",
+   "title": "Emotional John Swinney says he'll deliver Scottish independence for teenage son",
    "summary": "The SNP leader has closed his party’s annual conference in Aberdeen on a personal note",
    "url": "https://www.independent.co.uk/news/uk/politics/john-swinney-scottish-independence-son-b3068612.html",
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-17T20:07:59+00:00",
+   "published": "2026-10-17T20:03:32+00:00",
    "dateonly": false,
    "parties": [
     "Scottish National Party"
    ],
    "topics": [
-    "Party leadership",
-    "Europe"
+    "Party leadership"
    ],
    "tax": [],
    "countries": []
@@ -515,8 +551,8 @@
   },
   {
    "id": "f9de3d4ddc233f27",
-   "title": "Palestine Action post by wife of PM's adviser being assessed by police",
-   "summary": "The Metropolitan Police are assessing a social media post referencing support for Palestine Action from Sarah Helm, author and wife of Andy Burnham's national security adviser.",
+   "title": "No police action against wife of PM's adviser over Palestine Action post",
+   "summary": "Police have said no further action will be taken against Sarah Helm, author and wife of Andy Burnham's national security adviser, after she was accused of supporting the banned protest group Palestine Action.",
    "url": "https://news.sky.com/story/palestine-action-post-by-sarah-helms-wife-of-national-security-adviser-being-assessed-by-met-police-13600095",
    "source": "Sky News Politics",
    "group": "News",
@@ -11720,7 +11756,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
@@ -11734,14 +11770,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -11829,7 +11865,110 @@
    "note": ""
   }
  ],
- "parties": [],
+ "parties": [
+  {
+   "name": "Labour",
+   "abbr": "Lab",
+   "colour": "#d50000",
+   "seats": 404
+  },
+  {
+   "name": "Conservative",
+   "abbr": "Con",
+   "colour": "#0063ba",
+   "seats": 118
+  },
+  {
+   "name": "Liberal Democrat",
+   "abbr": "LD",
+   "colour": "#fc7d0b",
+   "seats": 71
+  },
+  {
+   "name": "Independent",
+   "abbr": "Ind",
+   "colour": "#909090",
+   "seats": 11
+  },
+  {
+   "name": "Reform UK",
+   "abbr": "RUK",
+   "colour": "#12b6cf",
+   "seats": 8
+  },
+  {
+   "name": "Scottish National Party",
+   "abbr": "SNP",
+   "colour": "#fff685",
+   "seats": 8
+  },
+  {
+   "name": "Sinn Féin",
+   "abbr": "SF",
+   "colour": "#02665f",
+   "seats": 7
+  },
+  {
+   "name": "Democratic Unionist Party",
+   "abbr": "DUP",
+   "colour": "#d46a4c",
+   "seats": 5
+  },
+  {
+   "name": "Green Party",
+   "abbr": "Green",
+   "colour": "#78b82a",
+   "seats": 5
+  },
+  {
+   "name": "Plaid Cymru",
+   "abbr": "PC",
+   "colour": "#348837",
+   "seats": 4
+  },
+  {
+   "name": "Social Democratic & Labour Party",
+   "abbr": "SDLP",
+   "colour": "#4ea268",
+   "seats": 2
+  },
+  {
+   "name": "Your Party",
+   "abbr": "YP",
+   "colour": "#ff3131",
+   "seats": 2
+  },
+  {
+   "name": "Alliance",
+   "abbr": "APNI",
+   "colour": "#cdaf2d",
+   "seats": 1
+  },
+  {
+   "name": "Restore Britain",
+   "abbr": "RB",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Speaker",
+   "abbr": "Spk",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Traditional Unionist Voice",
+   "abbr": "TUV",
+   "colour": "#0c3a6a",
+   "seats": 1
+  },
+  {
+   "name": "Ulster Unionist Party",
+   "abbr": "UUP",
+   "colour": "#a1cdf0",
+   "seats": 1
+  }
+ ],
  "elections": [
   {
    "id": "local.carmarthenshire.2026-10-22",
@@ -12322,7 +12461,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130386,
+   "signatures": 130395,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -12331,25 +12470,16 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 116431,
+   "signatures": 116465,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
    "url": "https://petition.parliament.uk/petitions/769589"
   },
   {
-   "id": 764785,
-   "title": "Support the Ceramics Industry and protect British manufacturing jobs and skills",
-   "signatures": 111258,
-   "created": "2026-03-19T10:58:30.234Z",
-   "responded": true,
-   "debate": true,
-   "url": "https://petition.parliament.uk/petitions/764785"
-  },
-  {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106968,
+   "signatures": 106983,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -12358,7 +12488,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 92537,
+   "signatures": 92651,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -12367,7 +12497,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83879,
+   "signatures": 83891,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -12376,7 +12506,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73118,
+   "signatures": 73133,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -12385,7 +12515,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 66655,
+   "signatures": 66684,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -12403,7 +12533,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49338,
+   "signatures": 49343,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -12412,7 +12542,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 44017,
+   "signatures": 44118,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -12421,11 +12551,20 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43487,
+   "signatures": 43505,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/781598"
+  },
+  {
+   "id": 776949,
+   "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
+   "signatures": 40388,
+   "created": "2026-07-13T16:08:22.844Z",
+   "responded": true,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/776949"
   }
  ],
  "indicators": [
@@ -12987,7 +13126,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-09-17",
+     "d": "2024-09-18",
      "v": 5.0
     },
     {
@@ -13032,7 +13171,5 @@
    "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
   }
  ],
- "problems": [
-  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
- ]
+ "problems": []
 }
