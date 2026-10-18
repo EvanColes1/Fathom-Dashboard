@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T03:49:57.077819+00:00",
+ "updated": "2026-10-18T06:04:27.769979+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,12 +10,95 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-18T03:49:57.077819+00:00",
+   "published": "2026-10-18T06:04:27.769979+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e91d3aa152ac869a",
+   "title": "Heating oil customers face tough winter",
+   "summary": "The government plans to regulate heating oil prices after increases.",
+   "url": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-18T06:04:27.769979+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a7486910fb7f3f12",
+   "title": "Our top ten picks of the week",
+   "summary": "ConservativeHome's round-up of ten of our best articles from the preceding week. The post Our top ten picks of the week appeared first on Conservative Home .",
+   "url": "https://conservativehome.com/2026/10/18/our-top-ten-picks-of-the-week-238/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-18T06:00:21+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5804396ad21eeb5a",
+   "title": "‘Older renters can’t wait: local housing allowance must be uprated now’",
+   "summary": "There is no doubt that this government has presided over major positive changes for renters. With one-third of… The post ‘Older renters can’t wait: local housing allowance must be uprated now’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/local-housing-allowance-older-renters/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-18T05:00:50+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "691c7d707787844f",
+   "title": "‘A long-delayed moment of truth for North Sea oil and Labour’s climate credentials’",
+   "summary": "In the Greenpeace office this week, I suggested running a sweepstake on when we would finally get a… The post ‘A long-delayed moment of truth for North Sea oil and Labour’s climate credentials’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/north-sea-oil-climate-credentials/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-18T05:00:25+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "892f7dad8123123b",
+   "title": "Letters to the Editor – week ending 18th October 2026",
+   "summary": "Read what people have been writing to our editor about this week. Find out how to share your… The post Letters to the Editor – week ending 18th October 2026 appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/letters-to-the-editor-week-ending-18th-october-2026/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-18T05:00:21+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -11780,7 +11863,7 @@
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -11794,7 +11877,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -11808,14 +11891,14 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -11870,9 +11953,9 @@
   {
    "name": "GOV.UK hm-revenue-customs",
    "group": "Government",
-   "ok": true,
+   "ok": false,
    "new": 0,
-   "note": ""
+   "note": "503 Server Error: hostname doesn't match against certificate for url: https://www.gov.uk/api/search.json?filter_organisations=hm-revenue-customs&order=-public_t"
   },
   {
    "name": "GOV.UK hm-treasury",
@@ -12478,7 +12561,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130397,
+   "signatures": 130401,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -12487,7 +12570,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 116467,
+   "signatures": 116481,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -12496,7 +12579,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106983,
+   "signatures": 106986,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -12505,7 +12588,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 92676,
+   "signatures": 92729,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -12514,7 +12597,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83897,
+   "signatures": 83901,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -12523,7 +12606,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73134,
+   "signatures": 73142,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -12532,7 +12615,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 66691,
+   "signatures": 66704,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -12541,7 +12624,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55369,
+   "signatures": 55370,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -12550,7 +12633,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49344,
+   "signatures": 49346,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -12559,7 +12642,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 44134,
+   "signatures": 44161,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -12568,7 +12651,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43513,
+   "signatures": 43515,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -12577,7 +12660,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40390,
+   "signatures": 40393,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,

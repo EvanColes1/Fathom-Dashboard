@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T03:49:57.077819+00:00",
+ "updated": "2026-10-18T06:04:27.769979+00:00",
  "feeds": [
   {
    "name": "BBC World",
@@ -12,14 +12,14 @@
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 7,
+   "new": 8,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 4,
    "note": ""
   },
   {
@@ -40,7 +40,7 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -61,7 +61,7 @@
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": "via backup feed"
   },
   {
@@ -75,7 +75,7 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 4,
    "note": ""
   },
   {
@@ -124,7 +124,7 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 16,
+   "new": 17,
    "note": "via backup feed"
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 9,
+   "new": 8,
    "note": ""
   },
   {
@@ -193,9 +193,9 @@
   {
    "name": "Splash247",
    "group": "Maritime",
-   "ok": true,
+   "ok": false,
    "new": 0,
-   "note": ""
+   "note": "415 Client Error: Unsupported Media Type for url: https://splash247.com/feed/"
   },
   {
    "name": "The Maritime Executive",
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 18,
+   "new": 15,
    "note": "via backup feed"
   },
   {

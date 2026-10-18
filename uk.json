@@ -1,11 +1,27 @@
 {
- "updated": "2026-10-17T06:05:02.558919+00:00",
- "since": "2026-09-17",
+ "updated": "2026-10-18T06:04:27.769979+00:00",
+ "since": "2026-09-18",
  "whitehall": [
+  {
+   "title": "Belgium travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/belgium",
+   "published": "2026-10-17T19:49:24Z",
+   "kind": "travel_advice",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Belgium"
+   ]
+  },
   {
    "title": "Saudi Arabia travel advice",
    "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia",
-   "published": "2026-10-16T21:40:31Z",
+   "published": "2026-10-17T16:25:35Z",
    "kind": "travel_advice",
    "orgs": [
     "FCDO"
@@ -1905,22 +1921,6 @@
    ]
   },
   {
-   "title": "Belgium travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/belgium",
-   "published": "2026-10-13T14:33:30Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Belgium"
-   ]
-  },
-  {
    "title": "Joint statement on the postponement of Palestinian elections",
    "url": "https://www.gov.uk/government/news/joint-statement-on-the-postponement-of-palestinian-elections",
    "published": "2026-10-13T14:31:00Z",
@@ -2543,85 +2543,71 @@
  ],
  "attention": [
   {
-   "country": "United States",
-   "news_7d": 731,
-   "contributions": 37,
-   "debates": 0,
+   "country": "Ukraine",
+   "news_7d": 406,
+   "contributions": 56,
+   "debates": 1,
    "statements": 0
   },
   {
    "country": "Russia",
-   "news_7d": 393,
+   "news_7d": 398,
    "contributions": 67,
    "debates": 1,
    "statements": 1
   },
   {
-   "country": "Ukraine",
-   "news_7d": 392,
-   "contributions": 58,
-   "debates": 1,
+   "country": "Israel",
+   "news_7d": 233,
+   "contributions": 9,
+   "debates": 0,
    "statements": 0
   },
   {
    "country": "Yemen",
-   "news_7d": 239,
+   "news_7d": 226,
    "contributions": 10,
    "debates": 0,
    "statements": 0
   },
   {
    "country": "Saudi Arabia",
-   "news_7d": 236,
-   "contributions": 18,
+   "news_7d": 218,
+   "contributions": 15,
    "debates": 1,
    "statements": 0
   },
   {
-   "country": "Israel",
-   "news_7d": 231,
-   "contributions": 19,
-   "debates": 0,
-   "statements": 0
-  },
-  {
-   "country": "France",
-   "news_7d": 209,
-   "contributions": 36,
+   "country": "Palestine",
+   "news_7d": 191,
+   "contributions": 1,
    "debates": 0,
    "statements": 0
   },
   {
    "country": "Iran",
-   "news_7d": 191,
-   "contributions": 64,
+   "news_7d": 187,
+   "contributions": 60,
    "debates": 2,
    "statements": 0
   },
   {
-   "country": "Palestine",
-   "news_7d": 189,
-   "contributions": 5,
-   "debates": 0,
-   "statements": 0
-  },
-  {
-   "country": "India",
-   "news_7d": 125,
-   "contributions": 27,
-   "debates": 0,
-   "statements": 0
-  },
-  {
    "country": "China",
-   "news_7d": 117,
+   "news_7d": 116,
    "contributions": 15,
    "debates": 0,
    "statements": 0
   },
   {
+   "country": "India",
+   "news_7d": 112,
+   "contributions": 25,
+   "debates": 0,
+   "statements": 0
+  },
+  {
    "country": "Australia",
-   "news_7d": 75,
+   "news_7d": 72,
    "contributions": 20,
    "debates": 0,
    "statements": 0
@@ -2637,19 +2623,19 @@
   {
    "term": "sanctions",
    "theme": "sanctions",
-   "contributions": 44,
+   "contributions": 42,
    "debates": 0
   },
   {
    "term": "energy security",
    "theme": "energy",
-   "contributions": 31,
+   "contributions": 29,
    "debates": 1
   },
   {
    "term": "Red Sea",
    "theme": "maritime",
-   "contributions": 4,
+   "contributions": 2,
    "debates": 0
   },
   {
@@ -2673,7 +2659,7 @@
   {
    "term": "nuclear deterrent",
    "theme": "nuclear",
-   "contributions": 3,
+   "contributions": 2,
    "debates": 0
   }
  ],
@@ -2897,36 +2883,6 @@
    "debate": "International Update",
    "text": "I thank my hon. Friend for the powerful way in which she puts her question. I assure her that Britain will always take the strongest possible approach towards sanctions on Russia. The Foreign Secretary recently announced new sanctions on the shadow fleet,…",
    "url": "https://hansard.parliament.uk/Commons/2026-10-12/debates/54FB2EDB-83AF-40FE-8A98-A914AD221CD7"
-  },
-  {
-   "issue": "Red Sea",
-   "member": "Lord Grayling",
-   "party": "Con",
-   "house": "Lords",
-   "date": "2026-09-17",
-   "debate": "Saudi East-West Oil Pipeline",
-   "text": "My Lords, I refer Members to my entry in the register. This attack is simply part of a mounting threat to the Red Sea, which is far more than an energy route: it is one of the world’s most important trade routes. As part of the international community, the…",
-   "url": "https://hansard.parliament.uk/Lords/2026-09-17/debates/F0D6D7B4-8043-4C07-8407-981AFD143DA2"
-  },
-  {
-   "issue": "Red Sea",
-   "member": "Baroness Antrobus",
-   "party": "Lab",
-   "house": "Lords",
-   "date": "2026-09-17",
-   "debate": "Saudi East-West Oil Pipeline",
-   "text": "The noble Lord, Lord Grayling, makes an excellent point about the importance of that region. I speak as someone who, on an exchange tour with the Royal Navy, served in and sailed through the Suez Canal, the Red Sea and into the Gulf, so I know the region…",
-   "url": "https://hansard.parliament.uk/Lords/2026-09-17/debates/F0D6D7B4-8043-4C07-8407-981AFD143DA2"
-  },
-  {
-   "issue": "nuclear deterrent",
-   "member": "Lord Beamish",
-   "party": "Lab",
-   "house": "Lords",
-   "date": "2026-09-17",
-   "debate": "Defence Funding",
-   "text": "My Lords, first, I apologise to the House for sounding like a broken record, but does my noble friend agree with me that the Benches opposite should have a bit of humility? When they were in government, from 2010 to 2016, they cut the defence budget by 16%,…",
-   "url": "https://hansard.parliament.uk/Lords/2026-09-17/debates/BDD13DB4-5EF1-4A8C-A685-C00691FDC368"
   }
  ]
 }
