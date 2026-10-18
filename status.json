@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-18T09:46:49.778498+00:00",
+ "updated": "2026-10-18T12:54:11.290156+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 11,
+   "new": 18,
    "note": ""
   },
   {
@@ -40,21 +40,21 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
@@ -75,7 +75,7 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
@@ -124,14 +124,14 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 17,
+   "new": 18,
    "note": "via backup feed"
   },
   {
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 5,
+   "new": 6,
    "note": "via backup feed"
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 8,
+   "new": 7,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 16,
+   "new": 19,
    "note": "via backup feed"
   },
   {
@@ -236,7 +236,7 @@
    "name": "Bulletin of the Atomic Scientists",
    "group": "Nuclear",
    "ok": true,
-   "new": 4,
+   "new": 5,
    "note": "via backup feed"
   },
   {
