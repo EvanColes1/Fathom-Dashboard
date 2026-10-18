@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T06:58:49.034104+00:00",
+ "updated": "2026-10-18T09:46:49.778498+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,12 +10,79 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-18T06:58:49.034104+00:00",
+   "published": "2026-10-18T09:46:49.778498+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "57f333fc80e4c82f",
+   "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+   "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
+   "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-18T08:12:24+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "55e831a2e9b38ded",
+   "title": "'I took a chance on the whisky industry and I haven't looked back'",
+   "summary": "Zoey Darnbrough had no idea there was a distillery near her home - now she has a top tourism role there.",
+   "url": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-18T08:12:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0e0994bfe7346322",
+   "title": "Polanski’s popularity plummets to record low in wake of Green by-election loss and ‘Zionism’ motion",
+   "summary": "Zack Polanski now has the lowest popularity of any national leader, with his overall rating falling to minus 36",
+   "url": "https://www.independent.co.uk/news/uk/politics/zack-polanski-polls-green-zionism-motion-b3068706.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-18T08:06:58+00:00",
+   "dateonly": false,
+   "parties": [
+    "Green Party"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "acd26a157fd1a9a4",
+   "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
+   "summary": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible the Spectator, he has helped shape the right even as it has moved further rightwards. In the latest episode of Radical Thinking, Gove…",
+   "url": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-18T07:00:53+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -116,6 +183,21 @@
    "topics": [
     "NHS and care"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d30b14dfa6825002",
+   "title": "There's a crackdown on sports piracy - but is it already out of control?",
+   "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-18T00:11:09+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -648,6 +730,43 @@
    "topics": [],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "69552e64579850ca",
+   "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+   "summary": "It comes after the prime minister refused to say whether he backed expansion.",
+   "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-17T03:57:16+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ec571ce1a0f1fbbb",
+   "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
+   "summary": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-17T01:59:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "China",
+    "Thailand",
+    "IMF / World Bank"
+   ]
   },
   {
    "id": "f9de3d4ddc233f27",
@@ -11856,7 +11975,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -11870,14 +11989,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 5,
    "note": ""
   },
   {
@@ -11965,110 +12084,7 @@
    "note": ""
   }
  ],
- "parties": [
-  {
-   "name": "Labour",
-   "abbr": "Lab",
-   "colour": "#d50000",
-   "seats": 404
-  },
-  {
-   "name": "Conservative",
-   "abbr": "Con",
-   "colour": "#0063ba",
-   "seats": 118
-  },
-  {
-   "name": "Liberal Democrat",
-   "abbr": "LD",
-   "colour": "#fc7d0b",
-   "seats": 71
-  },
-  {
-   "name": "Independent",
-   "abbr": "Ind",
-   "colour": "#909090",
-   "seats": 11
-  },
-  {
-   "name": "Reform UK",
-   "abbr": "RUK",
-   "colour": "#12b6cf",
-   "seats": 8
-  },
-  {
-   "name": "Scottish National Party",
-   "abbr": "SNP",
-   "colour": "#fff685",
-   "seats": 8
-  },
-  {
-   "name": "Sinn Féin",
-   "abbr": "SF",
-   "colour": "#02665f",
-   "seats": 7
-  },
-  {
-   "name": "Democratic Unionist Party",
-   "abbr": "DUP",
-   "colour": "#d46a4c",
-   "seats": 5
-  },
-  {
-   "name": "Green Party",
-   "abbr": "Green",
-   "colour": "#78b82a",
-   "seats": 5
-  },
-  {
-   "name": "Plaid Cymru",
-   "abbr": "PC",
-   "colour": "#348837",
-   "seats": 4
-  },
-  {
-   "name": "Social Democratic & Labour Party",
-   "abbr": "SDLP",
-   "colour": "#4ea268",
-   "seats": 2
-  },
-  {
-   "name": "Your Party",
-   "abbr": "YP",
-   "colour": "#ff3131",
-   "seats": 2
-  },
-  {
-   "name": "Alliance",
-   "abbr": "APNI",
-   "colour": "#cdaf2d",
-   "seats": 1
-  },
-  {
-   "name": "Restore Britain",
-   "abbr": "RB",
-   "colour": "#8a96a0",
-   "seats": 1
-  },
-  {
-   "name": "Speaker",
-   "abbr": "Spk",
-   "colour": "#8a96a0",
-   "seats": 1
-  },
-  {
-   "name": "Traditional Unionist Voice",
-   "abbr": "TUV",
-   "colour": "#0c3a6a",
-   "seats": 1
-  },
-  {
-   "name": "Ulster Unionist Party",
-   "abbr": "UUP",
-   "colour": "#a1cdf0",
-   "seats": 1
-  }
- ],
+ "parties": [],
  "elections": [
   {
    "id": "local.carmarthenshire.2026-10-22",
@@ -12561,7 +12577,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130409,
+   "signatures": 130461,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -12570,7 +12586,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 116488,
+   "signatures": 116570,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -12579,7 +12595,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 106986,
+   "signatures": 107005,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -12588,7 +12604,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 92801,
+   "signatures": 93115,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -12597,7 +12613,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83906,
+   "signatures": 83932,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -12606,7 +12622,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73151,
+   "signatures": 73189,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -12615,7 +12631,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 66710,
+   "signatures": 66773,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -12624,7 +12640,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55370,
+   "signatures": 55373,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -12633,7 +12649,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49353,
+   "signatures": 49384,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -12642,7 +12658,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 44195,
+   "signatures": 44368,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -12651,7 +12667,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43523,
+   "signatures": 43546,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -12660,7 +12676,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40394,
+   "signatures": 40432,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -13271,5 +13287,7 @@
    "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
   }
  ],
- "problems": []
+ "problems": [
+  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
+ ]
 }
