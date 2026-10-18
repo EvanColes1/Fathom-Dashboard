@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T12:54:11.290156+00:00",
+ "updated": "2026-10-18T15:44:19.119644+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-18T12:54:11.290156+00:00",
+   "published": "2026-10-18T15:44:19.119644+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -18,6 +18,86 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "bb9361e11f928038",
+   "title": "Police investigate Reform mayor for allegedly sharing ‘naked and sexualised’ images of himself",
+   "summary": "Female colleague says she was forced out shortly after incident with Luke Campbell, Hull and East Yorkshire mayor A Reform UK mayor is under police investigation for allegedly showing “naked and sexualised” images of himself to a female member of staff. Luke Campbell, a former Olympic boxing…",
+   "url": "https://www.theguardian.com/politics/2026/oct/18/police-investigate-reform-mayor-allegedly-sharing-naked-sexualised-images-of-himself",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-18T15:18:04+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ac9d3e762191113f",
+   "title": "Welsh government accused of ‘sitting on’ plans for space defence project over opposition to Donald Trump",
+   "summary": "The Ministry of Defence (MoD) announced in 2024 that the Cawdor Barracks in Pembrokeshire will be the home of the Deep Space Advanced Radar Capability (Darc)",
+   "url": "https://www.independent.co.uk/news/uk/politics/darc-wales-pembrokeshire-plans-plaid-cymru-b3068747.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-18T15:01:25+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "28bb0bf8be1bfa6c",
+   "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+   "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+   "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-18T14:57:19+00:00",
+   "dateonly": false,
+   "parties": [
+    "Green Party"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1e2aa116d2b3b3b5",
+   "title": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
+   "summary": "Scrutiny committee looks into financing of Manchester Life project as PM promises ‘full transparency’ A £55m loan to Manchester City’s Abu Dhabi owner will be investigated as part of a review into a fund for housing projects while Andy Burnham was mayor. The prime minister has faced weeks of…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-18T14:41:15+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": [
+    "United Arab Emirates"
+   ]
   },
   {
    "id": "840b455ed3f8953b",
@@ -43,25 +123,6 @@
    "group": "News",
    "party_voice": "",
    "published": "2026-10-18T11:55:29+00:00",
-   "dateonly": false,
-   "parties": [
-    "Green Party"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "28bb0bf8be1bfa6c",
-   "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-   "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-   "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-18T11:14:33+00:00",
    "dateonly": false,
    "parties": [
     "Green Party"
@@ -12125,14 +12186,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
@@ -12146,14 +12207,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -12837,7 +12898,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130505,
+   "signatures": 130551,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -12846,7 +12907,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 116661,
+   "signatures": 116747,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -12855,7 +12916,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107012,
+   "signatures": 107023,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -12864,7 +12925,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 93558,
+   "signatures": 93978,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -12873,7 +12934,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 83963,
+   "signatures": 83987,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -12882,7 +12943,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73212,
+   "signatures": 73243,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -12891,7 +12952,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 66851,
+   "signatures": 67197,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -12900,7 +12961,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55379,
+   "signatures": 55381,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -12909,7 +12970,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49420,
+   "signatures": 49446,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -12918,7 +12979,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 44519,
+   "signatures": 44663,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -12927,7 +12988,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43577,
+   "signatures": 43603,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -12936,7 +12997,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40462,
+   "signatures": 40495,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
