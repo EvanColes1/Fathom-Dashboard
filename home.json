@@ -1,7 +1,26 @@
 {
- "updated": "2026-10-19T03:55:00.008388+00:00",
+ "updated": "2026-10-19T06:12:44.565249+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "a19a70e77ff1aa13",
+   "title": "HMRC tax receipts and National Insurance contributions for the UK",
+   "summary": "This release includes historical receipts on a monthly and annual basis for all taxes administered by HMRC, as well as expenditure relating to tax credits, Child Benefit and Tax-Free Childcare. The bulletin also includes analysis and commentary on year-to-date receipts.",
+   "url": "https://www.gov.uk/government/statistics/announcements/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk--162",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "national_statistics_announcement",
+   "party_voice": "",
+   "published": "2026-10-19T06:13:03Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "National Insurance"
+   ],
+   "countries": []
+  },
   {
    "id": "ecffaeecb1eb927b",
    "title": "Green Budget 2026: Full report",
@@ -10,7 +29,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-19T03:55:00.008388+00:00",
+   "published": "2026-10-19T06:12:44.565249+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -21,13 +40,13 @@
   },
   {
    "id": "8294376ada505c83",
-   "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+   "title": "China's growth accelerates as AI boom helps boost exports",
    "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
    "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-19T03:17:46+00:00",
+   "published": "2026-10-19T06:08:02+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
@@ -39,6 +58,234 @@
    ]
   },
   {
+   "id": "5467a06d0c01e13e",
+   "title": "HMRC tax receipts and National Insurance contributions for the UK",
+   "summary": "Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.",
+   "url": "https://www.gov.uk/government/statistics/announcements/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk--151",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "national_statistics_announcement",
+   "party_voice": "",
+   "published": "2026-10-19T06:07:57Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "National Insurance"
+   ],
+   "countries": []
+  },
+  {
+   "id": "8d3ca107e6683696",
+   "title": "‘I’m shocked!’ – the nasty hangover not shutting the door on hubris will give you",
+   "summary": "At this stage the Tories aren’t winning, and Reform aren’t losing. Nobody has cause to celebrate and nobody should panic. What really won’t work is an orgy of fighting talk, and retreat into now stale fighting lines. Things have changed whether either side likes it or not. The post ‘I’m shocked!’ –…",
+   "url": "https://conservativehome.com/2026/10/19/im-shocked-the-nasty-hangover-not-shutting-the-door-on-hubris-will-give-you/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-19T06:00:30+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d0599be7f1e0d99c",
+   "title": "Matthew Jeffery: We talk about million-pound inheritances while working Britain counts the pennies",
+   "summary": "We spent years persuading voters in Red Wall constituencies that Conservatism offered them a ladder. Now we risk looking like we're more interested in protecting inheritances at the top than helping people climb up from the bottom. We must become the party of the pay packet, not the inheritance.…",
+   "url": "https://conservativehome.com/2026/10/19/matthew-jeffery-we-talk-about-million-pound-inheritances-while-working-britain-counts-the-pennies/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-19T05:30:32+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1df7345b7132970a",
+   "title": "Harriet Cross: With thirty mentions of independence, Swinney’s conference speech was Groundhog Day for Scotland",
+   "summary": "After almost twenty years in power, blaming Westminster is no substitute for governing Scotland. We will not allow another independence referendum, we will not devolve any more powers to the Scottish Government, and we will not rest until they use the powers they do have to actually benefit the…",
+   "url": "https://conservativehome.com/2026/10/19/harriet-cross-with-thirty-mentions-of-independence-swinneys-conference-speech-was-groundhog-day-for-scotland/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-19T05:20:53+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0edb75c36a1550ee",
+   "title": "Charities 'busier than ever' with furniture poverty",
+   "summary": "Charities in Hampshire tell the BBC that furniture poverty is becoming an increasing problem.",
+   "url": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-19T05:10:28+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c008cdde89fe41ae",
+   "title": "Spencer Gardner: Burnham should tell the truth about the cost of his social care plans",
+   "summary": "May's social care reforms unravelled because voters focused relentlessly on the question of who would pay. The post Spencer Gardner: Burnham should tell the truth about the cost of his social care plans appeared first on Conservative Home .",
+   "url": "https://conservativehome.com/2026/10/19/spencer-gardner-burnham-should-tell-the-truth-about-the-cost-of-his-social-care-plans/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-19T05:10:10+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Economy",
+    "Elections",
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "52b2dd40a215829c",
+   "title": "Burnham urged to launch inquiry into unequal health impacts of air pollution",
+   "summary": "Letter from 150 scientists, MPs and activists calls for action to protect lower-income and minority-ethnic communities The government must hold an inquiry into the unequal impacts of air pollution, 150 scientists, MPs and activists have urged. Research by the Institute for Fiscal Studies shows that…",
+   "url": "https://www.theguardian.com/environment/2026/oct/19/andy-burnham-government-inquiry-unequal-health-impacts-air-pollution",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T05:00:20+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a5e5b7487b3e0087",
+   "title": "From politicians on TikTok to fetching a ping-pong ball: Edith Pritchett’s week in Venn diagrams – cartoon",
+   "summary": "Continue reading...",
+   "url": "https://www.theguardian.com/lifeandstyle/picture/2026/oct/19/politicians-tiktok-chasing-pingpong-ball-edith-pritchett-week-in-venn-diagrams-cartoon",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T05:00:20+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "328776865569a82a",
+   "title": "Profit warnings from UK-listed firms at highest level in two years as Iran war drives up costs",
+   "summary": "Consultancy says companies quoted on London stock market issued 65 in three months to end of September The number of profit warnings from UK-listed companies has risen to the highest level in two years, as the war in the Middle East triggers a surge in costs for businesses before the budget. With…",
+   "url": "https://www.theguardian.com/business/2026/oct/19/profit-warnings-from-uk-listed-firms-at-highest-level-in-two-years-as-iran-war-drives-up-costs",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T05:00:19+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "9f0cf2e31393a829",
+   "title": "‘It’s about persistence’: Cornish devolution no longer a pipe dream as its champion bows out",
+   "summary": "Dick Cole is quitting Mebyon Kernow, which campaigns for greater self-rule for Cornwall, after 29 years at the helm There will be no great fanfare when Dick Cole steps down as party leader in a few days’ time. “We’ll have an official handover at our party conference,” Cole said. “Hopefully it will…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/19/dick-cole-devolution-cornwall-quitting-mebyon-kernow-party-leader",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T05:00:19+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "da7d333c9d255705",
+   "title": "Paul Nowak column: ‘Britain needs a living standards Budget’",
+   "summary": "£14,000. That’s how much extra households have paid in mortgage, energy, loan, and water bills since 2021. From… The post Paul Nowak column: ‘Britain needs a living standards Budget’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/britain-needs-living-standards-budget/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-19T05:00:15+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c187e77fc785f031",
+   "title": "‘Brexit was never a closed matter – it’s time to put the national interest first’",
+   "summary": "There are voices on the left who argue it would be a mistake to reopen the Brexit debate.… The post ‘Brexit was never a closed matter – it’s time to put the national interest first’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/brexit-never-closed-matter/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-19T05:00:11+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "380f601ef190df14",
+   "title": "‘I lay in pool of blood after being shot at point blank range while undercover in Northern Ireland’",
+   "summary": "Shot through the stomach and stranded in the Northern Irish countryside with no backup, Blue* was the lucky one. Now, the former undercover operative tells Sam Kiley about what went wrong, how he survived, and the pressure of making split-second decisions",
+   "url": "https://www.independent.co.uk/news/uk/politics/sas-undercover-soldier-shot-northern-ireland-shadow-war-b3062093.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T05:00:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Ireland"
+   ]
+  },
+  {
    "id": "02bad27ee6e6261f",
    "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
    "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
@@ -46,12 +293,32 @@
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-19T02:41:41+00:00",
+   "published": "2026-10-19T04:30:59+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "66285616796433ac",
+   "title": "Britain cannot deal effectively with geopolitical crises without rejoining EU, says thinktank",
+   "summary": "‘Sovereignty without the ability to act on it is not autonomy,’ paper by Institute for Public Policy Research says Britain cannot deal effectively with geopolitical crises such as Russian aggression and political turmoil in the US without rejoining the EU, according to an influential thinktank. The…",
+   "url": "https://www.theguardian.com/world/2026/oct/19/britain-geopolitical-crises-rejoin-eu-thinktank",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T04:00:18+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "United States"
+   ]
   },
   {
    "id": "3b6b37f27d1c706c",
@@ -12435,7 +12702,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 5,
    "note": ""
   },
   {
@@ -12449,14 +12716,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
@@ -12470,14 +12737,14 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 4,
    "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -13140,7 +13407,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130638,
+   "signatures": 130645,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -13149,7 +13416,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 117028,
+   "signatures": 117062,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -13158,7 +13425,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107050,
+   "signatures": 107056,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -13167,7 +13434,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 94560,
+   "signatures": 94619,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -13176,7 +13443,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84042,
+   "signatures": 84048,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -13185,7 +13452,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73346,
+   "signatures": 73361,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -13194,7 +13461,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 68508,
+   "signatures": 68545,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -13212,7 +13479,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49482,
+   "signatures": 49483,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -13221,7 +13488,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 45343,
+   "signatures": 45581,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -13230,7 +13497,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43725,
+   "signatures": 43731,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -13239,7 +13506,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40574,
+   "signatures": 40585,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
