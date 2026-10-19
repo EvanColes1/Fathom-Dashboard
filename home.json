@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T21:44:49.355390+00:00",
+ "updated": "2026-10-19T01:02:24.217982+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,12 +10,139 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-18T21:44:49.355390+00:00",
+   "published": "2026-10-19T01:02:24.217982+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3b6b37f27d1c706c",
+   "title": "People playing loud music on buses could face £100 fine",
+   "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+   "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-19T00:22:20+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5987fe721f681929",
+   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+   "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+   "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-18T23:28:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Ukraine",
+    "China"
+   ]
+  },
+  {
+   "id": "5d0e81b00d8d18f1",
+   "title": "Don't fall for this - how to protect yourself from AI scams",
+   "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+   "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-18T23:24:59+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a8bcd354ab2cab02",
+   "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+   "summary": "Premium paid over French counterparts has risen to almost £30 a megawatt hour, analysis by lobby group finds British steelmakers have been pushed further behind European rivals on electricity costs after the US-Israeli war on Iran caused a surge in global gas prices. The premium paid by the British…",
+   "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-18T23:01:12+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "France",
+    "Iran"
+   ]
+  },
+  {
+   "id": "397f6d67f2ea85cf",
+   "title": "Andy Burnham launches campaign against ‘headphone dodgers’ on public transport",
+   "summary": "Passengers urged to ‘share the carriage, not the noise’ as guidance sets out £100 penalties for nuisance behaviour Andy Burnham has announced a crackdown on “headphone dodgers” who play loud music on public transport, as he extends his promise to give voters “breathing space” in the confines of a…",
+   "url": "https://www.theguardian.com/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-18T23:01:12+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "179b5656e58a23e6",
+   "title": "UK must rejoin EU to combat growing threat from Russia and Trump, Burnham warned",
+   "summary": "IPPR urge Labour leader to ‘stop talking about Brexit’",
+   "url": "https://www.independent.co.uk/news/uk/politics/brexit-burnham-eu-russia-trump-ippr-b3067667.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-18T23:01:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "27483565aba9f113",
+   "title": "Home sellers cut asking prices on 3,000 properties a day",
+   "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+   "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-18T23:00:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -103,6 +230,21 @@
    "topics": [
     "Party leadership"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3190d307aac6bd08",
+   "title": "Microsoft pulls out of UK's largest AI data centre",
+   "summary": "Tech firm Nscale says it is still committed to building the site in Essex.",
+   "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-18T16:46:42+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -3496,8 +3638,8 @@
    "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
    "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
    "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-15T14:55:21+00:00",
    "dateonly": false,
@@ -3681,8 +3823,8 @@
    "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
    "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
    "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-15T13:25:17+00:00",
    "dateonly": false,
@@ -12259,7 +12401,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -12273,14 +12415,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 5,
    "note": ""
   },
   {
@@ -12964,7 +13106,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130628,
+   "signatures": 130637,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -12973,7 +13115,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 116965,
+   "signatures": 117017,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -12982,7 +13124,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107045,
+   "signatures": 107050,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -12991,7 +13133,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 94486,
+   "signatures": 94547,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -13000,7 +13142,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84028,
+   "signatures": 84035,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -13009,7 +13151,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73324,
+   "signatures": 73344,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -13018,7 +13160,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 68367,
+   "signatures": 68486,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -13036,7 +13178,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49476,
+   "signatures": 49480,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -13045,7 +13187,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 45044,
+   "signatures": 45282,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -13054,7 +13196,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43696,
+   "signatures": 43720,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -13063,7 +13205,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40561,
+   "signatures": 40573,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -13629,7 +13771,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-09-18",
+     "d": "2024-09-19",
      "v": 5.0
     },
     {
