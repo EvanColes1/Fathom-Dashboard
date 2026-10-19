@@ -1,7 +1,59 @@
 {
- "updated": "2026-10-19T06:12:44.565249+00:00",
+ "updated": "2026-10-19T07:11:37.912240+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "ecffaeecb1eb927b",
+   "title": "Green Budget 2026: Full report",
+   "summary": "",
+   "url": "https://ifs.org.uk/publications/green-budget-2026-full-report",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-19T07:11:37.912240+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6fe1df1ea657ed4b",
+   "title": "Burnham: UK must end ‘moral failure’ of Neets crisis",
+   "summary": "The prime minister laid out his plans to end the ‘moral failure’ of youth unemployment",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-neets-welfare-benefits-alan-milburn-b3068943.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T07:09:17+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1ace804503660064",
+   "title": "Check if a business is registered for money laundering supervision",
+   "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
+   "url": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-19T06:29:02Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "a19a70e77ff1aa13",
    "title": "HMRC tax receipts and National Insurance contributions for the UK",
@@ -19,23 +71,6 @@
    "tax": [
     "National Insurance"
    ],
-   "countries": []
-  },
-  {
-   "id": "ecffaeecb1eb927b",
-   "title": "Green Budget 2026: Full report",
-   "summary": "",
-   "url": "https://ifs.org.uk/publications/green-budget-2026-full-report",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-19T06:12:44.565249+00:00",
-   "dateonly": true,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
    "countries": []
   },
   {
@@ -319,6 +354,25 @@
     "Russia",
     "United States"
    ]
+  },
+  {
+   "id": "1002b6d389373a01",
+   "title": "Burnham says youth employment and training crisis is a 'moral failure'",
+   "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says.",
+   "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T01:40:53+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
   },
   {
    "id": "3b6b37f27d1c706c",
@@ -7879,21 +7933,6 @@
    "countries": []
   },
   {
-   "id": "1ace804503660064",
-   "title": "Check if a business is registered for money laundering supervision",
-   "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
-   "url": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-13T09:58:20Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "a419b72b1077d921",
    "title": "Elton John and Ian McKellen lead backlash over Braverman’s call to crack down on gay asylum seekers",
    "summary": "Rocket Man issues rocket for home secretary as senior Tories warn Sunak: ‘Suella has lost us millions of pink votes’",
@@ -12671,23 +12710,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "0cecbbfbda7796a9",
-   "title": "A new European chapter for Gibraltar",
-   "summary": "Jamie Trinidad KC explains how the implementation of the UK-EU Agreement in respect of Gibraltar agreed by the UK and EU will... The post A new European chapter for Gibraltar appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/a-new-european-chapter-for-gibraltar/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-04T07:10:33+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -12695,14 +12717,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
@@ -12723,7 +12745,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -12737,14 +12759,14 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -13407,7 +13429,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130645,
+   "signatures": 130653,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -13416,7 +13438,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 117062,
+   "signatures": 117093,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -13434,7 +13456,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 94619,
+   "signatures": 94663,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -13443,7 +13465,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84048,
+   "signatures": 84054,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -13452,7 +13474,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73361,
+   "signatures": 73367,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -13461,7 +13483,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 68545,
+   "signatures": 68578,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -13470,7 +13492,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55388,
+   "signatures": 55389,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -13479,7 +13501,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49483,
+   "signatures": 49505,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -13488,7 +13510,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 45581,
+   "signatures": 45786,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -13497,7 +13519,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43731,
+   "signatures": 43744,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -13506,7 +13528,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40585,
+   "signatures": 40594,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
