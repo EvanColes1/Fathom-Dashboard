@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T07:11:37.912240+00:00",
+ "updated": "2026-10-19T09:55:09.494978+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,12 +10,276 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-19T07:11:37.912240+00:00",
+   "published": "2026-10-19T09:55:09.494978+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3b6b37f27d1c706c",
+   "title": "People playing loud music on buses could face £100 fine",
+   "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+   "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-19T09:49:58+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "68212e5801770f64",
+   "title": "External temporary storage facilities codes for Data Element 5/23 of the Customs Declaration Service",
+   "summary": "Find the codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for an external temporary storage facility (ETSF) (Appendix 16F).",
+   "url": "https://www.gov.uk/government/publications/external-temporary-storage-facilities-codes-for-data-element-523-of-the-customs-declaration-service",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-19T09:48:02Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "19f79bbab72d5e08",
+   "title": "Burnham pledges ‘big changes’ to the way the welfare system works to tackle Neets crisis – UK politics live",
+   "summary": "Prime minister’s comments come as children’s commissioner Dame Rachel de Souza highlights ‘staggering’ inequalities in young people’s treatment across UK When pressed again on concerns within the party about Ed Davey’s leadership, Daisy Cooper , the deputy party leader, admitted that there was “a…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T09:47:01+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a0203bee001a107f",
+   "title": "Pay Climate Change Levy",
+   "summary": "How to pay the Climate Change Levy, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-climate-change-levy",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-19T09:39:51Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1002b6d389373a01",
+   "title": "PM says youth unemployment is a 'catastrophe and a moral failure'",
+   "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says.",
+   "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T09:39:21+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "02bad27ee6e6261f",
+   "title": "Musk and Anthropic pledge public share giveaways",
+   "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-19T09:38:25+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e1b9c92f64c6d9a8",
+   "title": "The types of extreme pornography that will be banned from November",
+   "summary": "The content will be outlawed from November 6, the government has announced",
+   "url": "https://www.independent.co.uk/news/uk/politics/porn-ban-uk-november-strangulation-incest-b3069040.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T09:34:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "380f601ef190df14",
+   "title": "‘I lay in pool of blood after being shot at point blank range while undercover in Northern Ireland’",
+   "summary": "Shot through the stomach and stranded in the Northern Irish countryside with no backup, Blue* was the lucky one. Now, the former undercover operative tells Sam Kiley about what went wrong, how he survived, and the pressure of making split-second decisions",
+   "url": "https://www.independent.co.uk/news/uk/politics/sas-undercover-soldier-shot-northern-ireland-shadow-war-b3062093.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T09:30:26+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Ireland"
+   ]
+  },
+  {
+   "id": "d391be17d844f644",
+   "title": "Rotten to the core? Reform demonstrate why party discipline is important",
+   "summary": "Given that Daniel wrote so eloquently about the clips we had already seen on Friday, I wasn’t planning… The post Rotten to the core? Reform demonstrate why party discipline is important appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/reform-demonstrate-why-party-discipline-is-important/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-19T09:28:50+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "384423e624d00fd0",
+   "title": "Environmental and human rights abuses in supply chains ‘costing UK £4.4bn a year’",
+   "summary": "Exclusive: Report says a supply chain law would cost less than a tenth of what is lost to the economy, and would also both protect us from shocks like the El Niño while protecting low-income workers",
+   "url": "https://www.independent.co.uk/news/uk/politics/uk-economy-supply-chain-climate-aid-b3068311.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T09:21:24+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7a6e5d95423949f7",
+   "title": "Making an entry summary declaration",
+   "summary": "Make an entry summary declaration if you move goods into Great Britain, into Northern Ireland from Great Britain, or into Northern Ireland from countries outside the EU.",
+   "url": "https://www.gov.uk/guidance/making-an-entry-summary-declaration",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-19T09:14:51Z",
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Ireland"
+   ]
+  },
+  {
+   "id": "381b6dbfeecbeb55",
+   "title": "What is the Budget and what could be in it?",
+   "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-19T09:01:40+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c8c3529ba9d40e19",
+   "title": "How will Burnham’s ban on ‘headphone dodgers’ on public transport work?",
+   "summary": "Train companies already have the power to issue £1,000 fines for antisocial behaviour",
+   "url": "https://www.independent.co.uk/news/uk/home-news/headphone-dodgers-fines-rules-burnham-b3069004.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T08:35:24+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d67a389a67311867",
+   "title": "Help with energy efficiency, heating and renewable energy in homes",
+   "summary": "This briefing outlines the various financial support available across the UK for installing energy efficient measures, heating and renewable energy in homes.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9585/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-19T08:30:29+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Housing",
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "70c24f9f5e5d96cc",
+   "title": "Plan to deal with Troubles legacy to be debated in House of Commons",
+   "summary": "The government has published hundreds of amendments, including that the attorney general must provide consent for any serious prosecutions related to the conflict.",
+   "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T08:03:27+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7117d777d56f3433",
+   "title": "Financial markets: Economic indicators",
+   "summary": "The price of shares and commodities can help show the health of the economy. Find the latest data on the prices of shares, oil and gold.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn05207/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-19T07:34:49+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -304,38 +568,6 @@
    "countries": []
   },
   {
-   "id": "380f601ef190df14",
-   "title": "‘I lay in pool of blood after being shot at point blank range while undercover in Northern Ireland’",
-   "summary": "Shot through the stomach and stranded in the Northern Irish countryside with no backup, Blue* was the lucky one. Now, the former undercover operative tells Sam Kiley about what went wrong, how he survived, and the pressure of making split-second decisions",
-   "url": "https://www.independent.co.uk/news/uk/politics/sas-undercover-soldier-shot-northern-ireland-shadow-war-b3062093.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-19T05:00:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Ireland"
-   ]
-  },
-  {
-   "id": "02bad27ee6e6261f",
-   "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-   "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
-   "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-19T04:30:59+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "66285616796433ac",
    "title": "Britain cannot deal effectively with geopolitical crises without rejoining EU, says thinktank",
    "summary": "‘Sovereignty without the ability to act on it is not autonomy,’ paper by Institute for Public Policy Research says Britain cannot deal effectively with geopolitical crises such as Russian aggression and political turmoil in the US without rejoining the EU, according to an influential thinktank. The…",
@@ -354,40 +586,6 @@
     "Russia",
     "United States"
    ]
-  },
-  {
-   "id": "1002b6d389373a01",
-   "title": "Burnham says youth employment and training crisis is a 'moral failure'",
-   "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says.",
-   "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-19T01:40:53+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3b6b37f27d1c706c",
-   "title": "People playing loud music on buses could face £100 fine",
-   "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
-   "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-19T00:22:20+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "5987fe721f681929",
@@ -745,23 +943,6 @@
    ],
    "topics": [
     "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "381b6dbfeecbeb55",
-   "title": "What is the Budget and what could be in it?",
-   "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-18T10:22:17+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
    ],
    "tax": [],
    "countries": []
@@ -5990,25 +6171,6 @@
    "countries": []
   },
   {
-   "id": "7a6e5d95423949f7",
-   "title": "Making an entry summary declaration",
-   "summary": "Make an entry summary declaration if you move goods into Great Britain, into Northern Ireland from Great Britain, or into Northern Ireland from countries outside the EU.",
-   "url": "https://www.gov.uk/guidance/making-an-entry-summary-declaration",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-14T13:21:07Z",
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Ireland"
-   ]
-  },
-  {
    "id": "a32ea0407b172eb5",
    "title": "Pay duty on biofuels or road fuel gas",
    "summary": "How to pay duty on biofuels or road fuel gas, and how long it takes for your payment to reach HMRC.",
@@ -9473,21 +9635,6 @@
    ]
   },
   {
-   "id": "7117d777d56f3433",
-   "title": "Financial markets: Economic indicators",
-   "summary": "The price of shares and commodities can help show the health of the economy. Find the latest data on the prices of shares, oil and gold.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/sn05207/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-12T08:37:46+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "09fab27d7ac9b0b5",
    "title": "Income Record Viewer for agents: service availability and issues",
    "summary": "Check the availability and any issues affecting the Income Record Viewer for agents service.",
@@ -12724,7 +12871,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -12738,7 +12885,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
@@ -12766,7 +12913,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -12787,7 +12934,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -13429,7 +13576,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130653,
+   "signatures": 130691,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -13438,7 +13585,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 117093,
+   "signatures": 117205,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -13447,7 +13594,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107056,
+   "signatures": 107062,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -13456,7 +13603,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 94663,
+   "signatures": 94812,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -13465,7 +13612,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84054,
+   "signatures": 84083,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -13474,7 +13621,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73367,
+   "signatures": 73431,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -13483,7 +13630,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 68578,
+   "signatures": 68743,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -13492,7 +13639,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55389,
+   "signatures": 55393,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -13501,7 +13648,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49505,
+   "signatures": 49597,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -13510,7 +13657,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 45786,
+   "signatures": 46238,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -13519,7 +13666,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43744,
+   "signatures": 43771,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -13528,7 +13675,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40594,
+   "signatures": 40621,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -14118,7 +14265,7 @@
      "v": 3.75
     },
     {
-     "d": "2026-10-15",
+     "d": "2026-10-16",
      "v": 3.75
     }
    ],
