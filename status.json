@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-19T16:12:01.089607+00:00",
+ "updated": "2026-10-19T19:01:37.132606+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 4,
+   "new": 6,
    "note": ""
   },
   {
@@ -19,28 +19,28 @@
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 15,
+   "new": 11,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 14,
+   "new": 3,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 6,
+   "new": 1,
    "note": ""
   },
   {
@@ -54,35 +54,35 @@
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 8,
    "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 11,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 5,
+   "new": 7,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 8,
+   "new": 1,
    "note": ""
   },
   {
@@ -103,7 +103,7 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 13,
+   "new": 15,
    "note": "via backup feed"
   },
   {
@@ -124,28 +124,28 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 16,
+   "new": 17,
    "note": "via backup feed"
   },
   {
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 6,
+   "new": 7,
    "note": "via backup feed"
   },
   {
    "name": "Atlantic Council",
    "group": "Think tank",
    "ok": true,
-   "new": 22,
+   "new": 23,
    "note": ""
   },
   {
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 11,
+   "new": 12,
    "note": ""
   },
   {
@@ -187,7 +187,7 @@
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
@@ -201,21 +201,21 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "The Record",
    "group": "Cyber",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 16,
+   "new": 18,
    "note": "via backup feed"
   },
   {
