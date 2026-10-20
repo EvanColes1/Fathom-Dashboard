@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T13:04:32.849421+00:00",
+ "updated": "2026-10-20T15:51:45.226144+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,261 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-20T13:04:32.849421+00:00",
+   "published": "2026-10-20T15:51:45.226144+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b96e14550014834f",
+   "title": "David Sturrock reappointed as Economic Adviser to the Chancellor",
+   "summary": "David Sturrock has been reappointed as Economic Adviser to the Chancellor of the Exchequer.",
+   "url": "https://www.gov.uk/government/news/david-sturrock-reappointed-as-economic-adviser-to-the-chancellor",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "news_story",
+   "party_voice": "",
+   "published": "2026-10-20T15:48:30Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "bf6afb1857e8710e",
+   "title": "Blow for Farage as Reform UK stuck in third place in polls as he is booed in Plymouth",
+   "summary": "The Reform UK leader was booed for mistaking Plymouth for Portsmouth at a rally as a YouGov poll put his party behind the Tories for a second week in a row after damaging revelations",
+   "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-latest-poll-yougov-labour-tories-b3069729.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T15:38:19+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative",
+    "Reform UK"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "98b64ff3843e9299",
+   "title": "Is the minimum wage to blame for falling youth employment?",
+   "summary": "This blog was originaly published on the Resolution Foundation’s Substack. Once a year the Low Pay Commission (LPC) assemble in their Canary Wharf office to decide the following year’s minimum wage rates. I went along to share my thoughts on falling youth employment. I said that we can’t…",
+   "url": "https://www.resolutionfoundation.org/comment/is-the-minimum-wage-to-blame-for-falling-youth-employment/",
+   "source": "Resolution Foundation",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-20T15:36:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c949915ebbb0d6f7",
+   "title": "Former Bank of England chief economist says Tory growth policies ‘far more likely to succeed’ than Labour’s – UK politics live",
+   "summary": "Andy Haldane writes that Conservative economic plans would be best for growth ahead of Healey budget Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, enterprise. Britain’s tax burden…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T15:28:59+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "dec398b21a846198",
+   "title": "Burnham government ‘not working for the economy’, PM’s former advisor warns",
+   "summary": "Andy Haldane calls on PM and chancellor to restrict spending and not to raise taxes on already-struggling households or on businesses",
+   "url": "https://www.independent.co.uk/news/uk/politics/budget-uk-economy-tax-rises-burnham-andy-haldane-b3069988.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T15:16:01+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ece38309c00fdfac",
+   "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+   "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
+   "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T14:53:02+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fb382ed80a996640",
+   "title": "Union attacks NatWest plans to get workers back to the office",
+   "summary": "The bank says workers will be required to attend the office at least two days a week from February.",
+   "url": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T14:50:19+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6e86be64e14f6646",
+   "title": "Labour will not have the courage to cut spending, says Badenoch",
+   "summary": "Speaking ahead of next week's Budget, the Conservative leader says her party would make £70bn of cuts.",
+   "url": "https://www.bbc.co.uk/news/articles/cry835v68dq9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T14:46:46+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4bbf6534a44b2591",
+   "title": "Drivers set to get new rights to challenge 'rip-off' private parking fines",
+   "summary": "Drivers are set to receive new rights to stand up to unfair private parking fines, the government has announced.",
+   "url": "https://news.sky.com/story/drivers-set-to-get-new-rights-to-challenge-rip-off-private-parking-fines-13601387",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T14:21:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fe1d75fc73dea572",
+   "title": "Statistics of government revenues from UK oil and gas production",
+   "summary": "Statistics of government revenues from UK oil and gas production, including data for fields subject to Petroleum Revenue Tax (PRT).",
+   "url": "https://www.gov.uk/government/statistics/government-revenues-from-uk-oil-and-gas-production--2",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "national_statistics",
+   "party_voice": "",
+   "published": "2026-10-20T14:13:17Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7603641e815afd71",
+   "title": "Care home residents were ‘an afterthought’ and ministers’ failures allowed virus to spread quickly, Covid inquiry finds",
+   "summary": "Inquiry finds Matt Hancock’s claim of ‘protective ring’ around care homes was unfounded",
+   "url": "https://www.independent.co.uk/news/uk/politics/covid-inquiry-care-homes-report-matt-hancock-b3069918.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T14:03:44+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c11a44bcfdf65618",
+   "title": "Youth unemployment statistics",
+   "summary": "This briefing presents the latest statistics on youth unemployment in the UK as well as comparisons with other OECD countries.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn05871/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-20T14:03:18+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "81ae1830c7b8481d",
+   "title": "Marco Fawcett: The Conservative Party must offer young people more than nostalgia",
+   "summary": "The question, therefore, is not whether the Conservative Party possesses a distinguished inheritance. That is scarcely in doubt. It is whether that inheritance can be made meaningful to a generation which must concern itself rather more with the prospects of its own future than with the glories of…",
+   "url": "https://conservativehome.com/2026/10/20/marco-fawcett-the-conservative-party-must-offer-young-people-more-than-nostalgia/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-20T14:00:05+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9e33810c58360dc3",
+   "title": "NHS doctors call government’s proposed pay rise ‘derisory’ and mull further strikes",
+   "summary": "The British Medical Association (BMA) described the figure as a ‘pay cut’",
+   "url": "https://www.independent.co.uk/news/uk/home-news/nhs-doctor-pay-rise-labour-government-bma-b3069971.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T13:59:26+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "NHS and care"
    ],
    "tax": [],
    "countries": []
@@ -27,7 +277,7 @@
    "source": "BBC Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-20T12:55:30+00:00",
+   "published": "2026-10-20T13:54:35+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
@@ -38,6 +288,100 @@
     "Saudi Arabia",
     "Yemen"
    ]
+  },
+  {
+   "id": "7dd41fd913485e40",
+   "title": "Unemployment in the UK: Economic indicators",
+   "summary": "Unemployment data tells us about the strength of the labour market. Find the latest data on UK unemployment levels and rates.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02797/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-20T13:23:44+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3a8e7fc997f90f75",
+   "title": "UK fighter jets to help defend Saudi Arabia against attacks from Iran-backed Houthis",
+   "summary": "The UK will fly defensive counter air missions using RAF Typhoon fighter jets to support the protection of Saudi cities and critical national infrastructure",
+   "url": "https://www.independent.co.uk/news/uk/politics/uk-jets-saudi-arabia-iran-houthi-attacks-latest-b3069818.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T13:23:01+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "9f1e9071ed684689",
+   "title": "How does the Commonwealth respond to human rights concerns?",
+   "summary": "The Commonwealth funds human rights work, observes elections, and can suspend its members. Challenges include democracy and LGBT+ rights.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9492/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-20T13:13:42+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f6da610b682d3750",
+   "title": "UK labour market statistics",
+   "summary": "This paper provides the latest statistics and analysis of employment, unemployment, economic inactivity and earnings in the UK.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9366/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-20T13:12:02+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ae0209615985f258",
+   "title": "UK poll tracker: Reform still behind Conservatives as Labour’s lead grows",
+   "summary": "Labour continues to see rising approval under the leadership of Andy Burnham",
+   "url": "https://www.independent.co.uk/news/uk/politics/uk-poll-tracker-labour-reform-conservatives-election-b3069794.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T12:58:01+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
   },
   {
    "id": "273444543377b8c0",
@@ -54,47 +398,6 @@
    ],
    "topics": [
     "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ae0209615985f258",
-   "title": "UK poll tracker: Reform still behind Conservatives as Labour’s lead grows",
-   "summary": "Labour continues to see rising approval under the leadership of Andy Burnham",
-   "url": "https://www.independent.co.uk/news/uk/politics/uk-poll-tracker-labour-reform-conservatives-election-b3069794.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T12:49:47+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
-   "topics": [
-    "Elections",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c949915ebbb0d6f7",
-   "title": "Hancock’s claim about protecting care homes shown by Covid inquiry to be ‘cruel lie’, victims’ families say – UK politics live",
-   "summary": "Heather Hallett, chair of the Covid inquiry, has just published the report from the inquiry’s module 6, looking at what happened in care homes Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth…",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T12:38:11+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Housing"
    ],
    "tax": [],
    "countries": []
@@ -117,42 +420,6 @@
     "Pensions"
    ],
    "countries": []
-  },
-  {
-   "id": "ece38309c00fdfac",
-   "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-   "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
-   "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T12:26:13+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3a8e7fc997f90f75",
-   "title": "UK fighter jets to help defend Saudi Arabia against attacks from Iran-backed Houthis",
-   "summary": "The UK will fly defensive counter air missions using RAF Typhoon fighter jets to support the protection of Saudi cities and critical national infrastructure",
-   "url": "https://www.independent.co.uk/news/uk/politics/uk-jets-saudi-arabia-iran-houthi-attacks-latest-b3069818.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T12:21:41+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
   },
   {
    "id": "8cd12874bb3f9814",
@@ -279,25 +546,6 @@
    "published": "2026-10-20T11:03:53+00:00",
    "dateonly": false,
    "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f6da610b682d3750",
-   "title": "UK labour market statistics",
-   "summary": "This paper provides the latest statistics and analysis of employment, unemployment, economic inactivity and earnings in the UK.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9366/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-20T11:03:31+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
    "topics": [
     "Economy"
    ],
@@ -564,24 +812,6 @@
    "countries": []
   },
   {
-   "id": "bf6afb1857e8710e",
-   "title": "Blow for Farage as Reform UK stuck in third place in polls",
-   "summary": "For the second week in a row, YouGov has put Reform behind the Tories after a week of damaging revelations",
-   "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-latest-poll-yougov-labour-tories-b3069729.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T09:41:59+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative",
-    "Reform UK"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "4fd1c62425d2553e",
    "title": "Apply for approval for Vaping Products Duty and the Vaping Duty Stamps Scheme",
    "summary": "What you need to do to apply for approval for Vaping Products Duty and the Vaping Duty Stamps Scheme.",
@@ -610,6 +840,23 @@
    "published": "2026-10-20T09:31:38Z",
    "parties": [],
    "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a5688ef2959f6865",
+   "title": "Reform leader accuses MSP of 'squatting' in seat after resignation",
+   "summary": "Malcolm Offord says he is 'disappointed' at Amanda Bland's decision to leave the party and sit as an independent.",
+   "url": "https://www.bbc.co.uk/news/articles/c674p99x7ngpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T09:21:49+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership"
+   ],
    "tax": [],
    "countries": []
   },
@@ -712,23 +959,6 @@
    "party_voice": "",
    "published": "2026-10-20T08:31:36+00:00",
    "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fe1d75fc73dea572",
-   "title": "Statistics of government revenues from UK oil and gas production",
-   "summary": "Statistics of government revenues from UK oil and gas production, including data for fields subject to Petroleum Revenue Tax (PRT).",
-   "url": "https://www.gov.uk/government/statistics/government-revenues-from-uk-oil-and-gas-production--2",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "national_statistics",
-   "party_voice": "",
-   "published": "2026-10-20T08:30:16Z",
    "parties": [],
    "topics": [
     "Tax and spending"
@@ -1167,6 +1397,23 @@
     "Economy"
    ],
    "tax": [],
+   "countries": []
+  },
+  {
+   "id": "79f3733039d4c171",
+   "title": "Closing the gender pension gap - labor supply and welfare effects of progressive pensions",
+   "summary": "",
+   "url": "https://ifs.org.uk/publications/closing-gender-pension-gap-labor-supply-and-welfare-effects-progressive-pensions",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-20T00:00:00+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Pensions"
+   ],
    "countries": []
   },
   {
@@ -2472,7 +2719,7 @@
   {
    "id": "9f0cf2e31393a829",
    "title": "‘It’s about persistence’: Cornish devolution no longer a pipe dream as its champion bows out",
-   "summary": "Dick Cole is quitting Mebyon Kernow, which campaigns for greater self-rule for Cornwall, after 29 years at the helm There will be no great fanfare when Dick Cole steps down as party leader in a few days’ time. “We’ll have an official handover at our party conference,” Cole said. “Hopefully it will…",
+   "summary": "Dick Cole is quitting as head of Mebyon Kernow, which campaigns for greater self-rule for Cornwall, after 29 years at the helm There will be no great fanfare when Dick Cole steps down as party leader in a few days’ time. “We’ll have an official handover at our party conference,” Cole said.…",
    "url": "https://www.theguardian.com/uk-news/2026/oct/19/dick-cole-devolution-cornwall-quitting-mebyon-kernow-party-leader",
    "source": "Guardian Politics",
    "group": "News",
@@ -14713,7 +14960,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -14734,21 +14981,21 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
@@ -14776,7 +15023,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 5,
+   "new": 3,
    "note": ""
   },
   {
@@ -14790,14 +15037,14 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Resolution Foundation",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15454,7 +15701,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130966,
+   "signatures": 131009,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -15463,7 +15710,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 117879,
+   "signatures": 117946,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -15472,7 +15719,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107113,
+   "signatures": 107121,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -15481,7 +15728,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 96550,
+   "signatures": 96703,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -15490,7 +15737,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84438,
+   "signatures": 84469,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -15499,7 +15746,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73795,
+   "signatures": 73887,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -15508,7 +15755,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 69869,
+   "signatures": 69963,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -15517,7 +15764,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55407,
+   "signatures": 55410,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -15526,7 +15773,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49854,
+   "signatures": 49867,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -15535,7 +15782,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 48101,
+   "signatures": 48196,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -15544,7 +15791,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43952,
+   "signatures": 43962,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -15553,7 +15800,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40758,
+   "signatures": 40773,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
