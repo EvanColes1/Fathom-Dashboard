@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T03:52:24.552490+00:00",
+ "updated": "2026-10-20T06:10:35.724283+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,9 +10,165 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-20T03:52:24.552490+00:00",
+   "published": "2026-10-20T06:10:35.724283+00:00",
    "dateonly": true,
    "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4603e1710657d1e3",
+   "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
+   "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+   "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T06:10:35.724283+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Income tax",
+    "Capital gains tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "bfab0a442b69d488",
+   "title": "Who exactly will be affected by the UK review of benefits for young people?",
+   "summary": "Around one in eight 16- to 24-year-olds are ‘Neet’ – and Alan Milburn is hinting that the overhaul of their support may be controversial With nearly 1 million young people not in education, employment or training (a cohort known as “Neets”), the government and its advisers have signalled that…",
+   "url": "https://www.theguardian.com/society/2026/oct/20/neets-explainer-alan-milburn-young-people-work",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T06:00:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ad6a86fa2683ddf4",
+   "title": "Food aid charity under pressure from fuel costs",
+   "summary": "FareShare South West says fuel costs are putting immense pressure on work helping thousands in need.",
+   "url": "https://www.bbc.co.uk/news/articles/cqy0rxw37x2eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T05:15:16+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d8aa26e4026013be",
+   "title": "How is the US economy really doing under President Trump?",
+   "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+   "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T05:00:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "eb39c463f4efc0d9",
+   "title": "‘From Hillsborough to the Troubles: Labour must deliver truth and accountability for every family’",
+   "summary": "Andy Burnham knows what it means for families to spend decades fighting for the truth. His tireless campaigning… The post ‘From Hillsborough to the Troubles: Labour must deliver truth and accountability for every family’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/hillsborough-troubles-truth-accountability/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-20T05:00:23+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "432d7e650ee614db",
+   "title": "Don’t be fooled. The AI that was supposed to save us time is doing just the opposite | Gaby Hinsliff",
+   "summary": "The government says it can transform the state with AI, but it is no match for the resulting stream of machine-generated slop. And we all pay the cost Another morning, another avalanche of emails. Even after a guilty cull, my inbox is sitting at well over 7,000, but lately I’ve started subscribing…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T05:00:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fa5b2be9e30bf1e2",
+   "title": "New Bradford railway station will ‘transform travel across the north’",
+   "summary": "Transport hub will offer through trains between Leeds and Manchester with ‘turn-up-and-go’ service A new railway station will be built in Bradford to “transform how people travel across the north”, the government has announced. The station will be at the heart of the Northern Powerhouse Rail (NPR)…",
+   "url": "https://www.theguardian.com/business/2026/oct/20/bradford-railway-station-transform-travel-north",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T05:00:16+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "504f73edd0786a47",
+   "title": "Delivering in local government: How Labour is building a better Britain everywhere",
+   "summary": "Labour councils up and down the country are helping to improve the lives of their residents. Week in,… The post Delivering in local government: How Labour is building a better Britain everywhere appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/good-news-in-labour-local-government-20-10-2026/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-20T05:00:11+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4777bf8a8c7c3186",
+   "title": "Labour members would back tax increases on gambling, banks and wealthiest in Budget",
+   "summary": "Labour members would back tax increases on gambling, the banking sector, and the wealthiest in the Budget, exclusive… The post Labour members would back tax increases on gambling, banks and wealthiest in Budget appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/labour-budget-polling-survation/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-20T05:00:04+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
    "topics": [
     "Tax and spending"
    ],
@@ -13652,21 +13808,6 @@
     "Russia",
     "Norway"
    ]
-  },
-  {
-   "id": "b8c4a5cf555c8f60",
-   "title": "The SRA was going to prosecute the Post Office’s lawyers. Then it stopped.",
-   "summary": "The Post Office told wrongly-accused postmasters their compensation offers were secret, and couldn’t be shown to anyone but a lawyer. That wasn’t true. They could have shown the offers to friends, other postmasters and the media – but the Post Office gagged them. The Solicitors Regulation Authority…",
-   "url": "https://taxpolicy.org.uk/2026/09/05/sra-post-office-herbert-smith-freehills/",
-   "source": "Tax Policy Associates",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-05T06:00:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -13681,7 +13822,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -13702,7 +13843,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -13715,15 +13856,15 @@
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": true,
+   "ok": false,
    "new": 0,
-   "note": ""
+   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -14404,7 +14545,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130883,
+   "signatures": 130890,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -14413,7 +14554,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 117625,
+   "signatures": 117649,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -14422,7 +14563,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107096,
+   "signatures": 107097,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -14431,7 +14572,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 96091,
+   "signatures": 96153,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -14440,7 +14581,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84355,
+   "signatures": 84371,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -14449,7 +14590,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73618,
+   "signatures": 73630,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -14458,7 +14599,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 69660,
+   "signatures": 69685,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -14467,7 +14608,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55402,
+   "signatures": 55403,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -14476,7 +14617,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49792,
+   "signatures": 49797,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -14485,7 +14626,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 47639,
+   "signatures": 47719,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -14494,7 +14635,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43892,
+   "signatures": 43895,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -14503,7 +14644,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40716,
+   "signatures": 40720,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -14629,10 +14770,6 @@
    "source": "ONS",
    "series": [
     {
-     "d": "2024 JUN",
-     "v": 4.2
-    },
-    {
      "d": "2024 JUL",
      "v": 4.1
     },
@@ -14727,6 +14864,10 @@
     {
      "d": "2026 JUN",
      "v": 4.9
+    },
+    {
+     "d": "2026 JUL",
+     "v": 4.7
     }
    ],
    "url": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms"
@@ -14738,10 +14879,6 @@
    "good": "up",
    "source": "ONS",
    "series": [
-    {
-     "d": "2024 JUL",
-     "v": 5.3
-    },
     {
      "d": "2024 AUG",
      "v": 5.2
@@ -14836,7 +14973,11 @@
     },
     {
      "d": "2026 JUL",
-     "v": 3.5
+     "v": 3.6
+    },
+    {
+     "d": "2026 AUG",
+     "v": 3.7
     }
    ],
    "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/timeseries/kai9/lms"
