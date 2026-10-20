@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:59:16.257664+00:00",
+ "updated": "2026-10-20T21:50:26.583175+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,149 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-20T18:59:16.257664+00:00",
+   "published": "2026-10-20T21:50:26.583175+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "75b309948529bb75",
+   "title": "Second Labour MP suspended over Covid loan repayments",
+   "summary": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation.",
+   "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T21:20:28+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "29bb4401f8286a51",
+   "title": "Libya approves contentious Turkey deal over Mediterranean waters",
+   "summary": "Libya has approved a contested 2019 maritime agreement with Turkey that sets out jurisdiction areas in the eastern Mediterranean",
+   "url": "https://www.independent.co.uk/news/uk/politics/turkey-libya-greece-mediterranean-foreign-ministry-b3070306.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T21:08:36+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Turkey",
+    "Libya"
+   ]
+  },
+  {
+   "id": "09e713fc747f7bcd",
+   "title": "Audit regulator looking into Manchester City accounting",
+   "summary": "No formal investigation has started, but the regulator is making inquiries into the case.",
+   "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T20:56:53+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "49ba9a6797c50c9f",
+   "title": "Labour MP suspended after questions over Covid bounceback loan",
+   "summary": "Perran Moon MP said that he fully intended to repay the loan but that his business ceased trading due to ‘external market pressures’",
+   "url": "https://www.independent.co.uk/news/uk/politics/labour-mp-suspended-covid-loan-b3070225.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T20:52:19+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2209ec40a2a34564",
+   "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+   "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+   "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T19:42:32+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "ed215accf7d30394",
+   "title": "Trump sued over Canadian tariffs in latest legal challenge",
+   "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+   "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T19:30:05+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United States",
+    "Canada"
+   ]
+  },
+  {
+   "id": "39a03768d62c14c7",
+   "title": "Labour MP Perran Moon suspended over Covid loan allegations",
+   "summary": "A Labour MP has been suspended from the party amid claims he wound up his company without repaying… The post Labour MP Perran Moon suspended over Covid loan allegations appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/perran-moon-suspended-covid-loan-allegations/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-20T19:03:08+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c44d7e6fe301d309",
+   "title": "What would the approval of the Jackdaw gasfield mean?",
+   "summary": "Decision would have implications for household energy bills, the UK economy and the climate crisis Andy Burnham faces climate revolt after approval of North Sea gas drilling About four years and six energy secretaries after it was first given the green light, the Jackdaw gasfield is expected to be…",
+   "url": "https://www.theguardian.com/business/2026/oct/20/what-does-the-approval-of-the-jackdaw-gasfield-mean",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T18:58:20+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Energy bills"
    ],
    "tax": [],
    "countries": []
@@ -59,7 +197,7 @@
   {
    "id": "4e512a5b62e2b125",
    "title": "Senior Reform official cast doubt over legality of huge donations",
-   "summary": "Exclusive: Admission from James Orr to undercover reporter came three months before party was given £72m UK politics live – latest updates A senior Reform UK official raised questions about whether major donations from billionaire backers Christopher Harborne and Ben Delo would be legal under the…",
+   "summary": "Exclusive: Admission from James Orr to undercover reporter came three months before party was given £72m A senior Reform UK official raised questions about whether major donations from billionaire backers Christopher Harborne and Ben Delo would be legal under the proposed new foreign donors cap…",
    "url": "https://www.theguardian.com/politics/2026/oct/20/senior-reform-official-cast-doubt-legality-huge-donations-james-orr",
    "source": "Guardian Politics",
    "group": "News",
@@ -125,8 +263,8 @@
   },
   {
    "id": "922f60df726b152a",
-   "title": "Jackdaw North Sea gasfield to get go-ahead in blow to climate campaigners",
-   "summary": "Move signals Andy Burnham’s commitment to the North Sea industry but threatens to undermine Labour’s green credentials The Jackdaw gasfield will be given the go-ahead on Wednesday, in a move that signals Andy Burnham’s commitment to the North Sea fossil fuel industry but threatens to trigger a row…",
+   "title": "Andy Burnham faces climate revolt after approval of North Sea gas drilling",
+   "summary": "Jackdaw gasfield announcement signals UK’s commitment to North Sea industry but undermines green credentials What does the approval of the Jackdaw gasfield mean? The Jackdaw gasfield will be given the go-ahead on Wednesday, signalling Andy Burnham’s commitment to the North Sea fossil fuel industry…",
    "url": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
    "source": "Guardian Politics",
    "group": "News",
@@ -180,8 +318,8 @@
    "title": "Controversial Jackdaw gas field expected to be approved",
    "summary": "The controversial Jackdaw gas field is expected to receive approval from energy secretary Miatta Fahnbulleh on Wednesday.",
    "url": "https://news.sky.com/story/controversial-jackdaw-gas-field-expected-to-be-approved-13601501",
-   "source": "Sky News Politics",
-   "group": "News",
+   "source": "Sky News Business",
+   "group": "Economy news",
    "party_voice": "",
    "published": "2026-10-20T17:56:00+00:00",
    "dateonly": false,
@@ -1783,6 +1921,21 @@
    "topics": [
     "Elections"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fd94547de9dc4e20",
+   "title": "Report set to reveal vast scale of antisemitism in English schools",
+   "summary": "A landmark report is set to detail the vast scale of antisemitism in English schools and colleges, Sky News can reveal.",
+   "url": "https://news.sky.com/story/report-set-to-reveal-vast-scale-of-antisemitism-in-english-schools-13601145",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T20:29:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -15160,14 +15313,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 1,
    "note": ""
   },
   {
@@ -15188,7 +15341,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -15209,7 +15362,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15230,7 +15383,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -15908,7 +16061,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131052,
+   "signatures": 131102,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -15917,7 +16070,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 118033,
+   "signatures": 118119,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -15926,7 +16079,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107129,
+   "signatures": 107137,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -15935,7 +16088,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 96890,
+   "signatures": 97122,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -15944,7 +16097,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84505,
+   "signatures": 84530,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -15953,7 +16106,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73950,
+   "signatures": 74044,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -15962,7 +16115,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 70041,
+   "signatures": 70101,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -15971,7 +16124,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55411,
+   "signatures": 55417,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -15980,7 +16133,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49897,
+   "signatures": 49924,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -15989,7 +16142,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 48305,
+   "signatures": 48622,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -15998,7 +16151,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43985,
+   "signatures": 44001,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16007,7 +16160,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40792,
+   "signatures": 40806,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
