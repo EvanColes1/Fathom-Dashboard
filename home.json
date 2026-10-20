@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T07:05:12.372538+00:00",
+ "updated": "2026-10-20T09:51:33.879276+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-20T07:05:12.372538+00:00",
+   "published": "2026-10-20T09:51:33.879276+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,17 +20,445 @@
    "countries": []
   },
   {
+   "id": "bf6afb1857e8710e",
+   "title": "Blow for Farage as Reform UK stuck in third place in polls",
+   "summary": "For the second week in a row, YouGov has put Reform behind the Tories after a week of damaging revelations",
+   "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-latest-poll-yougov-labour-tories-b3069729.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T09:41:59+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative",
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c949915ebbb0d6f7",
+   "title": "Badenoch calls for benefit cuts to fund defence spending in pre-budget speech – UK politics live",
+   "summary": "Conservative leader gives speech as Treasury sources say Healey has ruled out a rise in capital gains tax Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, enterprise. Britain’s tax…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T09:39:14+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Party leadership",
+    "Defence"
+   ],
+   "tax": [
+    "Capital gains tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "4fd1c62425d2553e",
+   "title": "Apply for approval for Vaping Products Duty and the Vaping Duty Stamps Scheme",
+   "summary": "What you need to do to apply for approval for Vaping Products Duty and the Vaping Duty Stamps Scheme.",
+   "url": "https://www.gov.uk/guidance/apply-for-approval-for-vaping-products-duty-and-the-vaping-duty-stamps-scheme",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-20T09:37:51Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Fuel and duties"
+   ],
+   "countries": []
+  },
+  {
+   "id": "e7074d487cca32d7",
+   "title": "HMT workforce management information",
+   "summary": "This series brings together all documents relating to HMT workforce management information",
+   "url": "https://www.gov.uk/government/collections/workforce-management--2",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "document_collection",
+   "party_voice": "",
+   "published": "2026-10-20T09:31:38Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6cf046db521a5434",
+   "title": "Jobless rate falls but small firms cut back hiring",
+   "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+   "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T09:31:29+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5c3cf3be6b37df2b",
+   "title": "Doctors blast government’s proposed pay rise as ‘derisory’ and risks further NHS strikes",
+   "summary": "The British Medical Association (BMA) described the figure as a ‘pay cut’",
+   "url": "https://www.independent.co.uk/news/uk/home-news/nhs-doctor-pay-rise-labour-government-bma-b3069730.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T09:11:58+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f0ab58fba13812d8",
+   "title": "Ex-Greens co-leader urges council groups to reject Zionism policy",
+   "summary": "Exclusive: Adrian Ramsay calls conference motion a distraction and says councillors should maintain coalitions where possible UK politics live – latest updates Adrian Ramsay, the former co-leader of the Greens, has urged his party’s councillors to reject the newly adopted “Zionism is racism” motion…",
+   "url": "https://www.theguardian.com/politics/2026/oct/20/greens-adrian-ramsay-council-groups-reject-zionism-racism-policy",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T08:55:36+00:00",
+   "dateonly": false,
+   "parties": [
+    "Green Party"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "407224cfc689eede",
+   "title": "‘Priced in’ that Nigel Farage will profit from politics, Reform UK leader’s aide suggests",
+   "summary": "The Reform UK leader has come under intense over the multi-million pound gift from crypto billionaire Christopher Harborne",
+   "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-uk-crypto-gift-brexit-dan-jukes-b3069652.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T08:55:32+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "b5697eed487540ca",
    "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-   "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+   "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
    "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-20T07:04:02+00:00",
+   "published": "2026-10-20T08:55:02+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "18342e179d45debb",
+   "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
+   "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
+   "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T08:46:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4603e1710657d1e3",
+   "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+   "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+   "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T08:44:56+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Income tax",
+    "Capital gains tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "26bb927e4cb7d331",
+   "title": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
+   "summary": "Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’ Business live – news updates Healey to reject calls to raise CGT in budget Unemployment in the UK has fallen unexpectedly in the final snapshot of the jobs market before John…",
+   "url": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T08:39:27+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "381b6dbfeecbeb55",
+   "title": "What is the Budget and what could be in it?",
+   "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T08:31:36+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fe1d75fc73dea572",
+   "title": "Statistics of government revenues from UK oil and gas production",
+   "summary": "Statistics of government revenues from UK oil and gas production, including data for fields subject to Petroleum Revenue Tax (PRT).",
+   "url": "https://www.gov.uk/government/statistics/government-revenues-from-uk-oil-and-gas-production--2",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "national_statistics",
+   "party_voice": "",
+   "published": "2026-10-20T08:30:16Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "81d49641146ecf24",
+   "title": "Insolvency practitioner's handbook",
+   "summary": "Find out what you need to account for and who to contact if you're an insolvency practitioner or official receiver dealing with HMRC.",
+   "url": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual",
+   "party_voice": "",
+   "published": "2026-10-20T08:24:26Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3bee3908f136c701",
+   "title": "5. Returns",
+   "summary": "Your responsibilities when submitting returns.",
+   "url": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook/5-returns",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual_section",
+   "party_voice": "",
+   "published": "2026-10-20T08:24:26Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "91cebfe605f77230",
+   "title": "29. Corporation Tax",
+   "summary": "How to account for Corporation Tax and submit a final Company Tax Return (CT600).",
+   "url": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook/29-corporation-tax",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual_section",
+   "party_voice": "",
+   "published": "2026-10-20T08:24:26Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Corporation tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "3a52e426381b0386",
+   "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
+   "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
+   "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T07:59:33+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a8e253af7baa8f3f",
+   "title": "Criminals detained in hospital set to lose benefits",
+   "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+   "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T07:35:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e862325d7c381fdb",
+   "title": "Landfill Tax: enquiries",
+   "summary": "Call or write to HMRC for help with Landfill Tax, including registering, making payments and completing returns.",
+   "url": "https://www.gov.uk/find-hmrc-contacts/landfill-tax-enquiries",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "hmrc_contact",
+   "party_voice": "",
+   "published": "2026-10-20T07:35:30Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c604c72b06afac88",
+   "title": "Plastic Packaging Tax: enquiries",
+   "summary": "Call or write to HMRC to get help with Plastic Packaging Tax, including general enquiries and changing your details.",
+   "url": "https://www.gov.uk/find-hmrc-contacts/plastic-packaging-tax-enquiries",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "hmrc_contact",
+   "party_voice": "",
+   "published": "2026-10-20T07:33:33Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "62a2e19120ca011f",
+   "title": "Healey to reject calls to raise capital gains tax in budget",
+   "summary": "Cabinet colleagues have previously called for an increase but chancellor feels it might ultimately cost the Treasury UK politics live – latest updates John Healey will not raise capital gains tax in next week’s budget, despite previous calls to do so from cabinet colleagues including Louise Haigh…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/20/john-healey-no-capital-gains-tax-rise-budget",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T07:27:40+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Party leadership"
+   ],
+   "tax": [
+    "Capital gains tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "e446f486f1b36dbc",
+   "title": "John Healey rejects calls to raise capital gains tax in Budget",
+   "summary": "The Chancellor has faced a barrage of voices urging him to raise the tax, which applies to the profit made from selling off assets",
+   "url": "https://www.independent.co.uk/news/uk/politics/capital-gains-tax-uk-healey-budget-b3069635.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T07:15:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Capital gains tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "f6fcdc7863d19f95",
+   "title": "Thames Water creditors secure Labour's Hutton to drive rescue deal",
+   "summary": "The consortium of Thames Water creditors looking to rescue Britain's largest supplier of its kind has appointed a former senior Labour minister in a bid to help get a deal past government opposition.",
+   "url": "https://news.sky.com/story/thames-water-creditors-secure-labours-hutton-to-drive-rescue-deal-13601230",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T07:12:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c689f14aa8df6f87",
+   "title": "What’s the future for the Green party? Should it be ecosocialism? | Joe Todd",
+   "summary": "The party must aspire to be more than a Labour pressure group. It should offer a vision for radical reform – and ways to implement it It’s a strange time to be a Green. We have just held our largest conference ever, but it was overshadowed by a controversial motion that was attacked by the media as…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/20/future-green-party-socialism-labour-radical-reform",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T07:00:18+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Green Party"
    ],
    "topics": [],
    "tax": [],
@@ -48,63 +476,6 @@
    "published": "2026-10-20T06:59:45Z",
    "parties": [],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4603e1710657d1e3",
-   "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-   "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-   "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T06:50:52+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Income tax",
-    "Capital gains tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "6cf046db521a5434",
-   "title": "Job vacancies fall as small firms cut back on recruitment",
-   "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-   "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T06:49:02+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "26bb927e4cb7d331",
-   "title": "Surprise drop in UK unemployment to 4.7%",
-   "summary": "ONS data shows rate down from 4.9% but number of job vacancies continues to shrink Business live – news updates Unemployment in the UK fell unexpectedly in the three months to August, to 4.7% from 4.9%. The Office for National Statistics figures, which provide a backdrop to the budget on 28…",
-   "url": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T06:29:57+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
    "tax": [],
    "countries": []
   },
@@ -320,7 +691,7 @@
   },
   {
    "id": "e5a9f4ef949cd07b",
-   "title": "Surprise dip in jobless rate supports interest rate hike",
+   "title": "UK unemployment rate falls to lowest level since July last year",
    "summary": "The UK's unemployment rate has fallen to 4.7%, in a set of official figures that will support the case for a Bank of England interest rate hike next month.",
    "url": "https://news.sky.com/story/surprise-dip-in-jobless-rate-supports-interest-rate-hike-13601180",
    "source": "Sky News Business",
@@ -331,23 +702,6 @@
    "parties": [],
    "topics": [
     "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "a8e253af7baa8f3f",
-   "title": "Criminals detained in hospital set to lose benefits",
-   "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
-   "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-19T23:21:38+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "NHS and care"
    ],
    "tax": [],
    "countries": []
@@ -418,8 +772,8 @@
   },
   {
    "id": "f9cad54fff25928c",
-   "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-   "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+   "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+   "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
    "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
@@ -526,8 +880,8 @@
   },
   {
    "id": "3de154836013fb3c",
-   "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-   "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+   "title": "US bans China's DeepSeek from government in race for AI dominance",
+   "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
    "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
@@ -699,6 +1053,25 @@
    "topics": [],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "aead25e0cc850dc9",
+   "title": "How long does it take to join the EU? Why the UK in 2026 isn’t Finland in 1992",
+   "summary": "Simon Usherwood argues that, should the UK seek to rejoin the European Union, the ‘accession’ process from application to membership is likely... The post How long does it take to join the EU? Why the UK in 2026 isn’t Finland in 1992 appeared first on UK in a changing Europe .",
+   "url": "https://ukandeu.ac.uk/how-long-does-it-take-to-join-the-european-union-why-the-uk-in-2026-isnt-finland-in-1992/",
+   "source": "UK in a Changing Europe",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-19T16:27:11+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Finland"
+   ]
   },
   {
    "id": "45b27a75429989c8",
@@ -1374,23 +1747,6 @@
    "countries": [
     "Ireland"
    ]
-  },
-  {
-   "id": "381b6dbfeecbeb55",
-   "title": "What is the Budget and what could be in it?",
-   "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-19T09:01:40+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "c8c3529ba9d40e19",
@@ -4410,8 +4766,8 @@
    "title": "Bank shares fall as tax on lenders expected in budget",
    "summary": "Major UK banks have seen their share prices fall after reports the chancellor is set to raise tax on lenders in the budget.",
    "url": "https://news.sky.com/story/bank-shares-fall-as-tax-on-lenders-expected-in-budget-13599838",
-   "source": "Sky News Business",
-   "group": "Economy news",
+   "source": "Sky News Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-16T07:08:00+00:00",
    "dateonly": false,
@@ -8744,21 +9100,6 @@
    "countries": []
   },
   {
-   "id": "81d49641146ecf24",
-   "title": "Insolvency practitioner's handbook",
-   "summary": "Find out what you need to account for and who to contact if you're an insolvency practitioner or official receiver dealing with HMRC.",
-   "url": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual",
-   "party_voice": "",
-   "published": "2026-10-13T14:17:36Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "40306f571cb812c8",
    "title": "Leonardo Fennell: What does Ed Sheeran teach us about cancel culture?",
    "summary": "But there is hope in the fact that this is not ultimately a problem belonging to the left or the right. If cancel culture grows from our tendency to see ourselves as morally righteous and our opponents as morally corrupt, then the corrective is available to everyone. The post Leonardo Fennell: What…",
@@ -12753,23 +13094,6 @@
    "countries": []
   },
   {
-   "id": "3a52e426381b0386",
-   "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
-   "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
-   "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-06T15:20:37+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "e0a7785455ed5ded",
    "title": "Economic Secretary to the Treasury speech for UK Digital Assets Week",
    "summary": "The Economic Secretary to the Treasury delivered her speech at UK Digital Assets Week.",
@@ -13975,14 +14299,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 4,
    "note": ""
   },
   {
@@ -13996,14 +14320,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 4,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -14017,7 +14341,7 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
@@ -14038,7 +14362,7 @@
    "name": "UK in a Changing Europe",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -14683,6 +15007,24 @@
    "org": "South Staffordshire Council"
   },
   {
+   "id": "local.birmingham.2026-11-26",
+   "title": "Birmingham local election",
+   "date": "2026-11-26",
+   "type": "Local elections",
+   "level": "organisation",
+   "by": false,
+   "org": "Birmingham City Council"
+  },
+  {
+   "id": "local.birmingham.shard-end.by.2026-11-26",
+   "title": "Birmingham local election Shard End by-election",
+   "date": "2026-11-26",
+   "type": "Local elections",
+   "level": "ballot",
+   "by": true,
+   "org": "Birmingham City Council"
+  },
+  {
    "id": "local.east-ayrshire.2026-12-10",
    "title": "East Ayrshire local election",
    "date": "2026-12-10",
@@ -14705,7 +15047,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130895,
+   "signatures": 130924,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -14714,7 +15056,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 117667,
+   "signatures": 117778,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -14723,7 +15065,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107097,
+   "signatures": 107104,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -14732,7 +15074,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 96209,
+   "signatures": 96392,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -14741,7 +15083,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84379,
+   "signatures": 84410,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -14750,7 +15092,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73641,
+   "signatures": 73689,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -14759,7 +15101,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 69705,
+   "signatures": 69801,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -14768,7 +15110,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55403,
+   "signatures": 55406,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -14777,7 +15119,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49807,
+   "signatures": 49836,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -14786,7 +15128,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 47785,
+   "signatures": 47949,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -14795,7 +15137,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43900,
+   "signatures": 43934,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -14804,7 +15146,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40726,
+   "signatures": 40741,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -15394,7 +15736,7 @@
      "v": 3.75
     },
     {
-     "d": "2026-10-16",
+     "d": "2026-10-19",
      "v": 3.75
     }
    ],
