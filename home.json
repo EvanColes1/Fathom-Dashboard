@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:10:35.724283+00:00",
+ "updated": "2026-10-20T07:05:12.372538+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-20T06:10:35.724283+00:00",
+   "published": "2026-10-20T07:05:12.372538+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,14 +20,46 @@
    "countries": []
   },
   {
+   "id": "b5697eed487540ca",
+   "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+   "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+   "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T07:04:02+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ca661fc34a4ba546",
+   "title": "Aggregates Levy: enquiries",
+   "summary": "Call or write to HMRC for help with the Aggregates Levy, including registering, making payments and completing returns.",
+   "url": "https://www.gov.uk/find-hmrc-contacts/aggregates-levy-enquiries",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "hmrc_contact",
+   "party_voice": "",
+   "published": "2026-10-20T06:59:45Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "4603e1710657d1e3",
-   "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
+   "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
    "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
    "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-20T06:10:35.724283+00:00",
+   "published": "2026-10-20T06:50:52+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
@@ -39,6 +71,41 @@
     "Income tax",
     "Capital gains tax"
    ],
+   "countries": []
+  },
+  {
+   "id": "6cf046db521a5434",
+   "title": "Job vacancies fall as small firms cut back on recruitment",
+   "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+   "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T06:49:02+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "26bb927e4cb7d331",
+   "title": "Surprise drop in UK unemployment to 4.7%",
+   "summary": "ONS data shows rate down from 4.9% but number of job vacancies continues to shrink Business live – news updates Unemployment in the UK fell unexpectedly in the three months to August, to 4.7% from 4.9%. The Office for National Statistics figures, which provide a backdrop to the budget on 28…",
+   "url": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T06:29:57+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
    "countries": []
   },
   {
@@ -57,6 +124,60 @@
    "countries": []
   },
   {
+   "id": "bb7f9e117d7f476f",
+   "title": "Robert Jenrick has a bridge to sell you",
+   "summary": "And so, Robert Jenrick may well try to sell you the idea that only Reform can save Britain from economic decline. But if we are to be honest with ourselves, the only thing Jenrick is selling the British public is a bridge, and a pretty big one at that. The post Robert Jenrick has a bridge to sell…",
+   "url": "https://conservativehome.com/2026/10/20/robert-jenrick-has-a-bridge-to-sell-you/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-20T06:00:06+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "20bc62e646a289cf",
+   "title": "Peter Franklin: How can the Conservatives oppose Burnham’s Rejoin agenda without being derailed by it?",
+   "summary": "Kemi Badenoch, Andrew Griffith and Tom Tugendhat don’t need to bang on about Europe to show us the real Europe. To do so — clearly, calmly and non-obsessively — is all the contribution they need to make. The post Peter Franklin: How can the Conservatives oppose Burnham’s Rejoin agenda without being…",
+   "url": "https://conservativehome.com/2026/10/20/peter-franklin-how-can-the-conservatives-oppose-burnhams-rejoin-agenda-without-being-derailed-by-it/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-20T05:30:50+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "923dd82c4ce717d3",
+   "title": "Brandon Lewis: We fixed planning once – it’s time to go back to the drawing board",
+   "summary": "We cleared the thicket once. It has grown back. Britain needs a party willing to go back to the drawing board and the party of home ownership should be the one holding the pen. The post Brandon Lewis: We fixed planning once – it’s time to go back to the drawing board appeared first on Conservative…",
+   "url": "https://conservativehome.com/2026/10/20/brandon-lewis-we-fixed-planning-once-its-time-to-go-back-to-the-drawing-board/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-20T05:20:51+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "ad6a86fa2683ddf4",
    "title": "Food aid charity under pressure from fuel costs",
    "summary": "FareShare South West says fuel costs are putting immense pressure on work helping thousands in need.",
@@ -69,6 +190,28 @@
    "parties": [],
    "topics": [],
    "tax": [],
+   "countries": []
+  },
+  {
+   "id": "47697788d77bb791",
+   "title": "Rob Waltham: Low taxes, outstanding services and investment – Conservatism in action in North Lincolnshire",
+   "summary": "In several years, we froze Council Tax completely. Residents should keep more of the money they earn. The post Rob Waltham: Low taxes, outstanding services and investment – Conservatism in action in North Lincolnshire appeared first on Conservative Home .",
+   "url": "https://conservativehome.com/2026/10/20/rob-waltham-low-taxes-outstanding-services-and-investment-conservatism-in-action-in-north-lincolnshire/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-20T05:10:15+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Elections"
+   ],
+   "tax": [
+    "Council tax"
+   ],
    "countries": []
   },
   {
@@ -176,6 +319,40 @@
    "countries": []
   },
   {
+   "id": "e5a9f4ef949cd07b",
+   "title": "Surprise dip in jobless rate supports interest rate hike",
+   "summary": "The UK's unemployment rate has fallen to 4.7%, in a set of official figures that will support the case for a Bank of England interest rate hike next month.",
+   "url": "https://news.sky.com/story/surprise-dip-in-jobless-rate-supports-interest-rate-hike-13601180",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T04:31:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a8e253af7baa8f3f",
+   "title": "Criminals detained in hospital set to lose benefits",
+   "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+   "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-19T23:21:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "25e998365539f5fa",
    "title": "Criminals detained in hospital to be stripped of benefits, government says",
    "summary": "Regulations laid in parliament on Tuesday seek to close the loophole and prevent serious criminals receiving up to £800 a month in universal credit over several years",
@@ -216,23 +393,6 @@
    "group": "News",
    "party_voice": "",
    "published": "2026-10-19T21:30:07+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b5697eed487540ca",
-   "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-   "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
-   "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-19T21:30:06+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
@@ -13815,14 +13975,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
@@ -13843,28 +14003,28 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": false,
-   "new": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
+   "ok": true,
+   "new": 4,
+   "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -14545,7 +14705,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 130890,
+   "signatures": 130895,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -14554,7 +14714,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 117649,
+   "signatures": 117667,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -14572,7 +14732,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 96153,
+   "signatures": 96209,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -14581,7 +14741,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84371,
+   "signatures": 84379,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -14590,7 +14750,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73630,
+   "signatures": 73641,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -14599,7 +14759,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 69685,
+   "signatures": 69705,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -14617,7 +14777,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49797,
+   "signatures": 49807,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -14626,7 +14786,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 47719,
+   "signatures": 47785,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -14635,7 +14795,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43895,
+   "signatures": 43900,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -14644,7 +14804,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40720,
+   "signatures": 40726,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
