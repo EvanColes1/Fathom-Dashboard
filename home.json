@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T15:51:45.226144+00:00",
+ "updated": "2026-10-20T18:59:16.257664+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,363 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-20T15:51:45.226144+00:00",
+   "published": "2026-10-20T18:59:16.257664+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7603641e815afd71",
+   "title": "Care home residents were sacrificed to save NHS during Covid pandemic, damning inquiry report finds",
+   "summary": "Inquiry finds Matt Hancock’s claim of ‘protective ring’ around care homes was unfounded",
+   "url": "https://www.independent.co.uk/news/uk/politics/covid-inquiry-care-homes-report-matt-hancock-b3069918.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T18:41:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "NHS and care",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "203e928909116ba1",
+   "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
+   "summary": "Dodds said it was time to hand over the leadership to a \"new generation\" after nearly nine years in the role.",
+   "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T18:40:30+00:00",
+   "dateonly": false,
+   "parties": [
+    "Liberal Democrat"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4e512a5b62e2b125",
+   "title": "Senior Reform official cast doubt over legality of huge donations",
+   "summary": "Exclusive: Admission from James Orr to undercover reporter came three months before party was given £72m UK politics live – latest updates A senior Reform UK official raised questions about whether major donations from billionaire backers Christopher Harborne and Ben Delo would be legal under the…",
+   "url": "https://www.theguardian.com/politics/2026/oct/20/senior-reform-official-cast-doubt-legality-huge-donations-james-orr",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T18:40:15+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cc64edcf26d816b3",
+   "title": "Jackdaw gas field expected to be approved by ministers following months of speculation",
+   "summary": "Ministers are expected to announce their long-awaited decision on Wednesday",
+   "url": "https://www.independent.co.uk/news/uk/politics/jackdaw-decision-government-rosebank-north-sea-oil-gas-drilling-b3070202.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T18:39:44+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "20b965f0a69e1a49",
+   "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+   "summary": "RAF Typhoon fighters to fly defensive missions over cities and infrastructure in extension of UK support for Riyadh RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen’s Houthis, flying protective missions over the country’s cities and critical infrastructure…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T18:30:16+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "07e5dc0bbe4600ad",
+   "title": "Draft law dealing with legacy of Northern Ireland Troubles passed by House of Commons",
+   "summary": "Northern Ireland Secretary Sir Chris Bryant said veterans and those who lost loved ones in the conflict ‘deserve answers’",
+   "url": "https://www.independent.co.uk/news/uk/politics/northern-ireland-troubles-draft-law-commons-vote-b3070213.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T18:28:21+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Ireland"
+   ]
+  },
+  {
+   "id": "922f60df726b152a",
+   "title": "Jackdaw North Sea gasfield to get go-ahead in blow to climate campaigners",
+   "summary": "Move signals Andy Burnham’s commitment to the North Sea industry but threatens to undermine Labour’s green credentials The Jackdaw gasfield will be given the go-ahead on Wednesday, in a move that signals Andy Burnham’s commitment to the North Sea fossil fuel industry but threatens to trigger a row…",
+   "url": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T18:24:46+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "18342e179d45debb",
+   "title": "Google resolves cloud outage affecting UK banks and websites",
+   "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+   "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T18:03:19+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b52fb67e79ab8a06",
+   "title": "Farage vows to scrap tax on armed forces reserves",
+   "summary": "A large group of protesters turned up outside the Reform UK rally in Plymouth with Nigel Farage.",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy788ee34xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T17:59:23+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "73216ba33d8aa0b6",
+   "title": "Controversial Jackdaw gas field expected to be approved",
+   "summary": "The controversial Jackdaw gas field is expected to receive approval from energy secretary Miatta Fahnbulleh on Wednesday.",
+   "url": "https://news.sky.com/story/controversial-jackdaw-gas-field-expected-to-be-approved-13601501",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T17:56:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e5b5fa653c742bd3",
+   "title": "Two men re-arrested on suspicion of aiding Iran over RAF Fairford incident",
+   "summary": "Counter-terrorism police say 24 and 25-year-old from central London detained under 2023 National Security Act Counter-terrorism police have re-arrested two men from central London accused of helping Iranian intelligence as part of the investigation into events at RAF Fairford last month. A…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/20/two-men-re-arrested-on-suspicion-of-aiding-iran-over-raf-fairford-incident",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T17:54:11+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "ff631701e2c6c1d1",
+   "title": "The Online Safety Act: An overview",
+   "summary": "The Online Safety Act 2023 aims to protect people from illegal and harmful content.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10979/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-20T17:50:15+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c87512b627cbb9bd",
+   "title": "UK government to make Jackdaw gas field announcement",
+   "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+   "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T17:33:42+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "71b9064e781a4632",
+   "title": "Employment in the UK: Economic indicators",
+   "summary": "Employment data tells us about the strength of the labour market. Find the latest data on UK employment levels and rates.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02796/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-20T17:20:02+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "027980390d7e6ec2",
+   "title": "Nige seems tired and bored of himself as Kemi conjures a telepathic budget",
+   "summary": "The Tory leader has glimpsed the future and it involves Labour putting every last UK citizen on benefits UK politics live – latest updates If you’re worried about next week’s budget, then now is your time to chill out. Because Kemi Badenoch has all the answers. The chancellor, John Healey, has been…",
+   "url": "https://www.theguardian.com/politics/2026/oct/20/nigel-farage-tired-bored-kemi-badenoch-conjures-telepathic-budget",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T16:56:33+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c949915ebbb0d6f7",
+   "title": "Covid inquiry report shows why culture of care workers being undervalued must end, says Andy Burnham – as it happened",
+   "summary": "The prime minister endorses report that says the adult social care sector has been under-recognised Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, enterprise. Britain’s tax burden…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T16:40:46+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Party leadership",
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "05f305ff505d28e0",
+   "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
+   "summary": "The softly-spoken former defence secretary is gearing up for the biggest moment of his long political career.",
+   "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T16:26:54+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f421b32e188e7198",
+   "title": "Government revenues from UK oil and gas production: October 2026",
+   "summary": "Government revenues from oil and gas production, including payments and repayments of offshore Corporation Tax, Supplementary Charge, Energy Profits Levy and Petroleum Revenue Tax.",
+   "url": "https://www.gov.uk/government/statistics/announcements/government-revenues-from-uk-oil-and-gas-production-october-2026",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "national_statistics_announcement",
+   "party_voice": "",
+   "published": "2026-10-20T16:08:24Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Corporation tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "a5688ef2959f6865",
+   "title": "Reform leader accuses MSP of 'squatting' in seat after resignation",
+   "summary": "Malcolm Offord says he is 'disappointed' at Amanda Bland's decision to leave the party and sit as an independent.",
+   "url": "https://www.bbc.co.uk/news/articles/c674p99x7ngpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T15:57:07+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ece38309c00fdfac",
+   "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+   "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
+   "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T15:53:13+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
    ],
    "tax": [],
    "countries": []
@@ -75,22 +427,19 @@
    "countries": []
   },
   {
-   "id": "c949915ebbb0d6f7",
-   "title": "Former Bank of England chief economist says Tory growth policies ‘far more likely to succeed’ than Labour’s – UK politics live",
-   "summary": "Andy Haldane writes that Conservative economic plans would be best for growth ahead of Healey budget Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, enterprise. Britain’s tax burden…",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-   "source": "Guardian Politics",
+   "id": "55520c5a4fbed1e3",
+   "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+   "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+   "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-20T15:28:59+00:00",
+   "published": "2026-10-20T15:32:36+00:00",
    "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
+   "parties": [],
    "topics": [
-    "Tax and spending",
-    "Economy"
+    "NHS and care",
+    "Housing"
    ],
    "tax": [],
    "countries": []
@@ -110,24 +459,6 @@
    ],
    "topics": [
     "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ece38309c00fdfac",
-   "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-   "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
-   "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T14:53:02+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
    ],
    "tax": [],
    "countries": []
@@ -196,23 +527,6 @@
    "parties": [],
    "topics": [
     "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7603641e815afd71",
-   "title": "Care home residents were ‘an afterthought’ and ministers’ failures allowed virus to spread quickly, Covid inquiry finds",
-   "summary": "Inquiry finds Matt Hancock’s claim of ‘protective ring’ around care homes was unfounded",
-   "url": "https://www.independent.co.uk/news/uk/politics/covid-inquiry-care-homes-report-matt-hancock-b3069918.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T14:03:44+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Housing"
    ],
    "tax": [],
    "countries": []
@@ -437,24 +751,6 @@
    "countries": []
   },
   {
-   "id": "20b965f0a69e1a49",
-   "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-   "summary": "RAF Typhoon fighters to fly defensive missions over cities and infrastructure in extension of UK support for Riyadh RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen’s Houthis, flying defensive missions over the country’s cities and critical infrastructure…",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T11:54:52+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
    "id": "415571634eb2fe66",
    "title": "Updates on VAT appeals",
    "summary": "Check the list of VAT appeals that HMRC has lost, or partly lost, that could have implications for other businesses.",
@@ -572,7 +868,7 @@
   {
    "id": "8e04569a3a6b59c9",
    "title": "UK government failures led to Covid spreading ‘like wildfire’ in care homes, inquiry finds",
-   "summary": "Inquiry chair says failure to advise care homes to isolate people discharged from hospital was ‘significant oversight’ • UK politics live – latest updates The care sector was “an afterthought” during the Covid-19 pandemic, and government failures caused the virus to spread “like wildfire” among…",
+   "summary": "Inquiry chair says failure to advise care homes to isolate people discharged from hospital was ‘significant oversight’ Government failures caused Covid-19 to spread “like wildfire” among vulnerable and elderly people, and Matt Hancock’s “protective ring” around care homes did not exist, a public…",
    "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-government-failures-led-to-covid-spreading-like-wildfire-in-care-homes-inquiry-finds",
    "source": "Guardian Politics",
    "group": "News",
@@ -844,23 +1140,6 @@
    "countries": []
   },
   {
-   "id": "a5688ef2959f6865",
-   "title": "Reform leader accuses MSP of 'squatting' in seat after resignation",
-   "summary": "Malcolm Offord says he is 'disappointed' at Amanda Bland's decision to leave the party and sit as an independent.",
-   "url": "https://www.bbc.co.uk/news/articles/c674p99x7ngpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T09:21:49+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "5c3cf3be6b37df2b",
    "title": "Doctors blast government’s proposed pay rise as ‘derisory’ and risks further NHS strikes",
    "summary": "The British Medical Association (BMA) described the figure as a ‘pay cut’",
@@ -910,21 +1189,6 @@
    "parties": [
     "Labour"
    ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "18342e179d45debb",
-   "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
-   "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
-   "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T08:46:00+00:00",
-   "dateonly": false,
-   "parties": [],
    "topics": [],
    "tax": [],
    "countries": []
@@ -4836,25 +5100,6 @@
    "countries": []
   },
   {
-   "id": "f421b32e188e7198",
-   "title": "Government revenues from UK oil and gas production: October 2026",
-   "summary": "Government revenues from oil and gas production, including payments and repayments of offshore Corporation Tax, Supplementary Charge, Energy Profits Levy and Petroleum Revenue Tax.",
-   "url": "https://www.gov.uk/government/statistics/announcements/government-revenues-from-uk-oil-and-gas-production-october-2026",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "national_statistics_announcement",
-   "party_voice": "",
-   "published": "2026-10-16T12:33:05Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Corporation tax"
-   ],
-   "countries": []
-  },
-  {
    "id": "1e5723faa31b0813",
    "title": "Watch: Did Tesla really just unveil a flying car?",
    "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
@@ -5193,8 +5438,8 @@
    "title": "Banks expect to be hit with higher taxes in Budget",
    "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
    "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-16T10:16:27+00:00",
    "dateonly": false,
@@ -9036,7 +9281,7 @@
   },
   {
    "id": "a77cb722443fb7c5",
-   "title": "Lib Dems rally behind Davey as he pledges change",
+   "title": "Chris Mason: Lib Dems rally behind Davey as he pledges change",
    "summary": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations.",
    "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
@@ -13715,44 +13960,6 @@
    "countries": []
   },
   {
-   "id": "4a0b969c69c6782a",
-   "title": "Badenoch's £10bn air defence plan points to growing concern over protecting UK's skies",
-   "summary": "The government and the Conservatives both agree the UK needs better air defences in an increasingly dangerous world.",
-   "url": "https://www.bbc.co.uk/news/articles/cm86zqg553q8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-06T17:27:19+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Defence"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "87014f88b6f1b986",
-   "title": "Why Tories are talking about winning the next election",
-   "summary": "Kemi Badenoch is more popular than her party right now - Tories are hoping it will rub off on them.",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly02ry5982o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-06T16:49:05+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "0d9c32314a0eb421",
    "title": "Green Book supplementary guidance",
    "summary": "Detailed appraisal guidance for specific topics, building on the general guidance that is set out in the Green Book",
@@ -14953,49 +15160,49 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15023,7 +15230,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
@@ -15037,14 +15244,14 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Resolution Foundation",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15701,7 +15908,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131009,
+   "signatures": 131052,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -15710,7 +15917,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 117946,
+   "signatures": 118033,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -15719,7 +15926,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107121,
+   "signatures": 107129,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -15728,7 +15935,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 96703,
+   "signatures": 96890,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -15737,7 +15944,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84469,
+   "signatures": 84505,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -15746,7 +15953,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 73887,
+   "signatures": 73950,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -15755,7 +15962,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 69963,
+   "signatures": 70041,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -15764,7 +15971,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55410,
+   "signatures": 55411,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -15773,7 +15980,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49867,
+   "signatures": 49897,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -15782,7 +15989,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 48196,
+   "signatures": 48305,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -15791,7 +15998,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 43962,
+   "signatures": 43985,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -15800,7 +16007,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40773,
+   "signatures": 40792,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
