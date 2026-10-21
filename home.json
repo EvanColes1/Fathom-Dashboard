@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T06:11:58.175558+00:00",
+ "updated": "2026-10-21T07:07:19.941525+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-21T06:11:58.175558+00:00",
+   "published": "2026-10-21T07:07:19.941525+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,14 +20,14 @@
    "countries": []
   },
   {
-   "id": "995098c768a00355",
-   "title": "Government approves drilling in Jackdaw gas field in North Sea",
-   "summary": "The UK Government has approved plans to begin drilling in the Jackdaw gas field in the North Sea.",
-   "url": "https://www.independent.co.uk/news/uk/politics/jackdaw-gas-field-north-sea-drilling-government-approve-andy-burnham-b3070417.html",
-   "source": "Independent Politics",
+   "id": "d3a94f18bd4f7ff7",
+   "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
+   "summary": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.",
+   "url": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-21T06:11:58.175558+00:00",
+   "published": "2026-10-21T07:06:10+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -42,7 +42,7 @@
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-21T06:08:04+00:00",
+   "published": "2026-10-21T06:53:25+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
@@ -51,6 +51,107 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "995098c768a00355",
+   "title": "Government approves drilling in Jackdaw gas field in North Sea",
+   "summary": "Andy Burnham says the government remained committed to renewable energy but was taking a ‘pragmatic’ approach to the North Sea",
+   "url": "https://www.independent.co.uk/news/uk/politics/jackdaw-gas-field-north-sea-drilling-government-approve-andy-burnham-b3070417.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T06:45:44+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "030e0762a24f7cc6",
+   "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+   "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+   "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-21T06:36:39+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cf063cb1f0f1c770",
+   "title": "Public finances: Economic indicators",
+   "summary": "The public finances include government borrowing and debt. Find the latest data on UK borrowing and debt as well as forecasts for the future.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02812/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-21T06:30:28+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9facb364c5cbd9f7",
+   "title": "Jackdaw gas field gets green light",
+   "summary": "Energy Secretary green lights Jackdaw gas field, as Chancellor announces new Energy Wealth Fund.",
+   "url": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
+   "source": "DESNZ",
+   "group": "Government",
+   "kind": "press_release",
+   "party_voice": "",
+   "published": "2026-10-21T06:29:27Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1c309684a60d159f",
+   "title": "UK approves Jackdaw gasfield in North Sea",
+   "summary": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners What does the UK’s approval of the Jackdaw gasfield mean? The UK government has approved the controversial Jackdaw gasfield in the North Sea, a widely expected move that will nonetheless dismay…",
+   "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T06:15:06+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f38e4593232a28d6",
+   "title": "Never mind the mid-terms – Trump as POTUS has lost any potency here",
+   "summary": "Trump has abandoned Ukraine in order to try and claw back some mid-term electoral traction. He’s stuffed many an economy and his with his failure to prosecute properly another war with Iran that he was over confident would be over in days not months. Putin thought the same in Ukraine, and should…",
+   "url": "https://conservativehome.com/2026/10/21/never-mind-the-mid-terms-trump-as-potus-has-lost-any-potency-here/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-21T06:00:09+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "Iran",
+    "United States"
+   ]
   },
   {
    "id": "7516c1a6c1a58b72",
@@ -121,23 +222,6 @@
    "countries": []
   },
   {
-   "id": "1c309684a60d159f",
-   "title": "UK approves Jackdaw gasfield in North Sea",
-   "summary": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners The UK government has approved the controversial Jackdaw gasfield in the North Sea, a widely expected move that will nonetheless dismay environmental campaigners and a number of Labour MPs. While Labour’s…",
-   "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-21T05:56:32+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "b17a25d8c48aa5ae",
    "title": "Elon Musk considering Tesla-SpaceX merger",
    "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
@@ -146,6 +230,60 @@
    "group": "Economy news",
    "party_voice": "",
    "published": "2026-10-21T05:48:46+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c35c65dfd637bec7",
+   "title": "John Redwood: Scottish independence is a mistake",
+   "summary": "The UK government keeps applying the medicine of devolution to an illness which is made worse by that treatment. No wonder the rows go on and on with no resolution possible. The SNP and Labour look like two bald men arguing over a comb. The post John Redwood: Scottish independence is a mistake…",
+   "url": "https://conservativehome.com/2026/10/21/john-redwood-scottish-independence-is-a-mistake/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-21T05:30:39+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Scottish National Party"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2e80d7b4df4cab05",
+   "title": "Miriam Cates: Will the French riots spread to Britain?",
+   "summary": "Many are wondering if the recent French riots will spread to the UK, as they did to Belgium and Italy. It is not the first time the British authorities have asked such a question. The post Miriam Cates: Will the French riots spread to Britain? appeared first on Conservative Home .",
+   "url": "https://conservativehome.com/2026/10/21/miriam-cates-will-the-french-riots-spread-to-britain/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-21T05:20:01+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "France",
+    "Italy",
+    "Belgium"
+   ]
+  },
+  {
+   "id": "a44b75665752f5cf",
+   "title": "Nick Biskinis: Cleverly must back Heathrow’s third runway",
+   "summary": "London’s premier aviation gateway cannot afford to be stuck in gridlock any more than London’s commuters. If he wants his Mayoral campaign to take flight, James cannot just circle around. Procrastination isn’t a destination. The post Nick Biskinis: Cleverly must back Heathrow’s third runway…",
+   "url": "https://conservativehome.com/2026/10/21/nick-biskinis-cleverly-must-back-heathrows-third-runway/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-21T05:10:23+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -280,21 +418,6 @@
    ]
   },
   {
-   "id": "030e0762a24f7cc6",
-   "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
-   "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
-   "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-21T04:13:14+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "39994586deee664b",
    "title": "Welsh Government council tax announcement: IFS response",
    "summary": "",
@@ -412,6 +535,25 @@
    "tax": [],
    "countries": [
     "Australia"
+   ]
+  },
+  {
+   "id": "c230121b51fba768",
+   "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
+   "summary": "A Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\"",
+   "url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T22:29:24+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Palestine"
    ]
   },
   {
@@ -553,19 +695,32 @@
   {
    "id": "c44d7e6fe301d309",
    "title": "What does the UK’s approval of the Jackdaw gasfield mean?",
-   "summary": "Decision has implications for household energy bills, the UK economy and the climate crisis Andy Burnham faces climate revolt after approval of North Sea gas drilling About four years and six energy secretaries after it was given the green light, the Jackdaw gasfield is to be given consent on…",
+   "summary": "Decision has implications for household energy bills, the UK economy and the climate crisis UK approves Jackdaw gasfield in North Sea About four years and six energy secretaries after it was given the green light, the Jackdaw gasfield has been given consent to begin production 150 miles east of…",
    "url": "https://www.theguardian.com/business/2026/oct/20/what-does-the-approval-of-the-jackdaw-gasfield-mean",
    "source": "Guardian Politics",
    "group": "News",
    "party_voice": "",
    "published": "2026-10-20T18:58:20+00:00",
    "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
+   "parties": [],
    "topics": [
     "Energy bills"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a5735d1dd6ddbcf1",
+   "title": "Schools should recognise antisemitism as distinct form of harm, review says",
+   "summary": "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell.",
+   "url": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T18:52:32+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -15465,170 +15620,6 @@
     "Corporation tax"
    ],
    "countries": []
-  },
-  {
-   "id": "1fc36b099c58d94a",
-   "title": "Canada’s new EU association holds lessons for the UK",
-   "summary": "Joël Reland reflects on what it would mean in practice for Canada to become an associate member of the EU, as well... The post Canada’s new EU association holds lessons for the UK appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/canadas-new-eu-association-holds-lessons-for-the-uk/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-16T14:31:53+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Canada"
-   ]
-  },
-  {
-   "id": "4af0ba08a0832eca",
-   "title": "Crowd-pleasing cost of living measures risk being self-defeating",
-   "summary": "Ruth Curtice and James Smith outline the potential pitfalls of blanket cost of living support at a time of high borrowing costs and pacey price rises. Andy Burnham came into office promising to find “breathing space” for families struggling with the cost of living, and backed it with a (temporary?)…",
-   "url": "https://www.resolutionfoundation.org/comment/crowd-pleasing-cost-of-living-measures-risk-being-self-defeating/",
-   "source": "Resolution Foundation",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-16T09:39:16+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "0d826b9402f80a3d",
-   "title": "Devolution in the UK",
-   "summary": "As part of our Policy Landscape 2026 report, Nicola McEwen considers the state of the political debate and the immediate and long-term... The post Devolution in the UK appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/devolution-in-the-uk/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-15T10:12:21+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "17b1aa9569361e43",
-   "title": "The triple lock is a symbol of a society that has stolen the young’s future",
-   "summary": "We used to think that old people were poor and poor people were old. That belief still lingers and is why there is such support for the triple lock, which puts up pensions by inflation, earnings or 2.5% whichever is higher. But pensioners are better off than ever. Indeed, our research at Resolution…",
-   "url": "https://www.resolutionfoundation.org/comment/the-triple-lock-is-a-symbol-of-a-society-that-has-stolen-the-youngs-future/",
-   "source": "Resolution Foundation",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-15T09:40:59+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
-   "id": "cfe0f6c926d6e6a9",
-   "title": "England’s new tourist tax: what it raises, who pays, and what it costs",
-   "summary": "Mayors across England are to be given the power to charge a tourist tax on overnight stays, expected to be around 5%. It would apply to British and foreign visitors alike. The proposal has already generated competing claims about its impact. So we’ve built an independent, fully open model to answer…",
-   "url": "https://taxpolicy.org.uk/2026/09/12/england-tourist-tax/",
-   "source": "Tax Policy Associates",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-12T06:00:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "cc7e5d209922707b",
-   "title": "Growth in *every* postcode?",
-   "summary": "Afternoon all, From bond market turmoil to AI wiping out humanity, it’s been a rather depressing week. So, I’m pleased to bring you some optimism, keep reading for why not to worry about greedflation, and why progress might have been bigger than previously measured. We’ve also invented a brilliant…",
-   "url": "https://www.resolutionfoundation.org/comment/growth-in-every-postcode/",
-   "source": "Resolution Foundation",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-11T13:23:34+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8d6b7ef975905cfe",
-   "title": "Universities UK: a £6bn lesson in bad tax policy",
-   "summary": "We’re getting into Budget lobbying season. The latest is from Universities UK, who want a tax cut for employers – a new National Insurance exemption for graduates and others under 25. But their only research involved asking employers if they wanted a tax cut. They didn’t bother to calculate the…",
-   "url": "https://taxpolicy.org.uk/2026/09/10/universities-uk-national-insurance-proposal/",
-   "source": "Tax Policy Associates",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-10T13:08:34+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "National Insurance"
-   ],
-   "countries": []
-  },
-  {
-   "id": "1f6168f00551c3d3",
-   "title": "Job losses at Jaguar Land Rover highlight the trade-offs facing Burnham’s economic policy",
-   "summary": "Sarah Hall considers how global economic shocks can impact regional inequality and argues that any economic devolution agenda must confront the trade-offs... The post Job losses at Jaguar Land Rover highlight the trade-offs facing Burnham’s economic policy appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/job-losses-at-jaguar-land-rover-highlight-the-trade-offs-facing-burnhams-economic-policy/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-10T10:35:27+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "01abcbf5bd77e546",
-   "title": "October 2026 forecast timetable",
-   "summary": "On 31 July 2026 the Chancellor commissioned the OBR to publish our next Economic and fiscal outlook (EFO) on Wednesday 28 October. We have now agreed the final details of the timetable for the forecast process. We will set out details of this timetable in the foreword of the EFO when it is…",
-   "url": "https://obr.uk/october-2026-forecast-timetable/",
-   "source": "Office for Budget Responsibility",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-10T10:01:35+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15636,14 +15627,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 6,
+   "new": 0,
    "note": ""
   },
   {
@@ -15657,14 +15648,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -15677,15 +15668,15 @@
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": false,
-   "new": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
+   "ok": true,
+   "new": 4,
+   "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
@@ -15699,14 +15690,14 @@
    "name": "UK in a Changing Europe",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15720,7 +15711,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16384,7 +16375,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131130,
+   "signatures": 131146,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16393,7 +16384,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 118171,
+   "signatures": 118187,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16402,7 +16393,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107139,
+   "signatures": 107141,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -16411,7 +16402,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 97239,
+   "signatures": 97263,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16420,7 +16411,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84544,
+   "signatures": 84546,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16429,7 +16420,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 74095,
+   "signatures": 74107,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16438,7 +16429,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 70144,
+   "signatures": 70152,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16456,7 +16447,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49939,
+   "signatures": 49943,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16465,7 +16456,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 48889,
+   "signatures": 48967,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16474,7 +16465,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44019,
+   "signatures": 44024,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16483,7 +16474,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40815,
+   "signatures": 40818,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
