@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T19:01:10.808242+00:00",
+ "updated": "2026-10-21T21:53:02.030872+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-21T19:01:10.808242+00:00",
+   "published": "2026-10-21T21:53:02.030872+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -27,7 +27,72 @@
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-21T18:40:39+00:00",
+   "published": "2026-10-21T21:49:07+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6422f5140dfaf2dc",
+   "title": "UK aid stops over 100 attempts to smuggle migrants through the Western Balkans since June",
+   "summary": "Foreign Office (FCDO) minister Lord Wood of Anfield to announce a new package of support to disrupt people-smuggling networks",
+   "url": "https://www.independent.co.uk/news/uk/politics/migrants-people-smugglers-uk-aid-western-balkans-b3070892.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T21:41:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b05e7c9d1c6776b0",
+   "title": "Students march into Belgrade while populist Vucic holds rally in Serbia's south ahead of vote",
+   "summary": "Thousands of people have greeted marching students arriving into Serbia’s capital on the eve of a closing campaign rally ahead of a tense parliamentary election on weekend challenging authoritarian leader Aleksandar Vucic",
+   "url": "https://www.independent.co.uk/news/uk/politics/aleksandar-vucic-serbia-belgrade-police-serbian-progressive-party-b3071057.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T20:49:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "9710c19cb5607607",
+   "title": "Hillsborough Law clears House of Lords hurdle despite concerns over emergency services",
+   "summary": "The Hillsborough law derives its name from the 1989 disaster where 97 Liverpool fans were killed in a crush at the Sheffield stadium",
+   "url": "https://www.independent.co.uk/news/uk/politics/hillsborough-law-house-of-lords-emergency-services-b3071047.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T20:32:01+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0e7e6c431e9a003b",
+   "title": "Football regulator to address EFL clubs as quest for deal goes on",
+   "summary": "The head of English football's watchdog will address the 72 clubs below the top flight on Thursday as the quest for a financial redistribution deal with the Premier League continues.",
+   "url": "https://news.sky.com/story/football-regulator-to-address-efl-clubs-as-quest-for-deal-goes-on-13602023",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-21T19:01:00+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -42,7 +107,7 @@
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-21T18:39:05+00:00",
+   "published": "2026-10-21T18:40:35+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
@@ -248,7 +313,7 @@
   },
   {
    "id": "83e6ef987feb7b08",
-   "title": "'Mindset shift' needed within government for No10 North to work, says deputy",
+   "title": "'Mindset shift' needed within government on No10 North, says deputy",
    "summary": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\".",
    "url": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
@@ -291,6 +356,21 @@
    "parties": [
     "Labour"
    ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "969885d4d3528581",
+   "title": "Cowardly killers who refuse to attend sentencing will face new penalties",
+   "summary": "Killers who refuse to attend sentence hearings could be confined to their cell for weeks or lose visiting privileges.",
+   "url": "https://news.sky.com/story/killers-who-refuse-to-attend-sentencing-will-face-new-penalties-under-government-plan-13601975",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T16:46:00+00:00",
+   "dateonly": false,
+   "parties": [],
    "topics": [],
    "tax": [],
    "countries": []
@@ -15488,102 +15568,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "ba487e4a08d5b934",
-   "title": "Unmasking a multi-party race to the bottom of identity politics tells you less about the target and more about who’s doing it",
-   "summary": "A stream of co-ordinated online comment about her Nigerian heritage is exactly what it looks like, whilst trying to disguise it's about how she looks. What's worse is Reform, the Green's and Labour have been doing it in the Holborn and St Pancras by-election. Identity weaponised for political…",
-   "url": "https://conservativehome.com/2026/10/09/unmasking-a-multi-party-race-to-the-bottom-of-identity-politics-tells-you-less-about-the-target-and-more-about-whos-doing-it/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-09T06:00:53+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "8e29f9fd4266fdeb",
-   "title": "Tommy Birch: Revival, rising up from the depths – can we keep our Conference momentum?",
-   "summary": "Kemi’s speech was electric, and the love the hall had for her was magnetic, but I know some of us will ask where do we go from here? What turns four days of motivation into a year of action? And, just as importantly, how do we turn enthusiasm for our leader into momentum for the whole party? The…",
-   "url": "https://conservativehome.com/2026/10/09/tommy-birch-revival-rising-up-from-the-depths-can-we-keep-our-conference-momentum/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-09T05:30:33+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "744aa9663fa43f68",
-   "title": "Jon Hollis: Kemi Badenoch, Kevin Bacon’s tractor and how to win a game of ‘Chicken!’",
-   "summary": "Kemi Badenoch’s strategy is absolutely right. She’s right not to entertain any sort of deal with Reform and she’s right to tell the public incredibly clearly, again and again, that she will not do any sort of deal with Reform. Voters needed to know she will drive straight and not swerve. Now they…",
-   "url": "https://conservativehome.com/2026/10/09/jon-hollis-kemi-badenoch-kevin-bacons-tractor-and-how-to-win-a-game-of-chicken/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-09T05:20:56+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "9b41704de7e7c3e0",
-   "title": "Delivering in Government: your weekly round up of good news Labour stories",
-   "summary": "It was a busy week for the Labour government. While conference season rolled on, there was plenty of… The post Delivering in Government: your weekly round up of good news Labour stories appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/good-news-09-october-2026/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-09T05:00:51+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "51f5c34fb39c1e07",
-   "title": "Labour members willing to accept Green defections, but not Tories or Reform – poll",
-   "summary": "Labour members would welcome high-profile defections from the Greens, but oppose any from the Conservatives or Reform UK,… The post Labour members willing to accept Green defections, but not Tories or Reform – poll appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/labour-defection-survation-poll/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-09T05:00:45+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative",
-    "Reform UK",
-    "Green Party"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15591,21 +15575,21 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 9,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15619,14 +15603,14 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15640,7 +15624,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15654,14 +15638,14 @@
    "name": "UK in a Changing Europe",
    "group": "Analysis",
    "ok": true,
-   "new": 18,
+   "new": 19,
    "note": ""
   },
   {
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -15675,7 +15659,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
@@ -15689,7 +15673,7 @@
    "name": "Tax Policy Associates",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 9,
+   "new": 10,
    "note": ""
   },
   {
@@ -16357,7 +16341,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131299,
+   "signatures": 131342,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16366,7 +16350,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 118506,
+   "signatures": 118572,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16375,7 +16359,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107156,
+   "signatures": 107159,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -16384,7 +16368,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 97706,
+   "signatures": 97809,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16393,7 +16377,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84613,
+   "signatures": 84617,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16402,7 +16386,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 74385,
+   "signatures": 74467,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16411,7 +16395,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 71174,
+   "signatures": 71438,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16429,7 +16413,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50091,
+   "signatures": 50131,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16438,7 +16422,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 49568,
+   "signatures": 49834,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16447,7 +16431,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44095,
+   "signatures": 44133,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16456,7 +16440,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40932,
+   "signatures": 40961,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
