@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:50:26.583175+00:00",
+ "updated": "2026-10-21T01:03:55.527688+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-20T21:50:26.583175+00:00",
+   "published": "2026-10-21T01:03:55.527688+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -18,6 +18,138 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "b17a25d8c48aa5ae",
+   "title": "Elon Musk says Tesla-SpaceX merger being considered",
+   "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+   "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T23:24:47+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9957baa5dffec4b5",
+   "title": "Working out the VAT value using the customs value of the imported goods",
+   "summary": "How to use the customs value to calculate VAT for imported goods if you’re an importer or clearing agent.",
+   "url": "https://www.gov.uk/guidance/working-out-the-vat-value-using-the-customs-value-of-the-imported-goods",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-20T23:15:02Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "VAT"
+   ],
+   "countries": []
+  },
+  {
+   "id": "688b51f07c5ab482",
+   "title": "The tech helping crack decades-old cold cases",
+   "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+   "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-20T23:13:24+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "093ba04b745dede7",
+   "title": "My wife Jo Cox was murdered in her constituency in 2016. The alleged attack on Helen Haines is a punch to the gut | Brendan Cox",
+   "summary": "Moments like these can reinforce our divisions or remind us of what we stand to lose when hatred and intimidation are allowed to brutalise our democracy It’s never a good sign when you turn on your phone to find a dozen messages asking if you are OK. For reasons you will come to understand, I only…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/21/my-wife-jo-cox-was-murdered-in-her-constituency-in-2016-the-alleged-attack-on-helen-haines-is-a-punch-to-the-gut-ntwnfb",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T23:11:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d217f6bb94a611ed",
+   "title": "Burnham and Sultan of Oman set to sign new investment agreement at Downing Street",
+   "summary": "Burnham believes the relationship between Britain and Oman is ‘a friendship which generates real benefits’",
+   "url": "https://www.independent.co.uk/news/uk/politics/burnham-sultan-of-oman-downing-street-uk-state-visit-b3070331.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T23:01:55+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Oman"
+   ]
+  },
+  {
+   "id": "fcaabc6ccf00b446",
+   "title": "‘Squalid’, scandal-hit prison forced to order coats, blankets and soup for inmates after heating failure",
+   "summary": "Issues with the heating supply and hot water at HMP Wandsworth became so serious that it was reported as a ‘loss of service’, a report said",
+   "url": "https://www.independent.co.uk/news/uk/politics/hmp-wandsworth-prison-heating-failure-conditions-b3070000.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T23:01:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b8abd02209b945ba",
+   "title": "MPs call for firefighting planes and barbecue ban to combat UK wildfire threat",
+   "summary": "“Britain needs a cultural shift that puts us in step with fire-savvy nations such as Australia,’ Efra chairman Alistair Carmichael said",
+   "url": "https://www.independent.co.uk/news/uk/politics/firefighting-planes-uk-wildfires-disposable-barbecue-ban-australia-b3070098.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T23:01:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "07e5dc0bbe4600ad",
+   "title": "MPs back Northern Ireland Troubles Bill to deal with legacy of conflict",
+   "summary": "Northern Ireland Secretary Sir Chris Bryant said veterans and those who lost loved ones in the conflict ‘deserve answers’",
+   "url": "https://www.independent.co.uk/news/uk/politics/northern-ireland-troubles-draft-law-commons-vote-b3070213.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-20T21:55:32+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Ireland"
+   ]
   },
   {
    "id": "75b309948529bb75",
@@ -140,8 +272,8 @@
   },
   {
    "id": "c44d7e6fe301d309",
-   "title": "What would the approval of the Jackdaw gasfield mean?",
-   "summary": "Decision would have implications for household energy bills, the UK economy and the climate crisis Andy Burnham faces climate revolt after approval of North Sea gas drilling About four years and six energy secretaries after it was first given the green light, the Jackdaw gasfield is expected to be…",
+   "title": "What does the UK’s approval of the Jackdaw gasfield mean?",
+   "summary": "Decision has implications for household energy bills, the UK economy and the climate crisis Andy Burnham faces climate revolt after approval of North Sea gas drilling About four years and six energy secretaries after it was given the green light, the Jackdaw gasfield is to be given consent on…",
    "url": "https://www.theguardian.com/business/2026/oct/20/what-does-the-approval-of-the-jackdaw-gasfield-mean",
    "source": "Guardian Politics",
    "group": "News",
@@ -242,23 +374,6 @@
    "countries": [
     "Saudi Arabia",
     "Yemen"
-   ]
-  },
-  {
-   "id": "07e5dc0bbe4600ad",
-   "title": "Draft law dealing with legacy of Northern Ireland Troubles passed by House of Commons",
-   "summary": "Northern Ireland Secretary Sir Chris Bryant said veterans and those who lost loved ones in the conflict ‘deserve answers’",
-   "url": "https://www.independent.co.uk/news/uk/politics/northern-ireland-troubles-draft-law-commons-vote-b3070213.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T18:28:21+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Ireland"
    ]
   },
   {
@@ -394,8 +509,8 @@
   },
   {
    "id": "027980390d7e6ec2",
-   "title": "Nige seems tired and bored of himself as Kemi conjures a telepathic budget",
-   "summary": "The Tory leader has glimpsed the future and it involves Labour putting every last UK citizen on benefits UK politics live – latest updates If you’re worried about next week’s budget, then now is your time to chill out. Because Kemi Badenoch has all the answers. The chancellor, John Healey, has been…",
+   "title": "Nige seems tired and bored of himself as Kemi conjures a telepathic budget | John Crace",
+   "summary": "The Tory leader has glimpsed the future and it involves Labour putting every last UK citizen on benefits If you’re worried about next week’s budget, then now is your time to chill out. Because Kemi Badenoch has all the answers. The chancellor, John Healey, has been living rent free in the leader of…",
    "url": "https://www.theguardian.com/politics/2026/oct/20/nigel-farage-tired-bored-kemi-badenoch-conjures-telepathic-budget",
    "source": "Guardian Politics",
    "group": "News",
@@ -408,7 +523,8 @@
    ],
    "topics": [
     "Tax and spending",
-    "Party leadership"
+    "Party leadership",
+    "Housing"
    ],
    "tax": [],
    "countries": []
@@ -15313,7 +15429,7 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15327,21 +15443,21 @@
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
@@ -15362,7 +15478,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16061,7 +16177,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131102,
+   "signatures": 131121,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16070,7 +16186,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 118119,
+   "signatures": 118148,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16079,7 +16195,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107137,
+   "signatures": 107139,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -16088,7 +16204,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 97122,
+   "signatures": 97187,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16097,7 +16213,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84530,
+   "signatures": 84540,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16106,7 +16222,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 74044,
+   "signatures": 74073,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16115,7 +16231,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 70101,
+   "signatures": 70132,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16124,7 +16240,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55417,
+   "signatures": 55419,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16133,7 +16249,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49924,
+   "signatures": 49937,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16142,7 +16258,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 48622,
+   "signatures": 48765,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16151,7 +16267,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44001,
+   "signatures": 44018,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16160,7 +16276,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40806,
+   "signatures": 40812,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -16726,7 +16842,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-09-20",
+     "d": "2024-09-23",
      "v": 5.0
     },
     {
