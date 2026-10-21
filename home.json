@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T03:53:21.989907+00:00",
+ "updated": "2026-10-21T06:11:58.175558+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-21T03:53:21.989907+00:00",
+   "published": "2026-10-21T06:11:58.175558+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,18 +20,298 @@
    "countries": []
   },
   {
+   "id": "995098c768a00355",
+   "title": "Government approves drilling in Jackdaw gas field in North Sea",
+   "summary": "The UK Government has approved plans to begin drilling in the Jackdaw gas field in the North Sea.",
+   "url": "https://www.independent.co.uk/news/uk/politics/jackdaw-gas-field-north-sea-drilling-government-approve-andy-burnham-b3070417.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T06:11:58.175558+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a957ff6167f2aa71",
+   "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
+   "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+   "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-21T06:08:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7516c1a6c1a58b72",
+   "title": "Three ideas for how to deal with Thames Water",
+   "summary": "The Guardian proposes emergency legislation, public control via the courts or stripping the utility company of its licence Andy Burnham has told officials to rip up their plans for how to fix Thames Water and present him with more radical options for what to do with the stricken company. Here are…",
+   "url": "https://www.theguardian.com/business/2026/oct/21/three-ideas-for-how-to-deal-with-thames-water",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T06:00:04+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ea76db6f5f43ffd3",
+   "title": "Jess Phillips hopes supreme court ‘sees sense’ and overturns domestic abuse ruling",
+   "summary": "Court of appeal decision prevents woman from suing police and CPS for disclosing her address to violent ex-partner The Labour MP Jess Phillips has said she hopes the UK’s highest court “sees sense” and overturns a ruling preventing a domestic abuse survivor from suing Sussex police and the Crown…",
+   "url": "https://www.theguardian.com/society/2026/oct/21/jess-phillips-hopes-supreme-court-sees-sense-and-overturns-domestic-abuse-ruling",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T06:00:03+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4f4ab1b1b369806f",
+   "title": "HMRC tax receipts and National Insurance contributions for the UK",
+   "summary": "Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.",
+   "url": "https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "national_statistics",
+   "party_voice": "",
+   "published": "2026-10-21T06:00:02Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "National Insurance"
+   ],
+   "countries": []
+  },
+  {
+   "id": "73f6983ec54ef4a6",
+   "title": "Public sector finances bulletin",
+   "summary": "The public sector finances statistical bulletin.",
+   "url": "https://www.gov.uk/government/statistics/public-sector-finances-bulletin",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "national_statistics",
+   "party_voice": "",
+   "published": "2026-10-21T06:00:02Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1c309684a60d159f",
+   "title": "UK approves Jackdaw gasfield in North Sea",
+   "summary": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners The UK government has approved the controversial Jackdaw gasfield in the North Sea, a widely expected move that will nonetheless dismay environmental campaigners and a number of Labour MPs. While Labour’s…",
+   "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T05:56:32+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "b17a25d8c48aa5ae",
-   "title": "Elon Musk says Tesla-SpaceX merger being considered",
+   "title": "Elon Musk considering Tesla-SpaceX merger",
    "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
    "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-20T23:24:47+00:00",
+   "published": "2026-10-21T05:48:46+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
    "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3575882815ec793d",
+   "title": "Good growth in every postcode 21st October 2026",
+   "summary": "Andy Burnham’s pledge to the country is “good growth in every postcode and hope in every heart”. What… The post Good growth in every postcode 21st October 2026 appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/good-growth-in-every-postcode-21-10-2026/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-21T05:00:38+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f0033abd38ab4c15",
+   "title": "‘Labour must put culture at the heart of their youth mental health plan’",
+   "summary": "When Clement Attlee’s Labour government held the 1951 Festival of Britain, it was conceived as a bold and… The post ‘Labour must put culture at the heart of their youth mental health plan’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/labour-must-put-culture-at-the-heart-of-their-youth-mental-health-plan/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-21T05:00:32+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "deb3d57dc0720cd4",
+   "title": "The Thames Valley is driving growth. Devolution can turbocharge it.",
+   "summary": "“Good growth in every postcode” is the Prime Minister’s promise. It is a goal we support. But if… The post The Thames Valley is driving growth. Devolution can turbocharge it. appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/thames-valley-devolution/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-21T05:00:13+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "181a9081e51a7200",
+   "title": "‘It’s time to put tariffs on Chinese electric vehicles’",
+   "summary": "Seen an electric vehicle lately? Chances are it’s a Jaecoo, the “Temu Land Rover”, or an MG4. Chinese… The post ‘It’s time to put tariffs on Chinese electric vehicles’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/put-tariffs-on-chinese-electric-vehicles/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-21T05:00:13+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "e6ed8405c960b315",
+   "title": "Streeting delays defence jobs plan for young people after union pushback",
+   "summary": "UK defence secretary had been due to unveil proposals on Thursday until concerns were raised at 11th hour Wes Streeting has been forced to delay the publication of a plan to get more young people into defence industry jobs after pushback from trade unions, the Guardian understands. The defence…",
+   "url": "https://www.theguardian.com/politics/2026/oct/21/wes-streeting-delays-defence-jobs-plan-young-people-union-pushback-mod-uk",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T05:00:05+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "09f1d7cbe5113d4f",
+   "title": "Mystery of Roman sarcophagus unearthed at Westminster Abbey solved at last, expert says",
+   "summary": "Archaeologist says skeleton inside coffin inscribed to Valerius Amandinus is likely to be remains of 11th-century abbot It has all the ingredients of a chilling mystery: the skeleton of an unknown man discovered within a Roman sarcophagus unearthed in the grounds of Westminster Abbey. Now an expert…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/21/mystery-roman-sarcophagus-westminster-abbey-solved-at-last-expert-says",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T05:00:03+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2b7057f63f5ae307",
+   "title": "From strife-torn France to the UK, rightwing populists win when they stir chaos while promising order | Rafael Behr",
+   "summary": "Marine Le Pen and Donald Trump are arsonists who play at being firefighters. Nigel Farage is finding that act harder to pull off in Andy Burnham’s Britain An election where one side represents chaos will nearly always be won by the party that promises order instead. Public fatigue after years of…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/21/france-uk-rightwing-populists-marine-le-pen-donald-trump",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T05:00:03+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Reform UK"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": [
+    "France",
+    "United States"
+   ]
+  },
+  {
+   "id": "030e0762a24f7cc6",
+   "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+   "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+   "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-21T04:13:14+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "39994586deee664b",
+   "title": "Welsh Government council tax announcement: IFS response",
+   "summary": "",
+   "url": "https://ifs.org.uk/articles/welsh-government-council-tax-announcement-ifs-response",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-21T00:00:00+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Elections"
+   ],
+   "tax": [
+    "Council tax"
+   ],
    "countries": []
   },
   {
@@ -68,7 +348,7 @@
   },
   {
    "id": "093ba04b745dede7",
-   "title": "My wife Jo Cox was murdered in her constituency in 2016. The alleged attack on Helen Haines is a punch to the gut | Brendan Cox",
+   "title": "My late wife Jo Cox was murdered in her constituency in 2016. The alleged attack on Helen Haines is a punch to the gut | Brendan Cox",
    "summary": "Moments like these can reinforce our divisions or remind us of what we stand to lose when hatred and intimidation are allowed to brutalise our democracy It’s never a good sign when you turn on your phone to find a dozen messages asking if you are OK. For reasons you will come to understand, I only…",
    "url": "https://www.theguardian.com/commentisfree/2026/oct/21/my-wife-jo-cox-was-murdered-in-her-constituency-in-2016-the-alleged-attack-on-helen-haines-is-a-punch-to-the-gut-ntwnfb",
    "source": "Guardian Politics",
@@ -15349,79 +15629,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "946340fd17b8d820",
-   "title": "How do young people in the UK feel about its relationship with the EU?",
-   "summary": "Heather Rolfe aruges that campaigners for a closer relationship with the EU will find it challenging to engage young people in a... The post How do young people in the UK feel about its relationship with the EU? appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/how-do-young-people-in-the-uk-feel-about-its-relationship-with-the-eu/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-09T14:17:15+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b2e0fba62b2b0221",
-   "title": "What are the big policy challenges facing Andy Burnham?",
-   "summary": "To mark the publication of the latest edition of the Policy Landscape 2026, Anand Menon and Ruth Curtice reflect on the key policy challenges confronting the UK. Andy Burnham has got off to a decent start as Prime Minister. Yet this early success has been largely ‘vibes based’. To be credible, the…",
-   "url": "https://www.resolutionfoundation.org/comment/what-are-the-big-policy-challenges-facing-andy-burnham/",
-   "source": "Resolution Foundation",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-08T13:46:48+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ffb56c98ac9f0f9d",
-   "title": "Unpacking the Policy Landscape 2026",
-   "summary": "To mark the publication of the latest edition of the Policy Landscape 2026, Anand Menon and Ruth Curtice reflect on the key... The post Unpacking the Policy Landscape 2026 appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/unpacking-the-policy-landscape-2026/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-07T23:01:53+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e4eb0a1b10eb416e",
-   "title": "Not one inch: keeping Russia at bay",
-   "summary": "Sten Rynning and Anne Ingemann Johansen look at the day-to-day work being done in Norway as a frontline state to counter the... The post Not one inch: keeping Russia at bay appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/not-one-inch-keeping-russia-at-bay/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-07T14:32:57+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia",
-    "Norway"
-   ]
   }
  ],
  "feeds": [
@@ -15436,7 +15643,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 6,
    "note": ""
   },
   {
@@ -15450,14 +15657,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -15470,15 +15677,15 @@
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": true,
+   "ok": false,
    "new": 0,
-   "note": ""
+   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 4,
    "note": ""
   },
   {
@@ -15513,7 +15720,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -16177,7 +16384,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131122,
+   "signatures": 131130,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16186,7 +16393,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 118153,
+   "signatures": 118171,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16204,7 +16411,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 97198,
+   "signatures": 97239,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16213,7 +16420,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84541,
+   "signatures": 84544,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16222,7 +16429,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 74081,
+   "signatures": 74095,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16231,7 +16438,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 70136,
+   "signatures": 70144,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16249,7 +16456,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49937,
+   "signatures": 49939,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16258,7 +16465,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 48787,
+   "signatures": 48889,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16267,7 +16474,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44018,
+   "signatures": 44019,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16276,7 +16483,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40813,
+   "signatures": 40815,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -16291,10 +16498,6 @@
    "good": "down",
    "source": "ONS",
    "series": [
-    {
-     "d": "2024 AUG",
-     "v": 2.2
-    },
     {
      "d": "2024 SEP",
      "v": 1.7
@@ -16390,6 +16593,10 @@
     {
      "d": "2026 AUG",
      "v": 3.1
+    },
+    {
+     "d": "2026 SEP",
+     "v": 3.5
     }
    ],
    "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7g7/mm23"
@@ -16622,10 +16829,6 @@
    "source": "ONS",
    "series": [
     {
-     "d": "2024 AUG",
-     "v": -14.8
-    },
-    {
      "d": "2024 SEP",
      "v": -18.71
     },
@@ -16639,51 +16842,51 @@
     },
     {
      "d": "2024 DEC",
-     "v": -18.41
+     "v": -18.42
     },
     {
      "d": "2025 JAN",
-     "v": 14.98
+     "v": 14.97
     },
     {
      "d": "2025 FEB",
-     "v": -11.62
+     "v": -11.63
     },
     {
      "d": "2025 MAR",
-     "v": -13.42
+     "v": -13.43
     },
     {
      "d": "2025 APR",
-     "v": -20.15
+     "v": -20.16
     },
     {
      "d": "2025 MAY",
-     "v": -18.23
+     "v": -18.25
     },
     {
      "d": "2025 JUN",
-     "v": -24.26
+     "v": -24.27
     },
     {
      "d": "2025 JUL",
-     "v": -1.48
+     "v": -1.49
     },
     {
      "d": "2025 AUG",
-     "v": -15.35
+     "v": -15.36
     },
     {
      "d": "2025 SEP",
-     "v": -22.75
+     "v": -22.76
     },
     {
      "d": "2025 OCT",
-     "v": -16.17
+     "v": -16.18
     },
     {
      "d": "2025 NOV",
-     "v": -9.91
+     "v": -9.92
     },
     {
      "d": "2025 DEC",
@@ -16691,35 +16894,39 @@
     },
     {
      "d": "2026 JAN",
-     "v": 32.02
+     "v": 31.96
     },
     {
      "d": "2026 FEB",
-     "v": -12.76
+     "v": -12.83
     },
     {
      "d": "2026 MAR",
-     "v": -12.31
+     "v": -12.03
     },
     {
      "d": "2026 APR",
-     "v": -23.4
+     "v": -23.13
     },
     {
      "d": "2026 MAY",
-     "v": -19.87
+     "v": -19.27
     },
     {
      "d": "2026 JUN",
-     "v": -13.72
+     "v": -13.29
     },
     {
      "d": "2026 JUL",
-     "v": -2.04
+     "v": -0.37
     },
     {
      "d": "2026 AUG",
-     "v": -18.27
+     "v": -17.25
+    },
+    {
+     "d": "2026 SEP",
+     "v": -24.52
     }
    ],
    "url": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/timeseries/j5ii/pusf"
@@ -16732,68 +16939,64 @@
    "source": "ONS",
    "series": [
     {
-     "d": "2024 AUG",
-     "v": 94.5
-    },
-    {
      "d": "2024 SEP",
-     "v": 94.0
+     "v": 93.3
     },
     {
      "d": "2024 OCT",
-     "v": 94.4
+     "v": 93.7
     },
     {
      "d": "2024 NOV",
-     "v": 95.2
-    },
-    {
-     "d": "2024 DEC",
-     "v": 94.8
-    },
-    {
-     "d": "2025 JAN",
-     "v": 93.1
-    },
-    {
-     "d": "2025 FEB",
-     "v": 93.4
-    },
-    {
-     "d": "2025 MAR",
-     "v": 93.4
-    },
-    {
-     "d": "2025 APR",
-     "v": 93.8
-    },
-    {
-     "d": "2025 MAY",
-     "v": 94.9
-    },
-    {
-     "d": "2025 JUN",
      "v": 94.5
     },
     {
+     "d": "2024 DEC",
+     "v": 94.1
+    },
+    {
+     "d": "2025 JAN",
+     "v": 92.4
+    },
+    {
+     "d": "2025 FEB",
+     "v": 92.9
+    },
+    {
+     "d": "2025 MAR",
+     "v": 92.9
+    },
+    {
+     "d": "2025 APR",
+     "v": 93.3
+    },
+    {
+     "d": "2025 MAY",
+     "v": 94.5
+    },
+    {
+     "d": "2025 JUN",
+     "v": 94.2
+    },
+    {
      "d": "2025 JUL",
-     "v": 94.9
+     "v": 94.6
     },
     {
      "d": "2025 AUG",
-     "v": 95.1
+     "v": 94.8
     },
     {
      "d": "2025 SEP",
-     "v": 94.9
+     "v": 94.7
     },
     {
      "d": "2025 OCT",
-     "v": 94.0
+     "v": 93.9
     },
     {
      "d": "2025 NOV",
-     "v": 94.6
+     "v": 94.5
     },
     {
      "d": "2025 DEC",
@@ -16801,35 +17004,39 @@
     },
     {
      "d": "2026 JAN",
-     "v": 92.3
+     "v": 92.2
     },
     {
      "d": "2026 FEB",
-     "v": 92.6
+     "v": 92.5
     },
     {
      "d": "2026 MAR",
-     "v": 93.3
+     "v": 93.2
     },
     {
      "d": "2026 APR",
-     "v": 93.6
+     "v": 93.5
     },
     {
      "d": "2026 MAY",
-     "v": 94.3
+     "v": 94.2
     },
     {
      "d": "2026 JUN",
-     "v": 94.6
+     "v": 94.5
     },
     {
      "d": "2026 JUL",
-     "v": 94.0
+     "v": 93.8
     },
     {
      "d": "2026 AUG",
-     "v": 93.8
+     "v": 93.6
+    },
+    {
+     "d": "2026 SEP",
+     "v": 94.0
     }
    ],
    "url": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/timeseries/hf6x/pusf"
