@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T07:07:19.941525+00:00",
+ "updated": "2026-10-21T09:52:57.979828+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,252 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-21T07:07:19.941525+00:00",
+   "published": "2026-10-21T09:52:57.979828+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3a4de486b577ead5",
+   "title": "Politics latest: Jackdaw gasfield drilling won’t cut your bills, energy secretary warns despite Burnham’s approval",
+   "summary": "Miatta Fahnbulleh has promised greater energy security, but told Britons not to expect cheaper bills this winter",
+   "url": "https://www.independent.co.uk/news/uk/politics/jackdaw-andy-burnham-pmqs-live-updates-b3070481.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T09:51:45+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a957ff6167f2aa71",
+   "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+   "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+   "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-21T09:45:31+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "76f0a4c269a26a06",
+   "title": "Labour accused of ‘climate vandalism’ by Green leader Polanski after Jackdaw gasfield approved – UK politics live",
+   "summary": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government said Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace UK , said: Approving…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T09:44:23+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Green Party"
+   ],
+   "topics": [
+    "Party leadership",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4b8dabbef20fb890",
+   "title": "What will happen if you do not pay your tax bill",
+   "summary": "How HMRC uses debt enforcement powers, debt collection agencies and what happens if you live abroad when you do not pay your tax bill.",
+   "url": "https://www.gov.uk/guidance/what-will-happen-if-you-do-not-pay-your-tax-bill",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-21T09:21:31Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3a8e9f2562f03d8d",
+   "title": "Child Benefit: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Child Benefit online service.",
+   "url": "https://www.gov.uk/government/publications/child-benefit-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-21T09:19:06Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "479ff2237bb37147",
+   "title": "Rating Manual section 2: valuation principles",
+   "summary": "The Valuation Office's technical manual for the rating of business (non-domestic) property.",
+   "url": "https://www.gov.uk/guidance/rating-manual-section-2-maintaining-the-rating-list",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual",
+   "party_voice": "",
+   "published": "2026-10-21T09:18:13Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9236e5f592ad536f",
+   "title": "Part 1: Rateable occupation",
+   "summary": "The Valuation Office's technical manual for the rating of business (non-domestic) property.",
+   "url": "https://www.gov.uk/guidance/rating-manual-section-2-maintaining-the-rating-list/part-1-rateable-occupation",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual_section",
+   "party_voice": "",
+   "published": "2026-10-21T09:18:13Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9894f047288211e7",
+   "title": "Part 6: Exemptions — Part A: property used for disabled persons",
+   "summary": "The Valuation Office's technical manual for the rating of business (non-domestic) property.",
+   "url": "https://www.gov.uk/guidance/rating-manual-section-2-maintaining-the-rating-list/part-6-exemptions-part-a-property-used-for-disabled-persons",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "manual_section",
+   "party_voice": "",
+   "published": "2026-10-21T09:18:13Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "903d46ddbfaa302f",
+   "title": "Flood risk management and funding",
+   "summary": "This briefing paper provides an overview of flood and coastal risk management in the UK, including which bodies manage risk, current policy on flood risk management, and how flood funding works.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-7514/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-21T09:05:42+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "60bb768632a84ca5",
+   "title": "Employer Bulletin: October 2026",
+   "summary": "A bi-monthly magazine for employers and agents that gives up-to-date information on payroll topics.",
+   "url": "https://www.gov.uk/government/publications/employer-bulletin-october-2026",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-21T09:00:03Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2320e8b61d2c5409",
+   "title": "Bwletin y Cyflogwr CThEF",
+   "summary": "Gallwch ddod o hyd i’r wybodaeth ddiweddaraf am faterion y gyflogres i gyflogwyr ac asiantau yng nghylchgronau Bwletin y Cyflogwr.",
+   "url": "https://www.gov.uk/government/collections/bwletin-y-cyflogwr-cthef",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "document_collection",
+   "party_voice": "",
+   "published": "2026-10-21T09:00:03Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "30806ae7a97ec6eb",
+   "title": "Database of forecasts for the UK economy",
+   "summary": "We’ve compiled independent forecasts for the UK economy since 1986. This database includes forecasts of key economic indicators from those publications.",
+   "url": "https://www.gov.uk/government/statistics/database-of-forecasts-for-the-uk-economy",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "official_statistics",
+   "party_voice": "",
+   "published": "2026-10-21T09:00:03Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a3eda9a486d19b3a",
+   "title": "Forecasts for the UK economy: October 2026",
+   "summary": "A comparison of independent forecasts for the UK economy in October 2026.",
+   "url": "https://www.gov.uk/government/statistics/forecasts-for-the-uk-economy-october-2026",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "official_statistics",
+   "party_voice": "",
+   "published": "2026-10-21T09:00:03Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d7c6f984903bbe69",
+   "title": "Forecasts for the UK economy",
+   "summary": "Forecasts for the UK economy is a monthly comparison of independent forecasts.",
+   "url": "https://www.gov.uk/government/collections/data-forecasts",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "document_collection",
+   "party_voice": "",
+   "published": "2026-10-21T09:00:03Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0e47846ea3de70be",
+   "title": "Energy secretary refuses seven times to say she backs Mahmood’s controversial immigration plans",
+   "summary": "Miatta Fahnbulleh has faced questions over her position on the home secretary’s plans",
+   "url": "https://www.independent.co.uk/news/uk/politics/miatta-fahnbulleh-shabana-mahmood-immigration-leave-to-remain-b3070464.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T08:51:13+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
    ],
    "tax": [],
    "countries": []
@@ -27,7 +268,7 @@
    "source": "BBC Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-21T07:06:10+00:00",
+   "published": "2026-10-21T08:49:44+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -35,14 +276,149 @@
    "countries": []
   },
   {
-   "id": "a957ff6167f2aa71",
-   "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
-   "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
-   "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+   "id": "b17a25d8c48aa5ae",
+   "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+   "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+   "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-21T06:53:25+00:00",
+   "published": "2026-10-21T08:42:49+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "92dc827e362bc5fe",
+   "title": "Scandal-hit Wandsworth prison ordered thousands of coats and blankets for inmates after heating failure",
+   "summary": "Issues with the heating supply and hot water at HMP Wandsworth became so serious that it was reported as a ‘loss of service’, a report said",
+   "url": "https://www.independent.co.uk/news/uk/politics/hmp-wandsworth-prison-heating-failure-b3070520.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T08:42:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "40bdd26225dc83b5",
+   "title": "What is happening to UK prices?",
+   "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
+   "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-21T08:35:47+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4251567f6efb61bd",
+   "title": "2025-26 departmental efficiency and savings performance",
+   "summary": "This statistical release presents official statistics on 2025-26 departmental efficiency and savings performance against the 2% productivity, efficiency and savings target set at Autumn Budget 2024.",
+   "url": "https://www.gov.uk/government/statistics/2025-26-departmental-efficiency-and-savings-performance",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "official_statistics",
+   "party_voice": "",
+   "published": "2026-10-21T08:30:07Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b47bb880ce26b6b0",
+   "title": "In The Room | Why France is rioting – and is Britain next?",
+   "summary": "France is reeling after a weekend of unrest that escalated dramatically. Hundreds of thousands marched peacefully, but elsewhere shops were looted, cars burned, police attacked and public buildings set alight.",
+   "url": "https://www.independent.co.uk/tv/in-the-room/france-riots-uk-europe-politics-podcast-b3070510.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T08:29:18+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "1c309684a60d159f",
+   "title": "UK approves Jackdaw gasfield in North Sea",
+   "summary": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners What does the UK’s approval of the Jackdaw gasfield mean? UK politics live – latest updates Business live – latest updates The UK government has approved the controversial Jackdaw gasfield in the North…",
+   "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T08:26:09+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4ede1314198e6a47",
+   "title": "Climate campaigners condemn ‘maddening’ decision to approve Jackdaw gasfield",
+   "summary": "Critics say move will jeopardise climate targets, fail to cut cost of living and distract from need to decarbonise energy UK politics live – latest updates Climate campaigners and green experts have condemned the government’s decision to allow the drilling of the Jackdaw gasfield in the North Sea.…",
+   "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-climate-campaigners-condemn-decision-north-sea-mining",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T08:23:46+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "824541f006b9ca40",
+   "title": "The Jackdaw gas field and what it means for the climate crisis and your bills",
+   "summary": "Andy Burnham insists the decision will ‘protect hundreds of jobs and keep millions of homes warm’ but the move has proved controversial with environmentalists",
+   "url": "https://www.independent.co.uk/news/uk/home-news/jackdaw-gas-field-north-sea-where-scotland-energy-bills-b3070441.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T08:22:32+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1294f7108253fbb3",
+   "title": "Inflation rises more than expected - can upcoming budget help?",
+   "summary": "The rate of inflation is up to its highest level this year.",
+   "url": "https://news.sky.com/story/inflation-rises-more-than-expected-to-35-can-upcoming-budget-help-13601798",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-21T07:35:00+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
@@ -60,7 +436,7 @@
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-21T06:45:44+00:00",
+   "published": "2026-10-21T07:20:23+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
@@ -70,9 +446,27 @@
    "countries": []
   },
   {
+   "id": "e7de503366a5b9e9",
+   "title": "UK government borrowing rises to £24.5bn as John Healey prepares for budget",
+   "summary": "Government paid £10.9bn in debt interest, the highest September figure since records began Business live – latest updates The Treasury ran a higher than expected budget deficit of £24.5bn last month as rising inflation pushed up the interest paid on government debt, increasing pressure on John…",
+   "url": "https://www.theguardian.com/business/2026/oct/21/uk-government-borrowing-rises-john-healey-budget",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T06:48:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "030e0762a24f7cc6",
-   "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
-   "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+   "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+   "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
    "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
@@ -110,26 +504,11 @@
    "group": "Government",
    "kind": "press_release",
    "party_voice": "",
-   "published": "2026-10-21T06:29:27Z",
+   "published": "2026-10-21T06:29:00Z",
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "1c309684a60d159f",
-   "title": "UK approves Jackdaw gasfield in North Sea",
-   "summary": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners What does the UK’s approval of the Jackdaw gasfield mean? The UK government has approved the controversial Jackdaw gasfield in the North Sea, a widely expected move that will nonetheless dismay…",
-   "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-21T06:15:06+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -155,8 +534,8 @@
   },
   {
    "id": "7516c1a6c1a58b72",
-   "title": "Three ideas for how to deal with Thames Water",
-   "summary": "The Guardian proposes emergency legislation, public control via the courts or stripping the utility company of its licence Andy Burnham has told officials to rip up their plans for how to fix Thames Water and present him with more radical options for what to do with the stricken company. Here are…",
+   "title": "How might Andy Burnham tackle Thames Water debacle?",
+   "summary": "A look at some of the options after PM is urged to consider radical alternatives to deal with stricken company Andy Burnham has told officials to rip up their plans for how to fix Thames Water and present him with more radical options for what to do with the stricken company. Here are some ideas…",
    "url": "https://www.theguardian.com/business/2026/oct/21/three-ideas-for-how-to-deal-with-thames-water",
    "source": "Guardian Politics",
    "group": "News",
@@ -216,21 +595,6 @@
    "kind": "national_statistics",
    "party_voice": "",
    "published": "2026-10-21T06:00:02Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b17a25d8c48aa5ae",
-   "title": "Elon Musk considering Tesla-SpaceX merger",
-   "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-   "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-21T05:48:46+00:00",
-   "dateonly": false,
    "parties": [],
    "topics": [],
    "tax": [],
@@ -3284,8 +3648,8 @@
    "title": "People playing loud music on buses could face £100 fine",
    "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
    "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-19T09:49:58+00:00",
    "dateonly": false,
@@ -7589,21 +7953,6 @@
    "topics": [
     "Economy"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3a8e9f2562f03d8d",
-   "title": "Child Benefit: service availability and issues",
-   "summary": "Check the availability and any issues affecting the Child Benefit online service.",
-   "url": "https://www.gov.uk/government/publications/child-benefit-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-15T12:35:03Z",
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -14598,38 +14947,6 @@
    ]
   },
   {
-   "id": "0df3f87b7be817c4",
-   "title": "Ex-Welsh Green Party deputy says Zionism motion 'pointless' after quitting party",
-   "summary": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row.",
-   "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-07T08:13:22+00:00",
-   "dateonly": false,
-   "parties": [
-    "Green Party"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c253441b11fb9148",
-   "title": "Rainmakers: The drones used to seed clouds",
-   "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
-   "url": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-07T07:09:32+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "972d9029ad107c8d",
    "title": "Chancellor meeting with Gilt-edged Market Makers",
    "summary": "Summary minutes of the Chancellor of the Exchequer’s meetings with the primary dealer firms in the gilt market at HM Treasury.",
@@ -15284,342 +15601,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "cc6f4d7823d1033c",
-   "title": "More overseas firms enticed to buy British",
-   "summary": "Overseas buyers will be offered a new UK Export Finance loan guarantee to incentivise buying goods and services from British companies.",
-   "url": "https://www.gov.uk/government/news/more-overseas-firms-enticed-to-buy-british",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "press_release",
-   "party_voice": "",
-   "published": "2026-09-28T09:05:11Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fa6698837f3381c7",
-   "title": "A £2.6bn lobbyist fairytale: economic consultancy Cebr sold VAT-free shopping as a tax cut that pays for itself",
-   "summary": "The retail lobby wants tourists to be able to claim a VAT refund for their UK shopping. So they commissioned Cebr to produce a report claiming it would deliver a multi-billion pound boost to the Exchequer. It convinced Sadiq Khan and Kemi Badenoch. But we rebuilt their model and found four fatal…",
-   "url": "https://taxpolicy.org.uk/2026/09/28/vat-free-shopping-cebr/",
-   "source": "Tax Policy Associates",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-28T06:30:00+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "eb11a186eda34522",
-   "title": "Healey pledges “new age of industrialisation” as Government backs British shipbuilding",
-   "summary": "Two major maritime projects to be part of “new age of industrialisation” for Britain.",
-   "url": "https://www.gov.uk/government/news/healey-pledges-new-age-of-industrialisation-as-government-backs-british-shipbuilding",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "news_story",
-   "party_voice": "",
-   "published": "2026-09-27T23:01:00Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "06a14c8a1295a578",
-   "title": "Rewriting economic history",
-   "summary": "Afternoon all, Generational warfare continues. This week, I wrote a Substack for Politics UK on how we could tip the balance a bit more in favour of the young. And then in the latest episode of our High Resolution podcast (subscribe!) we debated whether the triple lock’s time had come. Our two…",
-   "url": "https://www.resolutionfoundation.org/comment/rewriting-economic-history/",
-   "source": "Resolution Foundation",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-25T13:40:01+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
-   "id": "94bdead3e320b0d9",
-   "title": "HM Treasury business appointment rules advice",
-   "summary": "This collection brings together all documents relating to Treasury advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
-   "url": "https://www.gov.uk/government/collections/hm-treasury-business-appointment-rules-advice",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-09-24T15:00:07Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "60e4586170b6737e",
-   "title": "HMT hospitality received by special advisers",
-   "summary": "This series brings together all documents relating to HMT hospitality received by special advisers.",
-   "url": "https://www.gov.uk/government/collections/special-advisor-hospitality",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-09-24T15:00:07Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "289b03458374396a",
-   "title": "HMT senior officials' business expenses, hospitality and meetings with external organisations",
-   "summary": "This series brings together all documents relating to HMT senior officials' business expenses, hospitality and meetings with external organisations",
-   "url": "https://www.gov.uk/government/collections/senior-officials-expenses",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-09-24T15:00:07Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2b1561ede62ea313",
-   "title": "Might the Lib Dems matter on Europe?",
-   "summary": "Anand Menon offers his take on the Liberal Democrat’s EU policy following their party conference. To rejoin or not to rejoin. That’s... The post Might the Lib Dems matter on Europe? appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/might-the-lib-dems-matter-on-europe/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-23T14:19:09+00:00",
-   "dateonly": false,
-   "parties": [
-    "Liberal Democrat"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "331f9cd5eef90e8b",
-   "title": "Iceland still wants a close relationship with the EU",
-   "summary": "Margrét Einarsdóttir unpacks the result of the recent referendum in Iceland that saw the public narrowly vote against reopening accession talks with... The post Iceland still wants a close relationship with the EU appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/icelands-eu-referendum-was-not-another-brexit/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-23T13:46:36+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Iceland"
-   ]
-  },
-  {
-   "id": "1dab9f11ec54443a",
-   "title": "Treasury Committee report concluding its inquiry into The OBR: 15 years on",
-   "summary": "The Treasury Committee has today published its report concluding its inquiry into The OBR: 15 years on. Responding to the report, Jonathan Haskel, Chair of the OBR’s Budget Responsibility Committee, said: “We welcome this report and thank Dame Meg Hillier and the Treasury Committee for their work.…",
-   "url": "https://obr.uk/treasury-committee-report-concluding-its-inquiry-into-the-obr-15-years-on/",
-   "source": "Office for Budget Responsibility",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-23T13:02:57+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "862ca1468d64cba1",
-   "title": "Britain’s productivity disaster was real—but not quite as disastrous as we thought",
-   "summary": "Jonathan Portes explains why the ONS updated its productivity estimates for the period between 2009 and 2019 from 0.7 per cent to... The post Britain’s productivity disaster was real—but not quite as disastrous as we thought appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/britains-productivity-disaster-was-real-but-not-quite-as-disastrous-as-we-thought/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-22T11:22:41+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "24ca8fe99d2324bc",
-   "title": "What are the key foreign policy challenges the UK must confront?",
-   "summary": "As part of our Policy Landscape 2026 report, Anand Menon considers the state of the political debate and the immediate and long-term challenges... The post What are the key foreign policy challenges the UK must confront? appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/what-are-the-key-foreign-policy-challenges-the-uk-must-confront/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-22T10:34:21+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "886f99f926536f1b",
-   "title": "Nick Candy, Suneil Setiya, the UK’s biggest house sale, and £18.5m of avoided stamp duty",
-   "summary": "Nick Candy sold Providence House in Chelsea this May for a reported £265m to Suneil Setiya, a hedge fund manager. It’s the most expensive house ever sold in Britain. The way the house was sold avoided about £18.5m of stamp duty. Ordinarily, you’d expect £32m of stamp duty on a £265m house, but…",
-   "url": "https://taxpolicy.org.uk/2026/09/22/nick-candy-18-5m-stamp-duty-house-sale/",
-   "source": "Tax Policy Associates",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-22T06:00:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Property and stamp duty"
-   ],
-   "countries": []
-  },
-  {
-   "id": "c30e63498f1a6e7d",
-   "title": "What effect is the mansion tax having on house prices?",
-   "summary": "We’ve found the first hard evidence that the mansion tax is impacting the property market – house sale prices are bunching just below the £2m mansion tax threshold. Since the tax was announced, the share of nearby sales priced just below £2m has risen sharply, while the share at exactly £2m has…",
-   "url": "https://taxpolicy.org.uk/2026/09/22/mansion-tax-impact-on-house-prices/",
-   "source": "Tax Policy Associates",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-22T05:55:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Income tax",
-    "Property and stamp duty"
-   ],
-   "countries": []
-  },
-  {
-   "id": "24793c408baf0326",
-   "title": "With every election – including the two on Sunday – Germany becomes harder to govern",
-   "summary": "Ed Turner reflects on the recent state elections in Germany that saw the far-right Alternative for Germany (AfD) make significant gains and... The post With every election – including the two on Sunday – Germany becomes harder to govern appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/with-every-election-including-the-two-on-sunday-germany-becomes-harder-to-govern/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-21T10:58:23+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Germany"
-   ]
-  },
-  {
-   "id": "bcd1f131bfbf04ad",
-   "title": "The hidden reach of inheritance tax: one in five pensioner households",
-   "summary": "Fewer than 5% of estates currently pay inheritance tax. But that statistic counts the dead; if we want to understand why inheritance tax is so unpopular, we should count the living instead. We’ve built a model to do that, across England and Wales and in every Parliamentary constituency. Our model…",
-   "url": "https://taxpolicy.org.uk/2026/09/19/inheritance-tax-pensioner-households/",
-   "source": "Tax Policy Associates",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-19T04:55:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [
-    "Inheritance tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "3dca62ef4c4599c5",
-   "title": "Winter is coming (for your wallet)",
-   "summary": "Afternoon all, We’ve had plenty of numbers to crunch this week, with new insights on (slowing) pay growth, (accelerating) inflation and a worrying cost of living outlook from the Bank of England – more on all that in our Chart of the week and Something for the weekend. Certainly not an easy context…",
-   "url": "https://www.resolutionfoundation.org/comment/winter-is-coming-for-your-wallet/",
-   "source": "Resolution Foundation",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-18T14:38:48+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "51f41782c272beaf",
-   "title": "Associate Membership: What might work across the Atlantic is unlikely to work across the Channel",
-   "summary": "Fabian Zuleeg argues that even if Canada becoming an Associate Member of the EU is successful, which depends on it becoming an... The post Associate Membership: What might work across the Atlantic is unlikely to work across the Channel appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/associate-membership-what-might-work-across-the-atlantic-is-unlikely-to-work-across-the-channel/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-09-18T12:29:05+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Canada"
-   ]
-  },
-  {
-   "id": "a0b6e246d7d13f19",
-   "title": "How complex is the corporation tax return? And is it getting worse?",
-   "summary": "In his first major speech as Shadow Chancellor, Andrew Griffith said that the UK corporate tax return has 985 boxes. I used the same number in an article I wrote earlier in the year for the Financial Times, and so BBC Verify contacted me today to check the figure. It’s wrong. Depending on how you…",
-   "url": "https://taxpolicy.org.uk/2026/09/17/corporation-tax-return-complexity/",
-   "source": "Tax Policy Associates",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-09-17T17:15:57+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Corporation tax"
-   ],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15627,14 +15608,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -15648,7 +15629,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 5,
    "note": ""
   },
   {
@@ -15662,14 +15643,14 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
@@ -15690,7 +15671,7 @@
    "name": "UK in a Changing Europe",
    "group": "Analysis",
    "ok": true,
-   "new": 3,
+   "new": 6,
    "note": ""
   },
   {
@@ -15704,7 +15685,7 @@
    "name": "Office for Budget Responsibility",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15718,14 +15699,14 @@
    "name": "Resolution Foundation",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Tax Policy Associates",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -16353,6 +16334,24 @@
    "org": "Birmingham City Council"
   },
   {
+   "id": "local.solihull.2026-11-26",
+   "title": "Solihull local election",
+   "date": "2026-11-26",
+   "type": "Local elections",
+   "level": "organisation",
+   "by": false,
+   "org": "Solihull Metropolitan Borough Council"
+  },
+  {
+   "id": "local.solihull.castle-bromwich.by.2026-11-26",
+   "title": "Solihull local election Castle Bromwich by-election",
+   "date": "2026-11-26",
+   "type": "Local elections",
+   "level": "ballot",
+   "by": true,
+   "org": "Solihull Metropolitan Borough Council"
+  },
+  {
    "id": "local.east-ayrshire.2026-12-10",
    "title": "East Ayrshire local election",
    "date": "2026-12-10",
@@ -16375,7 +16374,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131146,
+   "signatures": 131184,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16384,7 +16383,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 118187,
+   "signatures": 118274,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16393,7 +16392,7 @@
   {
    "id": 764553,
    "title": "Remove sentence reductions for guilty pleas in controlling and coercive cases",
-   "signatures": 107141,
+   "signatures": 107146,
    "created": "2026-03-17T07:09:07.101Z",
    "responded": true,
    "debate": true,
@@ -16402,7 +16401,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 97263,
+   "signatures": 97381,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16411,7 +16410,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84546,
+   "signatures": 84561,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16420,7 +16419,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 74107,
+   "signatures": 74180,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16429,7 +16428,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 70152,
+   "signatures": 70185,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16438,7 +16437,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55419,
+   "signatures": 55423,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16447,7 +16446,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 49943,
+   "signatures": 49963,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16456,7 +16455,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 48967,
+   "signatures": 49143,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16465,7 +16464,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44024,
+   "signatures": 44045,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16474,7 +16473,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40818,
+   "signatures": 40837,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -17064,7 +17063,7 @@
      "v": 3.75
     },
     {
-     "d": "2026-10-19",
+     "d": "2026-10-20",
      "v": 3.75
     }
    ],

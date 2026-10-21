@@ -1,39 +1,39 @@
 {
- "updated": "2026-10-21T07:07:19.941525+00:00",
+ "updated": "2026-10-21T09:52:57.979828+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 13,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 5,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 4,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -54,14 +54,14 @@
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": "via backup feed"
   },
   {
@@ -82,7 +82,7 @@
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 13,
+   "new": 16,
    "note": ""
   },
   {
@@ -103,7 +103,7 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 31,
+   "new": 32,
    "note": "via backup feed"
   },
   {
@@ -145,7 +145,7 @@
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 10,
+   "new": 9,
    "note": ""
   },
   {
@@ -166,14 +166,14 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 6,
+   "new": 7,
    "note": ""
   },
   {
@@ -194,14 +194,14 @@
    "name": "Splash247",
    "group": "Maritime",
    "ok": true,
-   "new": 1,
+   "new": 7,
    "note": ""
   },
   {
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
