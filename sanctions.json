@@ -1,1436 +1,176 @@
 {
- "updated": "2026-10-21T06:11:58.175558+00:00",
+ "updated": "2026-10-22T06:12:52.932234+00:00",
  "recent": [
   {
-   "name": "Andrey Yurevich VYAZMIN",
+   "name": "PRIDE",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "NK-M3pZoRCd4VJ7E8uCbTLV6e",
+   "imo": "9487407"
+  },
+  {
+   "name": "Roxette Maritime Shipping and Trading S.A.",
+   "type": "Organization",
+   "countries": "gr;pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "NK-TEEEggfuBdRNGrHaMnnqby"
+  },
+  {
+   "name": "HARMONY",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "NK-YwfAA4LCex9VbYtrg42ysa",
+   "imo": "9449522"
+  },
+  {
+   "name": "Whales Shipping Line LLC",
+   "type": "Organization",
+   "countries": "ae",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58810"
+  },
+  {
+   "name": "Amigoz Singapore PTE. LTD.",
+   "type": "Organization",
+   "countries": "sg",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58811"
+  },
+  {
+   "name": "Whales Diamond",
+   "type": "Vessel",
+   "countries": "ae",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58873",
+   "imo": "9375032"
+  },
+  {
+   "name": "Whales Pearl",
+   "type": "Vessel",
+   "countries": "ae",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58874",
+   "imo": "9483114"
+  },
+  {
+   "name": "Karnakis and Karnakis",
+   "type": "Organization",
+   "countries": "gr;pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58932"
+  },
+  {
+   "name": "ANEMOS",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58955",
+   "imo": "9205952"
+  },
+  {
+   "name": "GLORIS",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58956",
+   "imo": "9449510"
+  },
+  {
+   "name": "Sofianos Karnakis Kosmas",
    "type": "Person",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Andrey Vyazmin est le directeur général d'Obschestvo s ogranichennoj…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-10566"
+   "countries": "gr;pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58958"
   },
   {
-   "name": "Pavel Vladimirovich KOROTCHENKO",
+   "name": "Konstantinos Karnakis Kosmas",
    "type": "Person",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Pavel Korotchenko est le directeur général d'Aktsionernoe obschestvo Zavod…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-10580"
+   "countries": "gr;pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58959"
   },
   {
-   "name": "Oleg Vladimirovich OLIN",
+   "name": "Ioanis Karnakis Kosmas",
    "type": "Person",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Oleg Olin est le directeur d'Obschestvo s ogranichennoj otvetstvennostju…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-10641"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Tsentralnoe konstruktorskoe bjuro transportnogo mashinostroenija",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Tsentralnoe konstruktorskoe bjuro transportnogo…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11200"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Voshod - kaluzhskij radiolampovyj zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Voshod - kaluzhskij radiolampovyj zavod a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11321"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Superplast",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Superplast a été recensée par…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11346"
-  },
-  {
-   "name": "Publichnoe aktsionernoe obschestvo Starorusskij priborostroitelnyj zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Starorusskij priborostroitelnyj zavod a…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11347"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Tsentr sudoremonta Zvezdochka",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Tsentr sudoremonta Zvezdochka a été recensée par…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11348"
-  },
-  {
-   "name": "Federalnoe gosudarstvennoe unitarnoe predprijatie Proizvodstvennoe obedinenie Oktjab",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Federalnoe gosudarstvennoe unitarnoe predprijatie Proizvodstvennoe…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11349"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Mezhotraslevoe nauchno-proizvodstvennoe obedinenie Energospetstehnika",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Mezhotraslevoe nauchno-proizvodstvennoe obedinenie…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11350"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Spetsimport",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Spetsimport a été recensée par…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11351"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Tekstilnaja torgovaja kompanija",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Tekstilnaja torgovaja…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11352"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Optron",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Optron a été recensée par le gouvernement de la…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11353"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Spetskomplekt",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Spetskomplekt a été recensée…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11354"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Tambovskoe opytno-konstruktorskoe tehnologicheskoe bjuro",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Tambovskoe opytno-konstruktorskoe tehnologicheskoe…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11355"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Sokolskaja Sudoverf",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Sokolskaja Sudoverf a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11356"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Starooskolskij zavod avtotraktornogo elektrooborudovanija im. A.M. Mamonova",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Starooskolskij zavod avtotraktornogo…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11357"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Odk-gazovye Turbiny",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Odk-gazovye Turbiny a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11358"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Ulan-udenskoe priborostroitelnoe proizvodstvennoe obedinenie",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Ulan-udenskoe priborostroitelnoe proizvodstvennoe…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11359"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Spetsialnoe konstruktorskoe bjuro mo rf",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Spetsialnoe konstruktorskoe bjuro mo rf a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11360"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Pezo",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Pezo a été recensée par le gouvernement de la…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11361"
-  },
-  {
-   "name": "Otkrytoe aktsionernoe obschestvo Spetsialnoe konstruktorskoe bjuro stanochnyh informatsionno-izmeritelnyh sistem s opytnym Proizvodstvom",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Otkrytoe aktsionernoe obschestvo Spetsialnoe konstruktorskoe bjuro…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11362"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-tematicheskij tsentr Konus-r",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-tematicheskij tsentr…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11363"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Skb elektrotehnicheskogo priborostroenija",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Skb elektrotehnicheskogo…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11364"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-tehnicheskij tsentr Tsentr-os",
-   "type": "Organization",
-   "countries": "",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-tehnicheskij tsentr…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11365"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Sitroniks kt",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Sitroniks kt a été recensée par le gouvernement de…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11366"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Uralskij pruzhinnyj zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Uralskij pruzhinnyj zavod a…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11367"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie Silar",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie Silar a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11368"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nevskij sudostroitelno-sudoremontnyj zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nevskij…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11369"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Uralplastik",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Uralplastik a été recensée par le gouvernement de…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11370"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie Signal",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie Signal a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11371"
-  },
-  {
-   "name": "Otkrytoe aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie temp im. F.Korotkova",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Otkrytoe aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11372"
-  },
-  {
-   "name": "Publichnoe aktsionernoe obschestvo Uralskij zavod rezinovyh tehnicheskih izdelij",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Uralskij zavod rezinovyh tehnicheskih…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11373"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Sibirskie pribory i sistemy",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Sibirskie pribory i sistemy a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11374"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Ural kozha",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Ural kozha a été recensée par…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11375"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe obedinenie mashinostroenija Svarog",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11376"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Uralkabel",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Uralkabel a été recensée par le gouvernement de la…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11377"
-  },
-  {
-   "name": "Federalnoe avtonomnoe uchrezhdenie Sibirskij nauchno-issledovatelskij institut aviatsii im. S.A. Chaplygina",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Federalnoe avtonomnoe uchrezhdenie Sibirskij nauchno-issledovatelskij…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11378"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Ufimskoe priborostroitelnoe proizvodstvennoe obedinenie",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Ufimskoe priborostroitelnoe proizvodstvennoe…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11379"
-  },
-  {
-   "name": "Publichnoe aktsionernoe obschestvo Nauchno-proizvodstvennoe obedinenie Fizika",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Nauchno-proizvodstvennoe obedinenie…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11380"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Uralskoe proektno-konstruktorskoe bjuro Detal",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Uralskoe proektno-konstruktorskoe bjuro Detal a…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11381"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Uralskij zavod himicheskih reaktivov",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Uralskij zavod himicheskih reaktivov a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11382"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Uralskij nauchno-issledovatelskij institut kompozitsionnyh materialov",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Uralskij nauchno-issledovatelskij institut…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11383"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-proizvodstvennoe obedinenie dalnej radiolokatsii",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-proizvodstvennoe obedinenie dalnej…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11384"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Uljanovskij patronnyj zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Uljanovskij patronnyj zavod a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11385"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Ust-katavskij vagonostroitelnyj zavod",
-   "type": "Organization",
-   "countries": "",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Ust-katavskij vagonostroitelnyj zavod a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11386"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nadezhda",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nadezhda a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11387"
-  },
-  {
-   "name": "Otkrytoe aktsionernoe obschestvo Smolenskij zavod radiodetalej",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Otkrytoe aktsionernoe obschestvo Smolenskij zavod radiodetalej a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11388"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Tulatochmash",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Tulatochmash a été recensée par le gouvernement de…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11389"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Ispytatelnyj tehnicheskij tsentr - npo pm",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Ispytatelnyj tehnicheskij tsentr - npo pm a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11390"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-proizvodstvennoe obedinenie spetsialnyh materialov",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-proizvodstvennoe obedinenie spetsialnyh…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11391"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Tsf Kama",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Tsf Kama a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11392"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Angstrem",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Angstrem a été recensée par le gouvernement de la…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11393"
-  },
-  {
-   "name": "Publichnoe aktsionernoe obschestvo Nauchno-proizvodstvennoe obedinenie Nauka",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Nauchno-proizvodstvennoe obedinenie…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11394"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Trv - Inzhiniring",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Trv - Inzhiniring a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11395"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennyj kompleks elektrooptika",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennyj…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11396"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Teleport-montazh",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Teleport-montazh a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11397"
-  },
-  {
-   "name": "Publichnoe aktsionernoe obschestvo Amurskij sudostroitelnyj zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Amurskij sudostroitelnyj zavod a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11398"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Tehpromimport",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Tehpromimport a été recensée par le gouvernement…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11399"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Taganrogskij nauchno-issledovatelskij institut Svjazi",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Taganrogskij nauchno-issledovatelskij institut…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11400"
-  },
-  {
-   "name": "Federalnoe kazennoe predprijatie Amurskij patronnyj zavod vympel imeni P.V. Finogenova",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Federalnoe kazennoe predprijatie Amurskij patronnyj zavod vympel imeni…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11401"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Orskij mashinostroitelnyj zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Orskij mashinostroitelnyj zavod a été recensée par…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11402"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Amitron Elektroniks",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Amitron Elektroniks a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11403"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Tander",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Tander a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11404"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Vserossijskij nauchno-issledovatelskij proektno-konstruktorskij i tehnologicheskij institut elektromashinostroenija",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Vserossijskij nauchno-issledovatelskij…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11405"
-  },
-  {
-   "name": "Publichnoe aktsionernoe obschestvo Sudostroitelnaja firma Almaz",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Sudostroitelnaja firma Almaz a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11406"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Tehnoteh",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Tehnoteh a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11407"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Zavod mikroelektronnyh tehnologij",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Zavod mikroelektronnyh…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11408"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Severstal podemnye tehnologii",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Severstal podemnye tehnologii…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11409"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Firma ju.n.",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Firma ju.n. a été recensée par…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11410"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Obninskoe nauchno-proizvodstvennoe predprijatie tehnologija im. A.G. Romashina",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Obninskoe nauchno-proizvodstvennoe predprijatie…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11411"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Diada",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Diada a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11412"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennaja firma Tehinkom",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennaja…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11413"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Fregat",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Fregat a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11414"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Stupinskij zavod stekloplastikov",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Stupinskij zavod…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11415"
-  },
-  {
-   "name": "Otkrytoe aktsionernoe obschestvo Saranskij zavod rezinotehnika",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Otkrytoe aktsionernoe obschestvo Saranskij zavod rezinotehnika a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11416"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Aeropribor-voshod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Aeropribor-voshod a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11417"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Svetotehnika",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Svetotehnika a été recensée…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11418"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Akkumuljatornaja kompanija Rigel",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Akkumuljatornaja kompanija Rigel a été recensée…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11419"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Stimul",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Stimul a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11420"
-  },
-  {
-   "name": "Aktsionernoe obschestvo S.e.d.-spb",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo S.e.d.-spb a été recensée par le gouvernement de…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11421"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe predprijatie Rezonans",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11422"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Tambovskij zavod revoljutsionnyj Trud",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Tambovskij zavod revoljutsionnyj Trud a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11423"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Ravenstvo",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Ravenstvo a été recensée par le gouvernement de la…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11424"
-  },
-  {
-   "name": "Zakrytoe aktsionernoe obschestvo Rahmanovskij shelkovyj kombinat",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Zakrytoe aktsionernoe obschestvo Rahmanovskij shelkovyj kombinat a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11425"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Npp Radiostrim",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Npp Radiostrim a été recensée…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11426"
-  },
-  {
-   "name": "Publichnoe aktsionernoe obschestvo Radiofizika",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Radiofizika a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11427"
-  },
-  {
-   "name": "Otkrytoe aktsionernoe obschestvo Radiodetal",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Otkrytoe aktsionernoe obschestvo Radiodetal a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11428"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-proizvodstvennaja firma Radio-servis",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-proizvodstvennaja firma Radio-servis a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11429"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Gusevskij stekolnyj zavod imeni F.E. Dzerzhinskogo",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Gusevskij stekolnyj zavod imeni F.E. Dzerzhinskogo…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11430"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Kvantovo-opticheskie sistemy",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Kvantovo-opticheskie sistemy a…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11431"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Permskij zavod Mashinostroitel",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Permskij zavod Mashinostroitel a été recensée par…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11432"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie Pulsar",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie Pulsar a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11433"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie Pulsar",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie Pulsar a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11434"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Sovremennye besprovodnye tehnologii",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Sovremennye besprovodnye tehnologii a été recensée…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11435"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Proton - permskie Motory",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Proton - permskie Motory a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11436"
-  },
-  {
-   "name": "Zakrytoe aktsionernoe obschestvo Proton-impuls",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Zakrytoe aktsionernoe obschestvo Proton-impuls a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11437"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-vnedrencheskoe predprijatie Protek",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-vnedrencheskoe predprijatie Protek a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11438"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Protej spetstehnika",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Protej a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11439"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Navlinskij zavod Promsvjaz",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Navlinskij zavod Promsvjaz a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11440"
-  },
-  {
-   "name": "Publichnoe aktsionernoe obschestvo Proletarskij zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Proletarskij zavod a été recensée par…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11441"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Golovnoe osoboe konstruktorskoe bjuro Prozhektor",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Golovnoe osoboe konstruktorskoe bjuro Prozhektor a…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11442"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Tehnicheskij tsentr razrabotki i proizvodstva Progress",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Tehnicheskij tsentr razrabotki…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11443"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennaja kompanija Prof-magnit",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennaja…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11444"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe predprijatie Prima",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11445"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Taganrogskij zavod Pribo",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Taganrogskij zavod Priboj a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11446"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Predprijatie po proizvodstvu sredstv zaschity",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Predprijatie po proizvodstvu…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11447"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie Poligon",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie Poligon a…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11448"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe predprijatie Polimehkon",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11449"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Rezonit",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Rezonit a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11450"
-  },
-  {
-   "name": "Aktsionernoe obschestvo 5 Arsenal",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo 5 Arsenal a été recensée par le gouvernement de la…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11451"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-proizvodstvennoe obedinenie radiozavod imeni A.S. Popova",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-proizvodstvennoe obedinenie radiozavod…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11452"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Radiant-ek",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Radiant-ek a été recensée par le gouvernement de…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11453"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Radar-servis",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Radar-servis a été recensée par le gouvernement de…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11454"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Gusevskij zavod svetotehnicheskoj armatury Prozhektor",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Gusevskij zavod…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11455"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Tpk Master",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Tpk Master a été recensée par…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11456"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Oreltekmash",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Oreltekmash a été recensée par le gouvernement de…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11457"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Osoboe konstruktorsko-tehnologicheskoe bjuro Omega",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Osoboe konstruktorsko-tehnologicheskoe bjuro Omega…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11458"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Jaroslavskij zavod dizelnoj apparatury",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Jaroslavskij zavod dizelnoj apparatury a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11459"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennaja firma Poliplast",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennaja…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11460"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Okb-planeta",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Okb-planeta a été recensée par le gouvernement de…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11461"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Osoboe konstruktorskoe bjuro kabelnoj promyshlennosti",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Osoboe konstruktorskoe bjuro kabelnoj…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11462"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Kontsern Okeanpribor",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Kontsern Okeanpribor a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11463"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Vodtranspribor-pusk",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Vodtranspribor-pusk a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11464"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Plast-tulamash",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Plast-tulamash a été recensée…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11465"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Proektno-konstruktorskoe bjuro Rio",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Proektno-konstruktorskoe bjuro Rio a été recensée…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11466"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Strela",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Strela a été recensée par le gouvernement de la…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11467"
-  },
-  {
-   "name": "Publichnoe aktsionernoe obschestvo Zavod im. G.I. Petrovskogo",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Zavod im. G.I. Petrovskogo a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11468"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Saratovskij agregatnyj zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Saratovskij agregatnyj zavod a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11469"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-issledovatelskij institut parashjutostroenija",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-issledovatelskij institut…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11470"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Radiozavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Radiozavod a été recensée par le gouvernement de…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11471"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Klintsovskij avtokranovyj zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Klintsovskij avtokranovyj zavod a été recensée par…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11472"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Kaskad",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Kaskad a été recensée par le gouvernement de la…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11473"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Ordena trudovogo krasnogo znameni nauchno-issledovatelskij institut avtomaticheskoj apparatury im. Akademika V.S. Semenihina",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Ordena trudovogo krasnogo znameni…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11474"
-  },
-  {
-   "name": "Otkrytoe aktsionernoe obschestvo Egorshinskij Radiozavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Otkrytoe aktsionernoe obschestvo Egorshinskij Radiozavod a été recensée…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11475"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Stekloplast",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Stekloplast a été recensée par le gouvernement de…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11476"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Naro-fominskij mashinostroitelnyj zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Naro-fominskij mashinostroitelnyj zavod a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11477"
-  },
-  {
-   "name": "Publichnoe aktsionernoe obschestvo Osvar",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Osvar a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11478"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Balteks",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Balteks a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11479"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Himicheskij zavod Planta",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Himicheskij zavod Planta a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11480"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-tehnicheskij institut Radiosvjaz",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-tehnicheskij institut Radiosvjaz a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11481"
-  },
-  {
-   "name": "Federalnoe gosudarstvennoe bjudzhetnoe uchrezhdenie Natsionalnyj issledovatelskij tsentr institut imeni N.E. Zhukovskogo",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Federalnoe gosudarstvennoe bjudzhetnoe uchrezhdenie Natsionalnyj…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11482"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe predprijatie tomilinskij elektronnyj zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11483"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe predprijatie energeticheskie sistemy",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11484"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-issledovatelskij institut elektronno-mehanicheskih priborov",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-issledovatelskij institut…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11485"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie aviatsionnaja i morskaja Elektronika",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11486"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Nauchno-issledovatelskij institut himii i tehnologii polimerov imeni Akademika V.A. Kargina S Opytnym Zavodom",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-issledovatelskij institut himii i…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11487"
-  },
-  {
-   "name": "Holdingovaja kompanija novosibirskij elektrovakuumnyj zavod-sojuz v forme publichnogo aktsionernogo obschestva",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Holdingovaja kompanija novosibirskij elektrovakuumnyj zavod-sojuz v forme…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11488"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nevskij instrumentalnyj zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nevskij instrumentalnyj zavod…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11489"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Neva Elektronika",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Neva Elektronika a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11490"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Neva-ferrit",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Neva-ferrit a été recensée par…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11491"
-  },
-  {
-   "name": "Publichnoe aktsionernoe obschestvo Nefaz",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Nefaz a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11492"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Shturmanskie Pribory",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Shturmanskie Pribory a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11493"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Konstruktorskoe bjuro navigatsionnyh sistem",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Konstruktorskoe bjuro navigatsionnyh sistem a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11494"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Navis-elektronika",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Navis-elektronika a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11495"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe obedinenie Naukasoft",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11496"
-  },
-  {
-   "name": "Obschestvo s ogranichennoj otvetstvennostju Nabiteks Sajntifik",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nabiteks Sajntifik a été…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11497"
-  },
-  {
-   "name": "Aktsionernoe obschestvo Mehanicheskij zavod",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Mehanicheskij zavod a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11498"
-  },
-  {
-   "name": "Otkrytoe aktsionernoe obschestvo Muromteplovoz",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Otkrytoe aktsionernoe obschestvo Muromteplovoz a été recensée par le…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-20",
-   "id": "fr-ga-11499"
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58960"
+  },
+  {
+   "name": "Pedro Ortega Jones",
+   "type": "Person",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58961"
+  },
+  {
+   "name": "Roberto Ortega Jones",
+   "type": "Person",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58962"
+  },
+  {
+   "name": "DESTINY",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58963",
+   "imo": "9385491"
+  },
+  {
+   "name": "FLAMINGO 1",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58964",
+   "imo": "9474199"
+  },
+  {
+   "name": "PRINCE",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58966",
+   "imo": "9548316"
   },
   {
    "name": "Jammu and Kashmir Peoples League (Aziz Sheikh)",
@@ -1467,33 +207,6 @@
    "datasets": "Indian Ministry of Home Affairs Banned Organizations",
    "first_seen": "2026-10-20",
    "id": "in-mha-edca88fa1d34fb2bee3fc4efae943be4552c2e69"
-  },
-  {
-   "name": "TEHRIK-E TALIBAN PAKISTAN",
-   "type": "LegalEntity",
-   "countries": "",
-   "programs": "タリバーン関係者等 （タリバーン、アル・カーイダ及びISIL（ダーイシュ）関係者等） /…",
-   "datasets": "Japan Economic Sanctions and List of Eligible People",
-   "first_seen": "2026-10-20",
-   "id": "ja-mof-2f9dfc3a9b2ba48459d24524ef559ad76ea6ea53"
-  },
-  {
-   "name": "NOOR WALI MEHSUD",
-   "type": "Person",
-   "countries": "pk",
-   "programs": "タリバーン関係者等 （タリバーン、アル・カーイダ及びISIL（ダーイシュ）関係者等） /…",
-   "datasets": "Japan Economic Sanctions and List of Eligible People",
-   "first_seen": "2026-10-20",
-   "id": "ja-mof-5b0c944ae8ded3017e8a3f334b35e06a30c4fd8f"
-  },
-  {
-   "name": "MOUNIR EL MOTASSADEQ",
-   "type": "Person",
-   "countries": "ma",
-   "programs": "タリバーン関係者等 （タリバーン、アル・カーイダ及びISIL（ダーイシュ）関係者等） /…",
-   "datasets": "Japan Economic Sanctions and List of Eligible People",
-   "first_seen": "2026-10-20",
-   "id": "ja-mof-909e7afdda5ff4fce60cfa2c43cd9af3084ebcfe"
   },
   {
    "name": "Peoples Revelutionary Party of Kangleipak",
@@ -2444,8 +1157,8 @@
    "name": "Obschestvo s ogranichennoj otvetstvennostju Stupinskij zavod stekloplastikov",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Stupinskij zavod stekloplastikov a été recensée par le gouvernement de la Fédération de Russie comme faisant…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Stupinskij zavod…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-328iVKHaTTPUixBRDdtcNX"
   },
@@ -2543,8 +1256,8 @@
    "name": "Aktsionernoe obschestvo Mezhotraslevoe nauchno-proizvodstvennoe obedinenie Energospetstehnika",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Aktsionernoe obschestvo Mezhotraslevoe nauchno-proizvodstvennoe obedinenie Energospetstehnika a été recensée par le gouvernement de la Fédération de Russie…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Mezhotraslevoe nauchno-proizvodstvennoe obedinenie…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-44tDLVfmJ3zPmHcLfor6Cp"
   },
@@ -2957,8 +1670,8 @@
    "name": "Aktsionernoe obschestvo Nauchno-proizvodstvennaja firma Radio-servis",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Aktsionernoe obschestvo Nauchno-proizvodstvennaja firma Radio-servis a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Nauchno-proizvodstvennaja firma Radio-servis a été…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-6iBfrPqqKHMgSxX4WKPbNH"
   },
@@ -2993,8 +1706,8 @@
    "name": "Obschestvo s ogranichennoj otvetstvennostju Nadezhda",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Nadezhda a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nadezhda a été recensée par le…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-6sq7wi7K4CoQ6Q2YcFkdmC"
   },
@@ -3002,8 +1715,8 @@
    "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennaja kompanija Prof-magnit",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennaja kompanija Prof-magnit a été recensée par le gouvernement de la Fédération de Russie…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennaja…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-6wdAVH2fZY5GnCmDskWmL6"
   },
@@ -3281,8 +1994,8 @@
    "name": "Obschestvo s ogranichennoj otvetstvennostju Superplast",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Superplast a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Superplast a été recensée par…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-8VVXphezxpd23ddSJvKkCk"
   },
@@ -3485,7 +2198,7 @@
    "id": "NK-AEaVeep6d7bRrYb7EWdy6f"
   },
   {
-   "name": "Aktsionernoe obschestvo 176 Spetsializirovannoe konstruktorsko- tehnologicheskoe bjuro",
+   "name": "Aktsionernoe obschestvo 176 Spetsializirovannoe konstruktorsko-tehnologicheskoe bjuro",
    "type": "Organization",
    "countries": "ru",
    "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo 176 Spetsializirovannoe…",
@@ -3551,8 +2264,8 @@
    "name": "Obschestvo s ogranichennoj otvetstvennostju Balteks",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Balteks a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Balteks a été recensée par le…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-Ap5qNAiY2BMMWBurNQxpsU"
   },
@@ -3596,8 +2309,8 @@
    "name": "Obschestvo s ogranichennoj otvetstvennostju Neva-ferrit",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Neva-ferrit a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Neva-ferrit a été recensée par…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-B8bNRUAkN6GupyS7VDiEJk"
   },
@@ -3623,8 +2336,8 @@
    "name": "Aktsionernoe obschestvo Navlinskij zavod Promsvjaz",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Aktsionernoe obschestvo Navlinskij zavod Promsvjaz a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Navlinskij zavod Promsvjaz a été recensée par le…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-BKxCDcSV2gSgQFj6NWqB8j"
   },
@@ -3785,8 +2498,8 @@
    "name": "Oleg Vladimirovich OLIN",
    "type": "Person",
    "countries": "ru",
-   "programs": "\"Oleg Olin est le directeur d'Obschestvo s ogranichennoj otvetstvennostju Irz-foton. Cette entité fait partie de l'industrie russe de l'armement, qui est un…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Oleg Olin est le directeur d'Obschestvo s ogranichennoj otvetstvennostju…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-BvE2n7gtW9noZLQ7LEhEhp"
   },
@@ -3875,8 +2588,8 @@
    "name": "Publichnoe aktsionernoe obschestvo Starorusskij priborostroitelnyj zavod",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Publichnoe aktsionernoe obschestvo Starorusskij priborostroitelnyj zavod a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Starorusskij priborostroitelnyj zavod a…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-CRbTavS76RqDtQk74DPzPX"
   },
@@ -3956,8 +2669,8 @@
    "name": "Obschestvo s ogranichennoj otvetstvennostju Tpk Master",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Tpk Master a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Tpk Master a été recensée par…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-CsbpZcSBq5x5oYskBTK5sR"
   },
@@ -4109,8 +2822,8 @@
    "name": "Zakrytoe aktsionernoe obschestvo Rahmanovskij shelkovyj kombinat",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Zakrytoe aktsionernoe obschestvo Rahmanovskij shelkovyj kombinat a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Zakrytoe aktsionernoe obschestvo Rahmanovskij shelkovyj kombinat a été…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-DWj7Fzda8nU7kH6VUXwF9e"
   },
@@ -4235,8 +2948,8 @@
    "name": "Aktsionernoe obschestvo Uralplastik",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Aktsionernoe obschestvo Uralplastik a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe militaro-industriel russe.…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Uralplastik a été recensée par le gouvernement de…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-EPM88xrpbdVf5fQ2TECcUm"
   },
@@ -4340,11 +3053,11 @@
    "id": "NK-EtdAA29qzV3iThbaQj3BqV"
   },
   {
-   "name": "Aktsionernoe obschestvo Uralskij zavod himicheskih reaktivov;",
+   "name": "Aktsionernoe obschestvo Uralskij zavod himicheskih reaktivov",
    "type": "Organization",
    "countries": "ru",
-   "programs": "\"Aktsionernoe obschestvo Uralskij zavod himicheskih reaktivov a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
-   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Uralskij zavod himicheskih reaktivov a été…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-EvfmkrKqKHyr7g3kg8HXer"
   },
@@ -4500,10 +3213,1396 @@
    "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
    "first_seen": "2026-10-12",
    "id": "NK-Fc7XdyCGJjU2Fo8ioBJk8f"
+  },
+  {
+   "name": "Sergey Sergeevich ZHERDEV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Sergey Zherdev est le directeur général d'Akcionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-FesBwoem8pVWf8SYhnFUHm"
+  },
+  {
+   "name": "Kamo Vladimirovich ABRAMYAN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Kamo Abramyan est le directeur général de Publichnoe aktsionernoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-FjGLSXH3RBHEdJxUumYW2L"
+  },
+  {
+   "name": "Evgeniy Vladimirovich BABAEV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Evgeniy Babaev est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-FkU9Ma8tjfXFrQQJLT29M6"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Servislajn",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Servislajn a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-FmjFAs58nMawutX6zLrmyy"
+  },
+  {
+   "name": "Oleg Borisovich RATNIKOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Oleg Ratnikov est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-G66dXqrhUiTFjftKydbSow"
+  },
+  {
+   "name": "Boris Andreevich MELNITSKIY",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Boris Melnitskiy est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-G7uoesbRXgfKevuwfveRMG"
+  },
+  {
+   "name": "Andrey Yurevich KLIMOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Andrey Klimov est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GAdvcvKoehNDdtmM5dupcj"
+  },
+  {
+   "name": "Zarina Anatolevna PEROVA",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Zarina Perova est la directrice générale d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GKZLRPGkLVbHMQHLmd9WY8"
+  },
+  {
+   "name": "Arshak Samvelovich ABRAMYAN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Arshak Abramyan est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GQmrUfY8vyjbPpXyhrvMxJ"
+  },
+  {
+   "name": "Vladimir Trifonovich SINOZHENKO",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vladimir Sinozhenko est le directeur général d'Otkrytoe aktsionernoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GR74XByNhHmPfqXccavbWR"
+  },
+  {
+   "name": "Dmitriy Aleksandrovich SKRIPACHEV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Dmitriy Skripachev est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GRVTeZgkUapttV3M6GZivX"
+  },
+  {
+   "name": "Valeriy Viktorovich VAKULA",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Valeriy Vakula est le directeur général d'Aktsionernoe obschestvo Almaz.…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GYJoptFivZxRUUvPrzHvsy"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennaja firma Poliplast",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennaja…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GZ3MzRNr5vX2haLPALQnMA"
+  },
+  {
+   "name": "Olga Nikolaevna EKATERININA",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Olga Ekaterinina est la directrice générale d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GbPJbwgtqQeWZt3oTkCXrj"
+  },
+  {
+   "name": "Federalnoe gosudarstvennoe unitarnoe predprijatie 771 Remontnyj zavod sredstv svjazi chernomorskogo flota ministerstva oborony rossijskoj federatsii",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Federalnoe gosudarstvennoe unitarnoe predprijatie 771 Remontnyj zavod sredstv svjazi chernomorskogo flota ministerstva oborony rossijskoj federatsii a été…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GdFmMqAxfJhhjvYh8zJH4Y"
+  },
+  {
+   "name": "Aktsionernoe obschestvo Pskovskij zavod radiodetalej Pleskava",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Aktsionernoe obschestvo Pskovskij zavod radiodetalej Pleskava a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GdPX7wQvG8hb8Tc6KNdsUf"
+  },
+  {
+   "name": "Oleg Aleksandrovich FEDOROV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Oleg Fedorov est le directeur général de Publichnoe aktsionernoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GjceVV8PCvBAoPZRDx9QR9"
+  },
+  {
+   "name": "Andrey Vladimirovich TROFIMENKOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Andrey Trofimenkov est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GthUduKk55qKDciCLVeNSA"
+  },
+  {
+   "name": "Publichnoe aktsionernoe obschestvo Gaz",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Publichnoe aktsionernoe obschestvo Gaz a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe militaro-industriel…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Gv3cqZfkJQ2uLTH2UW9i56"
+  },
+  {
+   "name": "Aleksandr Vladimirovich KOZIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksandr Kozin est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GwUrnXMPGuFa9JhAUzv7fn"
+  },
+  {
+   "name": "Aleksey Petrovich YUNIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksey Yunin est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GxPA2VZY4rDFidNNJY7Vao"
+  },
+  {
+   "name": "Aslan Umarovich DZHANKEZOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aslan Dzhankezov est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-GzLFcUYAkQSWYWc5yfxzbW"
+  },
+  {
+   "name": "Evgeniy Evgenevich ISAEV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Evgeniy Isaev est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-H5QQrzBFhYRjJa6cP82R2F"
+  },
+  {
+   "name": "Dmitriy Sergeevich REZNICHENKO",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Dmitriy Reznichenko est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-H5gKV2PebzkAwfqnfvmehJ"
+  },
+  {
+   "name": "Sergey Vladimirovich KHOKHLOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Sergey Khokhlov est le directeur général de Federalnoe avtonomnoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-H9c3rzfhghMosnX7SnLWxX"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe predprijatie Gammamet",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe predprijatie Gammamet a été recensée par le gouvernement de la Fédération de Russie comme…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-HBrCvpDtyKRaY5nEMdWxys"
+  },
+  {
+   "name": "Mikhail Anatolevich SINOTIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Mikhail Sinotin est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-HJgfZGKaW2GHo25XAmyWsY"
+  },
+  {
+   "name": "Aktsionernoe obschestvo Nauchno-issledovatelskij institut tochnoj mehaniki",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Aktsionernoe obschestvo Nauchno-issledovatelskij institut tochnoj mehaniki a été recensée par le gouvernement de la Fédération de Russie comme faisant partie…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-HJvgGHNxApQzdwCiVBXuCm"
+  },
+  {
+   "name": "Aktsionernoe obschestvo Vjazemskij mashinostroitelnyj zavod",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Aktsionernoe obschestvo Vjazemskij mashinostroitelnyj zavod a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-HKcgraGLBJza3XfgnNKTtf"
+  },
+  {
+   "name": "Otkrytoe aktsionernoe obschestvo Saranskij zavod rezinotehnika",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Otkrytoe aktsionernoe obschestvo Saranskij zavod rezinotehnika a été…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-HKpwm9mkysrUgiFFidWgaD"
+  },
+  {
+   "name": "Igor Aleksandrovich SHVID",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Igor Shvid est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-HLc4NKWRmPzXNHVnuJeHX2"
+  },
+  {
+   "name": "Olga Petrovna GRASMIK",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Olga Grasmik est la directrice générale d'Otkrytoe aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-HPSR5UvtHdhzxxVNVL9cVx"
+  },
+  {
+   "name": "Artur Ibragimovich KHISAMEEV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Artur Khisameev est le directeur général de Federalnoe kazennoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-HQAsnuzP93cdNHaFYVzX38"
+  },
+  {
+   "name": "Yuriy Nikolaevich SOLDATENKO",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Yuriy Soldatenko est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Hacv3jdjgLWRTR2uvqEPqt"
+  },
+  {
+   "name": "Viktor Viktorovich TYATINKIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Viktor Tyatinkin est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-HexchiVLYQGkdDrma5Ud4L"
+  },
+  {
+   "name": "Vitaliy Nikitich LUBESHKIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "\"Vitaliy Lubeshkin est le directeur général d'Aktsionernoe obschestvo Nauchno-proizvodstvennoe predprijatie Raduga. Cette entité fait partie de l'industrie…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-HnfziG3HvHcBPXsjtbc7Sv"
+  },
+  {
+   "name": "Vladimir Anatolevich SECHKIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vladimir Sechkin est le directeur général d'Otkrytoe aktsionernoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Hqa5jpUHKubkvHbH3ZnQvc"
+  },
+  {
+   "name": "Aleksandr Vladimirovich BIRYUCHEVSKIY",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksandr Biryuchevskiy est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-HzRmW4wySQo9VMCJQdWRFs"
+  },
+  {
+   "name": "Aleksey Yurevich CHELNOKOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksey Chelnokov est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-J2pTghU9MSoR82ytFkCCVV"
+  },
+  {
+   "name": "Otkrytoe aktsionernoe obschestvo Magnit",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Otkrytoe aktsionernoe obschestvo Magnit a été recensée par le gouvernement…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-J75U3pgLsrJHodw9q93xKA"
+  },
+  {
+   "name": "Anatoliy Sergeevich KOSTIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Anatoliy Kostin est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-J7AdwqAtqDpEGgQZ7XfzCf"
+  },
+  {
+   "name": "Vladimir Aleksandrovich BALABANOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vladimir Balabanov est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-J85kcwkeFTnWGS32e3ZBJX"
+  },
+  {
+   "name": "Aleksey Evgenevich SEMENOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksey Semenov est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JAnMfUCz7z9v5driWWNtxL"
+  },
+  {
+   "name": "Aleksandr Viktorovich PODKOLZIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "\"Aleksandr Podkolzin est le directeur général d'Otkrytoe aktsionernoe obschestvo Permskij telefonnyj zavod Telta. Cette entité fait partie de l'industrie russe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JBxqZUu2Eq34PWjRzLZCRQ"
+  },
+  {
+   "name": "Petr Vyacheslavovich ASTASHIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "\"Petr Astashin est le directeur général d'Aktsionernoe obschestvo Himeks Limited. Cette entité fait partie de l'industrie russe de l'armement, qui est un…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JHK37F3W5VrqGzYZH2Ae2t"
+  },
+  {
+   "name": "Sergey Aleksandrovich DEDOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Sergey Dedov est le directeur d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JKodgr4Sm8X4CPdbtknvTM"
+  },
+  {
+   "name": "Igor Vyacheslavovich KIREEV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Igor Kireev est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JPGJqSvJvb8AMkxC67JBuL"
+  },
+  {
+   "name": "Aktsionernoe obschestvo Tehpromimport",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Tehpromimport a été recensée par le gouvernement…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JQkRisZ4gaRWnsDSVtxDae"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Medsilikon",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Medsilikon a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JSmi9XjEAmXUxtoH2LZRqv"
+  },
+  {
+   "name": "Vladimir Viktorovich BELAKIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vladimir Belakin est le directeur général d'Aktsionernoe obschestvo 81…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JTzrxtCnqFxFt32mMw574Q"
+  },
+  {
+   "name": "Sergey Anatolevich SHELYGOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Sergey Shelygov est le directeur d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JWurzenyC6xZitbob6Y3BR"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Unihim",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Unihim a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JfR53VfeiaBN5PqSGTMsNW"
+  },
+  {
+   "name": "Antonina Aleksandrovna LOTONINA",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "\"Antonina Lotonina est la directrice générale de Publichnoe aktsionernoe obschestvo Informatsionnye telekommunikatsionnye tehnologii. Cette entité fait partie…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JfRHMQUJWxhFspL44idSEp"
+  },
+  {
+   "name": "Aleksandr Mikhaylovich EVSEEV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksandr Evseev est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JkEz2kNyLjFdRPooEZsJyo"
+  },
+  {
+   "name": "Vladimir Anatolevich MAKLAEV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vladimir Maklaev est le directeur général de Federalnyj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-JuBadrbijv5x4XEbgWaGgo"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Snabzhenets",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Snabzhenets a été recensée par…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-K4FXWT2ftJaaonvmNe34MX"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe predprijatie energeticheskie sistemy",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-K5NBMUhyZUaLBEsYWxfe22"
+  },
+  {
+   "name": "Sergey Nikolaevich VERSHININ",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Sergey Vershinin est le directeur d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-K84U5LRvu7t3hFWJfuZKuy"
+  },
+  {
+   "name": "Irina Vladimirovna SOMOVA",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Irina Somova est la directrice générale d'Aktsionernoe obschestvo Tsentr…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-K8nJH3teM5ejpkLM3d3syq"
+  },
+  {
+   "name": "Vladimir Ivanovich PLOTNIKOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vladimir Plotnikov est le directeur d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KF9D8Rm2s24XPvfjqPygdL"
+  },
+  {
+   "name": "Natalya Aleksandrovna KARPENKOVA",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Natalya Karpenkova est la directrice d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KF9y7DwTX36EibRVUc6USK"
+  },
+  {
+   "name": "Stanislav Evgenevich ZELENSKIY",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Stanislav Zelenskiy est le directeur d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KGVuMyASMbccSEewTmkFTj"
+  },
+  {
+   "name": "Nizami Usubovich POLOVINKIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Nizami Polovinkin est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KHHxwwvuchMHTKNXutNkFX"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Spetskomplekt",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Spetskomplekt a été recensée…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KJGkHsUX4AGi3VKWafgTaj"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Spektr Izoplast",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Spektr Izoplast a été recensée…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KKSKVHn3C5fTwt278wcrzS"
+  },
+  {
+   "name": "Aleksey Gurevich ANDREEV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksey Andreev est le directeur général de Publichnoe aktsionernoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KPRD4BnFyMF7UYErUg9xko"
+  },
+  {
+   "name": "Aktsionernoe obschestvo Bereznikovskij sodovyj zavod",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Bereznikovskij sodovyj zavod a été recensée par le…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KTpFAaPUeqrqnyowLFfkzB"
+  },
+  {
+   "name": "Vsevolod Viktorovich ENNS",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "\"Vsevolod Enns est le directeur général d'Aktsionernoe obschestvo Dizajn tsentr Sojuz. Cette entité fait partie de l'industrie russe de l'armement, qui est un…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KW9MYHW4noPMNzqZMa66Kj"
+  },
+  {
+   "name": "Aleksey Igorevich PASTUKHOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksey Pastukhov est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KZxzau4cbNLbGoJWu8p79q"
+  },
+  {
+   "name": "Dmitriy Andreevich MOSHNYAKOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Dmitriy Moshnyakov est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KcFDhaVSS3dTRcbmVoG5py"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Profit",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Profit a été recensée par le…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KfTg57JigGTnmCwXRUm7QL"
+  },
+  {
+   "name": "Olga Valerevna GALEDINA",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Olga Galedina est la directrice générale d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KmBrxtocPNdjxL4c9upLSm"
+  },
+  {
+   "name": "Igor Ivanovich BORISOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Igor Borisov est le directeur d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Kq3afuBFGZAGpj74ZonssR"
+  },
+  {
+   "name": "Mikhail Vasilevich BOROVSKIY",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Mikhail Borovskiy est le directeur général de Publichnoe aktsionernoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KsmWc85iUnjLkeMDxfM9Tc"
+  },
+  {
+   "name": "Nikolay Nikolaevich GRECHUSHKIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Nikolay Grechushkin est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Ky7Cxwbx5ixCUMbwu8HA9w"
+  },
+  {
+   "name": "Nikolay Vasilevich GODUKHIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Nikolay Godukhin est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-KyXfMdGq3fMysLn3rjE5ac"
+  },
+  {
+   "name": "Vasiliy Sergeevich ABRAMENKOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vasiliy Abramenkov est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-L2QomZDbiZ7wpZMkfnZSjm"
+  },
+  {
+   "name": "Mikhail Valerevich ZHUKOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Mikhail Zhukov est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-L7LAnwekccoEft9zTKDKmT"
+  },
+  {
+   "name": "Aleksandr Vadimovich LUKOYANOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksandr Lukoyanov est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-L9iyjzSQuBpJSkmEFWgtJW"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Aloks",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Aloks a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LBKWEfiKHW7eWTyFyEqePk"
+  },
+  {
+   "name": "Maksim Sergeevich BUKAN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Maksim Bukan est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LDygCPmQEzeH3kkHRv9gkx"
+  },
+  {
+   "name": "Roman Sergeevich SMIRNOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Roman Smirnov est le directeur d'Aktsionernoe obschestvo Kirovskij zavod…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LENPooqprQx5NnLC4zNpzm"
+  },
+  {
+   "name": "Aktsionernoe obschestvo Gosudarstvennyj nauchno-issledovatelskij navigatsionno-gidrograficheskij institut",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Aktsionernoe obschestvo Gosudarstvennyj nauchno-issledovatelskij navigatsionno-gidrograficheskij institut a été recensée par le gouvernement de la Fédération…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LHNXVqXAdzvBAqiMPcTxCR"
+  },
+  {
+   "name": "Roman Alexandrovich CHESTNY",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2292 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Roman Chestny était un candidat du parti “Russie unie” ayant participé aux…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LLqpyTH27AMTod7bzeDBn8"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Npp Epotos",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Npp Epotos a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LMu4WnUk3kdb5en7jDziaM"
+  },
+  {
+   "name": "Lev Andreevich NOVOPASHIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Lev Novopashin est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LRuiQkvPTBXMb5gcEw6YK9"
+  },
+  {
+   "name": "Aleksandr Ivanovich STERKHOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksandr Sterkhov est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LUvQ8fkpbesutDpCQBTJJK"
+  },
+  {
+   "name": "Sergey Aleksandrovich KRINITSKIY",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Sergey Krinitskiy est le directeur général faisant fonction d'Aktsionernoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LWVXMT6sjAWEu5YRfAZzWF"
+  },
+  {
+   "name": "Anatoliy Aleksandrovich SHELUKHIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Anatoliy Shelukhin est le directeur général d'Aktsionernoe obschestvo Kb…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LaV5f4FnRZfkhN8LDXKRPD"
+  },
+  {
+   "name": "Valeriy Ivanovich KOSTYUCHENKO",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Valeriy Kostyuchenko est le directeur général de Publichnoe aktsionernoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LaekWKGcheBRzkP6WiJ2JZ"
+  },
+  {
+   "name": "Nikolay Andreevich SAMSONOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Nikolay Samsonov est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LbqKUqZgUsfeeMpQopKr5v"
+  },
+  {
+   "name": "Yuriy Borisovich LEVIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Yuriy Levin est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LcdBw252pxQnkq5yVdRTFz"
+  },
+  {
+   "name": "Dmitriy Yurevich VASILEV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Dmitriy Vasilev est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Len4WJ9rnRNT6EGetYxARK"
+  },
+  {
+   "name": "Natalya Sergeevna SINITSYNA",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Natalya Sinitsyna est la directrice générale d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LfUJmVeBMM8ddD3kZRCmvS"
+  },
+  {
+   "name": "Dmitriy Vladimirovich SHAYKIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Dmitriy Shaykin est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Lh6i2ZJGCLZupowDQVjdy2"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Zolotoe Runo",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Zolotoe Runo a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-LyVPJoH2Gdhm7dqnpJ645m"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Ultrakondensatory Feniks",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Ultrakondensatory Feniks a été…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Lz7VKuBqYAroqtsJJsrGfr"
+  },
+  {
+   "name": "Vladimir Aleksandrovich KONCHITS",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vladimir Konchits est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-M4AdzesbdfgwzjiTSDXPsY"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-issledovatelskij institut elastomernyh materialov i izdelij",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Nauchno-issledovatelskij institut elastomernyh materialov i izdelij a été recensée par le gouvernement de la…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-M6uu2HM7ERe2nxCv4RxumH"
+  },
+  {
+   "name": "Aktsionernoe obschestvo Sokolskaja Sudoverf",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Sokolskaja Sudoverf a été recensée par le…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-M7hwLdKueESGVTFsEiTZmu"
+  },
+  {
+   "name": "Mikhail Vladlenovich SEMENOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Mikhail Semenov est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-MBVMxiC83Qicz9BVJDJxBw"
+  },
+  {
+   "name": "Aleksandr Gennadevich IVANOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "\"Aleksandr Ivanov est le directeur général d'Aktsionernoe obschestvo Atri. Cette entité fait partie de l'industrie russe de l'armement, qui est un secteur…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-MK2mLYtNahuW56YdHLfKZo"
+  },
+  {
+   "name": "Publichnoe aktsionernoe obschestvo Sudostroitelnaja firma Almaz",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Publichnoe aktsionernoe obschestvo Sudostroitelnaja firma Almaz a été…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-MKVvZLZecBjV7iaCzur3uA"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Predprijatie po proizvodstvu sredstv zaschity",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Predprijatie po proizvodstvu…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-MQnEbTkfiPWVHQPguFuCrm"
+  },
+  {
+   "name": "Sergey Alekseevich KUZNETSOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Sergey Kuznetsov est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-MUqwkQ2SJr7VSvERyL2AWA"
+  },
+  {
+   "name": "Aleksandr Petrovich PECHAGIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksandr Pechagin est le directeur d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-MbbmtQrMXCvKhZSmdtsib3"
+  },
+  {
+   "name": "Viktor Nikolaevich NIKONENKO",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vladimir Andreev est le directeur général de Zakrytoe aktsionernoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-McTvTxQqB6fgDUGCJ7GZU3"
+  },
+  {
+   "name": "Igor Aleksandrovich MARCHENKO",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Igor Marchenko est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-MkYmHendzfU55QhwQ7Brrf"
+  },
+  {
+   "name": "Boris Ilyusevich KHAZIEV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Boris Khaziev est le directeur général d'Aktsionernoe obschestvo Nefaz.…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-MovWByyFKYf63n8WNvZgyW"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe predprijatie Rezonans",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Nauchno-proizvodstvennoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-MsZKWidBd6gGbfkhfULYva"
+  },
+  {
+   "name": "Oleg Vyacheslavovich KASYANOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Oleg Kasyanov est le directeur général d'Aktsionernoe obschestvo 33…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Mv8nZd9SfLmsWzJCoXhMyX"
+  },
+  {
+   "name": "Zakrytoe aktsionernoe obschestvo Sibir",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Zakrytoe aktsionernoe obschestvo Sibir a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe militaro-industriel…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-N2SroGSJRPhZWYhzsy86KB"
+  },
+  {
+   "name": "Semen Anatolevich DANILIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Semen Danilin est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-N9XitMddLoEw3UEAiBVpb5"
+  },
+  {
+   "name": "Aleksey Aleksandrovich PONOMAREV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksey Ponomarev est le directeur d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-NDREiYjMWB63Qem6URNcEM"
+  },
+  {
+   "name": "Aleksey Sergeevich PODOROZHNYAK",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksey Podorozhnyak est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-NQv8nuY2gWfTHi2fH5HVgq"
+  },
+  {
+   "name": "Pavel Sergeevich FILIPPOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Pavel Filippov est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-NSV4iP5GT9QxL4RuD9mQSu"
+  },
+  {
+   "name": "Vladimir Ivanovich LEVKOVETS",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vladimir Levkovets est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-NUWm2aWzUxpNZbvEinYuE2"
+  },
+  {
+   "name": "Vasiliy Vladimirovich FEDOROV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vasiliy Fedorov est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-NV8gvbcoSE5V8CjzjTFWGd"
+  },
+  {
+   "name": "Vyacheslav Anatolevich MOLODOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vyacheslav Molodov est le directeur d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-NZ8GXajSEMgiBthsfBrvpt"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Rt-poliuretany",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Rt-poliuretany a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-NiZq3AbBEmt9sSjnAncZGv"
+  },
+  {
+   "name": "Igor Gennadevich PANIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Igor Panin est le directeur d'Aktsionernoe obschestvo Konstruktorskoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-NmR2x7EHWwfd8DXY2xntiu"
+  },
+  {
+   "name": "Vladimir Nikolaevich DENISOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vladimir Denisov est le directeur d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-NsbMFUDwZ4TLdkCNs46fze"
+  },
+  {
+   "name": "Ilshat Khanifovich SHAMSEEV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Ilshat Shamseev est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-NttZb5YnzeEW426xUA4yE3"
+  },
+  {
+   "name": "Sergey Nikolaevich ZHAVORONKOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Sergey Zhavoronkov est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-NxMjEdELVFRxzTd3SLa4p7"
+  },
+  {
+   "name": "Denis Vasilevich GOLUB",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "\"Denis Golub est le directeur général d'Otkrytoe aktsionernoe obschestvo Lenpoligrafmash. Cette entité fait partie de l'industrie russe de l'armement, qui est…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-P2tdvv6bKgktiKMskDfQNP"
+  },
+  {
+   "name": "Boris Mikhaylovich SHEYNIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Boris Sheynin est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-P3vSU94t8HJMJh3zVyKrcN"
+  },
+  {
+   "name": "Vladimir Aleksandrovich NOVIKOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vladimir Novikov est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-P64SZxMmsvGp5UT8dfuFbj"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Zavod ventiljatsionnogo oborudovanija Innovent",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Zavod ventiljatsionnogo oborudovanija Innovent a été recensée par le gouvernement de la Fédération de Russie comme…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-P8GEjQR25f8anjkye8dxcM"
+  },
+  {
+   "name": "Aleksandr Yurevich VISHNYAKOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aleksandr Vishnyakov est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-PAxXcm3RTNbSg7H3J8TkvJ"
+  },
+  {
+   "name": "Vladimir Borisovich KOLOSOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vladimir Kolosov est le directeur général Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-PPgetGahWTP7L995mZWYmR"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Voenno-promyshlennaja investitsionnaja gruppa Vils",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Voenno-promyshlennaja investitsionnaja gruppa Vils a été recensée par le gouvernement de la Fédération de Russie…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-PPm64iLCRSzGsqUWHSYZef"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Kontur-niirs",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Kontur-niirs a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-PYkCg4UGVPp6hxxygdWAsP"
+  },
+  {
+   "name": "Boris Markovich STYSKIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Boris Styskin est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Pcp4xB8fRgUzaCdwfX9Gwk"
+  },
+  {
+   "name": "Sergey Anatolevich FETISOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Sergey Fetisov est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Pp6M58Bdgsr2FbBNSaTNo6"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Cheljabinskij mashinostroitelnyj zavod",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Obschestvo s ogranichennoj otvetstvennostju Cheljabinskij mashinostroitelnyj zavod a été recensée par le gouvernement de la Fédération de Russie comme faisant…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-PrGDHSWJBQ9gpCt5mJBKxq"
+  },
+  {
+   "name": "Dmitriy Olegovich NOVIKOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Dmitriy Novikov est le directeur général de Federalnoe gosudarstvennoe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-PtDGogdDF3FBPr9PUZa6ut"
+  },
+  {
+   "name": "Aktsionernoe obschestvo Institut plastmass imeni G.S. Petrova",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "\"Aktsionernoe obschestvo Institut plastmass imeni G.S. Petrova a été recensée par le gouvernement de la Fédération de Russie comme faisant partie du complexe…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-PvJKwW5VLUBzHZKMArjjb5"
+  },
+  {
+   "name": "Anatoliy Sergeevich RUSIN",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Anatoliy Rusin est le directeur général d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-PweWiTi6BRePmu6ctHfTSn"
+  },
+  {
+   "name": "Aktsionernoe obschestvo Tsentralnoe konstruktorskoe bjuro transportnogo mashinostroenija",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Aktsionernoe obschestvo Tsentralnoe konstruktorskoe bjuro transportnogo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-PywbLgjs6ean9jm6pHGZPV"
+  },
+  {
+   "name": "Andrey Valerevich FESLER",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Andrey Fesler est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Q2vefAntckiyqBfFrMWEsq"
+  },
+  {
+   "name": "Elena Yurevna TIKHOMIROVA",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Elena Tikhomirova est la directrice générale d'Obschestvo s ogranichennoj…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Q6M7ds2z9hEHtKsa4aPQMx"
+  },
+  {
+   "name": "Obschestvo s ogranichennoj otvetstvennostju Kontraktnye postavki",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Obschestvo s ogranichennoj otvetstvennostju Kontraktnye postavki a été…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Q7cWNMPYiEJ7MeymaAHdzT"
+  },
+  {
+   "name": "Andrey Aleksandrovich SURSKIY",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Andrey Surskiy est le directeur général d'Aktsionernoe obschestvo…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-Q8JUukkMhCEkbbMXMwVgXv"
+  },
+  {
+   "name": "Viktor Anatolevich DANILOV",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Viktor Danilov est le directeur général d'Aktsionernoe obschestvo Smart…",
+   "datasets": "EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List",
+   "first_seen": "2026-10-12",
+   "id": "NK-QJGeTEBvZAS7ZNAUCErAPc"
   }
  ],
- "recent_total": 1503,
+ "recent_total": 1359,
  "vessels": [
+  {
+   "name": "PRIDE",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "NK-M3pZoRCd4VJ7E8uCbTLV6e",
+   "imo": "9487407"
+  },
+  {
+   "name": "HARMONY",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "NK-YwfAA4LCex9VbYtrg42ysa",
+   "imo": "9449522"
+  },
+  {
+   "name": "Whales Diamond",
+   "type": "Vessel",
+   "countries": "ae",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58873",
+   "imo": "9375032"
+  },
+  {
+   "name": "Whales Pearl",
+   "type": "Vessel",
+   "countries": "ae",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58874",
+   "imo": "9483114"
+  },
+  {
+   "name": "ANEMOS",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58955",
+   "imo": "9205952"
+  },
+  {
+   "name": "GLORIS",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58956",
+   "imo": "9449510"
+  },
+  {
+   "name": "DESTINY",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58963",
+   "imo": "9385491"
+  },
+  {
+   "name": "FLAMINGO 1",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58964",
+   "imo": "9474199"
+  },
+  {
+   "name": "PRINCE",
+   "type": "Vessel",
+   "countries": "pa",
+   "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+   "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
+   "first_seen": "2026-10-21",
+   "id": "ofac-58966",
+   "imo": "9548316"
+  },
   {
    "name": "TINA 5",
    "type": "Vessel",
@@ -4718,7 +4817,7 @@
    "name": "IMO 9344411 (\"GALLE ENERGY\")",
    "type": "Vessel",
    "countries": "lk",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9344411 ('GALLE ENERGY') is, has been, or…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9344411 (“GALLE ENERGY”) is, has been, or…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-02",
    "id": "NK-VmR6npRMQWpG6byqvYGfkN",
@@ -4738,7 +4837,7 @@
    "name": "IMO 9331048 (CHAIVO)",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9331048 ('the CHAIVO') has been, is, and…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9331048 (“the CHAIVO”) has been, is, and…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-01",
    "id": "NK-jSEcFQvVx8semzz8dBF5Zs",
@@ -4748,7 +4847,7 @@
    "name": "IMO 9246621 (PORTOVYY)",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9246621 ('PORTOVYY') has been, is, and is…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State has reasonable grounds to suspect that IMO 9246621 (“PORTOVYY”) has been, is, and is…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-10-01",
    "id": "NK-ktS7xzTnHoqRhnePPZoLSn",
@@ -5578,7 +5677,7 @@
    "name": "IMO 9294264 (\"ORION\")",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9294264 (“ORION”)…",
+   "programs": "\"The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9294264 ('ORION')…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-06-16",
    "id": "NK-DoqzSDcChJCiUY88oiz3kq",
@@ -5598,7 +5697,7 @@
    "name": "IMO 9300817 (\"KOSMOS\")",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9300817 (“KOSMOS”)…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9300817 ('KOSMOS')…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-06-16",
    "id": "NK-XJH9Gcrm9Rp7ZnuZM6NdV8",
@@ -9438,7 +9537,7 @@
    "name": "PIER",
    "type": "Vessel",
    "countries": "bb;ru",
-   "programs": "Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9273442 ('Pier') is, has been or is likely to be involved in activity whose…",
+   "programs": "Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9273442 (“Pier”) is, has been or is likely to be involved in activity whose…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List",
    "first_seen": "2025-07-21",
    "id": "NK-EXjphC6CWEwFR7wdaA9dzr",
@@ -10708,7 +10807,7 @@
    "name": "VENGERY",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9451642 (“VENGERY”) is, has been, or is likely to be involved in activity whose…",
+   "programs": "Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9451642 ('VENGERY') is, has been, or is likely to be involved in activity whose…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List",
    "first_seen": "2025-05-09",
    "id": "NK-JsWcRPfrNLUPXKj85KjStf",
@@ -12758,7 +12857,7 @@
    "name": "OXIS",
    "type": "Vessel",
    "countries": "cm;ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13224 (Terrorism);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 -…",
+   "programs": "RUSSIA-EO14024 - Executive Order 13224 (Terrorism) - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 -…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-933VytZQRSXumMjr6xmJEL",
@@ -12998,7 +13097,7 @@
    "name": "TASCA",
    "type": "Vessel",
    "countries": "pa",
-   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia) - Executive Order 13846 (Iran)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13846 (Iran) - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-HUJEizkjTuY5K6zQgWR5GG",
@@ -13578,7 +13677,7 @@
    "name": "Ivy",
    "type": "Vessel",
    "countries": "ru;vn",
-   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia) - Executive Order 13846 (Iran);Russia / Russie - 1.1;The Russia (Sanctions)…",
+   "programs": "RUSSIA-EO14024 - Executive Order 13846 (Iran) - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions)…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-fGtcYxL5U8nVo7VDXBEEPz",
@@ -17228,7 +17327,7 @@
    "name": "HS Everett",
    "type": "Vessel",
    "countries": "lr;ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9410870 (“HS EVERETT”) is…",
+   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9410870 ('HS EVERETT') is…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2024-01-18",
    "id": "NK-Tdmjsa9ut7Ym537g6Ho9to",
@@ -18448,7 +18547,7 @@
    "name": "PARNIA",
    "type": "Vessel",
    "countries": "ir",
-   "programs": "IRAN - Executive Order - Convential Arms (Iran) - Executive Order 13599 (Iran) - Executive Order 13382 (Non-proliferation)",
+   "programs": "IRAN - Executive Order 13599 (Iran) - Executive Order 13382 (Non-proliferation) - Executive Order - Convential Arms (Iran)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-7tYKKiC2Fuo4uCb38BYgfR",
@@ -19748,7 +19847,7 @@
    "name": "St. Vitamin",
    "type": "Vessel",
    "countries": "vc",
-   "programs": "CYBER2 - Executive Order 13848 (Election) - Executive Order 13694 (Cyber) - Executive Order 13661 (Ukraine)",
+   "programs": "CYBER2 - Executive Order 13694 (Cyber) - Executive Order 13848 (Election) - Executive Order 13661 (Ukraine)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-HzbmbYendQzX5WcAx79sJa",
@@ -20078,7 +20177,7 @@
    "name": "Ostap Sheremeta",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Protecting Europe's Energy Security Act (PEESA)",
+   "programs": "PEESA-EO14039 - Protecting Europe's Energy Security Act (PEESA) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-LTDqsGEkqJ9oHYmi9SKj77",
@@ -24028,7 +24127,7 @@
    "name": "Ivan Sidorenko",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Protecting Europe's Energy Security Act (PEESA)",
+   "programs": "PEESA-EO14039 - Protecting Europe's Energy Security Act (PEESA) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-no6qUosL9USWGJ7fr2a5bg",
@@ -24178,7 +24277,7 @@
    "name": "Ryong Gun Bong",
    "type": "Vessel",
    "countries": "kp",
-   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "programs": "(UE) 2022/1503 du 09/09/2022 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-FcnC2NqwdeTFB8g8dbha2X",
@@ -24238,7 +24337,7 @@
    "name": "Tong Hung 1",
    "type": "Vessel",
    "countries": "kp",
-   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "programs": "(UE) 2022/1503 du 09/09/2022 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-Ku3wRRnBqPkkLYH2LtMCKc",
@@ -24298,7 +24397,7 @@
    "name": "Rak Won 2",
    "type": "Vessel",
    "countries": "kp",
-   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "programs": "(UE) 2022/1503 du 09/09/2022 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-RRGAQx3txVZaG2rr5TbUHa",
@@ -24318,7 +24417,7 @@
    "name": "Jin Hye",
    "type": "Vessel",
    "countries": "",
-   "programs": "1718 (DPRK) - 2026-08-28;2018-03-30;PRK - M/V JIN HYE engaged in a ship-to-ship transfer with M/V CHON MA SAN on 16 December 2017.;Paragraph 12 (a) of…",
+   "programs": "1718 (DPRK) - 2026-08-28;2018-03-30;PRK - M/V JIN HYE engaged in a ship-to-ship transfer with M/V CHON MA SAN on 16 December 2017.;Paragraph 6 of resolution…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List",
    "first_seen": "2020-06-04",
    "id": "NK-Rmn74GQyyYCc2tMsCKb4UD",
@@ -24378,7 +24477,7 @@
    "name": "Blue Nouvelle",
    "type": "Vessel",
    "countries": "kh;ki;kp",
-   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "programs": "(UE) 2022/1503 du 09/09/2022 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-W96jThAdx5ddxWT5KfnkUg",
@@ -24388,7 +24487,7 @@
    "name": "Mi Rim 2",
    "type": "Vessel",
    "countries": "kp",
-   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
+   "programs": "(UE) 2022/1503 du 09/09/2022 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-WRA7DTjp9Cb8Y45h7aJn8u",
@@ -24408,102 +24507,12 @@
    "name": "Min Ning De You 078",
    "type": "Vessel",
    "countries": "",
-   "programs": "1718 (DPRK) - 2026-08-28;2018-03-30;Paragraph 12 (a) of resolution 2321 (2016) - Paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375…",
+   "programs": "1718 (DPRK) - 2026-08-28;2018-03-30;Paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375 (2017) - Paragraph 12 (a) of resolution 2321…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List",
    "first_seen": "2020-06-04",
    "id": "NK-YZdF6kPcmeqf973bwmkoNo",
    "imo": ""
-  },
-  {
-   "name": "Chon Myong 1",
-   "type": "Vessel",
-   "countries": "kp;tg",
-   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
-   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2020-06-04",
-   "id": "NK-ZWWcQbDKhHMuSE2LyYNvz7",
-   "imo": "8712362"
-  },
-  {
-   "name": "Nam San 8",
-   "type": "Vessel",
-   "countries": "kp",
-   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
-   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2020-06-04",
-   "id": "NK-aeTaysGUfbjfo396aeguRU",
-   "imo": "8122347"
-  },
-  {
-   "name": "Rye Song Gang 1",
-   "type": "Vessel",
-   "countries": "kp;ru",
-   "programs": "1718 (DPRK) - 2026-08-28;2017-12-28;DPRK4 - Executive Order 13810 (North Korea);PRK;Paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375…",
-   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2020-06-04",
-   "id": "NK-agq8hUDZPSnPkHKdywSEDg",
-   "imo": "7389704"
-  },
-  {
-   "name": "Ryong Gang 2",
-   "type": "Vessel",
-   "countries": "kp",
-   "programs": "(UE) 2022/1503 du 09/09/2022 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
-   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2020-06-04",
-   "id": "NK-ahSyXbHiaERGo6hP7y7deM",
-   "imo": "7640378"
-  },
-  {
-   "name": "Hwang Gum San 2",
-   "type": "Vessel",
-   "countries": "kp",
-   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
-   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2020-06-04",
-   "id": "NK-c4ng3NQ5LvmZNCY396bxEK",
-   "imo": "8405270"
-  },
-  {
-   "name": "Rung Ra 2",
-   "type": "Vessel",
-   "countries": "jp;kp;pa",
-   "programs": "1718 (DPRK) - 2026-08-28;2017-12-28;DPRK4 - Executive Order 13810 (North Korea);PRK;Paragraph 6 of resolution 2371 (2017) and paragraph 6 of resolution 2375…",
-   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2020-06-04",
-   "id": "NK-cbdckShLMCD5SbjPm6itqc",
-   "imo": "9020534"
-  },
-  {
-   "name": "Chong Chon Gang",
-   "type": "Vessel",
-   "countries": "kp",
-   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
-   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2020-06-04",
-   "id": "NK-deZUfBezUVmSk4jtEAQnuu",
-   "imo": "7937317"
-  },
-  {
-   "name": "Ra Nam 3",
-   "type": "Vessel",
-   "countries": "kp",
-   "programs": "(UE) 2022/1503 du 09/09/2022 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
-   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2020-06-04",
-   "id": "NK-djhNYTBcCbnA7xwM6Xd5Se",
-   "imo": "9314650"
-  },
-  {
-   "name": "Mi Rim",
-   "type": "Vessel",
-   "countries": "kp",
-   "programs": "(UE) 2017/1509 du 30/08/2017 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - Décision du comité de sanction des Nations unies du 02/03/2016 (ONU…",
-   "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
-   "first_seen": "2020-06-04",
-   "id": "NK-eLUZQ6BH6T4oEW2wupBiGj",
-   "imo": "8713471"
   }
  ],
- "vessel_total": 2020
+ "vessel_total": 2029
 }
