@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T09:54:37.369677+00:00",
+ "updated": "2026-10-22T13:06:12.610720+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-22T09:54:37.369677+00:00",
+   "published": "2026-10-22T13:06:12.610720+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,18 +20,322 @@
    "countries": []
   },
   {
-   "id": "7d53c7fea30ceb13",
-   "title": "Chancellor accepts Labour has put a ‘lot of pressure’ on business and says helping entrepreneurs will be a budget priority – UK politics live",
-   "summary": "John Healey is expected to cut red tape requirements, particularly for smaller businesses Kalyeena Makortoff is the Guardian’s banking correspondent. CS Venkatakrishnan, CEO at Barclays , seems to have admitted defeat over bank tax hikes, which are expected to be a headline measure in Healey’s…",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-   "source": "Guardian Politics",
+   "id": "8db32c4f270d31b9",
+   "title": "Making Tax Digital for Income Tax: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Making Tax Digital for Income Tax service.",
+   "url": "https://www.gov.uk/government/publications/use-software-to-send-income-tax-updates-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-22T13:06:00Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Income tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "7bac4f9a99cfbce2",
+   "title": "Andy Burnham to become first prime minister to join Celebrity Gogglebox",
+   "summary": "Labour leader was filmed in 10 Downing Street alongside his old friend Steve Rotheram, the Mayor of Liverpool",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-celebrity-gogglebox-cancer-b3071482.html",
+   "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-22T09:41:58+00:00",
+   "published": "2026-10-22T13:05:14+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
    ],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "468b6f8e5d56a62c",
+   "title": "Reform UK and Greens no longer considered main parties, stark new poll shows",
+   "summary": "Voters appear to be losing confidence in the idea that Nigel Farage would lead a government as prime minister",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-greens-farage-main-party-yougov-poll-b3071481.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T12:55:49+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK",
+    "Green Party"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e3189419e5146a82",
+   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+   "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-22T12:54:36+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7d53c7fea30ceb13",
+   "title": "Minister says 32 government services offline due to PHP code flaw – UK politics live",
+   "summary": "Organisations around the world scrambling to fix a critical security flaw in the programming language PHP used by the majority of websites The Office for National Statistics has also published a report on the gender pay gap . It says: The gender pay gap for full-time employees has continued to…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T12:48:10+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "93a1e9f31d834b8f",
+   "title": "Register to declare goods moving to or from Northern Ireland using the Trader Support Service (TSS)",
+   "summary": "If you move goods to or from Northern Ireland, register for this service to make and manage customs, safety and security declarations, and payments.",
+   "url": "https://www.gov.uk/guidance/register-to-declare-goods-moving-to-or-from-northern-ireland-using-the-trader-support-service-tss",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-22T12:29:49Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Ireland"
+   ]
+  },
+  {
+   "id": "11ec7236fe9c7f97",
+   "title": "Jackdaw is a distraction from Aberdeen’s much bigger problem",
+   "summary": "This article was originally published on our Substack. After years of back and forth and months of mounting speculation, this week the Government gave the green light to the Jackdaw gas field. But one small hydrocarbon project dominating headlines risks missing the much bigger – and more important…",
+   "url": "https://www.resolutionfoundation.org/comment/jackdaw-is-a-distraction-from-aberdeens-much-bigger-problem/",
+   "source": "Resolution Foundation",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-22T12:15:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "54e5bb73ce7a79cd",
+   "title": "Register your employment related securities scheme",
+   "summary": "When and how to tell HMRC about new employment related securities (ERS) schemes.",
+   "url": "https://www.gov.uk/guidance/tell-hmrc-about-your-employment-related-securities",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-22T12:14:41Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "83a142998c5f3d71",
+   "title": "UK government services offline after global PHP cybersecurity threat",
+   "summary": "Cybersecurity chiefs warned UK organisations that a ‘critical security issue’ had been discovered in the programming language PHP",
+   "url": "https://www.independent.co.uk/news/uk/home-news/php-government-websites-services-issues-b3071405.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T12:14:26+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "bbdce8c5ccd33ddc",
+   "title": "Tank barrel production returns to UK after 20 years",
+   "summary": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
+   "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-22T12:14:19+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "09e796abbd956e2e",
+   "title": "Tony de Vizio: The Tories need to build an economy of advancement",
+   "summary": "A Conservative government cannot guarantee where somebody finishes. It should not try. But it can build an economy of advancement where every step forward, wherever you are in your economic journey, makes the next one easier, giving people greater control over their own lives. The post Tony de…",
+   "url": "https://conservativehome.com/2026/10/22/tony-de-vizio-the-tories-need-to-build-an-economy-of-advancement/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-22T12:00:46+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "070ba4ea5156005f",
+   "title": "Thirty-two Government services offline amid PHP cybersecurity issue",
+   "summary": "No 10 said no large UK public-facing critical services have been affected, but some ‘limited’ Government websites have temporarily gone dark.",
+   "url": "https://www.independent.co.uk/news/uk/politics/work-john-healey-times-radio-office-for-budget-responsibility-ncsc-b3071442.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T12:00:16+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d8a8eddb5a49d34a",
+   "title": "John Healey vows to be a chancellor ‘who backs business’ ahead of Budget",
+   "summary": "Chancellor says he is seeking to rebuild the damaged relationship between Labour and business",
+   "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-business-b3071198.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T11:42:42+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0e879112196f45df",
+   "title": "Tax online sales more heavily to save high streets, Burnham urged",
+   "summary": "Exclusive: British Chambers of Commerce president calls for overhaul of business rates and greater powers for local leaders How Middleton’s revival could inspire struggling towns What makes a good town? Here are five key ingredients Andy Burnham has been urged by one of his most senior former…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T11:32:45+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "98930ea22413a4fa",
+   "title": "Ten councillors quit after leader's fraud conviction",
+   "summary": "Jason Zadrozny was found guilty of defrauding the county council out of thousands of pounds.",
+   "url": "https://www.bbc.co.uk/news/articles/c674p078v013o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T11:25:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c75360ac724bd2d9",
+   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-22T11:15:58+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e337b73f12b45da9",
+   "title": "‘Limited’ Government services temporarily offline amid PHP cybersecurity issue",
+   "summary": "Downing Street did not provide details of which websites are affected.",
+   "url": "https://www.independent.co.uk/news/uk/politics/government-downing-street-work-openai-b3071412.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T11:08:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3a8e9f2562f03d8d",
+   "title": "Child Benefit: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Child Benefit online service.",
+   "url": "https://www.gov.uk/government/publications/child-benefit-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-22T10:46:04Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d29d3b2402bc53ac",
+   "title": "Valentin Boboc: To stop spending money, the Chancellor must spend political capital",
+   "summary": "The Budget on 28 October is an opportunity to change course. The Chancellor need not adopt every proposal in the Alternative Budget, but he should recognise that the choice is not simply between deep cuts and ever-higher taxes. Balancing the books takes surprisingly little, provided the Government…",
+   "url": "https://conservativehome.com/2026/10/22/valentin-boboc-to-stop-spending-money-the-chancellor-must-spend-political-capital/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-22T10:00:17+00:00",
+   "dateonly": false,
+   "parties": [],
    "topics": [
     "Tax and spending"
    ],
@@ -52,23 +356,6 @@
    "topics": [
     "Tax and spending",
     "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e3189419e5146a82",
-   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-   "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-22T09:37:58+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
    ],
    "tax": [],
    "countries": []
@@ -109,7 +396,7 @@
   },
   {
    "id": "44949eacf6cbd150",
-   "title": "MI5 spied on Nye Bevan for more than 20 years, newly released files show",
+   "title": "MI5 spied on NHS founder Nye Bevan for more than 20 years, newly released files show",
    "summary": "He came to its attention in the 1930s when he was considered a left-wing firebrand.",
    "url": "https://www.bbc.co.uk/news/articles/c3n049jr2ge5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
@@ -118,7 +405,9 @@
    "published": "2026-10-22T09:35:34+00:00",
    "dateonly": false,
    "parties": [],
-   "topics": [],
+   "topics": [
+    "NHS and care"
+   ],
    "tax": [],
    "countries": []
   },
@@ -144,8 +433,8 @@
   },
   {
    "id": "1fcea66a1e3f52ae",
-   "title": "New punishments for criminals who skip sentence will 'rebalance power', aunt of murder victim says",
-   "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
+   "title": "Tougher punishments for criminals who refuse to attend sentencing backed by victim's family",
+   "summary": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim.",
    "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
    "group": "News",
@@ -291,6 +580,21 @@
    ]
   },
   {
+   "id": "4a39297be8902925",
+   "title": "Royal Mail performance",
+   "summary": "Royal Mail has missed delivery targets for several years, and has been fined by Ofcom.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10383/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-22T08:17:58+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "b6c3c71c9e608482",
    "title": "2008 and all that…",
    "summary": "What do a decade and a half of low growth, the rise of populism across the political spectrum,… The post 2008 and all that… appeared first on LabourList .",
@@ -370,40 +674,6 @@
    "topics": [
     "Economy"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d8a8eddb5a49d34a",
-   "title": "John Healey vows to be a chancellor ‘who backs business’ ahead of Budget",
-   "summary": "Chancellor says he is seeking to rebuild the damaged relationship between Labour and business",
-   "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-business-b3071198.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T07:03:13+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c75360ac724bd2d9",
-   "title": "What is PHP and why did it spark a global cyber-security scramble?",
-   "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-22T06:24:59+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -703,6 +973,23 @@
    "dateonly": false,
    "parties": [],
    "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9146a4f73b0d7832",
+   "title": "Understanding migration responses to local shocks",
+   "summary": "",
+   "url": "https://ifs.org.uk/publications/understanding-migration-responses-local-shocks",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-22T00:00:00+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
    "tax": [],
    "countries": []
   },
@@ -1440,6 +1727,38 @@
    "countries": []
   },
   {
+   "id": "0769695f3aadb0db",
+   "title": "Safety on public transport",
+   "summary": "There have been reports of increasing incidents on public transport threatening the safety of both passengers and staff.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12227/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-21T15:51:34+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7e70f105a9deb07e",
+   "title": "Housing market: Economic indicators",
+   "summary": "Find the latest data on house prices, mortgage approvals, and house building in the UK.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02820/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-21T15:43:26+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "004145809dd75db2",
    "title": "Green Party splits deepen as Polanski urged to apologise over handling of ‘Zionism is racism’ motion",
    "summary": "Senior Greens are now facing calls to apologise for comments made following the conference motion",
@@ -1593,6 +1912,21 @@
    "countries": []
   },
   {
+   "id": "1421efa292bdf3ca",
+   "title": "Finding funding for constituents",
+   "summary": "How to approach constituent funding enquiries: general advice and resources",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10735/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-21T14:32:02+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "421caea8a2b19b98",
    "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
    "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
@@ -1618,6 +1952,21 @@
    "group": "News",
    "party_voice": "",
    "published": "2026-10-21T14:25:08+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "abfab27820b492ae",
+   "title": "Independent Complaints and Grievance Scheme: The Independent Expert Panel",
+   "summary": "The Independent Expert Panel determines cases against MPs and appeals under the Independent Complaints and Grievance Scheme; and appeals under the MPs’ Code of Conduct.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-8944/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-21T14:24:15+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -2272,21 +2621,6 @@
     "Tax and spending",
     "Economy"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3a8e9f2562f03d8d",
-   "title": "Child Benefit: service availability and issues",
-   "summary": "Check the availability and any issues affecting the Child Benefit online service.",
-   "url": "https://www.gov.uk/government/publications/child-benefit-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-21T09:19:06Z",
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -4307,8 +4641,8 @@
    "title": "Burnham vows end to 'rip-off parking charges' under new rules",
    "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
    "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-20T08:55:02+00:00",
    "dateonly": false,
@@ -10371,21 +10705,6 @@
    "countries": []
   },
   {
-   "id": "4a39297be8902925",
-   "title": "Royal Mail performance",
-   "summary": "Royal Mail has missed delivery targets for several years, and has been fined by Ofcom.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10383/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-15T08:21:43+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "6f37b50e4b478861",
    "title": "Electronic text file specifications for ISA annual returns",
    "summary": "Find out how to send annual returns if you're an ISA manager.",
@@ -11544,23 +11863,6 @@
    "kind": "detailed_guide",
    "party_voice": "",
    "published": "2026-10-14T13:51:02Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Ireland"
-   ]
-  },
-  {
-   "id": "93a1e9f31d834b8f",
-   "title": "Register to declare goods moving to or from Northern Ireland using the Trader Support Service (TSS)",
-   "summary": "If you move goods to or from Northern Ireland, register for this service to make and manage customs, safety and security declarations, and payments.",
-   "url": "https://www.gov.uk/guidance/register-to-declare-goods-moving-to-or-from-northern-ireland-using-the-trader-support-service-tss",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-14T13:50:48Z",
    "parties": [],
    "topics": [],
    "tax": [],
@@ -15205,320 +15507,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "a57f3fc1603fd169",
-   "title": "Father was asked for DNA test to get a passport for his daughter",
-   "summary": "New post-Brexit rules mean that dual nationals cannot enter the UK unless they have a British passport My teenage daughter is unable to see her grandparents because of the UK’s new requirement for dual nationals to hold a UK passport. I’m a UK citizen, married to a French national, and we live in…",
-   "url": "https://www.theguardian.com/money/2026/oct/12/father-dna-test-passport-daughter-dual-national",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-12T06:00:47+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "France"
-   ]
-  },
-  {
-   "id": "81d0babbe9b1b92a",
-   "title": "David Gauke: My verdict on Tory Party Conference is not, perhaps, what you’re expecting",
-   "summary": "Rebuilding support from affluent voters makes political sense. For it to succeed, however, greater emphasis on economic and fiscal credibility is needed which will require some political bravery on issues like the triple lock and EU relations. The party conference was a good start, but there is…",
-   "url": "https://conservativehome.com/2026/10/12/david-gauke-my-verdict-on-tory-party-conference-is-not-perhaps-what-youre-expecting/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-12T05:30:37+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Elections",
-    "Europe"
-   ],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
-   "id": "fdbd133b3e322769",
-   "title": "Why some have no choice but to pay costly oil prices",
-   "summary": "The rural communities vulnerable to heating oil prices rises as the weather gets colder.",
-   "url": "https://www.bbc.co.uk/news/articles/cqgm09xvlvjeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-12T05:27:55+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy",
-    "Energy bills"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c7c82c9fa59c8152",
-   "title": "Chris Philp: We aren’t ‘abandoning human rights’ leaving the ECHR but doing what must be done to secure our borders",
-   "summary": "Giles Dilnot asks Chris Philp if immigration had been last year's Conference issue and that now immigration was taking a back seat in party thinking to tackling the cost of living and the search for economic growth. The shadow Home Secretary was clear that was simply not the case. The post Chris…",
-   "url": "https://conservativehome.com/2026/10/12/chris-philp-we-arent-abandonning-human-rights-leaving-the-echr-but-doing-what-must-be-done-to-secure-our-borders/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-12T05:20:54+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy",
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "5b5127813d80f39c",
-   "title": "Chris Steward: York trades on a reputation its council did nothing to earn",
-   "summary": "A council that spends within its means, finishes what it starts and remembers the rural parts of this city pay council tax too is not a radical proposition. In York it would count as a revolution. The post Chris Steward: York trades on a reputation its council did nothing to earn appeared first on…",
-   "url": "https://conservativehome.com/2026/10/12/chris-steward-york-trades-on-a-reputation-its-council-did-nothing-to-earn/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-12T05:10:18+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy",
-    "Elections"
-   ],
-   "tax": [
-    "Council tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "f83860bb796ed51f",
-   "title": "Rejecting closer EU ties would be dereliction of duty, PM to say",
-   "summary": "Addressing the Commons, Burnham is expected to say that a new deal with the EU could help tackle illegal immigration and boost economic growth.",
-   "url": "https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-12T05:01:22+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Economy",
-    "Immigration",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d59785da5b667c1e",
-   "title": "‘Public water, local power’",
-   "summary": "The clarion call of the Burnham premiership has been a blistering condemnation of decades in which the state… The post ‘Public water, local power’ appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/public-water-local-power/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-12T05:00:59+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f55d23bf00b19b4a",
-   "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-   "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-   "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-12T05:00:52+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "8add4d98cfcba48b",
-   "title": "SPONSORED: ‘Partnership is the key to making devolution deliver Northern growth and UK prosperity’",
-   "summary": "SPONSORED There is no denying that we are excited by the renewed attention being given to the North.… The post SPONSORED: ‘Partnership is the key to making devolution deliver Northern growth and UK prosperity’ appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/sponsored-partnership-is-the-key-to-making-devolution-deliver-northern-growth-and-uk-prosperity/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-12T05:00:42+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3e194f895bd4bd54",
-   "title": "‘A moral approach to gambling, not politics as usual’",
-   "summary": "The gambling sector and its allies have tried to disparage Andy Burnham for his recent stand against gambling… The post ‘A moral approach to gambling, not politics as usual’ appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/a-moral-approach-to-gambling-not-politics-as-usual/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-12T05:00:35+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e225e72809cd146f",
-   "title": "'Frankly shocking' risk-taking by motorists uncovered by AI-powered cameras",
-   "summary": "Motorists have been caught driving with children on their lap and both hands on their phone rather than the wheel in a trial of AI-powered cameras.",
-   "url": "https://news.sky.com/story/trial-of-ai-technology-uncovers-frankly-shocking-number-of-road-rule-breaches-13598008",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-12T02:13:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3c43df31247b1b6c",
-   "title": "Economic outlook: headwinds on the horizon",
-   "summary": "",
-   "url": "https://ifs.org.uk/publications/economic-outlook-headwinds-horizon",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-12T00:00:00+00:00",
-   "dateonly": true,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2421b7b0a6edd8b3",
-   "title": "Chancellor Healey meets the bond market: 'let sleeping dogs lie'",
-   "summary": "",
-   "url": "https://ifs.org.uk/publications/chancellor-healey-meets-bond-market-let-sleeping-dogs-lie",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-12T00:00:00+00:00",
-   "dateonly": true,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "25f12eb8ecbe6e4d",
-   "title": "The direct fiscal effects of quantitative easing and tightening",
-   "summary": "",
-   "url": "https://ifs.org.uk/publications/direct-fiscal-effects-quantitative-easing-and-tightening",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-12T00:00:00+00:00",
-   "dateonly": true,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "1fac44231b80bd59",
-   "title": "Spending plans for public services are reliant on ever-more-ambitious productivity assumptions",
-   "summary": "",
-   "url": "https://ifs.org.uk/articles/spending-plans-public-services-are-reliant-ever-more-ambitious-productivity-assumptions",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-12T00:00:00+00:00",
-   "dateonly": true,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fb4d11fc61832cde",
-   "title": "Public service spending: plans and pressures",
-   "summary": "",
-   "url": "https://ifs.org.uk/publications/public-service-spending-plans-and-pressures",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-12T00:00:00+00:00",
-   "dateonly": true,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2522b17865d08870",
-   "title": "The outlook for the public finances",
-   "summary": "",
-   "url": "https://ifs.org.uk/publications/outlook-public-finances-1",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-12T00:00:00+00:00",
-   "dateonly": true,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7b2eb22170615287",
-   "title": "Roofing scammers con homeowners out of thousands of pounds",
-   "summary": "One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly.",
-   "url": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-11T23:19:49+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15533,7 +15521,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
@@ -15547,7 +15535,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 5,
    "note": ""
   },
   {
@@ -15561,21 +15549,21 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -15588,16 +15576,16 @@
   {
    "name": "UK in a Changing Europe",
    "group": "Analysis",
-   "ok": true,
-   "new": 20,
-   "note": ""
+   "ok": false,
+   "new": 0,
+   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   {
    "name": "House of Commons Library",
    "group": "Analysis",
-   "ok": false,
-   "new": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://commonslibrary.parliament.uk/feed/"
+   "ok": true,
+   "new": 4,
+   "note": ""
   },
   {
    "name": "Office for Budget Responsibility",
@@ -16243,7 +16231,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131393,
+   "signatures": 131451,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16252,7 +16240,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 118684,
+   "signatures": 118736,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16261,7 +16249,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 97944,
+   "signatures": 98054,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16270,7 +16258,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84634,
+   "signatures": 84649,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16279,7 +16267,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 74553,
+   "signatures": 74596,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16288,7 +16276,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 71658,
+   "signatures": 71777,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16297,7 +16285,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55430,
+   "signatures": 55432,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16306,7 +16294,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 50304,
+   "signatures": 50437,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16315,7 +16303,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50167,
+   "signatures": 50183,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16324,7 +16312,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44164,
+   "signatures": 44184,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16333,7 +16321,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41019,
+   "signatures": 41040,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
