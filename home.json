@@ -1,21 +1,289 @@
 {
- "updated": "2026-10-22T15:52:24.896595+00:00",
+ "updated": "2026-10-22T19:00:31.145967+00:00",
  "government": "Labour",
  "articles": [
   {
-   "id": "ecffaeecb1eb927b",
-   "title": "Green Budget 2026: Full report",
-   "summary": "",
-   "url": "https://ifs.org.uk/publications/green-budget-2026-full-report",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
+   "id": "4e52348834c03198",
+   "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+   "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+   "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-22T15:52:24.896595+00:00",
-   "dateonly": true,
+   "published": "2026-10-22T18:26:56+00:00",
+   "dateonly": false,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
+   "tax": [
+    "Wealth taxes"
+   ],
+   "countries": []
+  },
+  {
+   "id": "91a852a1ecea263c",
+   "title": "Every Briton should stockpile water and food supplies, government advises",
+   "summary": "Be Ready campaign aims to prepare UK for impact of climate crisis, technological dependency and threats by hostile state Every Briton is being urged to stock up to nine litres of bottled water and three days’ worth of food in new government guidance designed to ensure that households can survive a…",
+   "url": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T18:10:11+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d866bc2baaeff1c4",
+   "title": "Energy secretary appears to U-turn on opposition to tougher migration rules",
+   "summary": "Miatta Fahnbulleh says reference to ‘awkward’ interview was meant to be lighthearted and self-deprecating The energy secretary has been forced to clarify that she backs Shabana Mahmood’s migration policy, after earlier joking that she had not been able to “lie” about supporting a key element of the…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T18:04:58+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "514c8a9ac7701ae5",
+   "title": "Fahnbulleh says she backs home secretary on migration after comments to journalists",
+   "summary": "Energy secretary says she \"didn't get it right\" over comments she made about a TV interview.",
+   "url": "https://www.bbc.co.uk/news/articles/c6y93pz494zzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T17:54:51+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "785baf44319a44b8",
+   "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns",
+   "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
+   "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T17:46:58+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f920fd558f02f842",
+   "title": "The Guardian view on AI safety: the push for global regulation must advance | Editorial",
+   "summary": "The current US administration is an obstacle, but public demand for protection will ultimately prevail Organisations around the world scrambled on Thursday to fix critical flaws in PHP, the software that powers much of the web. The vulnerabilities could allow attackers to take control of affected…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T17:30:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "e02c4bd7ca6e5d8e",
+   "title": "Huge crowds gather at final pre-election rally of Serbia's students",
+   "summary": "Hundreds of thousands of supporters of Serbia’s protesting students have gathered for the final campaign rally ahead of the tense parliamentary election on weekend in a mounting challenge to the Balkan country’s powerful strongman Aleksandar Vucic",
+   "url": "https://www.independent.co.uk/news/uk/politics/aleksandar-vucic-serbia-belgrade-support-serbian-progressive-party-b3071732.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T17:29:18+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "ccf29576ea8264c4",
+   "title": "The Guardian view on England's north-south divide: Burnham must deliver more than devolution | Editorial",
+   "summary": "The prime minister promises to repair decades of regional damage. His government must redistribute wealth to close deadly inequalities Andy Burnham’s call to abandon “ 40 years of neoliberalism ” rests partly on the damage that he says it has done to northern England. A new study – published in the…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-englands-north-south-divide-burnham-must-deliver-more-than-devolution",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T17:25:45+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8fdd0db8fd5163ef",
+   "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
+   "summary": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’ Andy Burnham: We will make the net-zero transition work for Britain Andy Burnham has said he will not “abandon the responsibility” of fighting the climate crisis after the government…",
+   "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T17:22:52+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "dd493742081fdce9",
+   "title": "We will make the net-zero transition work for Britain – approving the Jackdaw gasfield is part of the plan | Andy Burnham",
+   "summary": "Protecting jobs and strengthening energy security in the short term does not mean wavering on Labour’s deep commitment to a cleaner, greener future Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval On Wednesday, the energy secretary, Miatta Fahnbulleh, gave the…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/net-zero-transition-britain-jackdaw-gasfield-jobs-energy-security-labour",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T17:00:45+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy",
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "deb5b545fd79a366",
+   "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
+   "summary": "Exclusive: Sasan Ghandehari’s partnership with religious foundation raises questions about past dealings with republic criticised by Nigel Farage Nigel Farage’s newest billionaire donor was in business with a powerful Iranian religious foundation under the authority of the country’s supreme leader,…",
+   "url": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T16:39:49+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "c9304d9ec3f5433e",
+   "title": "Prepare for ‘state-sponsored terrorism’ and cyber attacks to cause food shortages, Streeting warns",
+   "summary": "Ministers issue ‘be ready’ checklist as governments and companies worldwide take websites offline after alert over widespread cyber-security issue",
+   "url": "https://www.independent.co.uk/news/uk/home-news/food-shortages-cyber-attack-prepare-defence-b3071656.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T16:20:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "dc890389fdc77936",
+   "title": "Autumn Budget 2026: What it could mean for pensions and benefits",
+   "summary": "Several major policy announcements are expected later this year",
+   "url": "https://www.independent.co.uk/news/uk/politics/budget-healey-chancellor-pensions-benefits-b3070787.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T16:18:28+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "7d53c7fea30ceb13",
+   "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – as it happened",
+   "summary": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said Tell us: have you been affected by the PHP code flaw? The Office for National Statistics has also published a report on the gender pay gap . It says: The gender pay gap…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T16:16:40+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d318941a77ac4ea2",
+   "title": "Burnham admits ‘we can’t faff around’ on reducing energy bills as he mulls scrapping standing charges",
+   "summary": "Campaigners have urged the government to make plans to support all households with energy costs this winter",
+   "url": "https://www.independent.co.uk/news/uk/politics/energy-bill-standing-charges-andy-burnham-b3071659.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T15:57:17+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "84e0b50573de6878",
+   "title": "UK plans emergency powers to protect undersea cables",
+   "summary": "Ministers are set to gain powers over telecoms companies during national security emergencies.",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lz45d820o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T15:56:03+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -85,23 +353,6 @@
    "countries": []
   },
   {
-   "id": "7d53c7fea30ceb13",
-   "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
-   "summary": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said Tell us: have you been affected by the PHP code flaw? The Office for National Statistics has also published a report on the gender pay gap . It says: The gender pay gap…",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T15:14:35+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "8db32c4f270d31b9",
    "title": "Making Tax Digital for Income Tax: service availability and issues",
    "summary": "Check the availability and any issues affecting the Making Tax Digital for Income Tax service.",
@@ -153,6 +404,21 @@
    "topics": [
     "Party leadership"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ed410e98dd677f79",
+   "title": "Business and consumer confidence: Economic indicators",
+   "summary": "Business and consumer sentiment can give an early indication of economic trends. Find the latest data on what businesses and consumers expect for the UK economy.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02817/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-22T14:51:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -227,6 +493,21 @@
    "countries": []
   },
   {
+   "id": "46a9b676ccb7141c",
+   "title": "Sir Keir Starmer could be summoned to give evidence to grooming gangs inquiry",
+   "summary": "Sir Keir Starmer may be required to give evidence at the grooming gangs inquiry, with hearings due to begin in December.",
+   "url": "https://news.sky.com/story/sir-keir-starmer-could-be-summoned-to-give-evidence-to-grooming-gangs-inquiry-13602297",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T13:59:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "bbdce8c5ccd33ddc",
    "title": "Tank barrel production returns to UK after 20 years",
    "summary": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
@@ -255,23 +536,6 @@
    "dateonly": false,
    "parties": [],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "91a852a1ecea263c",
-   "title": "UK must prepare for infrastructure attacks by hostile states, says Streeting",
-   "summary": "Warning by defence secretary comes as he opens a tank gun barrel factory in the West Midlands Business live – latest updates The defence secretary, Wes Streeting, has said Britain should prepare for the threat of “state-sponsored terrorism” by hostile powers targeting everyday infrastructure as…",
-   "url": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T13:38:22+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Defence"
-   ],
    "tax": [],
    "countries": []
   },
@@ -609,7 +873,7 @@
   {
    "id": "44949eacf6cbd150",
    "title": "MI5 spied on NHS founder Nye Bevan for more than 20 years, newly released files show",
-   "summary": "He came to its attention in the 1930s when he was considered a left-wing firebrand.",
+   "summary": "He came to Security Service's attention in the 1930s when he was considered a left-wing firebrand.",
    "url": "https://www.bbc.co.uk/news/articles/c3n049jr2ge5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
    "group": "News",
@@ -1501,7 +1765,7 @@
   {
    "id": "1e3f8a359ea69687",
    "title": "Angry scenes and protests at Senedd as Reform call for ban on Muslim face coverings",
-   "summary": "It is the latest heated debate in the Senedd on a Wednesday prompted by Reform MSs.",
+   "summary": "Members of Reform called for Muslim religious face coverings, such as the burka, to be banned.",
    "url": "https://www.bbc.co.uk/news/articles/cmd7qrew7z72o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
    "group": "News",
@@ -15238,262 +15502,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "d10f11732e59979e",
-   "title": "Cross-border arrangement reporting: service availability and issues",
-   "summary": "Check the availability and any issues affecting the disclose cross-border tax arrangements service.",
-   "url": "https://www.gov.uk/government/publications/cross-border-arrangement-reporting-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-12T13:37:50Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "1d49f3b27063e307",
-   "title": "The UK economy: A dashboard",
-   "summary": "This interactive dashboard shows data on economic growth, inflation, trade, employment, government borrowing and debt across the UK.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10535/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-12T13:17:49+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "efdfd6fcfae62e32",
-   "title": "Motor finance scandal pushes auction towards Startline",
-   "summary": "One of Britain's biggest independent car finance providers is being put up for sale as the industry awaits the outcome of appeals against the City watchdog's £9bn compensation scheme.",
-   "url": "https://news.sky.com/story/motor-finance-scandal-pushes-auction-towards-startline-13598137",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-12T12:53:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "91a8c9b970b4db96",
-   "title": "Struggling Leicester City owners seek takeover bids this week",
-   "summary": "The Thai owners of Leicester City Football Club have asked potential bidders to submit offers this week as they seek an exit a decade after winning English football's biggest prize.",
-   "url": "https://news.sky.com/story/struggling-leicester-city-owners-seek-takeover-bids-this-week-13598178",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-12T12:38:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Thailand"
-   ]
-  },
-  {
-   "id": "dce69554d4d14ca3",
-   "title": "Healey’s pre-Budget headache",
-   "summary": "With conference season over and by-election campaigning at an end, all eyes in SW1 are turning towards the… The post Healey’s pre-Budget headache appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/fiscal-firefighting/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-12T12:21:34+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "dd9b679ea571ab5b",
-   "title": "Country-by-country: service availability and issues",
-   "summary": "Check the availability and any issues affecting the country-by-country service.",
-   "url": "https://www.gov.uk/government/publications/country-by-country-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-12T12:02:48Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2424216a21a3ee3f",
-   "title": "Ted Newson: Britain’s housing plans are far from free-market",
-   "summary": "For a party that eventually wants to do away with IHT, this is the wrong move. A far simpler option would be to cut the rate from 40 per cent towards 20 per cent, arguably a cheaper policy that treats every asset alike. The real fix is greater housing supply and a coherent tax base, one that offers…",
-   "url": "https://conservativehome.com/2026/10/12/ted-newson-britains-housing-plans-are-far-from-free-market/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-12T12:00:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Housing"
-   ],
-   "tax": [
-    "Inheritance tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "6663bcd4dedf7493",
-   "title": "AI safety",
-   "summary": "This briefing provides an introduction to artificial intelligence (AI) safety, focusing on possible AI risks and harms, as well as AI safety governance.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12231/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-12T11:53:26+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8e3d6c4e39a6f543",
-   "title": "Digital platform reporting: service availability and issues",
-   "summary": "Check the availability and any issues affecting the digital platform reporting service.",
-   "url": "https://www.gov.uk/government/publications/digital-platform-reporting-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-12T11:38:08Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "77b16f7f6b40d705",
-   "title": "Filing your Company Tax Return online",
-   "summary": "Find recognised commercial software suppliers and software you can use to file your Company Tax Return and any supplementary pages online.",
-   "url": "https://www.gov.uk/government/publications/corporation-tax-commercial-software-suppliers",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-12T11:37:24Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e6de05d7394eed0e",
-   "title": "HMV to close Oxford Street store after three years",
-   "summary": "HMV says it is looking for a new site in London's West End, but its current site is \"unviable\".",
-   "url": "https://www.bbc.co.uk/news/articles/cjzxl7ee4e9xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-12T10:36:39+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "484d8989a830d1eb",
-   "title": "Approved offshore reporting funds",
-   "summary": "Find a list of offshore funds that have applied for and been approved as reporting funds.",
-   "url": "https://www.gov.uk/government/publications/approved-offshore-reporting-funds",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-12T10:30:44Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d3af01c7c0d55c18",
-   "title": "Did Russia interfere with Brexit? Here’s what we know after Andy Burnham’s bombshell claim",
-   "summary": "Andy Burnham has become the first prime minister to confirm Russia had interfered with the referendum",
-   "url": "https://www.independent.co.uk/news/uk/politics/russia-brexit-interference-andy-burnham-b3065121.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-12T10:23:59+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "7a00ce2e68bded52",
-   "title": "Corporation Tax technical specifications for CT600 RIM artefacts",
-   "summary": "CT600 V3 (2027), CT600 V3 (2026) and CT600 V2 (2009) RIM artefacts for Corporation Tax software developers.",
-   "url": "https://www.gov.uk/government/publications/corporation-tax-technical-specifications-ct600-rim-artefacts",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-12T10:23:53Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Corporation tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "b9eb53132b2fd8ff",
-   "title": "Luke Graham: The clamour for new policy misses the point that principles that underpin them are just as, if not more, important",
-   "summary": "The importance of \"The Right Way\" is not simply that it tells voters what Conservatives believe, but that it establishes the principles against which future policy decisions can be judged. After years in which short-term political calculations too often displaced long-term strategy, that discipline…",
-   "url": "https://conservativehome.com/2026/10/12/luke-graham-the-clamour-for-new-policy-misses-the-point-that-principles-that-underpin-them-are-just-as-if-not-more-important/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-12T10:00:25+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15508,7 +15516,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 6,
    "note": ""
   },
   {
@@ -15522,7 +15530,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 4,
    "note": ""
   },
   {
@@ -15536,7 +15544,7 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15564,14 +15572,14 @@
    "name": "UK in a Changing Europe",
    "group": "Analysis",
    "ok": true,
-   "new": 18,
+   "new": 19,
    "note": ""
   },
   {
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15585,7 +15593,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 5,
+   "new": 3,
    "note": ""
   },
   {
@@ -16321,7 +16329,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131481,
+   "signatures": 131518,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16330,7 +16338,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 118763,
+   "signatures": 118856,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16339,7 +16347,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 98147,
+   "signatures": 98299,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16348,7 +16356,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84660,
+   "signatures": 84670,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16357,7 +16365,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 74637,
+   "signatures": 74704,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16366,7 +16374,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 71850,
+   "signatures": 71926,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16375,7 +16383,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55432,
+   "signatures": 55434,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16384,7 +16392,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 50513,
+   "signatures": 50596,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16393,7 +16401,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50193,
+   "signatures": 50207,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16402,7 +16410,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44202,
+   "signatures": 44219,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16411,7 +16419,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41060,
+   "signatures": 41074,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -16420,7 +16428,7 @@
   {
    "id": 769319,
    "title": "Fund £20,000 a year (term time) wage for Teaching Assistants",
-   "signatures": 39916,
+   "signatures": 39917,
    "created": "2026-05-08T16:12:17.970Z",
    "responded": true,
    "debate": false,
