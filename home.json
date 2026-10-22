@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T06:12:52.932234+00:00",
+ "updated": "2026-10-22T07:08:56.720277+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,12 +10,46 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-22T06:12:52.932234+00:00",
+   "published": "2026-10-22T07:08:56.720277+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d8a8eddb5a49d34a",
+   "title": "John Healey vows to be a chancellor ‘who backs business’ ahead of Budget",
+   "summary": "Chancellor says he is seeking to rebuild the damaged relationship between Labour and business",
+   "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-business-b3071198.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T07:03:13+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c75360ac724bd2d9",
+   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-22T06:24:59+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -144,6 +178,21 @@
    "countries": []
   },
   {
+   "id": "65a5b1875b0ed16a",
+   "title": "Is an 'AI war' complicating your job search?",
+   "summary": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-22T05:01:31+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "7301a83a7243c540",
    "title": "‘Devolution and social care are inextricably linked’",
    "summary": "Andy Burnham has pulled no punches on big ideas and large-scale policy change since coming to office. On… The post ‘Devolution and social care are inextricably linked’ appeared first on LabourList .",
@@ -253,19 +302,23 @@
    "countries": []
   },
   {
-   "id": "c75360ac724bd2d9",
-   "title": "What is PHP and why did it spark a global cyber-security scramble?",
-   "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "id": "12548ba8fa52e170",
+   "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+   "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region.",
+   "url": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
-   "published": "2026-10-22T03:48:50+00:00",
+   "published": "2026-10-22T02:09:21+00:00",
    "dateonly": false,
    "parties": [],
-   "topics": [],
+   "topics": [
+    "Defence"
+   ],
    "tax": [],
-   "countries": []
+   "countries": [
+    "Russia"
+   ]
   },
   {
    "id": "7b5634c32d312766",
@@ -286,13 +339,28 @@
   },
   {
    "id": "efb6ee083347fe4d",
-   "title": "'Millions' of exploitation attempts since 'critical' security flaw affecting websites emerged",
+   "title": "'Millions' of exploitation attempts since security flaw affecting websites emerged",
    "summary": "There have been \"millions\" of exploitation attempts since a \"critical\" security flaw affecting websites around the world emerged, according to a major tech company.",
    "url": "https://news.sky.com/story/disruption-from-critical-flaw-in-websites-could-spread-in-coming-days-experts-warn-13602102",
    "source": "Sky News Business",
    "group": "Economy news",
    "party_voice": "",
    "published": "2026-10-22T02:00:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1fcea66a1e3f52ae",
+   "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+   "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
+   "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T01:17:25+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -569,6 +637,21 @@
    "group": "Economy news",
    "party_voice": "",
    "published": "2026-10-21T21:49:07+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1e3f8a359ea69687",
+   "title": "Angry scenes and protests at Senedd as Reform call for ban on Muslim face coverings",
+   "summary": "It is the latest heated debate in the Senedd on a Wednesday prompted by Reform MSs.",
+   "url": "https://www.bbc.co.uk/news/articles/cmd7qrew7z72o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T21:45:57+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -876,6 +959,23 @@
    "published": "2026-10-21T17:04:13+00:00",
    "dateonly": false,
    "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a97139575b604d4c",
+   "title": "Hull MP has the Labour whip restored",
+   "summary": "Karl Turner is back in the parliamentary party after his suspension for criticising the government.",
+   "url": "https://www.bbc.co.uk/news/articles/cmq8n3kdnq9vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T16:58:42+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
    "topics": [],
    "tax": [],
    "countries": []
@@ -1513,6 +1613,23 @@
    "published": "2026-10-21T12:21:11Z",
    "parties": [],
    "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "77e81d36a4a05a60",
+   "title": "Who are the losers from the budget?",
+   "summary": "👉Listen to Politics at Sam and Anne's on your podcast app👈",
+   "url": "https://news.sky.com/story/who-are-the-losers-from-the-budget-13601894",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-21T12:05:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
    "tax": [],
    "countries": []
   },
@@ -15427,129 +15544,6 @@
     "Ukraine",
     "United States"
    ]
-  },
-  {
-   "id": "b6386e0f177735c9",
-   "title": "‘Playing it safe on Europe is the riskiest thing Labour can do’",
-   "summary": "A Westminster Hall Debate on Monday, October 12, will discuss the UK’s application to join the EU, triggered… The post ‘Playing it safe on Europe is the riskiest thing Labour can do’ appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/playing-it-safe-on-europe-is-the-riskiest-thing-labour-can-do/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-10T13:00:23+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d324f6992f5642c7",
-   "title": "Money Box",
-   "summary": "What age will you get your state pension?",
-   "url": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-10T11:30:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
-   "id": "cbe8f17b673c1e45",
-   "title": "Further taxes on warehouses ruled out ahead of budget after M&S and John Lewis issue warnings",
-   "summary": "Further taxes on warehouses have been ruled out by the chancellor ahead of the budget, Sky News understands, after a warning was issued the boss of a high street giant.",
-   "url": "https://news.sky.com/story/ms-and-john-lewis-bosses-warn-chancellor-over-business-rates-ahead-of-budget-13597209",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-10T11:10:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "9ff8e001fb63e28d",
-   "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
-   "summary": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion.",
-   "url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-10T11:09:16+00:00",
-   "dateonly": false,
-   "parties": [
-    "Green Party"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "eee5f7cfcdcdd779",
-   "title": "‘Jack Charlton and Labour’s rural tradition’",
-   "summary": "As the Member of Parliament for Blyth and Ashington, I represent communities that helped build both the Labour… The post ‘Jack Charlton and Labour’s rural tradition’ appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/jack-charlton-and-labours-rural-tradition/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-10T09:00:33+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d9d7d8648ddbbfef",
-   "title": "Irish property group in talks about rescue deal for Poundland",
-   "summary": "The privately owned Irish company which this week finalised the purchase of NCP, the car parks giant, has emerged as the mystery party backing Poundland's bosses as they race to agree a takeover of the discount retailer.",
-   "url": "https://news.sky.com/story/irish-property-group-in-talks-about-rescue-deal-for-poundland-13597114",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-10T06:26:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Ireland"
-   ]
-  },
-  {
-   "id": "7d6648536021c999",
-   "title": "Boots has a new owner: Three ways it could affect you",
-   "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
-   "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-09T23:01:14+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Canada"
-   ]
   }
  ],
  "feeds": [
@@ -15557,21 +15551,21 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15592,21 +15586,21 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -15655,7 +15649,7 @@
    "name": "Tax Policy Associates",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 11,
+   "new": 10,
    "note": ""
   },
   {
@@ -16323,7 +16317,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131362,
+   "signatures": 131370,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16332,7 +16326,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 118615,
+   "signatures": 118625,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16341,7 +16335,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 97860,
+   "signatures": 97873,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16350,7 +16344,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84623,
+   "signatures": 84626,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16359,7 +16353,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 74495,
+   "signatures": 74511,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16368,7 +16362,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 71554,
+   "signatures": 71573,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16386,7 +16380,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50143,
+   "signatures": 50145,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16395,7 +16389,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 50046,
+   "signatures": 50106,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16404,7 +16398,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44149,
+   "signatures": 44151,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16413,7 +16407,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 40978,
+   "signatures": 40983,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
