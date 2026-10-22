@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T13:06:12.610720+00:00",
+ "updated": "2026-10-22T15:52:24.896595+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,93 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-22T13:06:12.610720+00:00",
+   "published": "2026-10-22T15:52:24.896595+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "06d6e2eff1484c7e",
+   "title": "Council vows support for 'Toxic Town' public inquiry",
+   "summary": "Martin Griffiths, Reform-UK Leader of North Northants Council, says: \"We have nothing to hide.\"",
+   "url": "https://www.bbc.co.uk/news/articles/cqwyrp8yr23ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T15:35:59+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d26b0e40a06b8de2",
+   "title": "Four London councils challenge funding reforms",
+   "summary": "Three Tory and one Liberal Democrat-led councils are officially challenging government funding changes.",
+   "url": "https://www.bbc.co.uk/news/articles/cvze4692lxp1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T15:35:09+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "781d205529cc0d61",
+   "title": "PM puts communities first in government investment rules shake up",
+   "summary": "Partnership with local leaders shows No10 North in action putting power back into communities",
+   "url": "https://www.gov.uk/government/news/pm-puts-communities-first-in-government-investment-rules-shake-up",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "news_story",
+   "party_voice": "",
+   "published": "2026-10-22T15:34:37Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1632c9e61c0d1343",
+   "title": "UK regional trade in goods statistics disaggregated by smaller geographical areas: 2025",
+   "summary": "International trade in goods data at summary product and country level, by UK areas smaller than ITL1.",
+   "url": "https://www.gov.uk/government/statistics/announcements/uk-regional-trade-in-goods-statistics-disaggregated-by-smaller-geographical-areas-2025",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "official_statistics_announcement",
+   "party_voice": "",
+   "published": "2026-10-22T15:27:18Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7d53c7fea30ceb13",
+   "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
+   "summary": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said Tell us: have you been affected by the PHP code flaw? The Office for National Statistics has also published a report on the gender pay gap . It says: The gender pay gap…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T15:14:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
    ],
    "tax": [],
    "countries": []
@@ -28,7 +110,7 @@
    "group": "Government",
    "kind": "guidance",
    "party_voice": "",
-   "published": "2026-10-22T13:06:00Z",
+   "published": "2026-10-22T15:11:32Z",
    "parties": [],
    "topics": [
     "Tax and spending"
@@ -39,38 +121,53 @@
    "countries": []
   },
   {
-   "id": "7bac4f9a99cfbce2",
-   "title": "Andy Burnham to become first prime minister to join Celebrity Gogglebox",
-   "summary": "Labour leader was filmed in 10 Downing Street alongside his old friend Steve Rotheram, the Mayor of Liverpool",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-celebrity-gogglebox-cancer-b3071482.html",
-   "source": "Independent Politics",
+   "id": "f049733ff177eef7",
+   "title": "'I wasn't thinking straight' says five jobs civil servant",
+   "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+   "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-22T15:05:47+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9c3ade6e784f95ff",
+   "title": "Police should not be scared to wade in to stop wrongdoing, says Badenoch",
+   "summary": "The Tory leader calls for more support for police officers and the public when they step in to help.",
+   "url": "https://www.bbc.co.uk/news/articles/cj5yn079w7pro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-22T13:05:14+00:00",
+   "published": "2026-10-22T14:55:50+00:00",
    "dateonly": false,
    "parties": [
-    "Labour"
+    "Conservative"
    ],
    "topics": [
-    "Elections",
     "Party leadership"
    ],
    "tax": [],
    "countries": []
   },
   {
-   "id": "468b6f8e5d56a62c",
-   "title": "Reform UK and Greens no longer considered main parties, stark new poll shows",
-   "summary": "Voters appear to be losing confidence in the idea that Nigel Farage would lead a government as prime minister",
-   "url": "https://www.independent.co.uk/news/uk/politics/reform-greens-farage-main-party-yougov-poll-b3071481.html",
+   "id": "7bac4f9a99cfbce2",
+   "title": "Andy Burnham to become first prime minister to join Celebrity Gogglebox",
+   "summary": "Labour leader was filmed in 10 Downing Street alongside his old friend Steve Rotheram, the mayor of Liverpool",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-celebrity-gogglebox-cancer-b3071482.html",
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-22T12:55:49+00:00",
+   "published": "2026-10-22T14:38:05+00:00",
    "dateonly": false,
    "parties": [
-    "Reform UK",
-    "Green Party"
+    "Labour"
    ],
    "topics": [
     "Elections",
@@ -87,7 +184,7 @@
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-22T12:54:36+00:00",
+   "published": "2026-10-22T14:28:59+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
@@ -97,18 +194,153 @@
    "countries": []
   },
   {
-   "id": "7d53c7fea30ceb13",
-   "title": "Minister says 32 government services offline due to PHP code flaw – UK politics live",
-   "summary": "Organisations around the world scrambling to fix a critical security flaw in the programming language PHP used by the majority of websites The Office for National Statistics has also published a report on the gender pay gap . It says: The gender pay gap for full-time employees has continued to…",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-   "source": "Guardian Politics",
+   "id": "be8e49222a7fcc79",
+   "title": "Post Office to launch first TV ads since Horizon scandal",
+   "summary": "The Post Office is to spend millions of pounds on its first television ads since the Horizon IT scandal, as it seeks to raise awareness of its range of bankjng services during a critical period for the state-owned company.",
+   "url": "https://news.sky.com/story/post-office-to-launch-first-tv-ads-since-horizon-scandal-13602318",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-22T14:23:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "98930ea22413a4fa",
+   "title": "Ten councillors quit after leader's fraud conviction",
+   "summary": "Jason Zadrozny was found guilty of defrauding the county council out of thousands of pounds.",
+   "url": "https://www.bbc.co.uk/news/articles/c674p078v013o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-22T12:48:10+00:00",
+   "published": "2026-10-22T14:06:51+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
-    "Economy"
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "bbdce8c5ccd33ddc",
+   "title": "Tank barrel production returns to UK after 20 years",
+   "summary": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
+   "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-22T13:45:19+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3b7c49c2a32b4a1e",
+   "title": "Starmer could be summoned to give evidence at grooming gangs inquiry",
+   "summary": "The former PM has been given core participant status in the inquiry",
+   "url": "https://www.independent.co.uk/news/uk/politics/starmer-grooming-gangs-inquiry-b3071509.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T13:43:24+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "91a852a1ecea263c",
+   "title": "UK must prepare for infrastructure attacks by hostile states, says Streeting",
+   "summary": "Warning by defence secretary comes as he opens a tank gun barrel factory in the West Midlands Business live – latest updates The defence secretary, Wes Streeting, has said Britain should prepare for the threat of “state-sponsored terrorism” by hostile powers targeting everyday infrastructure as…",
+   "url": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T13:38:22+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e1b11e0a7f5d383e",
+   "title": "Sign in to the outgoing Trader Support Service (TSS)",
+   "summary": "If you signed up for the outgoing Trader Support Service before 14 October 2026, you can use this service to manage goods movements and add users to your account.",
+   "url": "https://www.gov.uk/guidance/trader-support-service",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-22T13:32:47Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a6551777cd5c0adf",
+   "title": "Rosebank row: will Labour block the oilfield? – podcast",
+   "summary": "The government has given the go-ahead for the Jackdaw gasfield, but that was the easy part. The next big headache is the Rosebank oilfield. The energy secretary, Miatta Fahnbulleh, has indicated she might reject this licence because of the project’s expected environmental impact, but could Andy…",
+   "url": "https://www.theguardian.com/politics/audio/2026/oct/22/rosebank-row-will-labour-block-the-oilfield-podcast",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T13:24:13+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "468b6f8e5d56a62c",
+   "title": "Reform UK and Greens no longer considered main parties, stark new poll shows",
+   "summary": "Voters appear to be losing confidence in the idea that Nigel Farage would lead a government as prime minister",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-greens-farage-main-party-yougov-poll-b3071481.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T13:09:34+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK",
+    "Green Party"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b1e7d11a118f2a68",
+   "title": "Three-quarters of small business owners delay having kids or buying houses over tax fears",
+   "summary": "More than half of firms surveyed say they’ll respond to a bad Budget by raising prices",
+   "url": "https://www.independent.co.uk/news/business/tax-ni-budget-sme-founders-owners-property-children-b3071315.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T13:08:52+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
    ],
    "tax": [],
    "countries": []
@@ -172,23 +404,6 @@
    "dateonly": false,
    "parties": [],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "bbdce8c5ccd33ddc",
-   "title": "Tank barrel production returns to UK after 20 years",
-   "summary": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
-   "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-22T12:14:19+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Defence"
-   ],
    "tax": [],
    "countries": []
   },
@@ -263,24 +478,6 @@
    "countries": []
   },
   {
-   "id": "98930ea22413a4fa",
-   "title": "Ten councillors quit after leader's fraud conviction",
-   "summary": "Jason Zadrozny was found guilty of defrauding the county council out of thousands of pounds.",
-   "url": "https://www.bbc.co.uk/news/articles/c674p078v013o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T11:25:45+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "c75360ac724bd2d9",
    "title": "What is PHP and why did it spark a global cyber-security scramble?",
    "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
@@ -320,6 +517,21 @@
    "kind": "guidance",
    "party_voice": "",
    "published": "2026-10-22T10:46:04Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fb57c70b0f26155a",
+   "title": "Stock up to survive 'extreme weather and cyber attacks', government urges",
+   "summary": "The UK is urging households to stock up enough emergency supplies to survive for three days in a crisis as part of a new campaign to strengthen national resilience.",
+   "url": "https://news.sky.com/story/government-launches-new-push-to-prepare-uk-for-emergencies-and-hostile-acts-13602203",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T10:09:00+00:00",
+   "dateonly": false,
    "parties": [],
    "topics": [],
    "tax": [],
@@ -989,6 +1201,23 @@
    "parties": [],
    "topics": [
     "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "89c8bfb0f94f668c",
+   "title": "Budget 2026: what should we expect?",
+   "summary": "",
+   "url": "https://ifs.org.uk/articles/budget-2026-what-should-we-expect",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-22T00:00:00+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
    ],
    "tax": [],
    "countries": []
@@ -4264,8 +4493,8 @@
    "title": "Jobless rate falls but small firms cut back hiring",
    "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
    "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-20T11:26:48+00:00",
    "dateonly": false,
@@ -11871,23 +12100,6 @@
    ]
   },
   {
-   "id": "e1b11e0a7f5d383e",
-   "title": "Sign up for the Trader Support Service (TSS)",
-   "summary": "If you move goods in or out of Northern Ireland the Trader Support Service (TSS) can support you with the customs arrangements.",
-   "url": "https://www.gov.uk/guidance/trader-support-service",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-14T13:50:38Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Ireland"
-   ]
-  },
-  {
    "id": "9ac5bba82b91b93d",
    "title": "A new chief executive at the Government Internal Audit Agency",
    "summary": "Paul Wallek has been appointed as chief executive for the Government Internal Audit Agency (GIAA)",
@@ -15282,231 +15494,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "8bef86f362842150",
-   "title": "HMT Preston guidance",
-   "summary": "This series brings together all documents relating to HMT Preston guidance",
-   "url": "https://www.gov.uk/government/collections/preston-guidance",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-10-12T09:33:44Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b28f51950cc0355d",
-   "title": "Preston guidance: September 2026",
-   "summary": "Preston factors (earnings and interest factors) are provided for employers.",
-   "url": "https://www.gov.uk/government/publications/preston-guidance-september-2026",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-12T09:33:35Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d9809bb0c8cc1f6a",
-   "title": "How to avoid getting stung if you miss credit card payments",
-   "summary": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
-   "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-12T09:11:46+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "11a55d843dc421aa",
-   "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-   "summary": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
-   "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-12T08:50:22+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2fa1a59f0aecd566",
-   "title": "Burnham says it is 'clear' Russia interfered with Brexit vote",
-   "summary": "The prime minister says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
-   "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-12T08:38:43+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections",
-    "Party leadership",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "09fab27d7ac9b0b5",
-   "title": "Income Record Viewer for agents: service availability and issues",
-   "summary": "Check the availability and any issues affecting the Income Record Viewer for agents service.",
-   "url": "https://www.gov.uk/government/publications/income-record-viewer-for-agents-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-12T08:12:01Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ec4750dca23d9b9e",
-   "title": "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
-   "summary": "The education minister has warned it would immediately cost his department £20m a year at a time when it is already struggling to balance its budget.",
-   "url": "https://www.bbc.co.uk/news/articles/crkg78q7yz41o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-12T08:09:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "92cb828cf83a8294",
-   "title": "From pace-setter to laggard: Brexit and the British car industry",
-   "summary": "Oleksandr Shepotylo explains how Brexit has significantly hurt the UK car industry, and argues that upcoming EU trade rule changes could cause... The post From pace-setter to laggard: Brexit and the British car industry appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/from-pace-setter-to-laggard-brexit-and-the-british-car-industry/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-12T08:00:38+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8995e1d474934972",
-   "title": "‘Dereliction of duty’ not to seek closer ties with EU, Andy Burnham to tells MPs",
-   "summary": "The prime minister will call on all parties to support the government’s EU approach",
-   "url": "https://www.independent.co.uk/news/uk/politics/brexit-andy-burnham-eu-mps-commons-speech-b3065005.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-12T07:53:09+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "cc70a9dda99d5496",
-   "title": "AI is less regulated than milk, says Microsoft president",
-   "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
-   "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-12T07:47:37+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e73d67d1dccd8c1e",
-   "title": "Burnham becomes first PM to confirm Russian interference in Brexit vote",
-   "summary": "Prime minister has left the door open to the UK rejoining the EU",
-   "url": "https://www.independent.co.uk/news/uk/politics/burnham-brexit-russian-interference-putin-eu-b3064955.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-12T07:22:35+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "734814e2f7a1fa39",
-   "title": "Raise taxes or cuts benefits to fill £35bn Budget hole, Healey warned",
-   "summary": "The Institute for Fiscal Studies warned the chancellor against making the Budget ‘a work of fiction’",
-   "url": "https://www.independent.co.uk/news/uk/politics/budget-inflation-ifs-chancellor-john-healey-b3064829.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-12T07:12:24+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4da82af6b876508c",
-   "title": "The latest seats up for grabs for wannabe Tory candidates",
-   "summary": "It’s that time again. A few days defined by stress, ambition or frustration. I am, of course, referring to the latest tranche of seats that are to be contested. The post The latest seats up for grabs for wannabe Tory candidates appeared first on Conservative Home .",
-   "url": "https://conservativehome.com/2026/10/12/the-latest-seats-up-for-grabs-for-wannabe-tory-candidates/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-12T06:00:58+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15514,28 +15501,28 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 2,
    "note": ""
   },
   {
@@ -15549,14 +15536,14 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -15576,15 +15563,15 @@
   {
    "name": "UK in a Changing Europe",
    "group": "Analysis",
-   "ok": false,
-   "new": 0,
-   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "ok": true,
+   "new": 18,
+   "note": ""
   },
   {
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
@@ -15598,14 +15585,14 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 2,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Resolution Foundation",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 8,
+   "new": 7,
    "note": ""
   },
   {
@@ -15630,7 +15617,110 @@
    "note": ""
   }
  ],
- "parties": [],
+ "parties": [
+  {
+   "name": "Labour",
+   "abbr": "Lab",
+   "colour": "#d50000",
+   "seats": 404
+  },
+  {
+   "name": "Conservative",
+   "abbr": "Con",
+   "colour": "#0063ba",
+   "seats": 118
+  },
+  {
+   "name": "Liberal Democrat",
+   "abbr": "LD",
+   "colour": "#fc7d0b",
+   "seats": 71
+  },
+  {
+   "name": "Independent",
+   "abbr": "Ind",
+   "colour": "#909090",
+   "seats": 11
+  },
+  {
+   "name": "Reform UK",
+   "abbr": "RUK",
+   "colour": "#12b6cf",
+   "seats": 8
+  },
+  {
+   "name": "Scottish National Party",
+   "abbr": "SNP",
+   "colour": "#fff685",
+   "seats": 8
+  },
+  {
+   "name": "Sinn Féin",
+   "abbr": "SF",
+   "colour": "#02665f",
+   "seats": 7
+  },
+  {
+   "name": "Democratic Unionist Party",
+   "abbr": "DUP",
+   "colour": "#d46a4c",
+   "seats": 5
+  },
+  {
+   "name": "Green Party",
+   "abbr": "Green",
+   "colour": "#78b82a",
+   "seats": 5
+  },
+  {
+   "name": "Plaid Cymru",
+   "abbr": "PC",
+   "colour": "#348837",
+   "seats": 4
+  },
+  {
+   "name": "Social Democratic & Labour Party",
+   "abbr": "SDLP",
+   "colour": "#4ea268",
+   "seats": 2
+  },
+  {
+   "name": "Your Party",
+   "abbr": "YP",
+   "colour": "#ff3131",
+   "seats": 2
+  },
+  {
+   "name": "Alliance",
+   "abbr": "APNI",
+   "colour": "#cdaf2d",
+   "seats": 1
+  },
+  {
+   "name": "Restore Britain",
+   "abbr": "RB",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Speaker",
+   "abbr": "Spk",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Traditional Unionist Voice",
+   "abbr": "TUV",
+   "colour": "#0c3a6a",
+   "seats": 1
+  },
+  {
+   "name": "Ulster Unionist Party",
+   "abbr": "UUP",
+   "colour": "#a1cdf0",
+   "seats": 1
+  }
+ ],
  "elections": [
   {
    "id": "local.carmarthenshire.2026-10-22",
@@ -16231,7 +16321,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131451,
+   "signatures": 131481,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16240,7 +16330,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 118736,
+   "signatures": 118763,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16249,7 +16339,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 98054,
+   "signatures": 98147,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16258,7 +16348,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84649,
+   "signatures": 84660,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16267,7 +16357,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 74596,
+   "signatures": 74637,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16276,7 +16366,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 71777,
+   "signatures": 71850,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16294,7 +16384,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 50437,
+   "signatures": 50513,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16303,7 +16393,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50183,
+   "signatures": 50193,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16312,7 +16402,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44184,
+   "signatures": 44202,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16321,7 +16411,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41040,
+   "signatures": 41060,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -16941,7 +17031,5 @@
    "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
   }
  ],
- "problems": [
-  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
- ]
+ "problems": []
 }
