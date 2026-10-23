@@ -1,7 +1,27 @@
 {
- "updated": "2026-10-23T18:59:33.419757+00:00",
+ "updated": "2026-10-23T21:49:27.443670+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "a344deb0b7aeece1",
+   "title": "White House says the US is lifting tariffs on some Canadian goods",
+   "summary": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
+   "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-23T20:39:39+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": [
+    "United States",
+    "Canada"
+   ]
+  },
   {
    "id": "607c5012cfd4a594",
    "title": "Green councillors face Labour deadline to disown Zionism policy",
@@ -36,7 +56,7 @@
   },
   {
    "id": "6b9ec01592dd383d",
-   "title": "Trump says Burnham is 'getting it done' after Jackdaw decision",
+   "title": "Trump says Burnham 'getting it done' after Jackdaw decision",
    "summary": "The US president has praised Burnham after the government allowed gas drilling in the North Sea's Jackdaw field.",
    "url": "https://www.bbc.co.uk/news/articles/cry4x7n5yje0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
@@ -592,7 +612,7 @@
   {
    "id": "42dd1f962690c66e",
    "title": "UK government to make unprecedented intervention in setting of water bills",
-   "summary": "Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’ UK politics live – latest updates Ministers will make an unprecedented intervention in water bills and how companies prioritise investment, directing bosses to bring down costs and stop…",
+   "summary": "Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’ Ministers will make an unprecedented intervention in water bills and how companies prioritise investment, directing bosses to bring down costs and stop leaks and sewage overflows. Angela…",
    "url": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
    "source": "Guardian Politics",
    "group": "News",
@@ -1090,7 +1110,7 @@
   {
    "id": "c0417de83a3e2e85",
    "title": "Briton facing forced separation from baby son after Sweden orders his deportation",
-   "summary": "Exclusive: Photographer Simon Montgomery told ‘state’s interest in regulated immigration’ outweighs his family concerns UK politics live – latest updates Europe live – latest updates A British photographer is facing deportation from Sweden and forced separation from his 16-month-old son after…",
+   "summary": "Exclusive: Photographer Simon Montgomery told ‘state’s interest in regulated immigration’ outweighs his family concerns A British photographer is facing deportation from Sweden and forced separation from his 16-month-old son after authorities ruled in favour of the country’s immigration interests .…",
    "url": "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
    "source": "Guardian Politics",
    "group": "News",
@@ -1099,8 +1119,7 @@
    "dateonly": false,
    "parties": [],
    "topics": [
-    "Immigration",
-    "Europe"
+    "Immigration"
    ],
    "tax": [],
    "countries": [
@@ -15437,23 +15456,6 @@
    "countries": [
     "Argentina"
    ]
-  },
-  {
-   "id": "aedb0b09355eaf9b",
-   "title": "Local Housing Allowance (LHA): Help with rent for private tenants",
-   "summary": "Local Housing Allowance (LHA) sets maximum amounts private tenants can get in benefit support to help with rent",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/sn04957/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-13T16:10:04+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Housing"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15461,14 +15463,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -15482,14 +15484,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15531,7 +15533,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
@@ -16191,7 +16193,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131774,
+   "signatures": 131838,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16200,7 +16202,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119150,
+   "signatures": 119187,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16209,7 +16211,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 99239,
+   "signatures": 99377,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16218,7 +16220,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84775,
+   "signatures": 84789,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16227,7 +16229,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 75391,
+   "signatures": 75523,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16236,7 +16238,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72218,
+   "signatures": 72250,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16254,7 +16256,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 51581,
+   "signatures": 51749,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16263,7 +16265,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50246,
+   "signatures": 50257,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16272,7 +16274,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44340,
+   "signatures": 44355,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16281,20 +16283,20 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41175,
+   "signatures": 41180,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/776949"
   },
   {
-   "id": 769319,
-   "title": "Fund £20,000 a year (term time) wage for Teaching Assistants",
-   "signatures": 39927,
-   "created": "2026-05-08T16:12:17.970Z",
+   "id": 779519,
+   "title": "Reduce the retirement age for the NHS pension scheme to 60",
+   "signatures": 40519,
+   "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
-   "url": "https://petition.parliament.uk/petitions/769319"
+   "url": "https://petition.parliament.uk/petitions/779519"
   }
  ],
  "indicators": [
