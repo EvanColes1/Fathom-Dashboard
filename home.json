@@ -1,7 +1,109 @@
 {
- "updated": "2026-10-23T15:55:36.914800+00:00",
+ "updated": "2026-10-23T18:59:33.419757+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "607c5012cfd4a594",
+   "title": "Green councillors face Labour deadline to disown Zionism policy",
+   "summary": "Green leaders have been given until Sunday to disown their party's \"Zionism is racism\" conference vote.",
+   "url": "https://www.bbc.co.uk/news/articles/c81dwz4ygz94o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-23T17:37:14+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8c8087c94b5ce052",
+   "title": "Regional and National Economic Indicators",
+   "summary": "A summary of the latest economic indicators for the regions and nations of the UK.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn06924/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-23T17:30:02+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6b9ec01592dd383d",
+   "title": "Trump says Burnham is 'getting it done' after Jackdaw decision",
+   "summary": "The US president has praised Burnham after the government allowed gas drilling in the North Sea's Jackdaw field.",
+   "url": "https://www.bbc.co.uk/news/articles/cry4x7n5yje0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-23T17:27:20+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "3bb59155dc39457e",
+   "title": "‘Realistic and reassuring’: UK public ‘responding calmly’ to Be Ready campaign",
+   "summary": "Government’s emergency planning advice has sparked sales of essentials but no panic stockpiling, say prepping shop owners When the UK government launched its “Protect and Survive” public information campaign in 1980 on how to stay alive after a nuclear attack, it was met with a combination of…",
+   "url": "https://www.theguardian.com/society/2026/oct/23/realistic-and-reassuring-uk-public-responding-calmly-to-be-ready-campaign",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-23T17:22:18+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c06457a80920d0cf",
+   "title": "Government Bills introduced each session by department",
+   "summary": "Government bills introduced since the beginning of the 1997-98 session, including bill title, introduction date, House and sponsoring department.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02276/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-23T17:14:44+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "589755569a70dada",
+   "title": "Burnham says he will ‘make no apology’ for Celebrity Gogglebox appearance",
+   "summary": "The Prime Minister said he is trying to ‘lead with a bit of lightness’",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-gogglebox-criticism-channel-4-b3072420.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-23T17:00:02+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "9ec8e22bd8c8e17d",
    "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
@@ -10,11 +112,210 @@
    "source": "BBC Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-23T15:43:30+00:00",
+   "published": "2026-10-23T16:58:14+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
     "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "de71eb6ac926b3d9",
+   "title": "Gross domestic product (GDP): Economic indicators",
+   "summary": "GDP measures the size of the economy. Find the latest GDP data for the UK and updated forecasts for GDP growth.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02783/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-23T16:53:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5f5829e6d474c4a9",
+   "title": "Donald Trump says ‘Andy is getting it done’ as US president claims UK ‘opening up North Sea oil’",
+   "summary": "‘Andy is getting it done, and I guess it’s against the liberal principle, but he knows what’s right. It’s going to make UK a very wealthy country’, the US president said",
+   "url": "https://www.independent.co.uk/news/uk/politics/trump-andy-burnham-north-sea-oil-jackdaw-rosebank-b3072414.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-23T16:50:25+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "2e0bd4acb1f0fabb",
+   "title": "Police yet to receive £2m after A66 crash, says commissioner",
+   "summary": "Cleveland Police and Crime Commissioner Matt Storey says it has been nearly two months since force was promised the cash.",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lzl0ydy8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-23T16:48:02+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9c4b47b27a893e68",
+   "title": "Reform UK braces for Farage standards verdict over undeclared £5m gift",
+   "summary": "Party insiders say they expect initial verdict to be against leader and are preparing to appeal against adverse findings Nigel Farage’s Reform is braced for a negative report from the standards commissioner over his failure to declare a £5m gift from the crypto billionaire Christopher Harborne and…",
+   "url": "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-23T16:45:14+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fb34455cd42935ba",
+   "title": "Wales plans to ban steel pylons as government launches consultation",
+   "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
+   "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-23T16:44:13+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9facb364c5cbd9f7",
+   "title": "Jackdaw gas field gets green light",
+   "summary": "Energy Secretary green lights Jackdaw gas field, as Chancellor announces new Energy Wealth Fund.",
+   "url": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
+   "source": "DESNZ",
+   "group": "Government",
+   "kind": "press_release",
+   "party_voice": "",
+   "published": "2026-10-23T16:30:25Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2d7d339b2700bf17",
+   "title": "Remediating cladding on blocks of flats under 11 metres",
+   "summary": "How and why buildings under 11 m in height are treated differently to buildings over 11 m in height and what leaseholders can do if they have concerns.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10678/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-23T16:26:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f9c1cb5290442e39",
+   "title": "Delivery of council housing",
+   "summary": "A Westminster Hall debate has been scheduled for 27 October 2026 on the delivery of council housing. The debate will be opened by Carla Lockhart MP.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12246/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-23T16:11:43+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "805c0344dddaf0f6",
+   "title": "Opposition day debates in the House of Commons since 1992",
+   "summary": "An opposition day is one on which an opposition party sets the agenda. Dates of debates, parties choosing the subject and the outcome of each debate are listed.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn06315/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-23T16:07:43+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c516881ae589d1ef",
+   "title": "Urgent questions in the House of Commons since 1997",
+   "summary": "Urgent questions asked from the beginning of the 1997-98 session, including the title, date and names of the Speaker granting, MP asking and minister responding.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-8344/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-23T15:54:24+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c10168a46a8a4b3a",
+   "title": "Manufacturing industries: Economic indicators",
+   "summary": "Manufacturing is one of the production industries. Find the latest data on the activity of the UK manufacturing sector.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn05206/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-23T15:37:40+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a2d4a628dd4d7d69",
+   "title": "Nigel Farage would lose head-to-head contest to every other political leader except Zack Polanski, poll shows",
+   "summary": "Reform leader even beaten by the head of the party that has outflanked his on the right, Restore’s Rupert Lowe",
+   "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-leader-poll-polanski-green-b3072281.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-23T15:36:49+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK",
+    "Green Party"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership"
    ],
    "tax": [],
    "countries": []
@@ -339,21 +640,6 @@
    "countries": []
   },
   {
-   "id": "fb34455cd42935ba",
-   "title": "Wales plans to ban steel pylons as government launches consultation",
-   "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
-   "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T13:26:02+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "1f7811eab9a8c999",
    "title": "Burnham fails to commit to bringing in Mahmood’s immigration reforms in full after cabinet backlash",
    "summary": "The prime minister said that the government would ‘come forward with our decisions soon’ following a consultation",
@@ -436,7 +722,7 @@
   {
    "id": "8b18fe99540508c6",
    "title": "Andy Burnham says he has emergency stockpile of beans, soup and Twiglets",
-   "summary": "PM’s revelation follows launch of advice for households to have enough water and food to get by in civil emergency UK politics live – latest updates Andy Burnham has said he has stockpiles of beans, soup and Twiglets in case of a civil emergency, as he said a new government campaign was not a…",
+   "summary": "PM’s revelation follows launch of advice for households to have enough water and food to get by in civil emergency Andy Burnham has said he has stockpiles of beans, soup and Twiglets in case of a civil emergency, as he said a new government campaign was not a reason for panic buying. The prime…",
    "url": "https://www.theguardian.com/society/2026/oct/23/andy-burnham-emergency-stockpile-twiglets",
    "source": "Guardian Politics",
    "group": "News",
@@ -4666,24 +4952,6 @@
    "countries": []
   },
   {
-   "id": "f9c1cb5290442e39",
-   "title": "Delivery of council housing",
-   "summary": "A Westminster Hall debate has been scheduled for 27 October 2026 on the delivery of council housing. The debate will be opened by Carla Lockhart MP.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12246/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-21T10:16:41+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections",
-    "Housing"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "a957ff6167f2aa71",
    "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
    "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
@@ -5076,23 +5344,6 @@
    "party_voice": "",
    "published": "2026-10-21T06:30:28+00:00",
    "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "9facb364c5cbd9f7",
-   "title": "Jackdaw gas field gets green light",
-   "summary": "Energy Secretary green lights Jackdaw gas field, as Chancellor announces new Energy Wealth Fund.",
-   "url": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
-   "source": "DESNZ",
-   "group": "Government",
-   "kind": "press_release",
-   "party_voice": "",
-   "published": "2026-10-21T06:29:00Z",
    "parties": [],
    "topics": [
     "Tax and spending"
@@ -11893,21 +12144,6 @@
    ]
   },
   {
-   "id": "c516881ae589d1ef",
-   "title": "Urgent questions in the House of Commons since 1997",
-   "summary": "Urgent questions asked from the beginning of the 1997-98 session, including the title, date and names of the Speaker granting, MP asking and minister responding.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-8344/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-15T15:42:05+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "0e91fdf9e974a2b8",
    "title": "Top health official urged to recuse herself from private ADHD crackdown over ties to industry",
    "summary": "Exclusive: Four MPs raise conflict of interest concerns over Samantha Jones’s past links to a big provider of ADHD assessments A senior civil servant should play no part in ministers’ crackdown on private attention deficit hyperactivity disorder and autism clinics because of her recent ties to the…",
@@ -12311,23 +12547,6 @@
     "Labour"
    ],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "de71eb6ac926b3d9",
-   "title": "Gross domestic product (GDP): Economic indicators",
-   "summary": "GDP measures the size of the economy. Find the latest GDP data for the UK and updated forecasts for GDP growth.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02783/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-15T12:37:10+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
    "tax": [],
    "countries": []
   },
@@ -15235,218 +15454,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "207919ef21a55acb",
-   "title": "Regulator would quit over Man City interference",
-   "summary": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T16:00:18+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f89ae431d31769c2",
-   "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-   "summary": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-13T15:59:07+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c3ad979b64120edc",
-   "title": "NI company in talks to save Poundland from administration",
-   "summary": "Poundland says Martin Property Group from Londonderry is the management team's \"preferred partner\"",
-   "url": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-13T15:44:45+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d6d4853b8f487890",
-   "title": "AI could give terrorists access to bioweapons if guardrails fail – MI5 chief",
-   "summary": "Sir Ken McCallum gave his annual speech on threats to the UK at Thames House on Tuesday.",
-   "url": "https://www.independent.co.uk/news/uk/politics/mi5-national-cyber-security-centre-national-crime-agency-ukraine-ann-widdecombe-b3065877.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T15:17:40+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7de84b58d89f2178",
-   "title": "Russia did try to interfere in Brexit referendum, head of MI5 confirms",
-   "summary": "Ken McCallum says Kremlin attempted to influence vote through social media and TV reports but had little impact Russia did try to interfere in the Brexit referendum through social media and television reports, the head of MI5 said on Tuesday, but he added that did not mean the Kremlin had any…",
-   "url": "https://www.theguardian.com/politics/2026/oct/13/russia-brexit-eu-referendum-interference-mi5",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T15:15:45+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "32d2bbd84849804e",
-   "title": "The Sabrina Carpenter clip that helped a 22-year-old make £120,000 a year",
-   "summary": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
-   "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-13T15:12:38+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "03bef1655289effb",
-   "title": "Farage denies Reform would let troops shoot small boats after Jenrick’s ‘lethal force’ claim",
-   "summary": "Farage’s intervention comes as Reform chair Zia Yusuf criticises ‘everybody’ in former Tory government that included Jenrick and Suella Braverman Nigel Farage has denied that a Reform UK government would authorise lethal force against small boat crossings in the Channel, hours after one of his MPs…",
-   "url": "https://www.theguardian.com/politics/2026/oct/13/nigel-farage-reform-robert-jenrick-small-boats-royal-marines-lethal-force",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T14:49:23+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative",
-    "Reform UK"
-   ],
-   "topics": [
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "9e4f7625582d887e",
-   "title": "11. Cash accounting",
-   "summary": "What cash accounting is and how it is affected by insolvency.",
-   "url": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook/11-cash-accounting",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual_section",
-   "party_voice": "",
-   "published": "2026-10-13T14:17:36Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "40306f571cb812c8",
-   "title": "Leonardo Fennell: What does Ed Sheeran teach us about cancel culture?",
-   "summary": "But there is hope in the fact that this is not ultimately a problem belonging to the left or the right. If cancel culture grows from our tendency to see ourselves as morally righteous and our opponents as morally corrupt, then the corrective is available to everyone. The post Leonardo Fennell: What…",
-   "url": "https://conservativehome.com/2026/10/13/leonardo-fennell-what-does-ed-sheeran-teach-us-about-cancel-culture/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-13T14:00:46+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4f566a6df6620ae4",
-   "title": "Royal Marine forced to test military drone in garden pond, Wes Streeting claims",
-   "summary": "The Defence Secretary applauded the innovation but slammed the ‘regulatory handcuffs’ that stood in the way",
-   "url": "https://www.independent.co.uk/news/uk/politics/wes-streeting-marines-uk-defence-testing-b3065904.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T13:45:28+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Defence"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e5b67ae3a28345eb",
-   "title": "Ed Miliband ‘approves new drilling in Falklands oil field’",
-   "summary": "The decision will likely further deteriorate relations between Britain and Argentina",
-   "url": "https://www.independent.co.uk/news/uk/politics/ed-miliband-falklands-oil-field-drilling-b3065906.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T13:35:02+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Argentina"
-   ]
-  },
-  {
-   "id": "380df4646db8f60e",
-   "title": "HMRC statistics: pre-release access list",
-   "summary": "HM Revenue and Customs' record of those who have pre-release access to Official Statistics.",
-   "url": "https://www.gov.uk/government/statistics/hmrc-statistics-pre-release-access-list",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "official_statistics",
-   "party_voice": "",
-   "published": "2026-10-13T13:30:06Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d2f1dc6d459d27c0",
-   "title": "Chancellor call with Vice Premier He Lifeng of China: 8 October 2026",
-   "summary": "The Chancellor of the Exchequer spoke to Vice Premier He Lifeng of China on Thursday 8 October.",
-   "url": "https://www.gov.uk/government/news/chancellor-call-with-vice-premier-he-lifeng-of-china-8-october-2026",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "news_story",
-   "party_voice": "",
-   "published": "2026-10-13T13:22:15Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": [
-    "China"
-   ]
   }
  ],
  "feeds": [
@@ -15454,49 +15461,49 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15524,7 +15531,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 3,
+   "new": 5,
    "note": ""
   },
   {
@@ -16184,7 +16191,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131721,
+   "signatures": 131774,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16193,7 +16200,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119115,
+   "signatures": 119150,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16202,7 +16209,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 99075,
+   "signatures": 99239,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16211,7 +16218,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84753,
+   "signatures": 84775,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16220,7 +16227,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 75314,
+   "signatures": 75391,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16229,7 +16236,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72167,
+   "signatures": 72218,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16238,7 +16245,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55443,
+   "signatures": 55445,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16247,7 +16254,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 51354,
+   "signatures": 51581,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16256,7 +16263,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50240,
+   "signatures": 50246,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16265,7 +16272,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44319,
+   "signatures": 44340,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16274,7 +16281,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41158,
+   "signatures": 41175,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
