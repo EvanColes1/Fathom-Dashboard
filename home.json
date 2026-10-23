@@ -1,7 +1,86 @@
 {
- "updated": "2026-10-22T21:50:17.449316+00:00",
+ "updated": "2026-10-23T01:07:08.846191+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "1b41190013c3a2df",
+   "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+   "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+   "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-22T23:20:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "80af6eb4a332ec3f",
+   "title": "Grid operator says lights will stay on this winter after concerns",
+   "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+   "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-22T23:04:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9e5b3528969815bb",
+   "title": "Ed Miliband set for crucial talks in Turkey over Strait of Hormuz crisis and Houthi attacks on Saudi Arabia",
+   "summary": "Ed Miliband will be in Turkey on Friday for the vital talks",
+   "url": "https://www.independent.co.uk/news/uk/politics/ed-miliband-strait-of-hormuz-iran-houthi-saudi-arabia-turkey-b3071859.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T23:01:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Turkey",
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "dbe7759d106d6c4e",
+   "title": "Wes Streeting defends government ‘be-ready’ plan as Question Time audience tackle him over ‘scaremongering’",
+   "summary": "Wes Streeting defended the government’s campaign urging the public to prepare themselves for emergencies.",
+   "url": "https://www.independent.co.uk/tv/news/uk-government-emergency-preparedness-wes-streeting-question-time-b3071874.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-22T22:27:54+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "84738a388b9c1d27",
+   "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+   "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+   "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-22T22:27:53+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "e85a2852ba805f76",
    "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
@@ -390,6 +469,21 @@
    "countries": []
   },
   {
+   "id": "ff0a55819ab38772",
+   "title": "Winter energy supply secure but possible 'tight days' for electricity - grid operators",
+   "summary": "Britain's energy supplies are secure for winter, national grid operators have said, despite expected higher gas demand at peak times and possible \"tight days\" for electricity.",
+   "url": "https://news.sky.com/story/winter-energy-supply-secure-despite-forecast-increase-in-peak-gas-and-possible-external-events-influence-grid-operators-13602351",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-22T15:16:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "8db32c4f270d31b9",
    "title": "Making Tax Digital for Income Tax: service availability and issues",
    "summary": "Check the availability and any issues affecting the Making Tax Digital for Income Tax service.",
@@ -505,6 +599,21 @@
    "group": "Economy news",
    "party_voice": "",
    "published": "2026-10-22T14:23:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3b7622c85c91b959",
+   "title": "Objecting to gambling premises",
+   "summary": "Gambling impact assessments will give local authorities new powers to reject licence applications for gambling premises",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn06919/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-22T14:16:08+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -5012,8 +5121,8 @@
    "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
    "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
    "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-20T10:06:34+00:00",
    "dateonly": false,
@@ -15382,131 +15491,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "097202bf88bd527e",
-   "title": "Reform’s Zia Yusuf is sounding more and more like Trump every day | Zoe Williams",
-   "summary": "On the Today programme, his comments were disconnected, cliche-riddled and unremittingly stupid. But to clog the collective consciousness with nonsense is exactly the point Had Reform merely announced its intention to suspend the asylum system for an entire parliamentary term, I’d have just ignored…",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/12/reform-zia-yusuf-trump-today-programme",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-12T14:59:15+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "5deb14574606c02d",
-   "title": "Insolvency (VAT Notice 700/56)",
-   "summary": "Find out how to account for VAT and who to contact if you're an insolvency practitioner and you're appointed over insolvent VAT-registered businesses.",
-   "url": "https://www.gov.uk/guidance/insolvency-and-vat-notice-70056",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-12T14:45:28Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "f278fe6431ca938a",
-   "title": "Progress towards a smoke-free UK",
-   "summary": "A debate is scheduled for 15 October on progress towards a smoke-free UK. The subject for the debate has been chosen by the Backbench Business Committee, and the debate will be opened by Mary Kelly Foy MP.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12225/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-12T14:38:59+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "00e5fd1615b6a3a2",
-   "title": "Russia’s attempt to influence Brexit vote failed – but they still tried, Burnham says",
-   "summary": "Andy Burnham claimed it was ‘clear’ Moscow had interfered with the vote",
-   "url": "https://www.independent.co.uk/news/uk/politics/russia-brexit-andy-burnham-interference-failed-b3065212.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-12T14:35:08+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "6548d4262a58563a",
-   "title": "Heathrow Airport ‘cannot wait forever’ for third runway, Andy Burnham warned",
-   "summary": "Heathrow Airport expansion is estimated to cost £33 billion, including £1.5 billion to move the M25 to build the runway",
-   "url": "https://www.independent.co.uk/travel/news-and-advice/heathrow-airport-expansion-andy-burnham-third-runway-b3065312.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-12T14:31:17+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d358b1225dec4c22",
-   "title": "Children and women included in Reform plan to immediately deport 90,000 asylum seekers",
-   "summary": "Farage’s party says it would ‘embed’ immigration enforcement in UK and use ‘aerial imaging’ to identify people UK politics live – latest updates Children and mothers would not be exempt from plans by Reform UK to immediately deport 90,000 asylum seekers and impose a five-year ban on people being…",
-   "url": "https://www.theguardian.com/politics/2026/oct/12/children-mothers-included-reform-immediately-deport-asylum-seekers",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-12T14:24:31+00:00",
-   "dateonly": false,
-   "parties": [
-    "Reform UK"
-   ],
-   "topics": [
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7a86c9f7435d727c",
-   "title": "Amberley Thay: No, the Young Conservatives do not have a woman problem",
-   "summary": "To assume that the Young Conservatives have a women problem is highly inaccurate. Come to a YC event, come to a hustings, come to a campaign day: us young women are everywhere, you just have to open your eyes. The post Amberley Thay: No, the Young Conservatives do not have a woman problem appeared…",
-   "url": "https://conservativehome.com/2026/10/12/amberley-thay-no-the-young-conservatives-do-not-have-a-woman-problem/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-12T14:00:38+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15514,7 +15498,7 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15535,14 +15519,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
@@ -15577,14 +15561,14 @@
    "name": "UK in a Changing Europe",
    "group": "Analysis",
    "ok": true,
-   "new": 19,
+   "new": 18,
    "note": ""
   },
   {
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15735,96 +15719,6 @@
   }
  ],
  "elections": [
-  {
-   "id": "local.carmarthenshire.2026-10-22",
-   "title": "Carmarthenshire local election",
-   "date": "2026-10-22",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Carmarthenshire County Council"
-  },
-  {
-   "id": "local.carmarthenshire.saron.by.2026-10-22",
-   "title": "Carmarthenshire local election Saron by-election",
-   "date": "2026-10-22",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Carmarthenshire County Council"
-  },
-  {
-   "id": "local.east-hertfordshire.2026-10-22",
-   "title": "East Hertfordshire local election",
-   "date": "2026-10-22",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "East Hertfordshire District Council"
-  },
-  {
-   "id": "local.east-hertfordshire.hertford-kingsmead.by.2026-10-22",
-   "title": "East Hertfordshire local election Hertford Kingsmead by-election",
-   "date": "2026-10-22",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "East Hertfordshire District Council"
-  },
-  {
-   "id": "local.leeds.2026-10-22",
-   "title": "Leeds local election",
-   "date": "2026-10-22",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Leeds City Council"
-  },
-  {
-   "id": "local.leeds.calverley-farsley.by.2026-10-22",
-   "title": "Leeds local election Calverley & Farsley by-election",
-   "date": "2026-10-22",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Leeds City Council"
-  },
-  {
-   "id": "local.south-kesteven.2026-10-22",
-   "title": "South Kesteven local election",
-   "date": "2026-10-22",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "South Kesteven District Council"
-  },
-  {
-   "id": "local.south-kesteven.grantham-st-wulframs.by.2026-10-22",
-   "title": "South Kesteven local election Grantham St Wulfram's by-election",
-   "date": "2026-10-22",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "South Kesteven District Council"
-  },
-  {
-   "id": "local.wychavon.2026-10-22",
-   "title": "Wychavon local election",
-   "date": "2026-10-22",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Wychavon District Council"
-  },
-  {
-   "id": "local.wychavon.hartlebury.by.2026-10-22",
-   "title": "Wychavon local election Hartlebury by-election",
-   "date": "2026-10-22",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Wychavon District Council"
-  },
   {
    "id": "local.argyll-and-bute.2026-10-29",
    "title": "Argyll and Bute local election",
@@ -16334,7 +16228,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131558,
+   "signatures": 131568,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16343,7 +16237,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 118925,
+   "signatures": 118955,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16352,7 +16246,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 98492,
+   "signatures": 98557,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16361,7 +16255,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84674,
+   "signatures": 84685,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16370,7 +16264,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 74877,
+   "signatures": 74914,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16379,7 +16273,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 71985,
+   "signatures": 72002,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16397,7 +16291,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 50716,
+   "signatures": 50784,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16406,7 +16300,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50217,
+   "signatures": 50224,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16415,7 +16309,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44243,
+   "signatures": 44254,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16424,7 +16318,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41090,
+   "signatures": 41100,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
