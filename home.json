@@ -1,7 +1,39 @@
 {
- "updated": "2026-10-24T01:09:39.230508+00:00",
+ "updated": "2026-10-24T03:52:16.582425+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "5a074e983e0f812d",
+   "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
+   "summary": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told.",
+   "url": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-24T02:52:10+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6f6eb0ff31c8bbf4",
+   "title": "UK pledges £600m to defend against AI health and security threats",
+   "summary": "The UK has pledged to spend £600m to defend the public against threats to health and security from artificial intelligence.",
+   "url": "https://news.sky.com/story/uk-pledges-to-spend-600m-to-defend-against-ai-health-and-security-threats-13602935",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-24T02:49:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "a344deb0b7aeece1",
    "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
@@ -15411,42 +15443,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "382b9388b067bd2c",
-   "title": "MI5 chief warns against overstating Russian interference in Brexit vote",
-   "summary": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum.",
-   "url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T17:06:18+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "3cf9c18f7b8332b9",
-   "title": "Tech firms promise to take down AI platforms if British secret services show they are unsafe",
-   "summary": "OpenAI and Anthropic have promised to take down their AIs if the British secret services show them they are unsafe - activating what some describe as a \"kill switch\".",
-   "url": "https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-13T16:30:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15454,14 +15450,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16184,7 +16180,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131860,
+   "signatures": 131862,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16193,7 +16189,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119208,
+   "signatures": 119212,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16202,7 +16198,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 99432,
+   "signatures": 99447,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16211,7 +16207,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84798,
+   "signatures": 84800,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16220,7 +16216,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 75557,
+   "signatures": 75564,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16229,7 +16225,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72267,
+   "signatures": 72269,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16247,7 +16243,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 51810,
+   "signatures": 51821,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16265,7 +16261,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44363,
+   "signatures": 44364,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16274,7 +16270,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41182,
+   "signatures": 41184,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -16283,7 +16279,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 40697,
+   "signatures": 40737,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
