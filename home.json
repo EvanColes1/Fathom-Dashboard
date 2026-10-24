@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-23T21:49:27.443670+00:00",
+ "updated": "2026-10-24T01:09:39.230508+00:00",
  "government": "Labour",
  "articles": [
   {
    "id": "a344deb0b7aeece1",
-   "title": "White House says the US is lifting tariffs on some Canadian goods",
-   "summary": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
+   "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
    "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-23T20:39:39+00:00",
+   "published": "2026-10-24T00:36:47+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
@@ -21,6 +21,73 @@
     "United States",
     "Canada"
    ]
+  },
+  {
+   "id": "5a04e9b7273a0214",
+   "title": "How does the UK state pension compare with other countries?",
+   "summary": "Do British pensioners have it better or worse than those in other countries?",
+   "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-24T00:09:12+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "875bfd88d069014d",
+   "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+   "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+   "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-24T00:05:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c577545bb7c63318",
+   "title": "Andy Bloke appears vaguely normal on Gogglebox – but Kemi dodged a bullet",
+   "summary": "PM and the Liverpool mayor prove to be naturals at watching TV, with a genuine connection and sense of fun On nights like this a man can feel like he’s slipped through the looking-glass. I’m sitting on the sofa watching the TV, poised to make some gags about the prime minister and the mayor of…",
+   "url": "https://www.theguardian.com/politics/2026/oct/24/andy-bloke-appears-vaguely-normal-on-gogglebox-but-kemi-dodged-a-bullet",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-23T23:16:33+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3d0feac9968d0b68",
+   "title": "Defiant PM defends Gogglebox double act",
+   "summary": "They looked like a modern-day Morecambe and Wise. But at least they weren't sharing a bed like the famous comic duo.",
+   "url": "https://news.sky.com/story/was-pms-gogglebox-double-act-inappropriate-amid-war-alert-burnham-defends-bit-of-humour-13602916",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-23T21:53:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
   },
   {
    "id": "607c5012cfd4a594",
@@ -5225,8 +5292,8 @@
    "title": "What is happening to UK prices?",
    "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
    "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-21T08:35:47+00:00",
    "dateonly": false,
@@ -15380,82 +15447,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "ebf253523800b18e",
-   "title": "MI5 chief Ken McCallum confirms Russia did interfere in Brexit referendum but says it had little impact – as it happened",
-   "summary": "He argued there was no evidence to suggest the result of the Brexit vote had been swayed as a result of the effort Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU Zia Yusuf , Reform UK’s home affairs spokesperson, has said he does not agree with his colleague Suella…",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T16:23:21+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Reform UK"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "87cba4098e90c84f",
-   "title": "Russia did try to interfere into Brexit referendum, MI5 boss confirms",
-   "summary": "Sir Ken McCallum said the UK should not ‘play into our adversaries’ hands’ by amplifying the impact of Russian trolls",
-   "url": "https://www.independent.co.uk/news/uk/politics/russia-brexit-referendum-interference-mi5-mccallum-burnham-b3066088.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T16:22:40+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "f9a49fa0adc8ca50",
-   "title": "Exchequer Secretary to the Treasury speech at the West Midlands Growth Summit",
-   "summary": "The Exchequer Secretary to the Treasury delivered his speech at the West Midlands Growth Summit on 8 October 2026.",
-   "url": "https://www.gov.uk/government/speeches/exchequer-secretary-to-the-treasury-speech-at-the-west-midlands-growth-summit",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "speech",
-   "party_voice": "",
-   "published": "2026-10-13T16:22:29Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "05eea153a874ee7f",
-   "title": "British troops training to ‘recapture Falklands’ amid rising Argentinian hostility",
-   "summary": "Relations between the UK and Argentina have continued to sour",
-   "url": "https://www.independent.co.uk/news/uk/politics/falkland-islands-uk-troops-training-exercise-argentina-war-b3066060.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T16:10:39+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Argentina"
-   ]
   }
  ],
  "feeds": [
@@ -15463,21 +15454,21 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15491,7 +15482,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16193,7 +16184,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131838,
+   "signatures": 131860,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16202,7 +16193,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119187,
+   "signatures": 119208,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16211,7 +16202,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 99377,
+   "signatures": 99432,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16220,7 +16211,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84789,
+   "signatures": 84798,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16229,7 +16220,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 75523,
+   "signatures": 75557,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16238,7 +16229,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72250,
+   "signatures": 72267,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16247,7 +16238,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55445,
+   "signatures": 55446,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16256,7 +16247,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 51749,
+   "signatures": 51810,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16265,7 +16256,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50257,
+   "signatures": 50258,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16274,7 +16265,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44355,
+   "signatures": 44363,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16283,7 +16274,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41180,
+   "signatures": 41182,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -16292,7 +16283,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 40519,
+   "signatures": 40697,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16858,7 +16849,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-09-23",
+     "d": "2024-09-24",
      "v": 5.0
     },
     {
