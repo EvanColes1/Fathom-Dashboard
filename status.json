@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:47:49.864822+00:00",
+ "updated": "2026-10-24T18:51:34.220149+00:00",
  "feeds": [
   {
    "name": "BBC World",
@@ -12,28 +12,28 @@
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 18,
+   "new": 8,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 5,
+   "new": 3,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 7,
+   "new": 9,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -54,14 +54,14 @@
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": "via backup feed"
   },
   {
@@ -75,7 +75,7 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 7,
    "note": ""
   },
   {
@@ -131,7 +131,7 @@
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": "via backup feed"
   },
   {
@@ -173,7 +173,7 @@
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 12,
+   "new": 11,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 24,
+   "new": 20,
    "note": "via backup feed"
   },
   {
