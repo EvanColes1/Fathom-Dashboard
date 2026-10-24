@@ -1,7 +1,94 @@
 {
- "updated": "2026-10-24T09:49:03.617388+00:00",
+ "updated": "2026-10-24T12:58:24.737059+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "681a087ea6d38c4f",
+   "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
+   "summary": "Leading restaurateur says Gulf countries actively help businesses set up, while east Asia has a better work ethic Some of London’s top restaurants are opening branches in Dubai because of a “tax tsunami” in the UK and better work ethic abroad, according to a leading restaurateur. James Robson, a…",
+   "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-24T11:00:31+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "12d28c168b5ce2a3",
+   "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
+   "summary": "Lobby group’s figures, shared with John Healey, are misleading as they do not include major rival Paris, say campaigners A banking lobby group has been accused of cherrypicking data and trying to mislead the British government by claiming a tax rise for banks at next week’s budget would leave…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-24T11:00:31+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "01586cfaa6231e7c",
+   "title": "Andy Burnham has come for the headphone-dodgers. But is there any evidence fines work?",
+   "summary": "UK leaders past and present love to nudge us towards good or bad behaviour. Social scientists, though, say £100 on-the-spot fines may not prove an effective deterrent It’s a very modern phenomenon, the nuisance of people on public transport using their phones for flagrantly loud things – conference…",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/oct/24/andy-burnham-has-come-for-the-headphone-dodgers-but-is-there-any-evidence-fines-work",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-24T11:00:31+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fb34455cd42935ba",
+   "title": "Wales plans to ban steel pylons as government launches consultation",
+   "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
+   "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-24T10:04:29+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "dee5cbb81b316e44",
+   "title": "Fine ‘headphone dodgers’ if you will, but to really tackle antisocial behaviour, Britain should look to Japan | Emily Bratt",
+   "summary": "Working in Japanese schools, I saw how teaching young people civic pride creates adults with consideration for others There are two types of people who listen to music in public: those who wear headphones and those who … are a word I probably can’t use here. “ Loudcasting ” – playing audio,…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/24/headphone-dodgers-antisocial-behaviour-britain-japan",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-24T10:00:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Japan"
+   ]
+  },
   {
    "id": "1b4581127bff57ed",
    "title": "‘Our regional theatres are engines of growth. Labour should help them thrive’",
@@ -38,8 +125,8 @@
   },
   {
    "id": "26ac21f4c166e79f",
-   "title": "Can John Healey make a dent in the cost of living crisis in his first budget?",
-   "summary": "Much of the Burnham project depends on how the budget is received, as promise of ‘breathing space’ is a two-way street You be the chancellor: play our budget game to see if you can balance the books Every Sunday night, the chancellor, John Healey, slips next door to Andy Burnham’s Downing Street…",
+   "title": "Can curry nights and canny advisers help Healey deliver a budget for everyday people?",
+   "summary": "The chancellor has promised ‘breathing space’ for households and small businesses but global events cannot be ignored You be the chancellor: play our budget game to see if you can balance the books Every Sunday night, the chancellor, John Healey, slips next door to Andy Burnham’s Downing Street…",
    "url": "https://www.theguardian.com/uk-news/2026/oct/24/can-john-healey-make-a-dent-in-the-cost-of-living-crisis-in-his-first-budget",
    "source": "Guardian Politics",
    "group": "News",
@@ -50,8 +137,7 @@
     "Labour"
    ],
    "topics": [
-    "Tax and spending",
-    "Economy"
+    "Tax and spending"
    ],
    "tax": [],
    "countries": []
@@ -513,21 +599,6 @@
    "topics": [
     "Party leadership"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fb34455cd42935ba",
-   "title": "Wales plans to ban steel pylons as government launches consultation",
-   "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
-   "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T16:44:13+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -15353,80 +15424,6 @@
    "countries": [
     "China"
    ]
-  },
-  {
-   "id": "9b1b598d212f3981",
-   "title": "Burnham sends fresh message to Ukraine ahead of Zelensky visit after Trump's diesel deal with Russia",
-   "summary": "Burnham will hold talks with Zelensky on Wednesday at Downing Street",
-   "url": "https://www.independent.co.uk/news/uk/politics/burnham-zelensky-trump-russia-diesel-deal-b3066176.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T02:03:42+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "e0cc3ae4f3f2defa",
-   "title": "PM pledges 'rock-solid' support ahead of Zelenskyy visit after Trump's diesel deal with Russia",
-   "summary": "Andy Burnham will welcome Volodymyr Zelenskyy to Downing Street today in a show of support days after Donald Trump's controversial diesel deal with Russia.",
-   "url": "https://news.sky.com/story/pm-pledges-rock-solid-support-ahead-of-zelenskyy-visit-after-trumps-diesel-deal-with-russia-13599080",
-   "source": "Sky News Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T00:52:00+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "f5066ed6608db03f",
-   "title": "Lib Dems seek court order to evict former member with incurable cancer from her home",
-   "summary": "Jo Hayes, 71, lost her legal bid against being expelled by the party - and now it is pursuing costs",
-   "url": "https://www.independent.co.uk/news/uk/politics/lib-dems-evict-party-member-b3065862.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-13T23:29:53+00:00",
-   "dateonly": false,
-   "parties": [
-    "Liberal Democrat"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "773e9089fce1187a",
-   "title": "How long will humans be needed for translation?",
-   "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
-   "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-13T23:05:29+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15441,7 +15438,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
@@ -15455,7 +15452,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -15469,7 +15466,7 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15483,7 +15480,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16164,7 +16161,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131915,
+   "signatures": 131962,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16173,7 +16170,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119285,
+   "signatures": 119321,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16182,7 +16179,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 99574,
+   "signatures": 99664,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16191,7 +16188,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84815,
+   "signatures": 84827,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16200,7 +16197,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 75734,
+   "signatures": 75799,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16209,7 +16206,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72304,
+   "signatures": 72339,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16227,7 +16224,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 51981,
+   "signatures": 52066,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16236,7 +16233,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50267,
+   "signatures": 50276,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16245,7 +16242,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44384,
+   "signatures": 44402,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16254,7 +16251,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 41552,
+   "signatures": 42070,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16263,7 +16260,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41200,
+   "signatures": 41211,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
