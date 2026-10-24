@@ -1,7 +1,58 @@
 {
- "updated": "2026-10-24T12:58:24.737059+00:00",
+ "updated": "2026-10-24T15:47:49.864822+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "fe1152501830bc2e",
+   "title": "Osborne lists Tory Brexiteers who ‘stopped him cutting welfare’ in warning to Badenoch",
+   "summary": "The former chancellor said the biggest opposition he faced to bringing down the welfare bill came from his own Conservative Party",
+   "url": "https://www.independent.co.uk/news/uk/politics/george-osborne-welfare-cuts-tory-brexiteers-kemi-badenoch-b3072704.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-24T14:34:49+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d1d49b8893892cfa",
+   "title": "'My daughter's bed was propped up on books,' says mum amid child poverty fears",
+   "summary": "Sarah Ruscoe, a single mum out of work due to health issues, worried her daughter’s bed would collapse at night.",
+   "url": "https://www.bbc.co.uk/news/articles/c933xpz1kdxyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-24T13:43:05+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "bef6791cda39b83e",
+   "title": "‘How Burnham’s government can overcome barriers to taxing wealth’",
+   "summary": "Last summer, Andy Burnham stated his belief that wealth is undertaxed compared to work. And in recent years… The post ‘How Burnham’s government can overcome barriers to taxing wealth’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/how-burnhams-government-can-overcome-barriers-to-taxing-wealth/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-24T13:00:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "681a087ea6d38c4f",
    "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
@@ -15369,61 +15420,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "cc4ae4718f64d14e",
-   "title": "Good growth in every postcode 14th October 2026",
-   "summary": "Andy Burnham’s pledge to the country is “good growth in every postcode and hope in every heart”. What… The post Good growth in every postcode 14th October 2026 appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/good-growth-in-every-postcode-14-10-2026/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-14T05:00:12+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e0fd55d3b3e54695",
-   "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
-   "summary": "Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister.",
-   "url": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-14T04:59:06+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "aeba6a927d0210e2",
-   "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-   "summary": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
-   "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-14T02:05:32+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": [
-    "China"
-   ]
   }
  ],
  "feeds": [
@@ -15431,14 +15427,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
@@ -15452,14 +15448,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15480,7 +15476,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15494,7 +15490,7 @@
    "name": "UK in a Changing Europe",
    "group": "Analysis",
    "ok": true,
-   "new": 18,
+   "new": 17,
    "note": ""
   },
   {
@@ -16161,7 +16157,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 131962,
+   "signatures": 132001,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16170,7 +16166,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119321,
+   "signatures": 119367,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16179,7 +16175,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 99664,
+   "signatures": 99746,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": false,
@@ -16188,7 +16184,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84827,
+   "signatures": 84835,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16197,7 +16193,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 75799,
+   "signatures": 75850,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16206,7 +16202,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72339,
+   "signatures": 72363,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16215,7 +16211,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55448,
+   "signatures": 55449,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16224,7 +16220,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 52066,
+   "signatures": 52116,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16233,7 +16229,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50276,
+   "signatures": 50288,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16242,7 +16238,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44402,
+   "signatures": 44410,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16251,7 +16247,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 42070,
+   "signatures": 42534,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16260,7 +16256,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41211,
+   "signatures": 41221,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
