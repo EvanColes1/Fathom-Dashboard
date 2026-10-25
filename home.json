@@ -1,7 +1,99 @@
 {
- "updated": "2026-10-25T15:48:31.863046+00:00",
+ "updated": "2026-10-25T18:53:25.356743+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "4c13035c70eac348",
+   "title": "Board of Deputies of British Jews declares Greens to be racist party",
+   "summary": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
+   "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T18:05:17+00:00",
+   "dateonly": false,
+   "parties": [
+    "Green Party"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "044e55a4279b5590",
+   "title": "Thousands protest in Prague as government advances public media funding overhaul",
+   "summary": "Czechs have rallied in Prague to protest a government plan to overhaul funding for public broadcasters",
+   "url": "https://www.independent.co.uk/news/uk/politics/andrej-babis-prague-parliament-viktor-orban-robert-fico-b3073042.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T17:55:39+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Czechia"
+   ]
+  },
+  {
+   "id": "23e4d9f1d631bc0e",
+   "title": "Joint statement from HM Treasury and Department of Finance Canada",
+   "summary": "Joint statement from HM Treasury and Department of Finance Canada",
+   "url": "https://www.gov.uk/government/news/joint-statement-from-hm-treasury-and-department-of-finance-canada",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "news_story",
+   "party_voice": "",
+   "published": "2026-10-25T17:30:03Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": [
+    "Canada"
+   ]
+  },
+  {
+   "id": "602deb7faa1d1460",
+   "title": "The Guardian view on Oxford Street’s pedestrianisation: cities should be designed around people, not cars | Editorial",
+   "summary": "The transformation of Europe’s busiest shopping street should be a case study in making cities greener, less congested and more inviting places to live Sadiq Khan has been trying to pedestrianise Oxford Street since he first became the mayor of London in 2016. On Monday, after numerous setbacks,…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/25/the-guardian-view-on-oxford-streets-pedestrianisation-cities-should-be-designed-around-people-not-cars",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T17:25:07+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6cd56adefea6aec3",
+   "title": "Tories and banks believe Healey’s ‘boring Budget’ could signal early election",
+   "summary": "With the chancellor set to unveil what is expected to be a ‘steady-as-she-goes’ Budget on Wednesday, speculation over an early election has been fuelled further by an new poll which suggests Labour can win a big majority",
+   "url": "https://www.independent.co.uk/news/uk/politics/budget-john-healey-early-election-burnham-b3072960.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T16:13:52+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "1c6936d76334b1c9",
    "title": "Rayner says ‘nothing off the table’ for Burnham to undo harms of Brexit",
@@ -10,7 +102,7 @@
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-25T15:40:32+00:00",
+   "published": "2026-10-25T16:11:23+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
@@ -19,6 +111,21 @@
     "Economy",
     "Europe"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "34015819abddb6bb",
+   "title": "Letters to the Editor – week ending 25th October 2026",
+   "summary": "Read what people have been writing to our editor about this week. Find out how to share your… The post Letters to the Editor – week ending 25th October 2026 appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/letters-to-the-editor-week-ending-25th-october-2026/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-25T16:00:34+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -293,7 +400,7 @@
   {
    "id": "43e95011f42961f0",
    "title": "The boss whose twice-bust business appears to be back despite £3m debts",
-   "summary": "Andrew Woosnam took millions from his recruitment firms before creditors, including HMRC, were left out of pocket Companies revived in ‘phoenix’ deals more likely to fail, study finds For three decades, the recruitment industry treated Andrew Woosnam well. Having learned his trade during the 1990s,…",
+   "summary": "Andrew Woosnam took millions from his recruitment firms before creditors, including HMRC, were left out of pocket • Companies revived in ‘phoenix’ deals more likely to fail, study finds For three decades, the recruitment industry treated Andrew Woosnam well. Having learned his trade during the…",
    "url": "https://www.theguardian.com/business/2026/oct/25/recruitment-boss-twice-bust-business-resurface-debts",
    "source": "Guardian Politics",
    "group": "News",
@@ -15322,115 +15429,6 @@
    "countries": [
     "China"
    ]
-  },
-  {
-   "id": "db022e9c64466c3f",
-   "title": "Pay the VAT due on your One Stop Shop VAT Return",
-   "summary": "How to pay the VAT due on your One Stop Shop VAT (OSS) Return and how long it takes for your payment to reach HMRC.",
-   "url": "https://www.gov.uk/guidance/pay-the-vat-due-on-your-one-stop-shop-vat-return",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-14T11:25:16Z",
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "8d0c58acd861d413",
-   "title": "Nigel Farage says charities that help asylum seekers reach UK should be prosecuted",
-   "summary": "Reform leader did not say who should be targeted but party figures have been critical of small boat rescues by RNLI Charities and volunteers who help asylum seekers get to the UK should face potential criminal prosecution, Nigel Farage has said in an interview with a rightwing US podcaster. While…",
-   "url": "https://www.theguardian.com/politics/2026/oct/14/nigel-farage-charities-help-asylum-seekers-uk-prosecute",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T11:18:27+00:00",
-   "dateonly": false,
-   "parties": [
-    "Reform UK"
-   ],
-   "topics": [
-    "Party leadership",
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "0fc679e8091b93dc",
-   "title": "Job cuts could fund diesel price drop says deputy",
-   "summary": "With the ongoing war in the Middle East increasing prices, one deputy is ask for duty to be frozen.",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-14T11:13:10+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "aae7dc9798d65f2f",
-   "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-   "summary": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
-   "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-14T11:04:12+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": [
-    "IMF / World Bank"
-   ]
-  },
-  {
-   "id": "f440d451b5b8f139",
-   "title": "How much triple lock change will impact current - and future - pensioners",
-   "summary": "People approaching retirement are likely to be among the least affected by Andy Burnham's proposed overhaul of the state pension triple lock, according to new analysis from investment platform AJ Bell.",
-   "url": "https://news.sky.com/story/how-much-triple-lock-change-will-impact-current-and-future-pensioners-13599191",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-14T10:41:00+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
-   "id": "81cd8085ecb23a86",
-   "title": "HMRC: business appointment rules advice",
-   "summary": "All outside appointments or employment taken up by former HMRC staff at senior civil service levels SCS1 and SCS2.",
-   "url": "https://www.gov.uk/government/collections/hmrc-business-appointment-rules-advice",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-10-14T10:19:28Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15438,14 +15436,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
@@ -15473,7 +15471,7 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15487,7 +15485,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -16168,7 +16166,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 132187,
+   "signatures": 132225,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16177,7 +16175,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119688,
+   "signatures": 119744,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16186,7 +16184,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 100837,
+   "signatures": 100981,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16195,7 +16193,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84961,
+   "signatures": 84978,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16204,7 +16202,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 77036,
+   "signatures": 77188,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16213,7 +16211,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72484,
+   "signatures": 72508,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16231,7 +16229,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 52578,
+   "signatures": 52611,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16240,7 +16238,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50338,
+   "signatures": 50346,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16249,7 +16247,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44503,
+   "signatures": 44513,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16258,7 +16256,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 44163,
+   "signatures": 44301,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16267,7 +16265,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41291,
+   "signatures": 41304,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
