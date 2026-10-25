@@ -1,7 +1,62 @@
 {
- "updated": "2026-10-25T18:53:25.356743+00:00",
+ "updated": "2026-10-25T21:46:34.267072+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "9c09cd737406c67d",
+   "title": "Cabinet split emerges over controversial Rosebank oilfield decision",
+   "summary": "Chancellor is in favour of North Sea project, but energy secretary has said she is leaning towards rejecting it A cabinet split has emerged over whether to approve drilling at the Rosebank oilfield, with the chancellor, John Healey, in favour of the controversial North Sea project. The energy…",
+   "url": "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T20:29:25+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ba0b4d973515d60d",
+   "title": "Cabinet ministers back Burnham’s call for debate on return to free movement with EU",
+   "summary": "PM’s plea supported by Angela Rayner, Ed Miliband and business leaders, while some ‘red wall’ MPs voice concern Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers but risked a rift with “red wall” Labour MPs, who say it could…",
+   "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T19:57:13+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ccd810b86e330edb",
+   "title": "Has Healey’s military-style budget secrecy really played out so differently to past budgets?",
+   "summary": "Chancellor was said to be worried about market-sensitive leaks, yet significant policies have been heavily trailed in the media The public has been told repeatedly that John Healey is so concerned about budget leaks that he has set up defence-style “compartmentalisation” to prevent the Treasury’s…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T19:35:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "4c13035c70eac348",
    "title": "Board of Deputies of British Jews declares Greens to be racist party",
@@ -191,26 +246,6 @@
    "parties": [],
    "topics": [
     "Immigration"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ba0b4d973515d60d",
-   "title": "Rayner backs Burnham call for debate on return to free movement with EU",
-   "summary": "Cabinet minister says PM’s plea is ‘pragmatism’ but comments risk causing concern among some red wall MPs Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including Angela Rayner but risks causing concern among fellow red…",
-   "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-25T13:31:05+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership",
-    "Europe"
    ],
    "tax": [],
    "countries": []
@@ -15393,42 +15428,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "dba85754580bc917",
-   "title": "UK government apologises for past burials of stillborn babies in mass graves",
-   "summary": "Yvette Cooper acknowledges ‘unthinkable pain’ caused by practice between 1930s and 1980s after campaign by Wirral woman and others The health secretary, Yvette Cooper, has issued a “profound apology” for the “unthinkable pain” caused to parents whose stillborn babies were buried in mass graves.…",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/14/uk-government-apologises-stillborn-babies-mass-graves",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T11:42:22+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4a02a10c2a1016d7",
-   "title": "Chancellor targets Amazon and Temu in tax crackdown to deliver Budget for ‘white van man’",
-   "summary": "It comes amid growing concern that Chinese retailers are using online marketplaces to undercut British competitors by evading the 20 per cent VAT on all their sales",
-   "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-temu-amazon-tax-vat-b3066393.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T11:30:51+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "VAT"
-   ],
-   "countries": [
-    "China"
-   ]
   }
  ],
  "feeds": [
@@ -15436,14 +15435,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
@@ -15457,7 +15456,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -15485,7 +15484,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16166,7 +16165,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 132225,
+   "signatures": 132254,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16175,7 +16174,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119744,
+   "signatures": 119775,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16184,7 +16183,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 100981,
+   "signatures": 101187,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16193,7 +16192,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84978,
+   "signatures": 84998,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16202,7 +16201,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 77188,
+   "signatures": 77302,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16211,7 +16210,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72508,
+   "signatures": 72525,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16220,7 +16219,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55462,
+   "signatures": 55465,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16229,7 +16228,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 52611,
+   "signatures": 52678,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16238,7 +16237,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50346,
+   "signatures": 50354,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16247,7 +16246,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44513,
+   "signatures": 44528,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16256,7 +16255,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 44301,
+   "signatures": 44436,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16265,7 +16264,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41304,
+   "signatures": 41317,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
