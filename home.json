@@ -1,7 +1,75 @@
 {
- "updated": "2026-10-25T07:03:45.377265+00:00",
+ "updated": "2026-10-25T09:49:18.099566+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "43e95011f42961f0",
+   "title": "The boss whose twice-bust business appears to be back despite £3m debts",
+   "summary": "Andrew Woosnam took millions from his recruitment firms before creditors, including HMRC, were left out of pocket Companies revived in ‘phoenix’ deals more likely to fail, study finds For three decades, the recruitment industry treated Andrew Woosnam well. Having learned his trade during the 1990s,…",
+   "url": "https://www.theguardian.com/business/2026/oct/25/recruitment-boss-twice-bust-business-resurface-debts",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T09:00:57+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a10a21280c2c9f0b",
+   "title": "The UK tax calculator that shows you what you’re really paying",
+   "summary": "This tax calculator shows you your take-home pay after tax and National Insurance. It works for Scotland and the rest of the UK. It takes pensions, child benefit, student loans and childcare into account. Other tax calculators will do all that. Ours also shows you your marginal tax rate – the tax…",
+   "url": "https://taxpolicy.org.uk/uk-tax-calculator/",
+   "source": "Tax Policy Associates",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-25T08:00:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [
+    "National Insurance",
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "78b224c035e94686",
+   "title": "Rosebank: Life on the oil field at the centre of a political storm",
+   "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+   "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-25T07:15:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "67bfdf2c508079cc",
+   "title": "Our top ten picks of the week",
+   "summary": "ConservativeHome's round-up of ten of our best articles from the preceding week. The post Our top ten picks of the week appeared first on Conservative Home .",
+   "url": "https://conservativehome.com/2026/10/25/our-top-ten-picks-of-the-week-239/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-25T07:00:27+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "ff980ece399a0add",
    "title": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
@@ -130,21 +198,6 @@
    "topics": [
     "Europe"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "78b224c035e94686",
-   "title": "Rosebank: Life on the oil field at the centre of a political storm",
-   "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-   "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-24T23:15:18+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -280,7 +333,7 @@
   },
   {
    "id": "d1d49b8893892cfa",
-   "title": "Mum in 'dire' financial situation says daughter's bed was propped up on books",
+   "title": "Daughter's bed 'propped up on books' says mum amid warning of deepening child poverty",
    "summary": "Sarah Ruscoe, a single mum out of work due to health issues, worried her daughter’s bed would collapse at night.",
    "url": "https://www.bbc.co.uk/news/articles/c933xpz1kdxyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
@@ -702,6 +755,25 @@
    "topics": [
     "Elections",
     "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cacaf0129d2f6adc",
+   "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+   "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+   "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-23T23:11:31+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy",
+    "Elections"
    ],
    "tax": [],
    "countries": []
@@ -15360,72 +15432,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "66adcbdcf2ecaac1",
-   "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
-   "summary": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
-   "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-14T07:18:08+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7ac5047fd1f56dce",
-   "title": "This civil war on the British right is a charade – its politics are more united than ever | Jonathan Liew",
-   "summary": "Don’t be fooled by its bickering leaders. Their calibrated fake fighting will probably end in coalition Kapow! In a warmly received conference speech, Kemi Badenoch turns her fire on Reform UK, describing it as “weird”, and ruling out an electoral pact. Slap! Not to be outdone, her former colleague…",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/14/civil-war-british-right-charade-politics-united-coalition",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T07:00:48+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative",
-    "Reform UK"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "78fd0d27a24ad0a3",
-   "title": "Find out who has been granted a utility direction",
-   "summary": "Check who's been granted a Climate Change Levy (CCL) utility direction for gas and electricity, so you can decide whether to charge CCL.",
-   "url": "https://www.gov.uk/government/publications/find-out-who-has-been-granted-a-utility-direction",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-14T06:36:40Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "bbec8288459994a2",
-   "title": "Trump says 'massive' oil, gas and mineral exploration will begin in 'our' Greenland",
-   "summary": "Donald Trump says that preparations are underway to launch a \"massive\" oil, gas ‌and mineral exploration in Greenland.",
-   "url": "https://news.sky.com/story/trump-announces-that-massive-oil-gas-and-mineral-exploration-will-begin-in-greenland-13599119",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-14T06:33:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Denmark",
-    "United States"
-   ]
   }
  ],
  "feeds": [
@@ -15447,7 +15453,7 @@
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15461,7 +15467,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
@@ -15474,9 +15480,9 @@
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": false,
-   "new": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
+   "ok": true,
+   "new": 1,
+   "note": ""
   },
   {
    "name": "LabourList",
@@ -15531,7 +15537,7 @@
    "name": "Tax Policy Associates",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 10,
+   "new": 11,
    "note": ""
   },
   {
@@ -16163,7 +16169,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 132096,
+   "signatures": 132120,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16172,7 +16178,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119506,
+   "signatures": 119572,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16181,7 +16187,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 100279,
+   "signatures": 100491,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16190,7 +16196,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84878,
+   "signatures": 84902,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16199,7 +16205,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 76048,
+   "signatures": 76555,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16208,7 +16214,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72418,
+   "signatures": 72441,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16217,7 +16223,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55454,
+   "signatures": 55456,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16226,7 +16232,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 52358,
+   "signatures": 52472,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16235,7 +16241,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50304,
+   "signatures": 50312,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16244,7 +16250,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44450,
+   "signatures": 44470,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16253,7 +16259,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 43559,
+   "signatures": 43799,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16262,7 +16268,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41253,
+   "signatures": 41266,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
