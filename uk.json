@@ -1,7 +1,45 @@
 {
- "updated": "2026-10-24T06:07:55.950008+00:00",
- "since": "2026-09-24",
+ "updated": "2026-10-25T06:08:41.047220+00:00",
+ "since": "2026-09-25",
  "whitehall": [
+  {
+   "title": "Joint Press Release on the R4 Ministerial Meeting in Istanbul",
+   "url": "https://www.gov.uk/government/news/joint-press-release-on-the-r4-ministerial-meeting-in-istanbul",
+   "published": "2026-10-24T07:41:00Z",
+   "kind": "press_release",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Turkey",
+    "United Kingdom",
+    "France",
+    "Germany",
+    "Italy"
+   ]
+  },
+  {
+   "title": "Young Voices for Climate and Nature (closed)",
+   "url": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
+   "published": "2026-10-24T07:07:06Z",
+   "kind": "form",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
   {
    "title": "Chancellor unveils Britain’s ambitious plan for AI",
    "url": "https://www.gov.uk/government/news/chancellor-unveils-britains-ambitious-plan-for-ai",
@@ -2399,39 +2437,6 @@
    "countries": [
     "Tanzania"
    ]
-  },
-  {
-   "title": "Mexico travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/mexico",
-   "published": "2026-10-20T13:20:31Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "Mexico"
-   ]
-  },
-  {
-   "title": "Trade remedies notice: definitive countervailing duty on certain excavators originating from China",
-   "url": "https://www.gov.uk/government/publications/trade-remedies-notice-definitive-countervailing-duty-on-certain-excavators-originating-from-china",
-   "published": "2026-10-20T13:20:07Z",
-   "kind": "notice",
-   "orgs": [
-    "BIST",
-    "DBT"
-   ],
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "China"
-   ]
   }
  ],
  "laws": [
@@ -2527,85 +2532,78 @@
  ],
  "attention": [
   {
-   "country": "United States",
-   "news_7d": 705,
-   "contributions": 77,
-   "debates": 0,
-   "statements": 1
-  },
-  {
    "country": "France",
-   "news_7d": 362,
+   "news_7d": 349,
    "contributions": 56,
    "debates": 0,
    "statements": 0
   },
   {
    "country": "Ukraine",
-   "news_7d": 327,
+   "news_7d": 319,
    "contributions": 94,
    "debates": 1,
    "statements": 0
   },
   {
    "country": "Russia",
-   "news_7d": 318,
+   "news_7d": 304,
    "contributions": 98,
    "debates": 2,
    "statements": 1
   },
   {
    "country": "Israel",
-   "news_7d": 276,
+   "news_7d": 279,
    "contributions": 18,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "Iran",
-   "news_7d": 200,
+   "news_7d": 204,
    "contributions": 74,
    "debates": 2,
    "statements": 0
   },
   {
    "country": "Palestine",
-   "news_7d": 194,
+   "news_7d": 186,
    "contributions": 6,
    "debates": 0,
    "statements": 0
   },
   {
    "country": "Nigeria",
-   "news_7d": 137,
+   "news_7d": 141,
    "contributions": 4,
    "debates": 0,
    "statements": 0
   },
   {
    "country": "China",
-   "news_7d": 120,
+   "news_7d": 125,
    "contributions": 30,
    "debates": 0,
    "statements": 0
   },
   {
    "country": "Saudi Arabia",
-   "news_7d": 113,
+   "news_7d": 121,
    "contributions": 26,
    "debates": 2,
    "statements": 1
   },
   {
    "country": "Yemen",
-   "news_7d": 112,
+   "news_7d": 115,
    "contributions": 21,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "Australia",
-   "news_7d": 88,
+   "news_7d": 89,
    "contributions": 37,
    "debates": 0,
    "statements": 0

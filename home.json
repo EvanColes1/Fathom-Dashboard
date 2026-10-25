@@ -1,14 +1,35 @@
 {
- "updated": "2026-10-25T03:53:01.910760+00:00",
+ "updated": "2026-10-25T06:08:41.047220+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "5eacf12ea3c978ee",
+   "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+   "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-25T06:00:15+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Income tax"
+   ],
+   "countries": []
+  },
   {
    "id": "b531969a10e6f641",
    "title": "Budget to include £1bn for social and affordable housing",
    "summary": "The move will take funding for the 10-year programme to more than £40bn.",
    "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
+   "source": "BBC Business",
+   "group": "Economy news",
    "party_voice": "",
    "published": "2026-10-25T02:57:30+00:00",
    "dateonly": false,
@@ -17,6 +38,23 @@
     "Tax and spending",
     "Housing"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d54b4df8a9ea2884",
+   "title": "Labour unveils £285m funding boost to 'shift power' to local leaders",
+   "summary": "Andy Burnham has announced £285m to fund local communities, declaring mayors shouldn't have to go \"cap in hand to Westminster\".",
+   "url": "https://news.sky.com/story/labour-unveils-285m-funding-boost-for-local-communities-so-decisions-can-be-made-closer-to-home-13603437",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T01:37:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -1890,8 +1928,8 @@
    "title": "What is the Budget and what could be in it?",
    "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-23T08:14:04+00:00",
    "dateonly": false,
@@ -15386,38 +15424,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "01879178741c82d7",
-   "title": "Joint and several liability — penalties charged for facilitating avoidance or evasion — JAS/FS3",
-   "summary": "This factsheet gives information about whether you may be jointly and severally liable for the relevant tax liability of a company that has been charged penalties for facilitating avoidance or evasion.",
-   "url": "https://www.gov.uk/government/publications/joint-and-several-liability-penalties-charged-for-facilitating-avoidance-or-evasion-jasfs3",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-14T06:00:00Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "51d970847271ee3c",
-   "title": "Why 'cool kids' won't let Swindon in Thames Valley",
-   "summary": "Why the \"popular kids\" in Oxfordshire are not letting Swindon in on the Thames Valley devolution deal.",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dz4235vnyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T05:31:14+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15425,7 +15431,7 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 4,
    "note": ""
   },
   {
@@ -15439,7 +15445,7 @@
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -16155,7 +16161,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 132086,
+   "signatures": 132090,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16164,7 +16170,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119489,
+   "signatures": 119496,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16173,7 +16179,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 100232,
+   "signatures": 100258,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16182,7 +16188,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84868,
+   "signatures": 84873,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16191,7 +16197,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 76026,
+   "signatures": 76032,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16200,7 +16206,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72413,
+   "signatures": 72415,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16209,7 +16215,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55453,
+   "signatures": 55454,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16218,7 +16224,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 52321,
+   "signatures": 52333,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16227,7 +16233,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50302,
+   "signatures": 50304,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16236,7 +16242,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44443,
+   "signatures": 44445,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16245,7 +16251,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 43495,
+   "signatures": 43521,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16254,7 +16260,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41251,
+   "signatures": 41252,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,

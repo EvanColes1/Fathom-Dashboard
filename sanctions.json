@@ -1,6 +1,1302 @@
 {
- "updated": "2026-10-24T06:07:55.950008+00:00",
+ "updated": "2026-10-25T06:08:41.047220+00:00",
  "recent": [
+  {
+   "name": "Limited Liability Company Research and Production Company \"Tekhpolikom\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "NK-B2i7B7KZnL6DE9v7VJhuqt"
+  },
+  {
+   "name": "Limited Liability Company \"Raduga\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "NK-BXzaHwDSCWf2KkwpKgs5To"
+  },
+  {
+   "name": "Giniiatov Nail",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "NK-ERbSKj6QNY5CtsamdVTr3p"
+  },
+  {
+   "name": "Limited Liability Company Engineering Center \"Automated Control Systems\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "NK-N7nNUEJRzpvnNWsdWBQJUb"
+  },
+  {
+   "name": "Limited Liability Company \"VitaReaktiv\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "NK-TMaueSiJJZEb3PURSxXrMt"
+  },
+  {
+   "name": "Limited Liability Company \"Orionec\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "NK-YjD7ifVRPzRP9QryDZ2fZH"
+  },
+  {
+   "name": "Limited Liability Company \"Angara-Reaktiv\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "NK-cXcJirqfiEPEMwTtgr7LQB"
+  },
+  {
+   "name": "Limited Liability Company \"NPP \"Techno-Park\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "NK-d7Ka7dD89LuCGCrJvKiWUz"
+  },
+  {
+   "name": "Zakharov Andrei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "NK-i6NVxBJETU9Y2fzPVM5PKf"
+  },
+  {
+   "name": "Joint-Stock Company \"Production Association \"Altai Tyre Plant\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "NK-mSoyZp35THz3BRRX8gWz49"
+  },
+  {
+   "name": "Bagzhus Sergei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37640-bagzus-sergij-vilusovic"
+  },
+  {
+   "name": "Barashkov Aleksandr",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37642-baraskov-oleksandr-sergijovic"
+  },
+  {
+   "name": "Bykov Roman",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37643-bikov-roman-urijovic"
+  },
+  {
+   "name": "Voronin Aleksandr",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37644-voronin-oleksandr-andrijovic"
+  },
+  {
+   "name": "Golovakha Elena",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37645-golovaha-olena-mikolaivna"
+  },
+  {
+   "name": "Gornyi Sergei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37646-gornij-sergij-georgijovic"
+  },
+  {
+   "name": "Dudko Viacheslav",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37647-dudko-v-aceslav-stanislavovic"
+  },
+  {
+   "name": "Ershov Aleksei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37648-ersov-oleksij-andrijovic"
+  },
+  {
+   "name": "Ivanov Kirill",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37649-ivanov-kirilo-volodimirovic"
+  },
+  {
+   "name": "Kartavtsev Andrei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37651-kartavcev-andrij-vasilovic"
+  },
+  {
+   "name": "Kozodaev Sviatoslav",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37652-kozodaev-svatoslav-igorovic"
+  },
+  {
+   "name": "Kopytova Evgeniia",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37653-kopitova-evgenia-vadimivna"
+  },
+  {
+   "name": "Kupovykh Anton",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37654-kupovih-anton-sergijovic"
+  },
+  {
+   "name": "Lazar Andrei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37656-lazar-andrij-mihajlovic"
+  },
+  {
+   "name": "Lukash Vladimir",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37657-lukas-volodimir-mikolajovic"
+  },
+  {
+   "name": "Lvov Aleksei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37658-lvov-oleksij-vasilovic"
+  },
+  {
+   "name": "Nikonov Sergei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37659-nikonov-sergij-volodimirovic"
+  },
+  {
+   "name": "Petrov Maksim",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37660-petrov-maksim-kostantinovic"
+  },
+  {
+   "name": "Podosochnyi Vadim",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37661-podosocnij-vadim-oleksijovic"
+  },
+  {
+   "name": "Sivakova Natalia",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37663-sivakova-natalia-v-aceslavivna"
+  },
+  {
+   "name": "Sokolkova Natalia",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37664-sokolkova-natalia-gennadiivna"
+  },
+  {
+   "name": "Sunozov Maksim",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37665-sunozov-maksim-andrijovic"
+  },
+  {
+   "name": "Titov Ilia",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37666-titov-illa-vadimovic"
+  },
+  {
+   "name": "Tonoian Lusine",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37667-tonoan-lusine-arturivna"
+  },
+  {
+   "name": "Trufanov Denis",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37668-trufanov-denis-ivanovic"
+  },
+  {
+   "name": "Fadeev Stanislav",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37669-fadeev-stanislav-urijovic"
+  },
+  {
+   "name": "Chebotarev Aleksandr",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37670-cebotarov-oleksandr-vasilovic"
+  },
+  {
+   "name": "Shustina Svetlana",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37671-sustina-svitlana-vitaliivna"
+  },
+  {
+   "name": "Joint-Stock Company \"Boguchansk Aluminium Smelter\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37673-akcionerne-tovaristvo-bogucanskij-aluminievij-zavod"
+  },
+  {
+   "name": "Joint-Stock Company \"United Company RUSAL - Trading House\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37675-akcionerne-tovaristvo-ob-ednana-kompania-rusal-torgovij-dim"
+  },
+  {
+   "name": "Promkataliz JSC",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37676-akcionerne-tovaristvo-promislovi-katalizatori"
+  },
+  {
+   "name": "Joint-Stock Company \"RT-Techpostavka\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37677-akcionerne-tovaristvo-rt-tehpostavka"
+  },
+  {
+   "name": "Limited Liability Company \"Artkhim\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37679-tovaristvo-z-obmezenou-vidpovidalnistu-arthim"
+  },
+  {
+   "name": "Limited Liability Company \"Atlas\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37680-tovaristvo-z-obmezenou-vidpovidalnistu-atlas"
+  },
+  {
+   "name": "Limited Liability Company \"Manufacturing Company \"Termo-Detal\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37682-tovaristvo-z-obmezenou-vidpovidalnistu-virobnica-kompania-termo-detal"
+  },
+  {
+   "name": "Limited Liability Company \"VIP Technologies\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37683-tovaristvo-z-obmezenou-vidpovidalnistu-vip-tehnologii"
+  },
+  {
+   "name": "Limited Liability Company \"Virgin-EK\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37684-tovaristvo-z-obmezenou-vidpovidalnistu-virdzin-ek"
+  },
+  {
+   "name": "Limited Liability Company \"Gagaring\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37686-tovaristvo-z-obmezenou-vidpovidalnistu-gagaring"
+  },
+  {
+   "name": "Limited Liability Company \"Drone Force Aero\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37687-tovaristvo-z-obmezenou-vidpovidalnistu-dron-fors-aero"
+  },
+  {
+   "name": "Drone Force",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37688-tovaristvo-z-obmezenou-vidpovidalnistu-dron-fors"
+  },
+  {
+   "name": "Limited Liability Company \"Instrument-D\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37689-tovaristvo-z-obmezenou-vidpovidalnistu-instrument-d"
+  },
+  {
+   "name": "Limited Liability Company \"Intel Drone\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37690-tovaristvo-z-obmezenou-vidpovidalnistu-intel-dron"
+  },
+  {
+   "name": "Limited Liability Company Design Bureau \"Modern Technologies for Monitoring Robotic Systems\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37691-tovaristvo-z-obmezenou-vidpovidalnistu-konstruktorske-buro-sucasni-tehnologii-monitoringu-robotizovanih-sistem"
+  },
+  {
+   "name": "Limited Liability Company \"Laser Center\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37693-tovaristvo-z-obmezenou-vidpovidalnistu-lazernij-centr"
+  },
+  {
+   "name": "Limited Liability Company \"Magadan Swifts\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37694-tovaristvo-z-obmezenou-vidpovidalnistu-magadanski-strizi"
+  },
+  {
+   "name": "Limited Liability Company \"Research and Production Association \"Tactic\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37695-tovaristvo-z-obmezenou-vidpovidalnistu-naukovo-virobnice-ob-ednanna-taktik"
+  },
+  {
+   "name": "Limited Liability Company \"Polako\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37696-tovaristvo-z-obmezenou-vidpovidalnistu-polako"
+  },
+  {
+   "name": "Limited Liability Company \"RUSAL Taishet Aluminium Smelter\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37697-tovaristvo-z-obmezenou-vidpovidalnistu-rusal-tajsetskij-aluminievij-zavod"
+  },
+  {
+   "name": "Limited Liability Company \"Savtech\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37698-tovaristvo-z-obmezenou-vidpovidalnistu-savtek"
+  },
+  {
+   "name": "Limited Liability Company \"Semaks Metall\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37699-tovaristvo-z-obmezenou-vidpovidalnistu-semaks-metal"
+  },
+  {
+   "name": "Limited Liability Company \"Shipbuilding Ship Repair\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37700-tovaristvo-z-obmezenou-vidpovidalnistu-sudnobuduvanna-sudnoremont"
+  },
+  {
+   "name": "Limited Liability Company \"TopTradeCo\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37701-tovaristvo-z-obmezenou-vidpovidalnistu-toptrejdko"
+  },
+  {
+   "name": "Limited Company \"Center of Project Solutions \"OpticCom\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37702-tovaristvo-z-obmezenou-vidpovidalnistu-centr-proektnih-risen-optikkom"
+  },
+  {
+   "name": "Limited Liability Company Production Association \"Metal Products Plant\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37703-tovaristvo-z-obmezenou-vidpovidalnistu-virobnice-ob-ednanna-zavod-metalevih-virobiv"
+  },
+  {
+   "name": "Limited Liability Company Research and Production Company \"Baltic Enterprise\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1058/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37705-tovaristvo-z-obmezenou-vidpovidalnistu-naukovo-virobnica-firma-baltijska-manufaktura"
+  },
+  {
+   "name": "Atashev Iuldash",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37706-atasev-uldas-mahamadzanovic"
+  },
+  {
+   "name": "Babochkin Ilia",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37707-babockin-illa-grigorovic"
+  },
+  {
+   "name": "Bagdasarian Karen",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37708-bagdasaran-karen-eremovic"
+  },
+  {
+   "name": "Baiburin Artur",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37709-bajburin-artur-ildarovic"
+  },
+  {
+   "name": "Barinov Nikolai",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37710-barinov-mikola-anatolijovic"
+  },
+  {
+   "name": "Batizat Dmitrii",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37711-batizat-dmitro-viktorovic"
+  },
+  {
+   "name": "Belov Evgenii",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37712-belov-evgen-viktorovic"
+  },
+  {
+   "name": "Belianin Maksim",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37713-belanin-maksim-mikolajovic"
+  },
+  {
+   "name": "Vasiutinskii Oleg",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37714-vasutinskij-oleg-viktorovic"
+  },
+  {
+   "name": "Vorobev Dmitrii",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37715-vorobjov-dmitro-urijovic"
+  },
+  {
+   "name": "Gasanova Albina",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37716-gasanova-albina-pajzutdinovna"
+  },
+  {
+   "name": "Guzov Sergei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37718-guzov-sergij-oleksandrovic"
+  },
+  {
+   "name": "Dashkov Viktor",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37719-daskov-viktor-mikolajovic"
+  },
+  {
+   "name": "Dashkov Vladimir",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37720-daskov-volodimir-viktorovic"
+  },
+  {
+   "name": "Ivakin Mikhail",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37722-ivakin-mihajlo-urijovic"
+  },
+  {
+   "name": "Ivanov Anatolii",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37723-ivanov-anatolij-flegentovic"
+  },
+  {
+   "name": "Ivanov Leonid",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37724-ivanov-leonid-mikolajovic"
+  },
+  {
+   "name": "Ivanova Galina",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37725-ivanova-galina-vasilivna"
+  },
+  {
+   "name": "Kashbiev Aidar",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37726-kasbiev-ajdar-aglamovic"
+  },
+  {
+   "name": "Kovalenskii Aleksei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37727-kovalenskij-oleksij-oleksandrovic"
+  },
+  {
+   "name": "Kozlov Leonid",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37728-kozlov-leonid-sergijovic"
+  },
+  {
+   "name": "Komlev Vladimir",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37729-komlev-volodimir-sergijovic"
+  },
+  {
+   "name": "Kuklina Elizaveta",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37730-kuklina-elizaveta-valeriivna"
+  },
+  {
+   "name": "Lazarev Konstantin",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37731-lazarev-kostantin-viktorovic"
+  },
+  {
+   "name": "Litvinov Nikolai",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37732-litvinov-mikola-valentinovic"
+  },
+  {
+   "name": "Litvinova Mariia",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37733-litvinova-maria-mikolaivna"
+  },
+  {
+   "name": "Makarin Sergei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37734-makarin-sergij-oleksandrovic"
+  },
+  {
+   "name": "Mirchenko Marina",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37735-mircenko-marina-valentinivna"
+  },
+  {
+   "name": "Morozov Dmitrii",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37736-morozov-dmitro-oleksandrovic"
+  },
+  {
+   "name": "Petrunia Olga",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37738-petruna-olga-viktorivna"
+  },
+  {
+   "name": "Pronin Anton",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37739-pronin-anton-mikolajovic"
+  },
+  {
+   "name": "Putin Aleksandr",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37740-putin-oleksandr-mihajlovic"
+  },
+  {
+   "name": "Rakhmatullin Salavat",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37741-rahmatullin-salavat-sajfullovic"
+  },
+  {
+   "name": "Reznichenko Sergei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37743-reznicenko-sergij-volodimirovic"
+  },
+  {
+   "name": "Rybakov Kirill",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37744-ribakov-kirilo-sergijovic"
+  },
+  {
+   "name": "Savitskaia Anna",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37745-savicka-anna-sergiivna"
+  },
+  {
+   "name": "Serezhenkov Aleksei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37746-serozenkov-oleksij-oleksijovic"
+  },
+  {
+   "name": "Sokolov Maksim",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37747-sokolov-maksim-viktorovic"
+  },
+  {
+   "name": "Starodubov Maksim",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37748-starodubov-maksim-urijovic"
+  },
+  {
+   "name": "Sundukov Evgenii",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37749-sundukov-evgen-petrovic"
+  },
+  {
+   "name": "Sutupova Olga",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37750-sutupova-olga-sergiivna"
+  },
+  {
+   "name": "Tupitsyn Iurii",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37751-tupicin-urij-urijovic"
+  },
+  {
+   "name": "Khoziainov Igor",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37752-hozainov-igor-volodimirovic"
+  },
+  {
+   "name": "Tsybulkin Vasilii",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37753-cibulkin-vasil-olegovic"
+  },
+  {
+   "name": "Shatokhina Valentina",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37755-satohina-valentina-oleksandrivna"
+  },
+  {
+   "name": "Shevtsov Sergei",
+   "type": "Person",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37756-sevcov-sergij-evgenovic"
+  },
+  {
+   "name": "Joint-Stock Company \"KoSPAS\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37759-akcionerne-tovaristvo-kospas"
+  },
+  {
+   "name": "Closed Joint-Stock Company \"Promenergo\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37761-zakrite-akcionerne-tovaristvo-promenergo"
+  },
+  {
+   "name": "Limited Liability Company \"Ammeta\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37762-tovaristvo-z-obmezenou-vidpovidalnistu-ammeta"
+  },
+  {
+   "name": "Limited Liability Company \"UAS Glory Air\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37764-tovaristvo-z-obmezenou-vidpovidalnistu-bas-glori-ejr"
+  },
+  {
+   "name": "Limited Liability Company \"Boltimport\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37765-tovaristvo-z-obmezenou-vidpovidalnistu-boltimport"
+  },
+  {
+   "name": "Limited Liability Company \"Production Association \"Pobeda\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37766-tovaristvo-z-obmezenou-vidpovidalnistu-virobnice-ob-ednanna-pobeda"
+  },
+  {
+   "name": "Limited Liability Company \"VR Logistic Eurasia\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37768-tovaristvo-z-obmezenou-vidpovidalnistu-vr-logistik-evrazia"
+  },
+  {
+   "name": "Limited Liability Company \"VR Logistic\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37769-tovaristvo-z-obmezenou-vidpovidalnistu-vr-logistik"
+  },
+  {
+   "name": "Limited Liability Company \"VR Trade\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37770-tovaristvo-z-obmezenou-vidpovidalnistu-vr-trejd"
+  },
+  {
+   "name": "Limited Liability Company \"Diamant EK\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37771-tovaristvo-z-obmezenou-vidpovidalnistu-diamant-ek"
+  },
+  {
+   "name": "Limited Liability Company \"EMI\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37772-tovaristvo-z-obmezenou-vidpovidalnistu-emi"
+  },
+  {
+   "name": "Limited Liability Company \"RTI-Rubber Plant\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37773-tovaristvo-z-obmezenou-vidpovidalnistu-zavod-rti-kaucuk"
+  },
+  {
+   "name": "Limited Liability Company \"Intell\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37774-tovaristvo-z-obmezenou-vidpovidalnistu-intell"
+  },
+  {
+   "name": "Limited Liability Company \"Connect Market\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37776-tovaristvo-z-obmezenou-vidpovidalnistu-konnekt-market"
+  },
+  {
+   "name": "Limited Liability Company \"Meridian\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37777-tovaristvo-z-obmezenou-vidpovidalnistu-meridian"
+  },
+  {
+   "name": "Limited Liability Company \"MIG-Electronic Components\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37778-tovaristvo-z-obmezenou-vidpovidalnistu-mig-elektronni-komponenti"
+  },
+  {
+   "name": "Limited Liability Company \"Research and Production Company Tomskiy Instrument\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37779-tovaristvo-z-obmezenou-vidpovidalnistu-naukovo-virobnica-kompania-tomskij-instrument"
+  },
+  {
+   "name": "Limited Liability Company \"RegionInstrument\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37784-tovaristvo-z-obmezenou-vidpovidalnistu-regioninstrument"
+  },
+  {
+   "name": "Limited Liability Company \"System Solutions\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37785-tovaristvo-z-obmezenou-vidpovidalnistu-sistemni-risenna"
+  },
+  {
+   "name": "Limited Liability Company \"CDIP-GS PreciTech\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37786-tovaristvo-z-obmezenou-vidpovidalnistu-sidiajpi-dzies-presiteh"
+  },
+  {
+   "name": "Limited Liability Company \"SKM\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37787-tovaristvo-z-obmezenou-vidpovidalnistu-skm"
+  },
+  {
+   "name": "Joint Venture Limited Liability Company \"Unique+\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37788-tovaristvo-z-obmezenou-vidpovidalnistu-spilne-pidpriemstvo-unik"
+  },
+  {
+   "name": "Limited Liability Company \"Telecom Soft\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37789-tovaristvo-z-obmezenou-vidpovidalnistu-telekom-soft"
+  },
+  {
+   "name": "Limited Liability Company \"Security Technologies\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37790-tovaristvo-z-obmezenou-vidpovidalnistu-tehnologii-bezpeki"
+  },
+  {
+   "name": "Limited Liability Company \"Tekhstroyrekonstruktsiya\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37791-tovaristvo-z-obmezenou-vidpovidalnistu-tehstrojrekonstrukcia"
+  },
+  {
+   "name": "Limited Liability Company \"TIZ-Engineering\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37792-tovaristvo-z-obmezenou-vidpovidalnistu-tiz-inziniring"
+  },
+  {
+   "name": "TIZ Ltd",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37793-tovaristvo-z-obmezenou-vidpovidalnistu-tomskij-instrumentalnij-zavod"
+  },
+  {
+   "name": "TD Angara-Reaktiv LLC",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37794-tovaristvo-z-obmezenou-vidpovidalnistu-torgovij-dim-angara-reaktiv"
+  },
+  {
+   "name": "Limited Liability Company \"Sibreaktiv Trade House\"",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37795-tovaristvo-z-obmezenou-vidpovidalnistu-torgovij-dim-sibreaktiv"
+  },
+  {
+   "name": "D.I. Mendeleyev Institute for Metrology",
+   "type": "Organization",
+   "countries": "ru",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37798-federalne-derzavne-unitarne-pidpriemstvo-vserosijskij-naukovo-doslidnij-institut-metrologii-im-d-i-mendeleeva"
+  },
+  {
+   "name": "Shenzhen Dusk Industries Co., Ltd",
+   "type": "Organization",
+   "countries": "cn",
+   "programs": "1059/2026 - дії іноземної держави, іноземної юридичної чи фізичної особи, інших суб’єктів, які створюють реальні та/або потенційні загрози національним…",
+   "datasets": "Ukraine NSDC State Register of Sanctions",
+   "first_seen": "2026-10-24",
+   "id": "ua-nsdc-37799-senczen-dask-indastriz-ko-ltd"
+  },
+  {
+   "name": "Улугбек Солижанович Усмонов",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-2DAPhYfNjbmJo9UyfPFHBd"
+  },
+  {
+   "name": "Калимат Дингаевна Дингаева",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-3HN4snNAQb7pqanx2ZU2jn"
+  },
   {
    "name": "Аслан Хусеевич Деккушев",
    "type": "Person",
@@ -9,6 +1305,42 @@
    "datasets": "Kyrgyz National List",
    "first_seen": "2026-10-23",
    "id": "NK-8x3VDCZXzLDMyuG5WR2LVT"
+  },
+  {
+   "name": "Равшан Раимжанович Шарипов",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-952pd4rdVGNFAQWjzcf72h"
+  },
+  {
+   "name": "Комилжанов Зиедулла огли Мухамадсодик",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-AdpJ4cPaTvcoSjxGqHFoge"
+  },
+  {
+   "name": "Джанбулат Магомедтагирович Галимов",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-AkGT3XJAjTSAixKNRAK4Tp"
+  },
+  {
+   "name": "Ислам Алиевич Магомедов",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-CBc3wS5iKtVWWmMEZo3hjV"
   },
   {
    "name": "Арсен Магомедович Рабаданов",
@@ -20,6 +1352,24 @@
    "id": "NK-D5xa2mjHWqVRhzehqtkQkn"
   },
   {
+   "name": "Людмила Сиражидиновна Абдулгамидова",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-E2mQErq3GKKjjxUKKaVJSS"
+  },
+  {
+   "name": "Магомед Магомедрасулович Магомедов",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-HEpMMrqZR3ctmdpc9XahUj"
+  },
+  {
    "name": "Руслан Маратович Шакиров",
    "type": "Person",
    "countries": "",
@@ -27,6 +1377,33 @@
    "datasets": "Kyrgyz National List",
    "first_seen": "2026-10-23",
    "id": "NK-JEwkvGQBx7oaYWU9WT9ZC3"
+  },
+  {
+   "name": "Атабек Равшанович Рахматов",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-JoDFVsSVK6qgjShWPfTUns"
+  },
+  {
+   "name": "Азимжан Камбарович Аскаров",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-NnZMwGsedbyrHsKK8d5pQk"
+  },
+  {
+   "name": "БЕКЗАД Гуламжанович КОЧКАРОВ",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-PpnVMcckBzFnCdJXPJaQFN"
   },
   {
    "name": "Игорь Игоревич Король",
@@ -56,6 +1433,33 @@
    "id": "NK-Y2CY33YavKjWWKuZq7jzFm"
   },
   {
+   "name": "Мадинахон Комолдиновна Касимова",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-YZkYfiyowH7uRevnvvpVrR"
+  },
+  {
+   "name": "Руслан Магомедович Ахмедов",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-aVY2v9XdoBejoT2JL7r8yX"
+  },
+  {
+   "name": "Алижон Алимович Абдуваитов",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-byUnqaB9SjSJkLJwjz2Vgc"
+  },
+  {
    "name": "Мирмагомедтаги Назим Оглы Агаев",
    "type": "Person",
    "countries": "",
@@ -74,6 +1478,15 @@
    "id": "NK-frRSoJMPLTtdG3CfTiabQT"
   },
   {
+   "name": "Магомед Кадиевич Магомедов",
+   "type": "Person",
+   "countries": "",
+   "programs": "\"\"",
+   "datasets": "Kyrgyz National List",
+   "first_seen": "2026-10-23",
+   "id": "NK-hf2eumKjCUTVTb6mgrmDwD"
+  },
+  {
    "name": "Шамиль Магомедович Рабаданов",
    "type": "Person",
    "countries": "",
@@ -90,51 +1503,6 @@
    "datasets": "Kyrgyz National List",
    "first_seen": "2026-10-23",
    "id": "NK-nYwMtvXumeWbqPh2CFz8Mn"
-  },
-  {
-   "name": "Korea Mangyondae Computer Technology Company",
-   "type": "LegalEntity",
-   "countries": "",
-   "programs": "Autonomous (DPRK) - 2026-10-22",
-   "datasets": "Australian Sanctions Consolidated List",
-   "first_seen": "2026-10-23",
-   "id": "au-dfat-8998-korea-mangyondae-computer-technology-company"
-  },
-  {
-   "name": "Chinyong Information Technology Cooperation Company",
-   "type": "LegalEntity",
-   "countries": "",
-   "programs": "Autonomous (DPRK) - 2026-10-22",
-   "datasets": "Australian Sanctions Consolidated List",
-   "first_seen": "2026-10-23",
-   "id": "au-dfat-8999-chinyong-information-technology-cooperation-company"
-  },
-  {
-   "name": "Otkrytoe aktsionernoe obschestvo Korporatsija - novosibirskij zavod Elektrosignal",
-   "type": "Organization",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Otkrytoe aktsionernoe obschestvo Korporatsija - novosibirskij zavod…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-23",
-   "id": "fr-ga-11642"
-  },
-  {
-   "name": "Vasiliy Nikolaevich TIKMENOV",
-   "type": "Person",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Vasiliy Tikmenov est le directeur général d'Aktsionernoe obschestvo…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-23",
-   "id": "fr-ga-11782"
-  },
-  {
-   "name": "Sergey Olegovich RANCHIN",
-   "type": "Person",
-   "countries": "ru",
-   "programs": "(UE) 2026/2281 du 12/10/2026 (UE Ukraine intégrité territoriale - R (UE) 269/2014) - Sergey Ranchin est le directeur de Federalnoe gosudarstvennoe uchrezhdenie…",
-   "datasets": "French National Asset Freezing System",
-   "first_seen": "2026-10-23",
-   "id": "fr-ga-11785"
   },
   {
    "name": "Организация освобождения Туркестана",
@@ -200,15 +1568,6 @@
    "id": "kg-fiu-legal-109"
   },
   {
-   "name": "Исламская группа джихада",
-   "type": "LegalEntity",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-legal-110"
-  },
-  {
    "name": "Восточно-Туркестанская исламская партия",
    "type": "LegalEntity",
    "countries": "",
@@ -218,15 +1577,6 @@
    "id": "kg-fiu-legal-111"
   },
   {
-   "name": "Ат- Такфир Вал-Хиджра",
-   "type": "LegalEntity",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-legal-112"
-  },
-  {
    "name": "Ансаруллох",
    "type": "LegalEntity",
    "countries": "",
@@ -234,15 +1584,6 @@
    "datasets": "Kyrgyz National List",
    "first_seen": "2026-10-23",
    "id": "kg-fiu-legal-113"
-  },
-  {
-   "name": "Аль-Каида или Аль-Каеда",
-   "type": "LegalEntity",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-legal-114"
   },
   {
    "name": "Вилаят Хорасан",
@@ -290,15 +1631,6 @@
    "id": "kg-fiu-legal-1244"
   },
   {
-   "name": "\"Катиба Таухид валь Джихад\" (\"Катиба ат-Таухид валь-Джихад\")",
-   "type": "LegalEntity",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-legal-1277"
-  },
-  {
    "name": "Акромия",
    "type": "LegalEntity",
    "countries": "",
@@ -315,15 +1647,6 @@
    "datasets": "Kyrgyz National List",
    "first_seen": "2026-10-23",
    "id": "kg-fiu-legal-69"
-  },
-  {
-   "name": "«Джамаат ат-Таухид валь- Джихад»",
-   "type": "LegalEntity",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-legal-70"
   },
   {
    "name": "«Жаннат Ошиклари» («Поклонники рая»)",
@@ -378,15 +1701,6 @@
    "datasets": "Kyrgyz National List",
    "first_seen": "2026-10-23",
    "id": "kg-fiu-legal-76"
-  },
-  {
-   "name": "Хизб-ут-Тахрир",
-   "type": "LegalEntity",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-legal-93"
   },
   {
    "name": "Бахром Маматисакович Иминов",
@@ -792,15 +2106,6 @@
    "datasets": "Kyrgyz National List",
    "first_seen": "2026-10-23",
    "id": "kg-fiu-person-1048"
-  },
-  {
-   "name": "Азимжан Камбарович Аскаров",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1049"
   },
   {
    "name": "Валивилло Рахматуллаевич Сатволдиев",
@@ -2207,15 +3512,6 @@
    "id": "kg-fiu-person-1223"
   },
   {
-   "name": "Махаммадсодик Зиёдулло огли Комилжонов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1224"
-  },
-  {
    "name": "Тулонбой Холмухамат угли Ахмедов",
    "type": "Person",
    "countries": "",
@@ -2448,15 +3744,6 @@
    "datasets": "Kyrgyz National List",
    "first_seen": "2026-10-23",
    "id": "kg-fiu-person-1251"
-  },
-  {
-   "name": "БЕКЗАД Гуламжанович КОЧКАРОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1252"
   },
   {
    "name": "МУХАММАДУМАРХОН Баходирхонович ТУРАЕВ",
@@ -2729,15 +4016,6 @@
    "id": "kg-fiu-person-1286"
   },
   {
-   "name": "АЛИЖОН Алимович АБДУВАИТОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1287"
-  },
-  {
    "name": "Азам Патидинович Мирзахидов",
    "type": "Person",
    "countries": "",
@@ -2763,24 +4041,6 @@
    "datasets": "Kyrgyz National List",
    "first_seen": "2026-10-23",
    "id": "kg-fiu-person-128"
-  },
-  {
-   "name": "Людмила Сиражидиновна Абдулгамидова",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1291"
-  },
-  {
-   "name": "Равшан Раимжанович Шарипов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1292"
   },
   {
    "name": "АБДУГУЛОМ Абдилакимович МАТКАРИМОВ",
@@ -2844,15 +4104,6 @@
    "datasets": "Kyrgyz National List",
    "first_seen": "2026-10-23",
    "id": "kg-fiu-person-1299"
-  },
-  {
-   "name": "Саид-Альви Ахмедович Мусаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-129"
   },
   {
    "name": "Равшан Рахимжанович Сулайманов",
@@ -3143,24 +4394,6 @@
    "id": "kg-fiu-person-1328"
   },
   {
-   "name": "АТАБЕК Равшанович РАХМАТОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1329"
-  },
-  {
-   "name": "Людмила Сиражидиновна Нуралиева",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-132"
-  },
-  {
    "name": "ДИЛЬМУРАД Юлдашевич ИСЛАМОВ",
    "type": "Person",
    "countries": "",
@@ -3251,15 +4484,6 @@
    "id": "kg-fiu-person-1339"
   },
   {
-   "name": "Айрат Хафизович Саматов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-133"
-  },
-  {
    "name": "АЙНИДИН Шайлообекович КАЛЧАЕВ",
    "type": "Person",
    "countries": "",
@@ -3276,1233 +4500,9 @@
    "datasets": "Kyrgyz National List",
    "first_seen": "2026-10-23",
    "id": "kg-fiu-person-1342"
-  },
-  {
-   "name": "УЛУГБЕК Солижанович УСМОНОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1343"
-  },
-  {
-   "name": "ХАЛИЛИЛЛА МАМАСАДЫКОВИЧ АБАБАКИРОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1344"
-  },
-  {
-   "name": "ЖАВЛОНБЕК БАХТИЕРОВИЧ ИГАМБЕРДИЕВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1345"
-  },
-  {
-   "name": "ДОСТОНБЕК РАСУЛЖОНОВИЧ ЗУХРИТДИНОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1346"
-  },
-  {
-   "name": "Розимахаммад Рахматилла уулу",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1347"
-  },
-  {
-   "name": "Алишер Расулович Юлдашев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1348"
-  },
-  {
-   "name": "МУХАМАДОМИН ХАЙДАРАЛИЕВИЧ НУРМАТОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1349"
-  },
-  {
-   "name": "Абдумуслим Магомедович Мухидинов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-134"
-  },
-  {
-   "name": "Комилжанов Зиедулла огли Мухамадсодик",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1350"
-  },
-  {
-   "name": "АХМАД МАХАМАДЖАНОВИЧ ТОХТАБАЕВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1351"
-  },
-  {
-   "name": "МАХАМАДЖОН Кахраманович САЙГАЗИЕВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1352"
-  },
-  {
-   "name": "СОЛИЖОН ХАЙРУЛЛАЕВИЧ АБДУРАСУЛОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1353"
-  },
-  {
-   "name": "ЭЛДИЯР Ашымович БЕКМЫРЗАЕВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1354"
-  },
-  {
-   "name": "Шамо Рзаевич Мамедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1355"
-  },
-  {
-   "name": "МАКСАТ Акжолтоевич АКМАТБЕКОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1356"
-  },
-  {
-   "name": "АХАДЖОН Исмоилжонович АБДУГАФОРОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1357"
-  },
-  {
-   "name": "АБДУМАЛИК Абдукаримович МАМАДАЛИЕВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1358"
-  },
-  {
-   "name": "ХАЙРУЛЛА Айтибаевич МАМАТАХУНОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1359"
-  },
-  {
-   "name": "Гаджи Абдураевич Мухтаров",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-135"
-  },
-  {
-   "name": "САЛОХИДИН Абдулатифович НАСИРДИНОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1360"
-  },
-  {
-   "name": "АЗИЗИЛЛО Махаматкадирович ЮЛДАШОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1361"
-  },
-  {
-   "name": "ЖАВЛОНБЕК Бекмуроджонович БОТЫРОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1362"
-  },
-  {
-   "name": "МИРЗАЖАН Шавкатжанович АЙДАРОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1363"
-  },
-  {
-   "name": "ШАХЗАДБЕК Латыпжанович ТЕШЕБАЕВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1364"
-  },
-  {
-   "name": "РОЗУМУХАМАД Бахтиержанович АЙДАРОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1365"
-  },
-  {
-   "name": "РОДИОН СЕРГЕЕВИЧ СЕРГЕЕВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1366"
-  },
-  {
-   "name": "ДИЛШОДБЕК Исмаилджанович АКБАРАЛИЕВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1367"
-  },
-  {
-   "name": "Озодбек Голибович Собиров",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1368"
-  },
-  {
-   "name": "Динар Ирекович Мушарапов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-136"
-  },
-  {
-   "name": "Тимур Суюнович Назаров",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-137"
-  },
-  {
-   "name": "Азиз Кагидинович Нуралиев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-138"
-  },
-  {
-   "name": "Умар Уктамович Нарбаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-139"
-  },
-  {
-   "name": "Ислам Семедович Фаталиев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-13"
-  },
-  {
-   "name": "Радик Фаизович Несрединов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-140"
-  },
-  {
-   "name": "Галим Госманович Нигматуллин",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-141"
-  },
-  {
-   "name": "Глеб Николаевич Назаров",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-142"
-  },
-  {
-   "name": "Секинат Алиевна Нехчиханова",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-143"
-  },
-  {
-   "name": "Илхомжон Шатманбаевич Рузахунов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-144"
-  },
-  {
-   "name": "Эмиль Расулович Пирмагомедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-145"
-  },
-  {
-   "name": "САТТИБЕК НУРЛАНОВИЧ ОШИБАЕВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-146"
-  },
-  {
-   "name": "Асан Серикович Берсебаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-147"
-  },
-  {
-   "name": "Иван Олегович Рязанцев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-148"
-  },
-  {
-   "name": "Заур Шарапудинович Саадулаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-149"
-  },
-  {
-   "name": "Арайлым Тулендықызы Кузембаева",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-14"
-  },
-  {
-   "name": "Михаил Олегович Рязанцев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-151"
-  },
-  {
-   "name": "Муслим Рахматыллоевич Таджибаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-152"
-  },
-  {
-   "name": "Дастонбек Рустамович Рустамов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-153"
-  },
-  {
-   "name": "Динар Рамилевич Сагдеев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-154"
-  },
-  {
-   "name": "Назбике Савкатовна Садинова",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-155"
-  },
-  {
-   "name": "Расим Садыкович Садыхов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-157"
-  },
-  {
-   "name": "Зульмира Нужмутдиновна Садыхова",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-158"
-  },
-  {
-   "name": "Магомедхабиб Омарович Саидов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-159"
-  },
-  {
-   "name": "Шерзод Шерхонович Абдурахманов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-15"
-  },
-  {
-   "name": "Айдар Рамилевич Сагдеев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-161"
-  },
-  {
-   "name": "Илья Анатольевич Плотников",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-162"
-  },
-  {
-   "name": "Ильяс Сабирович Сабиров",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-163"
-  },
-  {
-   "name": "Магомед Магомедсаидович Рабаданов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-164"
-  },
-  {
-   "name": "Адам Магомедович Рабаданов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-165"
-  },
-  {
-   "name": "ДАНИЯР ГАЛИБЕКОВИЧ РАХИМОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-167"
-  },
-  {
-   "name": "Рамазан Пашаевич Рамазанов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-168"
-  },
-  {
-   "name": "Супьян Саидалиевич Рамазанов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-169"
-  },
-  {
-   "name": "Амир Феврудинович Абдулкадиров",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-16"
-  },
-  {
-   "name": "Мянсур Айсеевич Рамазанов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-170"
-  },
-  {
-   "name": "Руслан Нурачиевич Рамазанов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-171"
-  },
-  {
-   "name": "Альберт Заманович Расулов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-173"
-  },
-  {
-   "name": "Ислям Мянсурович Рамазанов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-174"
-  },
-  {
-   "name": "Муралым Миродылович Рахманов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-176"
-  },
-  {
-   "name": "Обиджон Хамидович Расулов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-177"
-  },
-  {
-   "name": "Шамхан Асламбекович Расулов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-178"
-  },
-  {
-   "name": "Юнус Аднанович Расуханов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-179"
-  },
-  {
-   "name": "Ахмед Магомедович Альбеков",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-17"
-  },
-  {
-   "name": "Жолдошбай Мурзадоутович Мамадалиев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-180"
-  },
-  {
-   "name": "Махмуд Алимжанович Рахимов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-181"
-  },
-  {
-   "name": "Зелимхан Вахаевич Муртазов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-183"
-  },
-  {
-   "name": "Лом-Али Лейчаевич Малигов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-184"
-  },
-  {
-   "name": "Вадим Абдулкеримович Мазагаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-185"
-  },
-  {
-   "name": "Магомед Магомедрасулович Магомедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-186"
-  },
-  {
-   "name": "Тага Кадиевич Магомедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-188"
-  },
-  {
-   "name": "Арсен Шарипович Магомедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-189"
-  },
-  {
-   "name": "Дилшодбек Абдивалиевич Камбаров",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-18"
-  },
-  {
-   "name": "Магомед Кадиевич Магомедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-190"
-  },
-  {
-   "name": "Магомед Лабазанович Магомедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-191"
-  },
-  {
-   "name": "Ислам Алиевич Магомедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-192"
-  },
-  {
-   "name": "Рамазан Шамилович Магомедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-193"
-  },
-  {
-   "name": "Рафет Асамудинович Магомедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-194"
-  },
-  {
-   "name": "Султанмагомед Магомедгаджиевич Магомедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-195"
-  },
-  {
-   "name": "Шамиль Магомедханович Магомедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-196"
-  },
-  {
-   "name": "Адам Магомед- Баширович Майсигов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-197"
-  },
-  {
-   "name": "Саабдула Магомедович Магомедов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-198"
-  },
-  {
-   "name": "Альбина Магомедхановна Магомедова",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-199"
-  },
-  {
-   "name": "Фархат Галимович Ишмуратов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-19"
-  },
-  {
-   "name": "Ильдар Раифович Нурисламов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-1"
-  },
-  {
-   "name": "Аслан Мусаевич Мадаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-200"
-  },
-  {
-   "name": "Алишер Ганижонович Маткаримов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-201"
-  },
-  {
-   "name": "Зелимхан Адамович Мадашов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-202"
-  },
-  {
-   "name": "Шахнур Шухратбекович Мадыев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-203"
-  },
-  {
-   "name": "Шамильхан Абдукаримович Мажиев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-204"
-  },
-  {
-   "name": "Супьян Алиевич Мадагов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-206"
-  },
-  {
-   "name": "Зияутдин Абдулкеримович Мазагаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-207"
-  },
-  {
-   "name": "Саидат Магомедовна Магомедова",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-208"
-  },
-  {
-   "name": "Заур Мурадович Манафов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-209"
-  },
-  {
-   "name": "Изаура Курбановна Курбанова",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-20"
-  },
-  {
-   "name": "Аслан Лечиевич Мовлаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-210"
-  },
-  {
-   "name": "Бобир Момунович Муйдинов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-211"
-  },
-  {
-   "name": "Фарходжон Махаматжанович Мойдинов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-212"
-  },
-  {
-   "name": "Анзор Арбиевич Мудаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-213"
-  },
-  {
-   "name": "Адам Артурович Мициев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-214"
-  },
-  {
-   "name": "Аида Гаджиакаевна Мужаидова",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-215"
-  },
-  {
-   "name": "Бахтиёр Хатамжанович Мойдинов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-216"
-  },
-  {
-   "name": "Муталипжан Хатамжанович Мойдинов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-217"
-  },
-  {
-   "name": "Хасанбой Муратжан угли",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-219"
-  },
-  {
-   "name": "Адам Мухтарович Кубиев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-21"
-  },
-  {
-   "name": "Фархад Шавкатович Муртазалиев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-221"
-  },
-  {
-   "name": "Ильнар Хазибуллович Мифтахов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-222"
-  },
-  {
-   "name": "Сергей Владимирович Мировский",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-223"
-  },
-  {
-   "name": "Роберт Лерманович Манафов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-224"
-  },
-  {
-   "name": "Манаф Рамазанович Манафов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-225"
-  },
-  {
-   "name": "Мадина Алиевна Матаева",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-226"
-  },
-  {
-   "name": "Руслан Харунович Матакаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-227"
-  },
-  {
-   "name": "Ибрагим Султанович Махаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-228"
-  },
-  {
-   "name": "Ахмаджан Мурзамитович Мурзамитов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-229"
-  },
-  {
-   "name": "Кундуз Жунусакуновна Доолотжанова",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-22"
-  },
-  {
-   "name": "Обиджон Мамиржанович Мирсалиев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-230"
-  },
-  {
-   "name": "Бахромжон Юнусович Марасулов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-231"
-  },
-  {
-   "name": "Абдирахимжон Абдигапарович Марибжанов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-232"
-  },
-  {
-   "name": "Султан Вахидович Махаев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-233"
-  },
-  {
-   "name": "Джохар Махмадгириевич Махаури",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-234"
-  },
-  {
-   "name": "Ахмед Зайнуллахович Махмудов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-235"
-  },
-  {
-   "name": "Адам Ойсаевич Махтиев",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-236"
-  },
-  {
-   "name": "Фархад Лазарович Меджидов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-237"
-  },
-  {
-   "name": "Марат Эргашов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-238"
-  },
-  {
-   "name": "Рахматилло Хабибулаевич Махмудов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-239"
-  },
-  {
-   "name": "ЕРЛАН ДАРЫГУЛЕВИЧ УСЕНОВ",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-23"
-  },
-  {
-   "name": "Мухамаджон Махмудов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-240"
-  },
-  {
-   "name": "Жахонгир Махмудович Саипов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-241"
-  },
-  {
-   "name": "Зелимхан Лемаевич Мачигов",
-   "type": "Person",
-   "countries": "",
-   "programs": "\"\"",
-   "datasets": "Kyrgyz National List",
-   "first_seen": "2026-10-23",
-   "id": "kg-fiu-person-242"
   }
  ],
- "recent_total": 2620,
+ "recent_total": 2725,
  "vessels": [
   {
    "name": "DESTINY",
@@ -5028,7 +5028,7 @@
    "name": "IMO 9333591 (\"ARCTIC EXPRESS\")",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9333591 (“ARCTIC…",
+   "programs": "The Russia (Sanctions) (EU Exit) Regulations 2019 - The Secretary of State considers that there are reasonable grounds to suspect that IMO 9333591 ('ARCTIC…",
    "datasets": "UK FCDO Sanctions List",
    "first_seen": "2026-08-06",
    "id": "NK-FsHRcnkzQebTatDt7UTns5",
@@ -9528,7 +9528,7 @@
    "name": "PIER",
    "type": "Vessel",
    "countries": "bb;ru",
-   "programs": "Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9273442 ('Pier') is, has been or is likely to be involved in activity whose…",
+   "programs": "Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9273442 (“Pier”) is, has been or is likely to be involved in activity whose…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List",
    "first_seen": "2025-07-21",
    "id": "NK-EXjphC6CWEwFR7wdaA9dzr",
@@ -10518,7 +10518,7 @@
    "name": "JAMES II",
    "type": "Vessel",
    "countries": "pw;ru",
-   "programs": "Autonomous (Vessels) - 2026-02-24;Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9253909 (“JAMES II”) is involved in activity…",
+   "programs": "Autonomous (Vessels) - 2026-02-24;Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9253909 ('JAMES II') is involved in activity…",
    "datasets": "Australian Sanctions Consolidated List;Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List",
    "first_seen": "2025-05-20",
    "id": "NK-hVoRHZPXmvEFr6ghno2N3P",
@@ -12698,7 +12698,7 @@
    "name": "SVYATOY KNYAZ VLADIMIR",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-2WSDaGMdocRyZUtS35MXdR",
@@ -12728,7 +12728,7 @@
    "name": "FEDOR USHAKOV",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-5BMYfw2d8CsekxMgjNyp2g",
@@ -12738,7 +12738,7 @@
    "name": "SCF Endeavour",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-62VNqQWbZXnpoa96qBsez7",
@@ -12788,7 +12788,7 @@
    "name": "LAUREN II",
    "type": "Vessel",
    "countries": "pa;ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO…",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-6kpJL7syo85ekqVXh2HyzH",
@@ -12818,7 +12818,7 @@
    "name": "Owens",
    "type": "Vessel",
    "countries": "pa",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-7xtxK7yTBRYBLNP5jdjVmx",
@@ -12828,7 +12828,7 @@
    "name": "VYAZ",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-8Z6ccggGu7C9dYkBe3kwLv",
@@ -12838,7 +12838,7 @@
    "name": "DOBRYNYA",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-8qVByL7GvgHWPGTY6K9DrS",
@@ -12848,7 +12848,7 @@
    "name": "OXIS",
    "type": "Vessel",
    "countries": "cm;ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 13224 (Terrorism) - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 -…",
+   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13224 (Terrorism);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 -…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-933VytZQRSXumMjr6xmJEL",
@@ -12868,7 +12868,7 @@
    "name": "Orient Harmony",
    "type": "Vessel",
    "countries": "pa;ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-9wTegQ2v4kgAh8cihAveMG",
@@ -12888,7 +12888,7 @@
    "name": "RN USSURI",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-A89iPLK4Wb2xiaMdxBWb7L",
@@ -12898,7 +12898,7 @@
    "name": "M SOPHIA",
    "type": "Vessel",
    "countries": "pa;ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO…",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-ALXabJRRKtFVGxmLWJ7Uyy",
@@ -12908,7 +12908,7 @@
    "name": "SCF Endurance",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-AeM6TjfC9zBnuB2DB2y8GU",
@@ -12918,7 +12918,7 @@
    "name": "Yevgeny Primakov",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-BE7Vv22sRvXTmRSmUtDGn4",
@@ -12998,7 +12998,7 @@
    "name": "Aleksey Chirikov",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-EJmA8XXp77mz8agoCcn2v9",
@@ -13018,7 +13018,7 @@
    "name": "Vyacheslav Tikhonov",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-ES6SML4H6bRcopkRdXkNPV",
@@ -13078,7 +13078,7 @@
    "name": "Alexey Bogolyubov",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-H6v7SL5Md7UZ8wLYDEdfSp",
@@ -13088,7 +13088,7 @@
    "name": "TASCA",
    "type": "Vessel",
    "countries": "pa",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13846 (Iran) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia) - Executive Order 13846 (Iran)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-HUJEizkjTuY5K6zQgWR5GG",
@@ -13148,7 +13148,7 @@
    "name": "SCF Sakhalin",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "Russia / Russie - 1.1;UKRAINE-EO13662 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "Russia / Russie - 1.1;UKRAINE-EO13662 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-KgGmsiat3sy24Jz93zgtD3",
@@ -13218,7 +13218,7 @@
    "name": "YARD NO.131080 ZVEZDA-DSME",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-QjnQAyyMYa4aoFhPFM8Pvq",
@@ -13378,7 +13378,7 @@
    "name": "CLIO",
    "type": "Vessel",
    "countries": "pa;ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO…",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-Vnnp3yaGqP2hZECrF43vop",
@@ -13478,7 +13478,7 @@
    "name": "AMELL",
    "type": "Vessel",
    "countries": "ru;sm",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO…",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-YCbShQFNVqFdidNgxBiN5i",
@@ -13548,7 +13548,7 @@
    "name": "RN AMUR",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-cKapWPXVxGiJwf6dmXnKTc",
@@ -13578,7 +13578,7 @@
    "name": "SCF Enterprise",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-corEKmPtDWGMBbzYyw3qii",
@@ -13618,7 +13618,7 @@
    "name": "TIS",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-eMdpWwCa25WKWkWThtJuKa",
@@ -13658,7 +13658,7 @@
    "name": "KOLA",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-fGW4zxT7qh5Bo9FUecTtRw",
@@ -13668,7 +13668,7 @@
    "name": "Ivy",
    "type": "Vessel",
    "countries": "ru;vn",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13846 (Iran) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1;The Russia (Sanctions)…",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia) - Executive Order 13846 (Iran);Russia / Russie - 1.1;The Russia (Sanctions)…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-fGtcYxL5U8nVo7VDXBEEPz",
@@ -13698,7 +13698,7 @@
    "name": "Sanar 8",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-fgHjCxqXrjmheCAoxCushx",
@@ -13788,7 +13788,7 @@
    "name": "BUK",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-hMjDaxhiqv2eMJxPYDTQcP",
@@ -13808,7 +13808,7 @@
    "name": "OKEANSKY PROSPECT",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-i9rHC6pwp8CXbivvLAthqL",
@@ -13818,7 +13818,7 @@
    "name": "VITUS BERING",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-iCr4QNT3EeDqsdd7oAphui",
@@ -13838,7 +13838,7 @@
    "name": "Gennadiy Nevelskoy",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-iSNaYEhgnZAfEVXxVgZJSq",
@@ -13898,7 +13898,7 @@
    "name": "DMITRY MENDELEEV",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-jtP3fwM4zE7rtnmYXL7UWY",
@@ -13928,7 +13928,7 @@
    "name": "NURSULTAN NAZARBAYEV",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-kKyLkSSN9P892FhEZG8iPQ",
@@ -13938,7 +13938,7 @@
    "name": "Alexander Beggrov",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-kMgsQehSRJ9XUkXyRpqoTD",
@@ -14058,7 +14058,7 @@
    "name": "YARD NO.131040 ZVEZDA-DSME",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-miCHA57QksvrA5j3D2u5Tt",
@@ -14098,7 +14098,7 @@
    "name": "UMBA",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-oHvTMT5tQmve9smbfCirgA",
@@ -14108,7 +14108,7 @@
    "name": "Orient Vision",
    "type": "Vessel",
    "countries": "pa;ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13662 (Ukraine);Russia / Russie - 1.1",
+   "programs": "RUSSIA-EO14024 - Executive Order 13662 (Ukraine) - Executive Order 14024 (Russia);Russia / Russie - 1.1",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2025-01-10",
    "id": "NK-oXGJSt32ZH3KNbEGY7ZbrX",
@@ -14248,7 +14248,7 @@
    "name": "CORTEX",
    "type": "Vessel",
    "countries": "km;ru",
-   "programs": "Autonomous (Vessels) - 2026-02-24;Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9291250 ('CORTEX') is involved in activity…",
+   "programs": "Autonomous (Vessels) - 2026-02-24;Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9291250 (“CORTEX”) is involved in activity…",
    "datasets": "Australian Sanctions Consolidated List;Canadian Consolidated Autonomous Sanctions List;EU Sanctions Map;UK FCDO Sanctions List",
    "first_seen": "2024-12-18",
    "id": "NK-MKidwShBWLnvCgUHcpj6KU",
@@ -14328,7 +14328,7 @@
    "name": "OASIS",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "Autonomous (Vessels) - 2025-09-18;Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9265756 ('OASIS') is involved in activity whose…",
+   "programs": "Autonomous (Vessels) - 2025-09-18;Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9265756 (“OASIS”) is involved in activity whose…",
    "datasets": "Australian Sanctions Consolidated List;Canadian Consolidated Autonomous Sanctions List;EU Sanctions Map;UK FCDO Sanctions List",
    "first_seen": "2024-12-18",
    "id": "NK-bgJqf7E6s3KymmcAzV2Y4m",
@@ -17398,7 +17398,7 @@
    "name": "HS Esberg",
    "type": "Vessel",
    "countries": "gn;lr;ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9410894 (“VALOUR”) is involved in…",
+   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia);Russia / Russie - 1.1;The Russia (Sanctions) (EU Exit) Regulations 2019 - IMO 9410894 ('VALOUR') is involved in…",
    "datasets": "Canadian Consolidated Autonomous Sanctions List;UK FCDO Sanctions List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2024-01-18",
    "id": "NK-kWZAw3YbiL4izeHCktBbrW",
@@ -17768,7 +17768,7 @@
    "name": "ARTEMIS OFFSHORE",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-2HrKUpiVrw2jhkyvob5NwG",
@@ -17838,7 +17838,7 @@
    "name": "Antey",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-2atCwBvQr42d4BA6xstbH4",
@@ -18678,7 +18678,7 @@
    "name": "serenity",
    "type": "Vessel",
    "countries": "gy",
-   "programs": "VENEZUELA-EO13850 - Executive Order 13224 (Terrorism) - Executive Order 13850 (Venezuela)",
+   "programs": "VENEZUELA-EO13850 - Executive Order 13850 (Venezuela) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-9TGSUxPvDMWAhLKdfYjgTT",
@@ -19178,7 +19178,7 @@
    "name": "BALTIYSKIY ISSLEDOVATEL",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-D6BVAXrgDdEFDDN52Yk6j6",
@@ -19838,7 +19838,7 @@
    "name": "St. Vitamin",
    "type": "Vessel",
    "countries": "vc",
-   "programs": "CYBER2 - Executive Order 13848 (Election) - Executive Order 13661 (Ukraine) - Executive Order 13694 (Cyber)",
+   "programs": "CYBER2 - Executive Order 13661 (Ukraine) - Executive Order 13694 (Cyber) - Executive Order 13848 (Election)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-HzbmbYendQzX5WcAx79sJa",
@@ -19878,7 +19878,7 @@
    "name": "Captain Beklemishev",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "RUSSIA-EO14024 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-JLv2engdx8jZ2c9quaSwUD",
@@ -20118,7 +20118,7 @@
    "name": "Hermes",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-L7CUe23eHSYrbpRf8nny2J",
@@ -21438,7 +21438,7 @@
    "name": "SPASATEL KAREV",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-VZLRpwLDQDcBCQYUsgerTt",
@@ -21668,7 +21668,7 @@
    "name": "SIVUCH",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-WtnaTooGSYAjGKkCGyHU2g",
@@ -21788,7 +21788,7 @@
    "name": "Fiona",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "CAATSA - RUSSIA - CAATSA - Section 232 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "CAATSA - RUSSIA - Executive Order 14039 - CAATSA - Section 232 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-XYKC2aQigY5KX6NoCkpTgv",
@@ -22798,7 +22798,7 @@
    "name": "LAMANTIN",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-dR6ZypJ8EmuTFcfJGuh2NG",
@@ -22958,7 +22958,7 @@
    "name": "UMKA",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-etEy566832hvUBbn4dLSV3",
@@ -23058,7 +23058,7 @@
    "name": "BAKHTEMIR",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-fxggmcwwMp2yYdWUkJCfux",
@@ -23138,7 +23138,7 @@
    "name": "Madame Gu",
    "type": "Vessel",
    "countries": "ky",
-   "programs": "RUSSIA-EO14024 - Executive Order 14024 (Russia) - Executive Order 13661 (Ukraine)",
+   "programs": "RUSSIA-EO14024 - Executive Order 13661 (Ukraine) - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-gKFN5AEhpsYzLVAcXDx3Y4",
@@ -23778,7 +23778,7 @@
    "name": "MURMAN",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-kBJtgsUUZrCAd3AJSwS3vm",
@@ -23818,7 +23818,7 @@
    "name": "FINVAL",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-kKSyYLjScBGkChdtNwKbPk",
@@ -23888,7 +23888,7 @@
    "name": "DELICE",
    "type": "Vessel",
    "countries": "ir;pa",
-   "programs": "2022-01-26;NPWMD - Executive Order 13599 (Iran) - Executive Order 13224 (Terrorism) - Executive Order 13382 (Non-proliferation)",
+   "programs": "2022-01-26;NPWMD - Executive Order 13599 (Iran) - Executive Order 13382 (Non-proliferation) - Executive Order 13224 (Terrorism)",
    "datasets": "Saudi Arabia National Terrorism List (UNSCR 1373);US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-knHaQ9xFi4WthPB4vD98Eg",
@@ -23948,7 +23948,7 @@
    "name": "DEVREZ",
    "type": "Vessel",
    "countries": "ir;pa",
-   "programs": "NPWMD - Executive Order 13599 (Iran) - Executive Order 13224 (Terrorism) - Executive Order 13382 (Non-proliferation)",
+   "programs": "NPWMD - Executive Order 13599 (Iran) - Executive Order 13382 (Non-proliferation) - Executive Order 13224 (Terrorism)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-m3TS2kznTB6eLAVeEvdrQz",
@@ -24018,7 +24018,7 @@
    "name": "Akademik Chersky",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-meGo3ak82tX3wvmb6MNAMW",
@@ -24168,7 +24168,7 @@
    "name": "NARVAL",
    "type": "Vessel",
    "countries": "ru",
-   "programs": "PEESA-EO14039 - Executive Order 14024 (Russia) - Executive Order 14039",
+   "programs": "PEESA-EO14039 - Executive Order 14039 - Executive Order 14024 (Russia)",
    "datasets": "US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2023-04-20",
    "id": "NK-o8xbxcxidTwjRyxZHEjTM5",
@@ -24218,7 +24218,7 @@
    "name": "Paek Ma",
    "type": "Vessel",
    "countries": "kp;kr;pa",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-4JYGfcjP3Frn24sYQ3ZXE2",
@@ -24298,7 +24298,7 @@
    "name": "Sam Ma 2",
    "type": "Vessel",
    "countries": "kp",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-H7s6hjcrcx846KWw3FzENL",
@@ -24338,7 +24338,7 @@
    "name": "Hap Jang Gang 6",
    "type": "Vessel",
    "countries": "kh;kp",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-N5dqMgKGf3hcmM48goJH8T",
@@ -24368,7 +24368,7 @@
    "name": "Sam Jong 1",
    "type": "Vessel",
    "countries": "kp",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-QgduU2KDARwsWfZnP7UxRB",
@@ -24378,7 +24378,7 @@
    "name": "Yu Phyong 5",
    "type": "Vessel",
    "countries": "kp;kr",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-R6ctDLCn6T2JP2m9VrTGWn",
@@ -24398,7 +24398,7 @@
    "name": "Woory Star",
    "type": "Vessel",
    "countries": "kp",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-RTkZM4W3eEiX8QUjDccSjK",
@@ -24408,7 +24408,7 @@
    "name": "Jin Hye",
    "type": "Vessel",
    "countries": "",
-   "programs": "1718 (DPRK) - 2026-08-28;2018-03-30;PRK - M/V JIN HYE engaged in a ship-to-ship transfer with M/V CHON MA SAN on 16 December 2017.;Paragraph 6 of resolution…",
+   "programs": "1718 (DPRK) - 2026-08-28;2018-03-30;PRK - M/V JIN HYE engaged in a ship-to-ship transfer with M/V CHON MA SAN on 16 December 2017.;Paragraph 12 (a) of…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List",
    "first_seen": "2020-06-04",
    "id": "NK-Rmn74GQyyYCc2tMsCKb4UD",
@@ -24418,7 +24418,7 @@
    "name": "Yu Son",
    "type": "Vessel",
    "countries": "kp",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-T3CqwkJvZsSFtJywGgwLAW",
@@ -24488,7 +24488,7 @@
    "name": "Sam Jong 2",
    "type": "Vessel",
    "countries": "kp;ru",
-   "programs": ";1718 (DPRK) - 2026-08-28;2018-03-30;DPRK4 - Executive Order 13810 (North Korea);Ordinance of 18 May 2016 on measures against North Korea (SR 946.231.127.6),…",
+   "programs": ";(UE) 2018/548 du 06/04/2018 (ONU Corée du Nord - RCSNU 1718 (2006) et R (UE) 2017/1509) - décision du comité des sanctions des Nations unies du 30/03/2018…",
    "datasets": "Australian Sanctions Consolidated List;EU Council Official Journal Sanctioned Entities;EU Sanctions Map;French National Asset Freezing System;Monaco National Fund Freezing List;Swiss SECO Sanctions/Embargoes;UK FCDO Sanctions List;UN Security Council 1718 Designated Vessels List;US OFAC Specially Designated Nationals (SDN) List;US Trade Consolidated Screening List (CSL)",
    "first_seen": "2020-06-04",
    "id": "NK-Y6qXTPJUDa6PaygWwsXdeD",
