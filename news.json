@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T06:08:41.047220+00:00",
+ "updated": "2026-10-25T07:03:45.377265+00:00",
  "items": [
   {
    "id": "4242802e5ac55a96",
@@ -18,6 +18,86 @@
    "countries": [
     "United States"
    ]
+  },
+  {
+   "id": "afc8f204f38ab5f0",
+   "title": "Latest news bulletin | October 25th, 2026 – Morning",
+   "summary": "Catch up with the most important stories from around Europe and beyond this October 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "url": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-morning",
+   "source": "Euronews",
+   "group": "World news",
+   "published": "2026-10-25T07:00:32+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "27e341aae671007e",
+   "title": "Israeli forces detain 20 Palestinians during searches in besieged Hebron",
+   "summary": "Israeli forces detain 20 Palestinians during searches in besieged Hebron At least 20 Palestinians have been detained by Israeli forces during the ongoing military siege of Hebron in the occupied West Bank, which has also led to the displacement of more than 2,200 people. The Palestinian news agency Wafa reported that Israeli forces stormed most neighborhoods of Hebron city, raided and searched…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-20-palestinians-during-searches-besieged-hebron",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-25T06:51:40+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "2bc10b54246ce8b7",
+   "title": "Tehran strikes Iranian Kurdish base in Iraq with drones, report says",
+   "summary": "Tehran strikes Iranian Kurdish base in Iraq with drones, report says Iran's armed forces attacked bases belonging to an Iranian Kurdish opposition group in Iraq's Kurdistan region using drones, Mehr news agency reported. \"As part of a drone operation carried out by the Revolutionary Guards' ground forces, the headquarters of the terrorist and separatist group Komala, located in the Balisan…",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-strikes-iranian-kurdish-base-iraq-drones-report-says",
+   "source": "Middle East Eye",
+   "group": "Regional",
+   "published": "2026-10-25T06:45:18+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Iraq",
+    "Iran"
+   ]
+  },
+  {
+   "id": "c6bb4878524e783b",
+   "title": "Who Israel elects matters, and not just for Israelis",
+   "summary": "A new government would not end the occupation, but it could rein in the far right and ease tensions across the region.",
+   "url": "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "group": "World news",
+   "published": "2026-10-25T06:41:41+00:00",
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "9a88eb68df355ff8",
+   "title": "Eleven sustain gunshot wounds in shooting near Florida university",
+   "summary": "Police said an altercation at a homecoming party escalated into gunfire, resulting in six adults and six juveniles injured A shooting ⁠near a Florida university campus in Tallahassee has left 11 people ⁠with gunshot wounds ⁠and ​another person injured, authorities say. The shooting took place near the Florida Agricultural + Mechanical University’s campus ⁠on Perry Street on Saturday night, the…",
+   "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-25T06:07:47+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
   },
   {
    "id": "f31f94232004c216",
@@ -39,6 +119,44 @@
    ]
   },
   {
+   "id": "ff980ece399a0add",
+   "title": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
+   "summary": "The story of the emirates’ presence in Manchester winds from the Arab Spring to some of the most deprived places in England – with complicated results Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in 10 years When Hosni Mubarak, Egypt’s long-ruling dictator, was toppled from power in the Arab spring protests of 2011, his downfall sent shock waves across the Middle East. It also…",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-25T06:00:54+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "mena"
+   ],
+   "countries": [
+    "United Kingdom",
+    "United Arab Emirates",
+    "Egypt"
+   ]
+  },
+  {
+   "id": "952299fc343f84f6",
+   "title": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+   "summary": "Humanitarian catastrophe largely ignored as rivals Gadi Eisenkot and Benjamin Netanyahu vow to end Hamas rule As Israel prepares to go to the polls , Palestinians in Gaza are bracing for an outcome that could shape their future, knowing their fate rests with the country that has reduced much of the territory to rubble and killed nearly 75,000 people. Gaza, where nearly a million displaced…",
+   "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+   "source": "The Guardian World",
+   "group": "World news",
+   "published": "2026-10-25T06:00:54+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
    "id": "60fb5bb5bec804fb",
    "title": "Russia denies plans to evacuate staff working at Iran's Bushehr nuclear plant",
    "summary": "Russia denies plans to evacuate staff working at Iran's Bushehr nuclear plant Russia’s embassy in Tehran has denied reports that Russian embassy staff and specialists working at the Bushehr nuclear power plant are preparing to leave Iran. “Neither embassy staff nor Russian specialists at the Bushehr nuclear power plant have any plans to evacuate. Work continues as normal,” the embassy said in a…",
@@ -56,6 +174,22 @@
    "countries": [
     "Russia",
     "Iran"
+   ]
+  },
+  {
+   "id": "c8d839f31aa658bc",
+   "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+   "summary": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-25T05:45:31+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine"
    ]
   },
   {
@@ -148,6 +282,25 @@
    "countries": [
     "Iraq",
     "Iran"
+   ]
+  },
+  {
+   "id": "267b41a8194c3b76",
+   "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+   "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+   "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-25T05:15:52+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel",
+    "Palestine"
    ]
   },
   {
@@ -322,6 +475,22 @@
    ]
   },
   {
+   "id": "d3e62867a420548e",
+   "title": "Gunmen kill at least 10 villagers and loot shops in northeast Nigeria",
+   "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+   "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-25T03:20:16+00:00",
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
    "id": "8c53c958028a6478",
    "title": "Iran speaker to skip Delhi Brics meet due to 'unforeseen circumstances'",
    "summary": "Iran speaker to skip Delhi Brics meet due to 'unforeseen circumstances' Iranian Speaker Mohammad-Baqer Qalibaf will not attend the Brics parliamentary forum in New Delhi due to \"certain unforeseen circumstances\",  the Iranian embassy in India said on X. Qalibaf was scheduled to attend the Meeting of Speakers of the parliaments of Brics member countries.  The embassy said an Iranian parliamentary…",
@@ -375,6 +544,24 @@
    ],
    "countries": [
     "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "cc88b6d823e982cc",
+   "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+   "summary": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
+   "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-25T02:27:15+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
    ]
   },
   {
@@ -667,6 +854,24 @@
    ]
   },
   {
+   "id": "0ae1205c30952aa1",
+   "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+   "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
+   "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-24T23:50:02+00:00",
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Brazil"
+   ]
+  },
+  {
    "id": "24ca97c7d0be913a",
    "title": "Six Palestinian children treated for tear gas suffocation in Hebron",
    "summary": "Six Palestinian children treated for tear gas suffocation in Hebron Nine Palestinians, including six children, were treated by Palestinian Red Crescent teams for “suffocation” after Israeli soldiers fired tear gas in Halhul, north of Hebron, in the occupied West Bank. Israeli forces have sealed off all entrances to Hebron in the occupied West Bank and forcibly displaced around 2,200 Palestinians…",
@@ -815,6 +1020,55 @@
    ]
   },
   {
+   "id": "7b01f4c967190623",
+   "title": "The bitter row over military service that could shape Israel's future",
+   "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-24T23:03:21+00:00",
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "ca3fbe9d3288cdb5",
+   "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+   "summary": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-24T23:03:09+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "id": "b3bfe36f76a23348",
+   "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+   "summary": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
+   "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-24T23:02:51+00:00",
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ireland"
+   ]
+  },
+  {
    "id": "21b7a2af885f456f",
    "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
    "summary": "The Iran war has made oil tanker voyages so inefficient that vessel availability has crumbled and freight costs have soared to record-highs, all but erasing the incentive for shipping crude oil from the U.S. Gulf Coast to Asia. The cost of shipping crude oil from the U.S. Gulf Coast to China soared to as high as $80 million earlier this month. That’s ten times the average tanker rates that had…",
@@ -836,6 +1090,20 @@
     "China",
     "United States"
    ]
+  },
+  {
+   "id": "8d3b9d6582039bf2",
+   "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
+   "summary": "More than a million people flocked to Busan to catch a glimpse of the female dusky shark they called Bukangi.",
+   "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "group": "World news",
+   "published": "2026-10-24T22:58:43+00:00",
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
   },
   {
    "id": "65d78514c70d393e",
@@ -70385,290 +70653,6 @@
    ],
    "countries": [
     "United States"
-   ]
-  },
-  {
-   "id": "c95bdc29f8884793",
-   "title": "Russian missiles spark huge factory fires in Ukraine’s Odesa and Zaporizhzhia",
-   "summary": "Russian strikes ignited massive fires at businesses in Odesa and Zaporizhzhia as President Zelensky met European leaders for talks.",
-   "url": "https://www.euronews.com/video/2026/10/16/russian-missiles-spark-huge-factory-fires-in-ukraines-odesa-and-zaporizhzhia",
-   "source": "Euronews",
-   "group": "World news",
-   "published": "2026-10-16T12:46:34+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "5c867da25f1e0436",
-   "title": "Pro-Nazi chants before Ajax match slammed by Croatia leaders",
-   "summary": "Croatia's Hajduk Split hosted Ajax on Thursday, but chants for pre-World War II regime precede UEFA Europa League game.",
-   "url": "https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-16T12:42:30+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Croatia"
-   ]
-  },
-  {
-   "id": "9b5b9f21098b4d3f",
-   "title": "Norwegian teenager hired as hitman by Iranian crime gang jailed for 20 years",
-   "summary": "Johannes Kongsnes Natland, 19, was arrested in Huddersfield with two guns and live ammunition A teenage hitman who travelled from Norway to the UK with the intention of carrying out a murder on behalf of an Iran-backed international crime gang has been jailed for 20 years. Johannes Kongsnes Natland, 19, a talented footballer, had agreed to shoot an unknown target in return for €25,000 (£21,500).…",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/16/norwegian-teenager-hired-hitman-iranian-gang-jailed-20-years",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-16T12:40:12+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "mena"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Norway",
-    "Iran"
-   ]
-  },
-  {
-   "id": "83f1af2cc73d143a",
-   "title": "Burnham says he wants to devolve power so places can ‘change things for themselves’ – UK politics live",
-   "summary": "The prime minister is speaking about devolving decision-making powers away from both Westminster and Holyrood towards regions and towns Burnham spoke of Ravenscraig, once the pride of Scotland’s steel industry that employed tens of thousands of people before it closed in 1992. He said: When it closed, it wasn’t just a works that shut, it was a whole community which saw the pillars underneath it…",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/16/andy-burnham-scotland-devolution-speech-reform-uk-documentary-jenrick-farage-latest-news-updates",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-16T12:36:01+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "97f8f1df7ebe983f",
-   "title": "British food and drink exports to EU collapse by more than a third since Brexit",
-   "summary": "NFU analysis of official data shows falls in exports to UK’s largest trading partner since 2019 include 70% for sugar and 74% for egg products Exports of British food and drink to the EU have collapsed by more than a third since Brexit with eggs, chicken and potato producers badly hit, new figures show. Analysis by the National Farmers’ Union (NFU) of HMRC data shows a sharp fall in exports in…",
-   "url": "https://www.theguardian.com/business/2026/oct/16/british-food-drink-exports-to-eu-collapse-brexit",
-   "source": "The Guardian World",
-   "group": "World news",
-   "published": "2026-10-16T12:34:37+00:00",
-   "themes": [
-    "trade"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom",
-    "European Union"
-   ]
-  },
-  {
-   "id": "1e5723faa31b0813",
-   "title": "Watch: Did Tesla really just unveil a flying car?",
-   "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
-   "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "group": "World news",
-   "published": "2026-10-16T12:32:31+00:00",
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "id": "0990e68423323798",
-   "title": "Deadly Airstrikes Expose Growing Battle Over Sudan’s Gold",
-   "summary": "Politics, Geopolitics & Conflict Air strikes on October 10 killed at least 72 artisanal gold miners at Shamal al-Wadi, in the far north of Sudan's Red Sea state, along a border Egypt is policing to control a gold trade it now dominates. Survivors put the toll above 200. Miners and Sudanese rights groups blame Egyptian aircraft, and no government has claimed the strikes. Egypt treats the disputed…",
-   "url": "https://oilprice.com/Energy/Energy-General/Deadly-Airstrikes-Expose-Growing-Battle-Over-Sudans-Gold.html",
-   "source": "OilPrice.com",
-   "group": "Energy",
-   "published": "2026-10-16T12:30:00+00:00",
-   "themes": [
-    "conflict",
-    "energy"
-   ],
-   "regions": [
-    "mena",
-    "africa"
-   ],
-   "countries": [
-    "Egypt",
-    "Sudan"
-   ]
-  },
-  {
-   "id": "16c95063ef8c7331",
-   "title": "Trump's Oil Price Strategy Faces Two Major Tests This Weekend",
-   "summary": "Two Trump decisions will set this weekend's energy risk, and in both he is giving up leverage to chase lower pump prices before November 3. The first is to keep U.S. firepower out of Saudi Arabia's war with the Houthis. The Houthis hit Aramco's Dhahran headquarters on Tuesday night and have kept Riyadh's main airport shut until Saturday, and Washington's rule since September is that it stays out…",
-   "url": "https://oilprice.com/Energy/Energy-General/Trumps-Oil-Price-Strategy-Faces-Two-Major-Tests-This-Weekend.html",
-   "source": "OilPrice.com",
-   "group": "Energy",
-   "published": "2026-10-16T12:30:00+00:00",
-   "themes": [
-    "energy",
-    "maritime"
-   ],
-   "regions": [
-    "mena",
-    "americas"
-   ],
-   "countries": [
-    "Saudi Arabia",
-    "Yemen",
-    "United States"
-   ]
-  },
-  {
-   "id": "44d7af69e003b162",
-   "title": "Data Centers Drive Surge in India’s Renewable Power Demand",
-   "summary": "Plans for huge data center buildouts in India are set to hike clean energy demand in the country, and local renewable energy providers expect demand to outstrip supply. “Even if just five gigawatts of data center capacity comes to India, which is a conservative estimate, you will need about 30-40 gigawatts of renewable power,” Kuldeep Jain, managing director and founder of CleanMax Enviro Energy…",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Data-Centers-Drive-Surge-in-Indias-Renewable-Power-Demand.html",
-   "source": "OilPrice.com",
-   "group": "Energy",
-   "published": "2026-10-16T12:30:00+00:00",
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "60ad57ae6a1825cd",
-   "title": "Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights",
-   "summary": "Moscow’s airports were closed for 101 hours in the first 14 days of October, more than double the total for all of September.",
-   "url": "https://www.euronews.com/2026/10/16/ukrainian-drones-force-closure-of-all-four-moscow-airports-overnight-cancelling-dozens-of-",
-   "source": "Euronews",
-   "group": "World news",
-   "published": "2026-10-16T12:25:28+00:00",
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "307e4c1fcf518a67",
-   "title": "The more Putin escalates his attacks on Europe, the more Europe should support Ukraine",
-   "summary": "The more Putin escalates his attacks on Europe, the more Europe should support Ukraine    European Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlSU1dJX29TSFVjdjJWV09nOS1yTFhpRjZLOVFtQXdmVTRjZzUyMF96MFM0SlhxbTN2TGJYY3pXMkxlV3U5VEthMHp0UGI3OFpFeXN0UE9Tb1p2eUVpUzlrN25QSWE2Ti1YbjVLc3dsLURubFhMNGpsLVZrcllPNlo2cXY4c2VsYkxydzFoZS04SnVIVk5zVVdZUUFoclA5c3VaQlpDeHV5c0FvVzVR0gG0AUFVX3lxTE56Ql9Sd3VqOWFuNGxCTE8takVoaW1fZEs4MlYxUlI4RHhFUC1GQ1dhRmFLSjl6SjNPaFh2UWhST3RvcXdXa1lfZ1RYMmo2LVV1R0RkWDV4QzlvV3NpeTJzT1dIT3UzQk9vdzFBOGJZalNlMjRfb2FnRVlMQ2tDbWhIMGNBak1Vcy1tV3IxMnZPN0JvVk12RmtLM3YzeTduaTZfSWllWU5fNFBZUWhPd19salNwRw?oc=5",
-   "source": "ECFR",
-   "group": "Think tank",
-   "published": "2026-10-16T12:24:54+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "b2ccc8b3a136c5a7",
-   "title": "Is the Ceuta crisis a Moroccan problem, or a European one?",
-   "summary": "Is the Ceuta crisis a Moroccan problem, or a European one?    Chatham House",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObnpZOTVkRjY2WDlVYTR2YjZORGwtSE1Ldmx5TWt2YjJiWmozOU1McUdGeTRvZXhOZmVhVGk5QkJhUUttTVo2OXJUZ2hkRDZQdThyY2NvUEh5dklVQ1IxdTZXNWpweXBEMkQzYUhObHl1ZlpRVVpYbzhnbnlnTzR1ZWVQQ2tuaHB1LTlOT2NtTzJTZw?oc=5",
-   "source": "Chatham House",
-   "group": "Think tank",
-   "published": "2026-10-16T12:23:55+00:00",
-   "themes": [],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Morocco"
-   ]
-  },
-  {
-   "id": "0503e97f6584cbc5",
-   "title": "Fuel tanker fire engulfs market in southern Nigeria",
-   "summary": "A fire tore through Oluku market in Benin City after a tanker overturned and exploded.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-16T12:23:12+00:00",
-   "themes": [
-    "maritime"
-   ],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "3ee927cc3e7b15a3",
-   "title": "Pakistan orders school inspections following deadly roof collapse",
-   "summary": "Families demand justice for the 35 people killed; relatives say they had warned that the roof was leaking.",
-   "url": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss",
-   "source": "Al Jazeera",
-   "group": "World news",
-   "published": "2026-10-16T12:18:06+00:00",
-   "themes": [],
-   "regions": [
-    "asia_pacific"
-   ],
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "dc947a9325b3a9fd",
-   "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-   "summary": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
-   "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "group": "World news",
-   "published": "2026-10-16T12:16:42+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "americas"
-   ],
-   "countries": [
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "aa3a1401e5be5672",
-   "title": "Italy: Nationwide air traffic control issues disrupt flights at Rome airport",
-   "summary": "Flight delays and cancellations disrupted Rome’s Fiumicino Airport on Friday 16 October after a fault in the data-transmission network supporting Italy’s nationwide air traffic control system.",
-   "url": "https://www.euronews.com/video/2026/10/16/italy-nationwide-air-traffic-control-issues-disrupt-flights-at-rome-airport",
-   "source": "Euronews",
-   "group": "World news",
-   "published": "2026-10-16T12:16:15+00:00",
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Italy"
    ]
   }
  ]

@@ -1,7 +1,27 @@
 {
- "updated": "2026-10-25T06:08:41.047220+00:00",
+ "updated": "2026-10-25T07:03:45.377265+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "ff980ece399a0add",
+   "title": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
+   "summary": "The story of the emirates’ presence in Manchester winds from the Arab Spring to some of the most deprived places in England – with complicated results Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in 10 years When Hosni Mubarak, Egypt’s long-ruling dictator, was toppled from power in…",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T06:00:54+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United Arab Emirates",
+    "Egypt"
+   ]
+  },
   {
    "id": "5eacf12ea3c978ee",
    "title": "Four ways Labour could raise money in the Budget without hiking income tax",
@@ -21,6 +41,25 @@
    "tax": [
     "Income tax"
    ],
+   "countries": []
+  },
+  {
+   "id": "9970da36bd558b7b",
+   "title": "PM open to 'honest discussion' about return to EU free movement",
+   "summary": "Andy Burnham says that an \"honest discussion\" is needed about readopting the EU's free movement rules.",
+   "url": "https://news.sky.com/story/pm-open-to-honest-discussion-about-return-to-free-movement-with-eu-13603444",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T04:47:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
    "countries": []
   },
   {
@@ -15387,43 +15426,6 @@
     "Denmark",
     "United States"
    ]
-  },
-  {
-   "id": "dc44e9724965fa26",
-   "title": "Burnham sends fresh message to Ukraine ahead of Zelensky visit",
-   "summary": "Burnham will hold talks with Zelensky on Wednesday at Downing Street",
-   "url": "https://www.independent.co.uk/news/uk/politics/burnham-zelensky-russia-ukraine-trump-diesel-deal-b3066358.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T06:02:06+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "becd031679c87e27",
-   "title": "Ed Davey is a joke",
-   "summary": "Because whilst it might be easy to point and laugh at the Lib Dems, ridiculing them for their antics, what they have become is nothing short of a tragedy. This was once the party of giants. The post Ed Davey is a joke appeared first on Conservative Home .",
-   "url": "https://conservativehome.com/2026/10/14/ed-davey-is-a-joke/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-14T06:00:51+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative",
-    "Liberal Democrat"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15431,14 +15433,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15472,9 +15474,9 @@
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": true,
+   "ok": false,
    "new": 0,
-   "note": ""
+   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
   },
   {
    "name": "LabourList",
@@ -16161,7 +16163,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 132090,
+   "signatures": 132096,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16170,7 +16172,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119496,
+   "signatures": 119506,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16179,7 +16181,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 100258,
+   "signatures": 100279,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16188,7 +16190,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84873,
+   "signatures": 84878,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16197,7 +16199,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 76032,
+   "signatures": 76048,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16206,7 +16208,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72415,
+   "signatures": 72418,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16224,7 +16226,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 52333,
+   "signatures": 52358,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16242,7 +16244,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44445,
+   "signatures": 44450,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16251,7 +16253,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 43521,
+   "signatures": 43559,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16260,7 +16262,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41252,
+   "signatures": 41253,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
