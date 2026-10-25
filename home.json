@@ -1,7 +1,42 @@
 {
- "updated": "2026-10-25T00:59:25.710928+00:00",
+ "updated": "2026-10-25T03:53:01.910760+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "b531969a10e6f641",
+   "title": "Budget to include £1bn for social and affordable housing",
+   "summary": "The move will take funding for the 10-year programme to more than £40bn.",
+   "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T02:57:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9a70c06a0ba40a6b",
+   "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
+   "summary": "The Renters' Rights Act gives greater flexibility to leave a tenancy but the changes have posed challenges for student landlords.",
+   "url": "https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T01:35:40+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "ae83d49d04b63ea9",
    "title": "Burnham open to 'honest discussion' on EU free movement",
@@ -15383,43 +15418,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "df64fe4a7bdd9804",
-   "title": "Katie Lam: Our plan to get Britain building again",
-   "summary": "At last week’s Conservative Party Conference, Kemi laid out the clear dividing lines between us and Labour. They’ll always take more of people’s money; we want to let people keep what they earn. They’ll always think that the state has all the answers; we know that our country does best when people…",
-   "url": "https://conservativehome.com/2026/10/14/katie-lam-our-plan-to-get-britain-building-again/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-14T05:30:51+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "96fc97dd59873113",
-   "title": "Ben Ramanauskas: Cutting National Insurance contributions isn’t enough",
-   "summary": "It is encouraging that Andrew Griffith is serious about addressing the NEETs Crisis and recognises the role played by Employers’ NI in creating it. The proposal demonstrates good instincts, yet will increase tax complexity while doing little to solve the crisis. The post Ben Ramanauskas: Cutting…",
-   "url": "https://conservativehome.com/2026/10/14/ben-ramanauskas-cutting-national-insurance-contributions-isnt-enough/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-14T05:20:57+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "National Insurance"
-   ],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15427,14 +15425,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15448,7 +15446,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16157,7 +16155,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 132085,
+   "signatures": 132086,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16166,7 +16164,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119484,
+   "signatures": 119489,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16175,7 +16173,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 100214,
+   "signatures": 100232,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16184,7 +16182,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84867,
+   "signatures": 84868,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16193,7 +16191,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 76022,
+   "signatures": 76026,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16220,7 +16218,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 52316,
+   "signatures": 52321,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16229,7 +16227,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50300,
+   "signatures": 50302,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16238,7 +16236,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44442,
+   "signatures": 44443,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16247,7 +16245,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 43479,
+   "signatures": 43495,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16256,7 +16254,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41250,
+   "signatures": 41251,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
