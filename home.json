@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:58:43.331796+00:00",
+ "updated": "2026-10-25T15:48:31.863046+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-25T12:45:42+00:00",
+   "published": "2026-10-25T15:40:32+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
@@ -23,18 +23,127 @@
    "countries": []
   },
   {
+   "id": "31a9996eb8109dd4",
+   "title": "Reform tells councillors to do as little as possible in first 100 days – as Farage pledges the opposite",
+   "summary": "Reform councillors told to ‘resist big changes’ in first 100 days while Mr Farage wants to declare a national emergency as soon as he enters Downing Street",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-councillors-first-100-days-farage-b3072284.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T14:58:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fda7c2b0ac91b928",
+   "title": "HMRC to take money directly from bank accounts of tax dodgers",
+   "summary": "The chancellor is expected to announce the new move at the Budget on Wednesday",
+   "url": "https://www.independent.co.uk/news/uk/politics/hmrc-tax-bank-accounts-healey-budget-b3072948.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T14:07:02+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2eea819327bc9f91",
+   "title": "Struggling London-listed media group Future rebuffs interest in The Week",
+   "summary": "The struggling London-listed company which owns Go Compare, the price comparison platform, has rebuffed indicative bid interest in The Week, the current affairs magazine.",
+   "url": "https://news.sky.com/story/struggling-london-listed-media-group-future-rebuffs-interest-in-the-week-13603560",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-25T13:55:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "cd9e3690b1aa93be",
-   "title": "Second UK village to hold vote on leaving UK",
+   "title": "Second English village to hold vote on leaving UK",
    "summary": "Barnham could follow in the footsteps of Piddington, which overwhelmingly voted for ‘independence’ from the UK in protest over plans for asylum seekers",
    "url": "https://www.independent.co.uk/news/uk/politics/barnham-vote-leave-uk-asylum-seekers-piddington-b3072934.html",
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-25T12:32:00+00:00",
+   "published": "2026-10-25T13:44:41+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
     "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ba0b4d973515d60d",
+   "title": "Rayner backs Burnham call for debate on return to free movement with EU",
+   "summary": "Cabinet minister says PM’s plea is ‘pragmatism’ but comments risk causing concern among some red wall MPs Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including Angela Rayner but risks causing concern among fellow red…",
+   "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T13:31:05+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2c9f6cff9eb538e5",
+   "title": "Cutting ‘red tape’ is nothing but a red herring – and arguably counterproductive | Heather Stewart",
+   "summary": "Blaming a moribund economy on too many rules is a hackneyed neoliberal trope – UK plc needs smarter regulation, not less regulation Before becoming prime minister, Andy Burnham pledged to “end 40 years of neoliberalism”. But as he prepares for his first budget on Wednesday, his government is yet to…",
+   "url": "https://www.theguardian.com/business/2026/oct/25/cutting-red-tape-is-nothing-but-a-red-herring-and-arguably-counterproductive",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T13:00:34+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "439c94eda11c4149",
+   "title": "Former Tory candidate suspended over contract killer claims was adviser in Kemi Badenoch’s office",
+   "summary": "Sources close to Tory leader say Jack Ross, who faces party investigation after undercover report, worked as social media consultant A former Conservative election candidate who was suspended after he was filmed discussing the cost of hiring contract killers worked as a consultant in Kemi…",
+   "url": "https://www.theguardian.com/politics/2026/oct/25/former-tory-candidate-suspended-over-contract-killer-claims-was-adviser-in-kemi-badenoch-office-jack-ross",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T13:00:03+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership"
    ],
    "tax": [],
    "countries": []
@@ -80,7 +189,7 @@
   {
    "id": "c2bce29ee383bc8c",
    "title": "Demand for UK government action 10 months after British man’s death in Grenada",
-   "summary": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicide A time-critical investigation into the death of a British man whose body was found in a ransacked property on the Caribbean island of Grenada has stalled because of diplomatic delays between the two countries.…",
+   "summary": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicide A time-critical investigation into the death of a British father whose body was found in a ransacked property on the Caribbean island of Grenada has stalled because of diplomatic delays between the two…",
    "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
    "source": "Guardian Politics",
    "group": "News",
@@ -476,7 +585,7 @@
   {
    "id": "d1d49b8893892cfa",
    "title": "Daughter's bed 'propped up on books' says mum amid warning of deepening child poverty",
-   "summary": "Sarah Ruscoe, a single mum out of work due to health issues, worried her daughter’s bed would collapse at night.",
+   "summary": "Sarah Ruscoe, a single mum out of work due to health issues, worried her daughter's bed would collapse at night.",
    "url": "https://www.bbc.co.uk/news/articles/c933xpz1kdxyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
    "group": "News",
@@ -15322,113 +15431,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "547bee20418d52a7",
-   "title": "Rafe Fletcher: The Tories should go further on National Insurance",
-   "summary": "A pension exchange can help employers, shift mindsets around universal guarantees, and offer a carrot to workers. After all, no one enjoys seeing deductions on a pay cheque. But it’s easier to bear when you see those funds being put to work in your own account. The post Rafe Fletcher: The Tories…",
-   "url": "https://conservativehome.com/2026/10/14/rafe-fletcher-the-tories-should-go-further-on-national-insurance/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-14T10:00:42+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [
-    "National Insurance",
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
-   "id": "f1ae93f5ef41f092",
-   "title": "'It's definitely tight trying to budget on maternity leave'",
-   "summary": "An estimated 47,500 people in Sheffield are unable to make ends meet and pay their bills.",
-   "url": "https://www.bbc.co.uk/news/articles/c3ewegye0g0qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-14T09:59:51+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e5f1c7027c95307d",
-   "title": "MP recalls terrifying parachute accident after jumping from a plane at 15,000 feet",
-   "summary": "The Tory MP described how the skydive went wrong on a ‘grey and windy’ day in Devon",
-   "url": "https://www.independent.co.uk/news/uk/politics/david-reed-devon-skydive-royal-marine-b3066502.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T09:38:56+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "22ef2ddb96cbde8d",
-   "title": "Excise movement and control system: service availability and issues",
-   "summary": "Check the availability and any issues affecting the excise movement and control system (EMCS) online service.",
-   "url": "https://www.gov.uk/government/publications/excise-movement-and-control-system-emcs-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-14T09:32:19Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "82650b4da818dcdf",
-   "title": "AI regulation in the UK",
-   "summary": "This briefing provides an introduction to artificial intelligence (AI) and how it is regulated in the UK.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10003/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-14T09:28:58+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b6d5da3c4e897b4b",
-   "title": "In The Room | Does Andy Burnham want to reverse Brexit?",
-   "summary": "In recent weeks, the Prime Minister has made a series of pointed interventions on Britain’s relationship with the EU. At Labour conference, he said Brexit had done “more harm than good”. In a BBC interview, he suggested it was “possible” that a future Labour manifesto could promise another in-out…",
-   "url": "https://www.independent.co.uk/tv/in-the-room/andy-burnham-brexit-reverse-europe-eu-b3066503.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T09:23:50+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15443,7 +15445,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
@@ -15457,21 +15459,21 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15485,7 +15487,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15534,7 +15536,7 @@
    "name": "Tax Policy Associates",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 10,
+   "new": 9,
    "note": ""
   },
   {
@@ -16166,7 +16168,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 132166,
+   "signatures": 132187,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16175,7 +16177,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119633,
+   "signatures": 119688,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16184,7 +16186,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 100677,
+   "signatures": 100837,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16193,7 +16195,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84943,
+   "signatures": 84961,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16202,7 +16204,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 76940,
+   "signatures": 77036,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16211,7 +16213,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72467,
+   "signatures": 72484,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16220,7 +16222,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55459,
+   "signatures": 55462,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16229,7 +16231,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 52535,
+   "signatures": 52578,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16238,7 +16240,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50322,
+   "signatures": 50338,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16247,7 +16249,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44488,
+   "signatures": 44503,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16256,7 +16258,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 44022,
+   "signatures": 44163,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16265,7 +16267,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41283,
+   "signatures": 41291,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,

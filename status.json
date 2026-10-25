@@ -1,53 +1,53 @@
 {
- "updated": "2026-10-25T12:58:43.331796+00:00",
+ "updated": "2026-10-25T15:48:31.863046+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 13,
+   "new": 11,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 6,
+   "new": 9,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 9,
+   "new": 7,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -89,7 +89,7 @@
    "name": "Americas Quarterly",
    "group": "Regional",
    "ok": true,
-   "new": 11,
+   "new": 12,
    "note": "via backup feed"
   },
   {
@@ -131,7 +131,7 @@
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 4,
+   "new": 5,
    "note": "via backup feed"
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 5,
+   "new": 8,
    "note": ""
   },
   {
@@ -166,7 +166,7 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 21,
+   "new": 8,
    "note": "via backup feed"
   },
   {
