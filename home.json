@@ -1,7 +1,45 @@
 {
- "updated": "2026-10-26T01:14:26.225174+00:00",
+ "updated": "2026-10-26T03:56:02.609497+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "136d1840cd483e40",
+   "title": "How Abu Dhabi bought Andy Burnham’s Manchester - podcast",
+   "summary": "After the prime minister recently intervened to defend Manchester City’s beleaguered ownership, many began to ask: just how deep are the ties between Andy Burnham and the UAE? With North of England editor Josh Halliday . Send your comments and questions to tif.questions@theguardian.com Why did Andy…",
+   "url": "https://www.theguardian.com/news/audio/2026/oct/26/abu-dhabi-andy-burnham-manchester-podcast",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-26T03:00:19+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "381b6dbfeecbeb55",
+   "title": "What is the Budget and what could be in it?",
+   "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-26T02:16:37+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "eb14d132ce904dcc",
    "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
@@ -2529,23 +2567,6 @@
    "dateonly": false,
    "parties": [],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "381b6dbfeecbeb55",
-   "title": "What is the Budget and what could be in it?",
-   "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T08:14:04+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
    "tax": [],
    "countries": []
   },
@@ -15405,25 +15426,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "e6b5fdb4e25bcf30",
-   "title": "Stamp Duty Land Tax: enquiries and form ordering",
-   "summary": "Contact HMRC to order forms and payslips or for help with Stamp Duty Land Tax (SDLT) and payments.",
-   "url": "https://www.gov.uk/find-hmrc-contacts/stamp-duty-land-tax-general-enquiries",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "hmrc_contact",
-   "party_voice": "",
-   "published": "2026-10-14T13:44:16Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Property and stamp duty"
-   ],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15431,7 +15433,7 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
@@ -15452,14 +15454,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
@@ -16170,7 +16172,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119799,
+   "signatures": 119803,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16179,7 +16181,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 101313,
+   "signatures": 101336,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16188,7 +16190,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85016,
+   "signatures": 85017,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16197,7 +16199,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 77341,
+   "signatures": 77348,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16206,7 +16208,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72544,
+   "signatures": 72545,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16224,7 +16226,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 52719,
+   "signatures": 52725,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16233,7 +16235,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50356,
+   "signatures": 50357,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16242,7 +16244,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44534,
+   "signatures": 44539,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16251,7 +16253,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 44495,
+   "signatures": 44502,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16260,7 +16262,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41323,
+   "signatures": 41325,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
