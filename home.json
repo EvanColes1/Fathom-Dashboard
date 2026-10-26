@@ -1,7 +1,111 @@
 {
- "updated": "2026-10-25T21:46:34.267072+00:00",
+ "updated": "2026-10-26T01:14:26.225174+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "eb14d132ce904dcc",
+   "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+   "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+   "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-26T00:26:49+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "226eb026b7b0b04a",
+   "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+   "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+   "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-25T23:44:34+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "5591663c76df3935",
+   "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+   "summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+   "url": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T22:37:36+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d03bd7db531fcbb5",
+   "title": "Government commits extra £432m to get rough sleepers off streets by Christmas",
+   "summary": "The money will double the funding pot for tackling the problem of homelessness in England",
+   "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-rough-sleeping-burnham-b3072988.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T22:30:26+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "30cb33cbc22f151b",
+   "title": "Burnham to double spending on homelessness amid drive to end rough sleeping by Christmas",
+   "summary": "Downing Street will allocate a further £432m in this week’s budget, bringing total funding for finding a ‘lasting solution’ to nearly £900m Andy Burnham is to double spending on ending rough sleeping to almost £900m by the end of the current parliament, as he steps up efforts to get people off the…",
+   "url": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T22:30:13+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a945199b69f9c2b1",
+   "title": "Opposition ratchets up pressure on government to support Rosebank ahead of Budget",
+   "summary": "The Government approved the Jackdaw gas field but has not yet ruled on the larger Rosebank oil project",
+   "url": "https://www.independent.co.uk/news/uk/politics/rosebank-jackdaw-reform-labour-conservatives-andy-burnham-b3072970.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-25T22:00:03+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "9c09cd737406c67d",
    "title": "Cabinet split emerges over controversial Rosebank oilfield decision",
@@ -450,7 +554,7 @@
   {
    "id": "a10a21280c2c9f0b",
    "title": "The UK tax calculator that shows you what you’re really paying",
-   "summary": "This tax calculator shows you your take-home pay after tax and National Insurance. It works for Scotland and the rest of the UK. It takes pensions, child benefit, student loans and childcare into account. Other tax calculators will do all that. Ours also shows you your marginal tax rate – the tax…",
+   "summary": "This tax calculator shows you your take-home pay after tax and National Insurance. It works for Scotland and the rest of the UK. It takes pensions, child benefit, student loans and childcare into account, and you can add benefits in kind, pension income, savings, dividends and capital gains. Other…",
    "url": "https://taxpolicy.org.uk/uk-tax-calculator/",
    "source": "Tax Policy Associates",
    "group": "Tax and fiscal",
@@ -464,6 +568,7 @@
    ],
    "tax": [
     "National Insurance",
+    "Capital gains tax",
     "Pensions"
    ],
    "countries": []
@@ -6059,8 +6164,8 @@
    "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
    "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
    "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-21T10:20:15+00:00",
    "dateonly": false,
@@ -15319,115 +15424,6 @@
     "Property and stamp duty"
    ],
    "countries": []
-  },
-  {
-   "id": "a32ea0407b172eb5",
-   "title": "Pay duty on biofuels or road fuel gas",
-   "summary": "How to pay duty on biofuels or road fuel gas, and how long it takes for your payment to reach HMRC.",
-   "url": "https://www.gov.uk/guidance/pay-duty-on-biofuels-or-gas-for-road-use",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-14T12:55:06Z",
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "85595c6b9a771d1d",
-   "title": "Badenoch and Farage embroiled in furious row over Falklands and Chagos Islands",
-   "summary": "The dispute erupted after Mr Farage ppeared to suggest he would be willing to “trade” the Diego Garcia military base to secure Donald Trump’s silence on the Falklands",
-   "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-nigel-farage-chagos-falklands-b3066561.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T12:40:30+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative",
-    "Reform UK"
-   ],
-   "topics": [
-    "Defence"
-   ],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "f37f8bc9dee5bd9d",
-   "title": "Wayfair among firms fined millions for misleading sales tactics",
-   "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
-   "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-14T12:09:45+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ef32056c9efb4d2e",
-   "title": "Joe Walker Cousins: Saudi Arabia will remember who stood with it",
-   "summary": "The attacks on Riyadh’s King Khalid International Airport show that Saudi Arabia is not a passing regional story, and Britain’s relationship with the Kingdom cannot be managed through short-term reactions. Britain needs a long-term Gulf strategy and the political leadership to deliver it. The post…",
-   "url": "https://conservativehome.com/2026/10/14/joe-walker-cousins-saudi-arabia-will-remember-who-stood-with-it/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-14T12:00:31+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "184ed16968740247",
-   "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-   "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
-   "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-14T11:57:22+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3e6900cc60880791",
-   "title": "Man City owners did not discuss Premier League charges with me, Andy Burnham says",
-   "summary": "The prime minister said he was ‘very happy’ to set out details of the meetings with the club’s owners",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-man-city-charges-khaldoon-al-mubarak-b3066611.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-14T11:52:36+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15435,14 +15431,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
@@ -15456,14 +15452,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
@@ -16165,7 +16161,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 132254,
+   "signatures": 132271,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16174,7 +16170,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 119775,
+   "signatures": 119799,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16183,7 +16179,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 101187,
+   "signatures": 101313,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16192,7 +16188,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 84998,
+   "signatures": 85016,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16201,7 +16197,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 77302,
+   "signatures": 77341,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16210,7 +16206,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72525,
+   "signatures": 72544,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16219,7 +16215,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55465,
+   "signatures": 55467,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16228,7 +16224,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 52678,
+   "signatures": 52719,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16237,7 +16233,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50354,
+   "signatures": 50356,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16246,7 +16242,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44528,
+   "signatures": 44534,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16255,7 +16251,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 44436,
+   "signatures": 44495,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16264,7 +16260,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41317,
+   "signatures": 41323,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -16830,7 +16826,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-09-25",
+     "d": "2024-09-26",
      "v": 5.0
     },
     {
