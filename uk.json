@@ -1,7 +1,53 @@
 {
- "updated": "2026-10-25T06:08:41.047220+00:00",
- "since": "2026-09-25",
+ "updated": "2026-10-26T06:15:36.697456+00:00",
+ "since": "2026-09-26",
  "whitehall": [
+  {
+   "title": "PM confident every rough sleeper will have route off the street by Christmas as funding doubles",
+   "url": "https://www.gov.uk/government/news/pm-confident-every-rough-sleeper-will-have-route-off-the-street-by-christmas-as-funding-doubles",
+   "published": "2026-10-25T22:30:05Z",
+   "kind": "press_release",
+   "orgs": [
+    "Number 10"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Joint statement from HM Treasury and Department of Finance Canada",
+   "url": "https://www.gov.uk/government/news/joint-statement-from-hm-treasury-and-department-of-finance-canada",
+   "published": "2026-10-25T17:30:03Z",
+   "kind": "news_story",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Canada"
+   ]
+  },
+  {
+   "title": "Jordan travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/jordan",
+   "published": "2026-10-25T15:33:37Z",
+   "kind": "travel_advice",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "mena"
+   ],
+   "countries": [
+    "Jordan"
+   ]
+  },
   {
    "title": "Joint Press Release on the R4 Ministerial Meeting in Istanbul",
    "url": "https://www.gov.uk/government/news/joint-press-release-on-the-r4-ministerial-meeting-in-istanbul",
@@ -306,22 +352,6 @@
     "global"
    ],
    "countries": []
-  },
-  {
-   "title": "Jordan travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/jordan",
-   "published": "2026-10-23T13:49:26Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "mena"
-   ],
-   "countries": [
-    "Jordan"
-   ]
   },
   {
    "title": "Chief of Defence hosts tenth Dragon Group meeting in London",
@@ -2405,38 +2435,6 @@
    "countries": [
     "Malawi"
    ]
-  },
-  {
-   "title": "Pathways to SF6 free distribution networks",
-   "url": "https://www.gov.uk/government/publications/pathways-to-sf6-free-distribution-networks",
-   "published": "2026-10-20T14:30:08Z",
-   "kind": "research",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Tanzania travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/tanzania",
-   "published": "2026-10-20T14:04:46Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Tanzania"
-   ]
   }
  ],
  "laws": [
@@ -2532,29 +2530,15 @@
  ],
  "attention": [
   {
-   "country": "France",
-   "news_7d": 349,
-   "contributions": 56,
-   "debates": 0,
-   "statements": 0
-  },
-  {
    "country": "Ukraine",
-   "news_7d": 319,
+   "news_7d": 307,
    "contributions": 94,
    "debates": 1,
    "statements": 0
   },
   {
-   "country": "Russia",
-   "news_7d": 304,
-   "contributions": 98,
-   "debates": 2,
-   "statements": 1
-  },
-  {
    "country": "Israel",
-   "news_7d": 279,
+   "news_7d": 290,
    "contributions": 18,
    "debates": 0,
    "statements": 1
@@ -2568,38 +2552,38 @@
   },
   {
    "country": "Palestine",
-   "news_7d": 186,
+   "news_7d": 189,
    "contributions": 6,
    "debates": 0,
    "statements": 0
   },
   {
    "country": "Nigeria",
-   "news_7d": 141,
+   "news_7d": 147,
    "contributions": 4,
    "debates": 0,
    "statements": 0
   },
   {
-   "country": "China",
-   "news_7d": 125,
-   "contributions": 30,
-   "debates": 0,
-   "statements": 0
-  },
-  {
    "country": "Saudi Arabia",
-   "news_7d": 121,
+   "news_7d": 120,
    "contributions": 26,
    "debates": 2,
    "statements": 1
   },
   {
    "country": "Yemen",
-   "news_7d": 115,
+   "news_7d": 118,
    "contributions": 21,
    "debates": 0,
    "statements": 1
+  },
+  {
+   "country": "China",
+   "news_7d": 118,
+   "contributions": 30,
+   "debates": 0,
+   "statements": 0
   },
   {
    "country": "Australia",
