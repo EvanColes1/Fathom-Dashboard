@@ -1,16 +1,70 @@
 {
- "updated": "2026-10-26T19:07:23.512742+00:00",
+ "updated": "2026-10-26T21:50:42.270485+00:00",
  "government": "Labour",
  "articles": [
   {
-   "id": "bd7199fc654d1517",
-   "title": "‘I, The TrUssTER, will NeveR die’ – Liz Truss’s Bank Job, digested by John Crace",
-   "summary": "She’s back with another book – and it’s a lot like the last one. Our sketchwriter spares you the 100 pages HI!!! It’S mE Liz. THe TrUssTER. GueSS wHat? I’vE oNLy GOnE aND RiTTen anOTHer BoOK. IT’s called The NUT JOB. IMaGIne!!!. And iT’S DefiNATly tHE mosT ImPORtanT BoOk iN ThE EntIRe uniVErSE. ThE…",
-   "url": "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
-   "source": "Guardian Politics",
+   "id": "4bc1a0d6c9227b52",
+   "title": "Dawn Butler accuses Tory MP of causing 'racist pile-on' after 'mates overseas' comment",
+   "summary": "The Labour MP had backed the idea of the UK paying reparations for ‘stolen labour, stolen wealth, stolen land or stolen opportunity’",
+   "url": "https://www.independent.co.uk/news/uk/politics/dawn-butler-neil-o-brien-racism-reparations-social-media-b3073757.html",
+   "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-26T18:46:42+00:00",
+   "published": "2026-10-26T21:20:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4d36b1c07aac3394",
+   "title": "Burnham: Brexit is to blame for Britain’s small boats crisis",
+   "summary": "The prime minister said he did not think ‘things have worked out as people said they would at the time’",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-brexit-small-boats-immigration-b3073395.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-26T20:58:01+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Immigration",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ad00aafecce23443",
+   "title": "Tax-Free Childcare Statistics, September 2026",
+   "summary": "Tax-Free Childcare Statistics provide information on the numbers of families and children with open and used Tax-Free Childcare accounts and the amounts spent on government top-up. The publication also includes the numbers of open and used Tax-Free Childcare accounts for disabled children by age of…",
+   "url": "https://www.gov.uk/government/statistics/announcements/tax-free-childcare-statistics-september-2026",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "official_statistics_announcement",
+   "party_voice": "",
+   "published": "2026-10-26T20:33:33Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "10865bbb2c389d69",
+   "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+   "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+   "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-26T19:57:23+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -25,7 +79,7 @@
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-26T18:36:13+00:00",
+   "published": "2026-10-26T19:48:20+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -33,6 +87,21 @@
    "countries": [
     "Palestine"
    ]
+  },
+  {
+   "id": "bd7199fc654d1517",
+   "title": "‘I, The TrUssTER, will NeveR die’ – Liz Truss’s Bank Job, digested by John Crace",
+   "summary": "She’s back with another book – and it’s a lot like the last one. Our sketchwriter spares you the 100 pages HI!!! It’S mE Liz. THe TrUssTER. GueSS wHat? I’vE oNLy GOnE aND RiTTen anOTHer BoOK. IT’s called The NUT JOB. IMaGIne!!!. And iT’S DefiNATly tHE mosT ImPORtanT BoOk iN ThE EntIRe uniVErSE. ThE…",
+   "url": "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-26T18:46:42+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
   },
   {
    "id": "787a465a091eed06",
@@ -224,21 +293,6 @@
    "countries": []
   },
   {
-   "id": "10865bbb2c389d69",
-   "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-   "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
-   "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-26T17:20:54+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "7bc92f7e668213ed",
    "title": "‘Local services are vital’: Former rough sleepers on what helped them off the streets",
    "summary": "As Andy Burnham hosts a rough sleeper summit, frustration mounts over ‘ridiculous bureaucracy’ and lack of hostel places Martin Fletcher had been homeless for more than 20 years after being made redundant before he finally got accommodation in Sunderland in 2024. What was the one thing that finally…",
@@ -270,27 +324,6 @@
    ],
    "topics": [
     "Tax and spending",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4d36b1c07aac3394",
-   "title": "Burnham: Brexit is to blame for Britain’s small boats crisis",
-   "summary": "The prime minister said he did not think ‘things have worked out as people said they would at the time’",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-brexit-small-boats-immigration-b3073395.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T16:35:08+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership",
-    "Immigration",
     "Europe"
    ],
    "tax": [],
@@ -15373,43 +15406,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "546a134cd3628da5",
-   "title": "Caroline Elsom: Burnham’s housing benefit bill is coming back to haunt him",
-   "summary": "After years knocking on the No.11 door demanding benefit treats, Burnham must now find a way to pay for them at the Budget. He will find little sympathy on the Conservative benches, which have adopted Onward’s plan to reset Local Housing Allowance to the 10th percentile and extend the caps to…",
-   "url": "https://conservativehome.com/2026/10/15/caroline-elsom-burnhams-housing-benefit-bill-is-coming-back-to-haunt-him/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-15T10:00:21+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Economy",
-    "Housing"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "77a4f0a7ffbe723a",
-   "title": "Poundland owners parachute in directors amid crunch sale talks",
-   "summary": "The owners of ailing Poundland are parachuting in a trio of restructuring experts to its board ahead of a sale or filing for administration which is expected within days.",
-   "url": "https://news.sky.com/story/poundland-owners-parachute-in-directors-amid-crunch-sale-talks-13599519",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-15T09:42:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15417,14 +15413,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 6,
+   "new": 0,
    "note": ""
   },
   {
@@ -15438,21 +15434,21 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -15487,7 +15483,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -15501,7 +15497,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
@@ -16116,7 +16112,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 132389,
+   "signatures": 132457,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16125,7 +16121,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 120049,
+   "signatures": 120126,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16134,7 +16130,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 103028,
+   "signatures": 103415,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16143,7 +16139,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85072,
+   "signatures": 85085,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16152,7 +16148,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 77944,
+   "signatures": 78028,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16161,7 +16157,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72620,
+   "signatures": 72637,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16170,7 +16166,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55481,
+   "signatures": 55482,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16179,7 +16175,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 52917,
+   "signatures": 52977,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16188,7 +16184,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50392,
+   "signatures": 50401,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16197,7 +16193,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 44980,
+   "signatures": 45059,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16206,7 +16202,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44608,
+   "signatures": 44624,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16215,7 +16211,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41380,
+   "signatures": 41389,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
