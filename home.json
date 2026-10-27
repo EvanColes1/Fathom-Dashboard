@@ -1,7 +1,39 @@
 {
- "updated": "2026-10-27T01:08:31.106830+00:00",
+ "updated": "2026-10-27T03:53:29.907881+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "aa382c094360f049",
+   "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+   "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+   "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-27T01:57:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "088d4b9204220b00",
+   "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+   "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+   "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-27T01:48:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "cf68721561baa6d2",
    "title": "Choose cheap energy supply over net zero at Budget, Blair tells Healey",
@@ -169,23 +201,6 @@
    "parties": [
     "Labour"
    ],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "aa382c094360f049",
-   "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-   "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
-   "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-26T22:30:02+00:00",
-   "dateonly": false,
-   "parties": [],
    "topics": [
     "Tax and spending"
    ],
@@ -2218,6 +2233,56 @@
    "countries": []
   },
   {
+   "id": "de2ae26d5fdd6865",
+   "title": "Heating oil costs 'more than double' ahead of winter",
+   "summary": "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil.",
+   "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-25T07:12:21+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2e2dd38f0c29cb65",
+   "title": "How families are cutting the cost of Halloween as spending grows",
+   "summary": "Families are turning to homemade costumes, swaps and second-hand outfits to keep it affordable.",
+   "url": "https://www.bbc.co.uk/news/articles/c64g1kjgrl47o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-25T07:09:56+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f4ee74212814bd1b",
+   "title": "Firms 'holding back' on new jobs ahead of Budget",
+   "summary": "Some businesses say they want to see employment costs come down in the October Budget.",
+   "url": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-25T07:06:12+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "082b47e0b3a11e22",
    "title": "Will a new code end 'rip-off parking charges'?",
    "summary": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
@@ -2248,6 +2313,23 @@
     "Conservative"
    ],
    "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "564d5b0b3cb4763b",
+   "title": "Budget 2026: No more fat to trim for 'squeezed middle'",
+   "summary": "As the chancellor finalises his first Budget, how are the \"squeezed middle\" feeling about costs?",
+   "url": "https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-25T06:21:23+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
    "tax": [],
    "countries": []
   },
@@ -2839,8 +2921,8 @@
    "title": "How does the UK state pension compare with other countries?",
    "summary": "Do British pensioners have it better or worse than those in other countries?",
    "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-24T00:09:12+00:00",
    "dateonly": false,
@@ -3807,8 +3889,8 @@
    "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
    "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
    "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-23T11:48:04+00:00",
    "dateonly": false,
@@ -6297,8 +6379,8 @@
    "title": "The 'trillion pound' oil fund the government believes Britain could have built",
    "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
    "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-21T23:27:05+00:00",
    "dateonly": false,
@@ -15323,100 +15405,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "d10c7644f0ebbbd4",
-   "title": "‘The zero-emission vehicle mandate is a major climate test for Burnham’",
-   "summary": "Against the backdrop of a summer of extreme heat, wildfires and record poor harvests in the UK, and… The post ‘The zero-emission vehicle mandate is a major climate test for Burnham’ appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/zero-emission-vehicle-mandate-burnham-test/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-15T13:00:51+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "81bc9c9da3e270b7",
-   "title": "Andy Burnham ‘apologises’ for comments about Ann Widdecombe’s murder at PMQs",
-   "summary": "The prime minister was accused of a ‘breach of the presumption of innocence’",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-ann-widdecombe-pmqs-b3067403.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T12:30:40+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fbd1fa035e80f501",
-   "title": "Former DUP leader Jeffrey Donaldson sentenced to 15 years for child sexual offences",
-   "summary": "Donaldson was found guilty in June of 18 counts of sexual abuse including one rape between 1985 and 2008 Jeffrey Donaldson has been sentenced to 15 years for sexual offences against two women who were children when he abused them, completing what was described as a “catastrophic descent into…",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/15/jeffrey-donaldson-sentenced-to-15-years-for-child-sexual-offences",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T12:06:08+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "0c145cdd73ebcbe2",
-   "title": "George Beglan: Washington’s Greenland outlives NATO and Britain must take the hint",
-   "summary": "Washington secured what it wanted in Greenland by permanently securing what it would otherwise have had to keep asking allies for. Britain can no longer draft treaties on those terms. The post George Beglan: Washington’s Greenland outlives NATO and Britain must take the hint appeared first on…",
-   "url": "https://conservativehome.com/2026/10/15/george-beglan-washingtons-greenland-outlives-nato-and-britain-must-take-the-hint/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-15T12:00:37+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Defence"
-   ],
-   "tax": [],
-   "countries": [
-    "Denmark",
-    "United States",
-    "NATO"
-   ]
-  },
-  {
-   "id": "b86214b91ce97950",
-   "title": "Labour tells local Green groups to reject ‘Zionism is racism’ policy or it will end council pacts",
-   "summary": "Andy Burnham has ruled out a future power-sharing deal with the Green Party but it was unclear whether this would extend to local councils",
-   "url": "https://www.independent.co.uk/news/uk/politics/labour-greens-councils-zionism-andy-burnham-b3067317.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-15T11:59:09+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Green Party"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15424,14 +15412,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -15445,14 +15433,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 7,
    "note": ""
   },
   {
@@ -15494,7 +15482,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -16226,7 +16214,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 132483,
+   "signatures": 132485,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16235,7 +16223,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 120174,
+   "signatures": 120180,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16244,7 +16232,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 103646,
+   "signatures": 103682,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16262,7 +16250,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78070,
+   "signatures": 78074,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16271,7 +16259,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72650,
+   "signatures": 72652,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16289,7 +16277,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 53014,
+   "signatures": 53020,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16307,7 +16295,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45115,
+   "signatures": 45121,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16316,7 +16304,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44634,
+   "signatures": 44637,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16325,7 +16313,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41399,
+   "signatures": 41402,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
