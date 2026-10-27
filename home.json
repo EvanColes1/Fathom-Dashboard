@@ -1,7 +1,107 @@
 {
- "updated": "2026-10-27T19:02:00.062986+00:00",
+ "updated": "2026-10-27T21:52:15.414386+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "adc2461bf50ec988",
+   "title": "Budget 2026 latest: Chancellor Healey ‘to slash household gas bills by up to £50’ in cost of living boost",
+   "summary": "Healey is expected to bring in a raft of measures aimed at tackling the cost of living crisis",
+   "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-john-healey-food-prices-live-updates-b3073658.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-27T21:09:26+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ce68dafda42502e0",
+   "title": "Landline switchover could cut people off in emergency, minister warned",
+   "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
+   "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-27T20:54:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d5fcda9af8776625",
+   "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+   "summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
+   "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-27T19:41:05+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy",
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b7f0a53f88321bab",
+   "title": "How much is the minimum wage?",
+   "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+   "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-27T19:23:14+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1bf79458b0fddca0",
+   "title": "More cats abandoned 'due to rising costs'",
+   "summary": "The shelter has seen a \"huge increase\" in the number of cats it has taken in, compared to last year.",
+   "url": "https://www.bbc.co.uk/news/articles/c3dxwzzewpz1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-27T19:22:39+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cd0efeee8448e0b8",
+   "title": "Rosebank oilfield would not breach UK emission targets, say government insiders",
+   "summary": "Emissions from exported oil would not count against carbon budget, insiders say – reasoning likely to draw dismay from climate campaigners The giant Rosebank oilfield can be approved without breaching the UK’s emission targets, according to government insiders, in a boost to those in the cabinet…",
+   "url": "https://www.theguardian.com/environment/2026/oct/27/rosebank-oilfield-north-sea-uk-emissions-targets-insiders",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-27T19:17:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "381b6dbfeecbeb55",
    "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
@@ -15,39 +115,6 @@
    "parties": [],
    "topics": [
     "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ce68dafda42502e0",
-   "title": "Landline switchover could cut people off in emergency, minister warned",
-   "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
-   "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-27T18:40:19+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "adc2461bf50ec988",
-   "title": "Budget 2026 latest: Chancellor Healey ‘to freeze NHS prescription charges’ for another year",
-   "summary": "Healey is expected to extend the freeze first brought in by Rachel Reeves",
-   "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-john-healey-food-prices-live-updates-b3073658.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-27T18:39:54+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "NHS and care"
    ],
    "tax": [],
    "countries": []
@@ -357,6 +424,21 @@
    "countries": []
   },
   {
+   "id": "f9c1c4fc3e8681cb",
+   "title": "The potential merits of mandatory safeguarded 24/7 helipads at major trauma centres",
+   "summary": "A Westminster Hall debate has been scheduled for 29 October 2026 on the the potential merits of mandatory safeguarded 24/7 helipads at major trauma centres. The debate will be opened by Jim Shannon MP.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12259/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-27T15:04:24+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "aa382c094360f049",
    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
    "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
@@ -580,21 +662,6 @@
     "France",
     "China"
    ]
-  },
-  {
-   "id": "f9c1c4fc3e8681cb",
-   "title": "The potential merits of mandatory safeguarded 24/7 helipads at major trauma centres",
-   "summary": "A Westminster Hall debate has been scheduled for 29 October 2026 on the the potential merits of mandatory safeguarded 24/7 helipads at major trauma centres. The debate will be opened by Jim Shannon MP.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12259/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-27T13:21:55+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "8a82194b71cd6d38",
@@ -1158,7 +1225,7 @@
   },
   {
    "id": "b1c28f3d7fc4b0aa",
-   "title": "Another major lender profits in billions as higher bank tax expected in budget",
+   "title": "Another major lender's profits in billions as higher bank tax expected in budget",
    "summary": "Another of the UK's biggest banks has posted billions in profits in part thanks to higher interest rates.",
    "url": "https://news.sky.com/story/major-lender-hsbcs-profits-up-32-as-higher-bank-tax-expected-in-budget-13604238",
    "source": "Sky News Business",
@@ -15346,73 +15413,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "5199bb03f610ac47",
-   "title": "Simon Clarke: Goog-opoly shows why we need to ensure choice in AI",
-   "summary": "The various cautionary interventions by leading AI developers in recent weeks were a true landmark moment, and these risks must be taken seriously. But they mustn’t be allowed to distract from the broader competition risks to consumers and businesses as AI is rapidly deployed across the economy.…",
-   "url": "https://conservativehome.com/2026/10/16/simon-clarke-goog-opoly-shows-why-we-need-to-ensure-choice-in-ai/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-16T10:00:17+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "77dfb2e9cebf26b2",
-   "title": "What is a ‘YouTube tax’ and how would it work?",
-   "summary": "The Independent revealed on Thursday that the government is set to unveil plans to extend the licence fee",
-   "url": "https://www.independent.co.uk/news/uk/politics/youtube-tax-licence-fee-bbc-b3067909.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-16T09:29:30+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2ba655082f903cef",
-   "title": "Reform’s rotten culture is exposed",
-   "summary": "At the TUC Congress last month, I picked up a pin badge – mocked up like the Reform… The post Reform’s rotten culture is exposed appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/reform-rotten-culture-exposed/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-16T09:15:56+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "8bddfb7498e86225",
-   "title": "‘A direct cultural threat’: your questions on the rise of the right across Europe answered",
-   "summary": "With support for far right politics well established across Europe, how might upcoming elections shape its future? Europe correspondents Jon Henley and Ashifa Kassam answered Reddit users’ questions about their reporting from the continent Support for far-right parties has been growing across…",
-   "url": "https://www.theguardian.com/community/2026/oct/16/far-right-politics-rise-across-europe-afd-germany-elections-your-questions-answered",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-16T09:00:56+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15420,21 +15420,21 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 6,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15448,7 +15448,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 5,
    "note": ""
   },
   {
@@ -15536,7 +15536,110 @@
    "note": ""
   }
  ],
- "parties": [],
+ "parties": [
+  {
+   "name": "Labour",
+   "abbr": "Lab",
+   "colour": "#d50000",
+   "seats": 404
+  },
+  {
+   "name": "Conservative",
+   "abbr": "Con",
+   "colour": "#0063ba",
+   "seats": 118
+  },
+  {
+   "name": "Liberal Democrat",
+   "abbr": "LD",
+   "colour": "#fc7d0b",
+   "seats": 71
+  },
+  {
+   "name": "Independent",
+   "abbr": "Ind",
+   "colour": "#909090",
+   "seats": 11
+  },
+  {
+   "name": "Reform UK",
+   "abbr": "RUK",
+   "colour": "#12b6cf",
+   "seats": 8
+  },
+  {
+   "name": "Scottish National Party",
+   "abbr": "SNP",
+   "colour": "#fff685",
+   "seats": 8
+  },
+  {
+   "name": "Sinn Féin",
+   "abbr": "SF",
+   "colour": "#02665f",
+   "seats": 7
+  },
+  {
+   "name": "Democratic Unionist Party",
+   "abbr": "DUP",
+   "colour": "#d46a4c",
+   "seats": 5
+  },
+  {
+   "name": "Green Party",
+   "abbr": "Green",
+   "colour": "#78b82a",
+   "seats": 5
+  },
+  {
+   "name": "Plaid Cymru",
+   "abbr": "PC",
+   "colour": "#348837",
+   "seats": 4
+  },
+  {
+   "name": "Social Democratic & Labour Party",
+   "abbr": "SDLP",
+   "colour": "#4ea268",
+   "seats": 2
+  },
+  {
+   "name": "Your Party",
+   "abbr": "YP",
+   "colour": "#ff3131",
+   "seats": 2
+  },
+  {
+   "name": "Alliance",
+   "abbr": "APNI",
+   "colour": "#cdaf2d",
+   "seats": 1
+  },
+  {
+   "name": "Restore Britain",
+   "abbr": "RB",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Speaker",
+   "abbr": "Spk",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Traditional Unionist Voice",
+   "abbr": "TUV",
+   "colour": "#0c3a6a",
+   "seats": 1
+  },
+  {
+   "name": "Ulster Unionist Party",
+   "abbr": "UUP",
+   "colour": "#a1cdf0",
+   "seats": 1
+  }
+ ],
  "elections": [
   {
    "id": "local.argyll-and-bute.2026-10-29",
@@ -16119,7 +16222,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 132801,
+   "signatures": 132871,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16128,7 +16231,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 120441,
+   "signatures": 120494,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16137,7 +16240,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 106425,
+   "signatures": 107047,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16146,7 +16249,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85196,
+   "signatures": 85219,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16155,7 +16258,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78300,
+   "signatures": 78342,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16164,7 +16267,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72701,
+   "signatures": 72724,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16173,7 +16276,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55497,
+   "signatures": 55500,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16182,7 +16285,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 53384,
+   "signatures": 53612,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16191,7 +16294,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50434,
+   "signatures": 50441,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16200,7 +16303,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45439,
+   "signatures": 45489,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16209,7 +16312,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44697,
+   "signatures": 44706,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16218,7 +16321,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41474,
+   "signatures": 41490,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -16829,7 +16932,5 @@
    "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
   }
  ],
- "problems": [
-  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
- ]
+ "problems": []
 }
