@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:09:16.117183+00:00",
+ "updated": "2026-10-28T21:56:15.497052+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-28T19:09:16.117183+00:00",
+   "published": "2026-10-28T21:56:15.497052+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -18,6 +18,182 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "955372e93e31e557",
+   "title": "Restaurants sceptical over 'garlic and gherkins' plan",
+   "summary": "Import tariffs on more than 100 items - including garlic, gherkins and plant-based milk - are being removed.",
+   "url": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-28T20:31:39+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "92f7ee8a89ef02bf",
+   "title": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
+   "summary": "Few surprises as chancellor uses low-key speech blaming ‘global economic storms’ for stoking energy prices and cost of living crisis Budget 2026: key points at a glance Briefing: key questions answered by Heather Stewart and Pippa Crerar Editorial: Budget’s bold ambitions and welcome first steps…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T20:09:34+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "71577bca99e8cfd0",
+   "title": "What we now know about the UK economy in four charts",
+   "summary": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+   "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-28T20:08:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "515c8312bc09b24e",
+   "title": "What the Budget offers for under 25s - and what it leaves out",
+   "summary": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+   "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-28T20:02:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cc3eadc4833f1f6d",
+   "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+   "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+   "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-28T19:51:01+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "f4bc998bd6e465eb",
+   "title": "Nigel Farage skips budget in Commons over seating ‘altercation’ concerns",
+   "summary": "Reform UK leader ‘shocked’ by £10bn pledged to Ukraine and doubles down on cutting tax for crypto investors Budget 2026: key points at a glance Nigel Farage skipped the chancellor’s first budget because he was worried he would get in a “physical altercation” with another MP in a row over seating…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T19:42:20+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "a5075d247a28d049",
+   "title": "Budget briefing: the key questions answered by Heather Stewart and Pippa Crerar",
+   "summary": "Our economics and political editors dissect John Healey’s maiden budget The Guardian’s economics editor, Heather Stewart, and political editor, Pippa Crerar, assess the chancellor’s budget: what he said, why – and what he left out. Continue reading...",
+   "url": "https://www.theguardian.com/money/2026/oct/28/budget-briefing-the-key-questions-answered-by-heather-stewart-and-pippa-crerar",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T19:33:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0bf632b2e267c729",
+   "title": "Unions welcome Healey’s Budget while think tanks warn of ‘missed opportunities’",
+   "summary": "Trade unions and think tanks have given a mixed response to John Healey’s first Budget as Chancellor, welcoming… The post Unions welcome Healey’s Budget while think tanks warn of ‘missed opportunities’ appeared first on LabourList .",
+   "url": "https://labourlist.org/2026/10/budget-2026-reaction/",
+   "source": "LabourList",
+   "group": "Party voices",
+   "party_voice": "Labour",
+   "published": "2026-10-28T19:28:06+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0f1ca6be12e83d3f",
+   "title": "UK trade in goods by business characteristics 2025",
+   "summary": "UK overseas trade statistics (OTS) trade in goods data has been linked with the Office for National Statistics (ONS) business statistics.",
+   "url": "https://www.gov.uk/government/statistics/announcements/uk-trade-in-goods-by-business-characteristics-2025",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "official_statistics_announcement",
+   "party_voice": "",
+   "published": "2026-10-28T19:22:42Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b069f02850bf3824",
+   "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+   "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
+   "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-28T19:15:58+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Russia"
+   ]
   },
   {
    "id": "0caa0151db21e42d",
@@ -37,19 +213,40 @@
    "countries": []
   },
   {
-   "id": "515c8312bc09b24e",
-   "title": "Five ways the Budget will affect you if you are under 25",
-   "summary": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-   "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+   "id": "d9720e3547fd66b0",
+   "title": "The Guardian view on Labour’s budget: bold ambitions and welcome first steps | Editorial",
+   "summary": "Banks, landlords and gambling firms will pay more as the chancellor begins building a fairer economy and a more active state in a cost of living crisis John Healey’s first budget was a Rorschach test. Supporters saw dozens of measures offering “ breathing space” to a public worn down by rising…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/28/the-guardian-view-on-labours-budget-bold-ambitions-and-welcome-first-steps",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T19:01:30+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "33c0c94ae479c307",
+   "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+   "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+   "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-28T18:55:56+00:00",
+   "published": "2026-10-28T18:45:09+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
     "Tax and spending",
-    "Housing"
+    "Economy",
+    "Energy bills"
    ],
    "tax": [],
    "countries": []
@@ -73,28 +270,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "f4bc998bd6e465eb",
-   "title": "Nigel Farage skips budget in Commons over seating ‘altercation’ concerns",
-   "summary": "Reform UK leader ‘shocked’ by £10bn pledged to Ukraine and doubles down on cutting tax for crypto investors Budget 2026: key points at a glance Nigel Farage skipped the chancellor’s first budget because he was worried he would get in a “physical altercation” with another MP in a row over seating…",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-28T18:35:48+00:00",
-   "dateonly": false,
-   "parties": [
-    "Reform UK"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": [
-    "Ukraine"
-   ]
   },
   {
    "id": "866cbb1ad9501a32",
@@ -1081,25 +1256,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "cc3eadc4833f1f6d",
-   "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-   "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-   "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-28T17:32:51+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": [
-    "Iran"
-   ]
   },
   {
    "id": "e2010aa7b321416e",
@@ -3039,6 +3195,23 @@
    "countries": [
     "Cambodia"
    ]
+  },
+  {
+   "id": "a163ea3820fedac6",
+   "title": "Budget 2026: Sam, Anne and Ed Conway's debrief",
+   "summary": "👉Listen to Politics at Sam and Anne's on your podcast app👈",
+   "url": "https://news.sky.com/story/budget-2026-sam-anne-and-ed-conways-debrief-13604731",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T10:31:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
   },
   {
    "id": "6cf8371c6f7b40b4",
@@ -15294,174 +15467,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "432d7e650ee614db",
-   "title": "Don’t be fooled. The AI that was supposed to save us time is doing just the opposite | Gaby Hinsliff",
-   "summary": "The government says it can transform the state with AI, but it is no match for the resulting stream of machine-generated slop. And we all pay the cost Another morning, another avalanche of emails. Even after a guilty cull, my inbox is sitting at well over 7,000, but lately I’ve started subscribing…",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T05:00:17+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fa5b2be9e30bf1e2",
-   "title": "New Bradford railway station will ‘transform travel across the north’",
-   "summary": "Transport hub will offer through trains between Leeds and Manchester with ‘turn-up-and-go’ service A new railway station will be built in Bradford to “transform how people travel across the north”, the government has announced. The station will be at the heart of the Northern Powerhouse Rail (NPR)…",
-   "url": "https://www.theguardian.com/business/2026/oct/20/bradford-railway-station-transform-travel-north",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T05:00:16+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "504f73edd0786a47",
-   "title": "Delivering in local government: How Labour is building a better Britain everywhere",
-   "summary": "Labour councils up and down the country are helping to improve the lives of their residents. Week in,… The post Delivering in local government: How Labour is building a better Britain everywhere appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/good-news-in-labour-local-government-20-10-2026/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-20T05:00:11+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4777bf8a8c7c3186",
-   "title": "Labour members would back tax increases on gambling, banks and wealthiest in Budget",
-   "summary": "Labour members would back tax increases on gambling, the banking sector, and the wealthiest in the Budget, exclusive… The post Labour members would back tax increases on gambling, banks and wealthiest in Budget appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/labour-budget-polling-survation/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-20T05:00:04+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e5a9f4ef949cd07b",
-   "title": "UK unemployment rate falls to lowest level since July last year",
-   "summary": "The UK's unemployment rate has fallen to 4.7%, in a set of official figures that will support the case for a Bank of England interest rate hike next month.",
-   "url": "https://news.sky.com/story/surprise-dip-in-jobless-rate-supports-interest-rate-hike-13601180",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T04:31:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "79f3733039d4c171",
-   "title": "Closing the gender pension gap - labor supply and welfare effects of progressive pensions",
-   "summary": "",
-   "url": "https://ifs.org.uk/publications/closing-gender-pension-gap-labor-supply-and-welfare-effects-progressive-pensions",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-20T00:00:00+00:00",
-   "dateonly": true,
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
-   "id": "25e998365539f5fa",
-   "title": "Criminals detained in hospital to be stripped of benefits, government says",
-   "summary": "Regulations laid in parliament on Tuesday seek to close the loophole and prevent serious criminals receiving up to £800 a month in universal credit over several years",
-   "url": "https://www.independent.co.uk/news/uk/politics/criminals-killers-sex-offenders-hospital-detained-benefits-b3069415.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-19T23:01:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "NHS and care"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f25ff9217242e884",
-   "title": "Andy Burnham outlines new rules to outlaw ‘rip-off’ private parking fines",
-   "summary": "Drivers to get five minutes to decide whether to park and 10 minutes to leave after their session ends Drivers will get a guaranteed five minutes to decide whether to park and 10 minutes to leave after their parking session ends before they face a fine under new rules for private car parks that…",
-   "url": "https://www.theguardian.com/money/2026/oct/19/andy-burnham-new-rules-private-parking-fines-code-of-practice",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-19T21:30:07+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "905db81baf08b34e",
-   "title": "Funding for places of worship",
-   "summary": "A briefing on sources of funding - both public and private - for places of worship in the United Kingdom, often for repairs and renovation.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10625/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-19T21:28:10+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f9cad54fff25928c",
-   "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-   "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
-   "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-19T21:12:30+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Saudi Arabia"
-   ]
   }
  ],
  "feeds": [
@@ -15469,42 +15474,42 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 8,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 6,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 6,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15518,7 +15523,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15532,14 +15537,14 @@
    "name": "UK in a Changing Europe",
    "group": "Analysis",
    "ok": true,
-   "new": 16,
+   "new": 17,
    "note": ""
   },
   {
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -15553,7 +15558,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15585,110 +15590,7 @@
    "note": ""
   }
  ],
- "parties": [
-  {
-   "name": "Labour",
-   "abbr": "Lab",
-   "colour": "#d50000",
-   "seats": 404
-  },
-  {
-   "name": "Conservative",
-   "abbr": "Con",
-   "colour": "#0063ba",
-   "seats": 118
-  },
-  {
-   "name": "Liberal Democrat",
-   "abbr": "LD",
-   "colour": "#fc7d0b",
-   "seats": 71
-  },
-  {
-   "name": "Independent",
-   "abbr": "Ind",
-   "colour": "#909090",
-   "seats": 11
-  },
-  {
-   "name": "Reform UK",
-   "abbr": "RUK",
-   "colour": "#12b6cf",
-   "seats": 8
-  },
-  {
-   "name": "Scottish National Party",
-   "abbr": "SNP",
-   "colour": "#fff685",
-   "seats": 8
-  },
-  {
-   "name": "Sinn Féin",
-   "abbr": "SF",
-   "colour": "#02665f",
-   "seats": 7
-  },
-  {
-   "name": "Democratic Unionist Party",
-   "abbr": "DUP",
-   "colour": "#d46a4c",
-   "seats": 5
-  },
-  {
-   "name": "Green Party",
-   "abbr": "Green",
-   "colour": "#78b82a",
-   "seats": 5
-  },
-  {
-   "name": "Plaid Cymru",
-   "abbr": "PC",
-   "colour": "#348837",
-   "seats": 4
-  },
-  {
-   "name": "Social Democratic & Labour Party",
-   "abbr": "SDLP",
-   "colour": "#4ea268",
-   "seats": 2
-  },
-  {
-   "name": "Your Party",
-   "abbr": "YP",
-   "colour": "#ff3131",
-   "seats": 2
-  },
-  {
-   "name": "Alliance",
-   "abbr": "APNI",
-   "colour": "#cdaf2d",
-   "seats": 1
-  },
-  {
-   "name": "Restore Britain",
-   "abbr": "RB",
-   "colour": "#8a96a0",
-   "seats": 1
-  },
-  {
-   "name": "Speaker",
-   "abbr": "Spk",
-   "colour": "#8a96a0",
-   "seats": 1
-  },
-  {
-   "name": "Traditional Unionist Voice",
-   "abbr": "TUV",
-   "colour": "#0c3a6a",
-   "seats": 1
-  },
-  {
-   "name": "Ulster Unionist Party",
-   "abbr": "UUP",
-   "colour": "#a1cdf0",
-   "seats": 1
-  }
- ],
+ "parties": [],
  "elections": [
   {
    "id": "local.argyll-and-bute.2026-10-29",
@@ -16271,7 +16173,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133040,
+   "signatures": 133100,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16280,7 +16182,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 120896,
+   "signatures": 120963,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16289,7 +16191,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 109051,
+   "signatures": 109337,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16298,7 +16200,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85313,
+   "signatures": 85415,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16307,7 +16209,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78548,
+   "signatures": 78602,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16316,7 +16218,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 73051,
+   "signatures": 73134,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16325,7 +16227,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55516,
+   "signatures": 55519,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16334,7 +16236,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 54344,
+   "signatures": 54494,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16343,7 +16245,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50475,
+   "signatures": 50480,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16352,7 +16254,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45778,
+   "signatures": 45827,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16361,7 +16263,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44755,
+   "signatures": 44763,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16370,7 +16272,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41584,
+   "signatures": 41607,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -16981,5 +16883,7 @@
    "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
   }
  ],
- "problems": []
+ "problems": [
+  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
+ ]
 }

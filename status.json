@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-28T19:09:16.117183+00:00",
+ "updated": "2026-10-28T21:56:15.497052+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 5,
+   "new": 6,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 11,
+   "new": 12,
    "note": ""
   },
   {
@@ -26,7 +26,7 @@
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 20,
+   "new": 9,
    "note": ""
   },
   {
@@ -40,7 +40,7 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
@@ -54,28 +54,28 @@
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 8,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 11,
+   "new": 9,
    "note": ""
   },
   {
@@ -124,14 +124,14 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 19,
+   "new": 22,
    "note": "via backup feed"
   },
   {
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 8,
+   "new": 7,
    "note": "via backup feed"
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 10,
+   "new": 4,
    "note": ""
   },
   {
@@ -166,28 +166,28 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 5,
+   "new": 2,
    "note": ""
   },
   {
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 7,
+   "new": 6,
    "note": ""
   },
   {
    "name": "Carbon Brief",
    "group": "Energy",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 6,
+   "new": 2,
    "note": ""
   },
   {
@@ -201,28 +201,28 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "The Record",
    "group": "Cyber",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 6,
+   "new": 8,
    "note": "via backup feed"
   },
   {
    "name": "Migration Policy Institute",
    "group": "Migration",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
