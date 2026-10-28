@@ -1,16 +1,279 @@
 {
- "updated": "2026-10-28T07:19:56.291297+00:00",
+ "updated": "2026-10-28T10:04:56.032001+00:00",
  "government": "Labour",
  "articles": [
   {
+   "id": "99c17e9171f6021b",
+   "title": "Former Conservative chancellor unsure Budget will 'fix big problems'",
+   "summary": "Sir Jeremy Hunt spoke to BBC Breakfast about his hopes and qualms ahead of John Healey's autumn Budget.",
+   "url": "https://www.bbc.co.uk/news/videos/c65ynlg4rxvqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-28T09:54:35+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e280498c9d569880",
+   "title": "Budget 2026 live: chancellor says scrapping gas standing charges will save 60% of homes £45 a year",
+   "summary": "John Healey says UK faces ‘difficult moment’ as he prepares to deliver first budget of Andy Burnham’s government You be the chancellor: play our budget game to see if you can balance the books The gas standing charges decision has also been welcomed by Nesta , a thinktank that recently published a…",
+   "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T09:49:31+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5e8d37fc050e95fe",
+   "title": "Healey ‘to scrap planned cut on cash ISA allowance’ in Budget",
+   "summary": "Savers will be able to put £20,000 a year into ISAs once more",
+   "url": "https://www.independent.co.uk/money/cash-isa-allowance-healey-rachel-reeves-budget-b3074624.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T09:45:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c4538657a35e03fd",
+   "title": "Chancellor abolishes standing charges on gas bills to make payments fairer",
+   "summary": "Standing charges from household gas bills will be removed for around 23 million homes.",
+   "url": "https://www.gov.uk/government/news/chancellor-abolishes-standing-charges-on-gas-bills-to-make-payments-fairer",
+   "source": "Number 10",
+   "group": "Government",
+   "kind": "news_story",
+   "party_voice": "",
+   "published": "2026-10-28T09:31:06Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "eb74ddc5a29fcf6a",
+   "title": "UK trade in goods statistics",
+   "summary": "UK overseas trade in goods statistics and UK regional trade in goods statistics at summary product and country level, and by UK regions and devolved administrations.",
+   "url": "https://www.gov.uk/government/collections/uk-trade-in-goods-statistics",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "document_collection",
+   "party_voice": "",
+   "published": "2026-10-28T09:30:10Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8e650bd484688c83",
+   "title": "UK import trade in goods by country of origin and country of dispatch, 2025",
+   "summary": "This publication outlines and explains UK import trade by country of origin (CoO) for 2025, and makes comparisons with import trade by country of dispatch (CoD).",
+   "url": "https://www.gov.uk/government/statistics/uk-import-trade-in-goods-by-country-of-origin-and-country-of-dispatch-2025",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "official_statistics",
+   "party_voice": "",
+   "published": "2026-10-28T09:30:03Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "51d19e5e14f5779d",
+   "title": "'Government to decide who to help and who picks up the tab'",
+   "summary": "Helen Miller, director at the Institute for Fiscal Studies, speaks to the Today programme about challenges in the budget.",
+   "url": "https://www.bbc.co.uk/news/videos/cw1l39g2n8dyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-28T09:25:28+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "381b6dbfeecbeb55",
-   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+   "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
    "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-28T07:12:45+00:00",
+   "published": "2026-10-28T09:25:19+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "decfb52eaf6e08dd",
+   "title": "Budget 2026 live: Martin Lewis hails plan to scrap ‘poll tax on energy’ after meeting chancellor at No 11",
+   "summary": "Chancellor expected to bring in a raft of measures aimed at tackling the cost of living crisis",
+   "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-uk-tax-live-updates-b3074630.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T09:11:10+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy",
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f020949254ccdebf",
+   "title": "Yvette Cooper drops plans to abolish NHS patient champion after outcry",
+   "summary": "Exclusive: Health secretary to extend role of watchdog, which backers say helps hold service in England to account Yvette Cooper has abandoned plans to abolish the NHS’s independent patient champion after an outcry from MPs across the political spectrum. The health secretary has decided to keep and…",
+   "url": "https://www.theguardian.com/society/2026/oct/28/yvette-cooper-drops-plans-abolish-healthwatch-england",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T09:00:02+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c1abf4505042634d",
+   "title": "Octopus Energy boss on standing charges",
+   "summary": "CEO Greg Jackson spoke to BBC Breakfast after the chancellor announced cuts to gas bills for millions.",
+   "url": "https://www.bbc.co.uk/news/videos/cqe9lmgdnz45o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-28T08:36:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "00cf9d845d314999",
+   "title": "Now Britain knows the cost of Brexit, we can finally discuss it properly",
+   "summary": "Editorial : The prime minister has called for an ‘honest conversation’ about EU membership – and his government is already in talks to allow Europeans to travel, live, study and work in the UK. It is a leap of faith that bodes well for closer alignment",
+   "url": "https://www.independent.co.uk/voices/editorials/brexit-cost-burnham-eu-cost-freedom-movement-b3074322.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T08:10:37+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "97a36788a52599d1",
+   "title": "What the Budget will mean for pensions and income tax",
+   "summary": "Several major policy announcements are expected at the event",
+   "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-pensions-income-tax-b3074621.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T08:01:58+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Income tax",
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "37e747acb35fd0c5",
+   "title": "What time is the Budget 2026 announcement?",
+   "summary": "The Budget is one of the biggest events in the UK's political and economic calendar, when the chancellor sets out the government's plans for taxation, public spending and the wider economy",
+   "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-start-time-today-b3074617.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T07:53:49+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "02a99fc21d2b6314",
+   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+   "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+   "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-28T07:53:20+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Cambodia"
+   ]
+  },
+  {
+   "id": "b3bbe84727107787",
+   "title": "What is in the iconic red box?",
+   "summary": "UK Chancellor John Healey will be carrying a red box as he delivers his Budget today - but what's in the box?",
+   "url": "https://www.bbc.co.uk/news/videos/cmj6j0k5ernzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-28T07:41:28+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
@@ -280,16 +543,14 @@
   {
    "id": "389e2e1b46f5640c",
    "title": "What to expect from John Healey’s first budget: who wins, who pays?",
-   "summary": "Struggling households, new homebuyers and small shops stand to gain, while banks and online marketplaces could face higher levies John Healey will present his first budget on Wednesday, which will set the tone for Andy Burnham’s premiership. Despite the chancellor’s promises in the summer that the…",
+   "summary": "Struggling households, new homebuyers and small shops stand to gain, while banks and online marketplaces could face higher levies You be the chancellor: play our budget game to see if you can balance the books John Healey will present his first budget on Wednesday, which will set the tone for Andy…",
    "url": "https://www.theguardian.com/uk-news/2026/oct/28/what-to-expect-from-john-healeys-first-budget-who-wins-who-pays",
    "source": "Guardian Politics",
    "group": "News",
    "party_voice": "",
    "published": "2026-10-28T06:00:02+00:00",
    "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
+   "parties": [],
    "topics": [
     "Tax and spending"
    ],
@@ -316,23 +577,6 @@
    "countries": []
   },
   {
-   "id": "02a99fc21d2b6314",
-   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-   "summary": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
-   "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-28T03:43:38+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Cambodia"
-   ]
-  },
-  {
    "id": "98c66774e3a2592b",
    "title": "Revealed: The policies that have trickled out of the budget so far",
    "summary": "",
@@ -351,7 +595,7 @@
   },
   {
    "id": "8a82194b71cd6d38",
-   "title": "I get £4,062 a year and am trying my best to get a job - here's what I want from the Budget",
+   "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
    "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
    "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -400,6 +644,21 @@
    "countries": []
   },
   {
+   "id": "32302728971daf14",
+   "title": "Challenges to scaling a youth violence reduction intervention: Evidence from a field experiment and qualitative data",
+   "summary": "",
+   "url": "https://ifs.org.uk/publications/challenges-scaling-youth-violence-reduction-intervention-evidence-field-experiment-and",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-28T00:00:00+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "987513b0ceba06d7",
    "title": "Healey vows to give Britons ‘fresh hope for future’ in first Budget",
    "summary": "In an eve-of-Budget video message, the chancellor has promised Britons ‘breathing space today, and fresh hope for the future’ in the face of rising bills",
@@ -436,7 +695,7 @@
   {
    "id": "31eae68c2dbe5343",
    "title": "Chancellor targets cost of living crisis in budget for a ‘difficult moment’",
-   "summary": "Healey hopes to give ‘hope for the future’ but only modest policies are expected with important decisions deferred John Healey has acknowledged the UK faces a “difficult moment” but insisted he would put the country on a better path as he delivers his first budget on Wednesday against a turbulent…",
+   "summary": "Healey hopes to give ‘hope for the future’ but only modest policies are expected with important decisions deferred You be the chancellor: play our budget game to see if you can balance the books John Healey has acknowledged the UK faces a “difficult moment” but insisted he would put the country on…",
    "url": "https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending",
    "source": "Guardian Politics",
    "group": "News",
@@ -563,6 +822,23 @@
    "topics": [
     "Tax and spending",
     "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "daf1833f23c824a0",
+   "title": "What do we know about Chancellor John Healey?",
+   "summary": "The Chancellor is due to deliver his first Budget.",
+   "url": "https://www.bbc.co.uk/news/videos/cwz0vgjj14lmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-27T19:12:31+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
    ],
    "tax": [],
    "countries": []
@@ -2316,7 +2592,7 @@
   {
    "id": "246afa03cf747c8b",
    "title": "Ben Jennings on Andy Burnham’s plans for young people – cartoon",
-   "summary": "Continue reading...",
+   "summary": "Discover and buy more of Ben’s cartoons here Order your own print of this cartoon from the Guardian Print Shop Ben’s latest book, Drawn to the Chaos, is available to pre-order now Continue reading...",
    "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/26/ben-jennings-andy-burnham-budget-young-people",
    "source": "Guardian Politics",
    "group": "News",
@@ -15179,262 +15455,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "3b45d5bee1f724dc",
-   "title": "Software developers providing customs declaration software",
-   "summary": "Check a list of software developers who can provide Customs Declaration Service software.",
-   "url": "https://www.gov.uk/guidance/list-of-software-developers-providing-customs-declaration-support",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-16T13:47:41Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "266f56a22f1c1fc5",
-   "title": "One Stop Shop Union scheme: service availability and issues",
-   "summary": "Check the availability and any issues affecting the One Stop Shop (OSS) Union scheme online service.",
-   "url": "https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-16T13:46:25Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "bb19f805dab2f616",
-   "title": "VAT Import One Stop Shop Scheme: service availability and issues",
-   "summary": "Check the availability and any issues affecting the VAT Import One Stop Shop (IOSS) Scheme online service.",
-   "url": "https://www.gov.uk/government/publications/vat-import-one-stop-shop-scheme-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-16T13:46:12Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "b9e9e95b9b3f2c02",
-   "title": "TV licences for the over-75s",
-   "summary": "People who are over-75 and receiving Pension Credit are eligible for a free TV licence.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/sn04955/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-16T13:42:48+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
-   "id": "7c6b4a626418fb8f",
-   "title": "Using Making Tax Digital for Income Tax for the first time",
-   "summary": "Making Tax Digital for Income Tax explained and a timetable for your first year.",
-   "url": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/using-making-tax-digital-for-income-tax-for-the-first-time",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual_section",
-   "party_voice": "",
-   "published": "2026-10-16T13:18:36Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Income tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "dc9a45b49886d0a4",
-   "title": "Rates for the Carbon Border Adjustment Mechanism (CBAM)",
-   "summary": "Find out about rates for CBAM goods and how they apply to your imports.",
-   "url": "https://www.gov.uk/guidance/rates-for-the-carbon-border-adjustment-mechanism-cbam",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-16T13:18:36Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d1cb1aa440dafbc2",
-   "title": "Use Making Tax Digital for Income Tax",
-   "summary": "Guidance for sole traders, landlords, and agents about how to use HMRC's new way to do Self Assessment.",
-   "url": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual",
-   "party_voice": "",
-   "published": "2026-10-16T13:18:36Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Income tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "39f1257a00b9ca81",
-   "title": "Check if Making Tax Digital for Income Tax has been added to your HMRC online account",
-   "summary": "How to check the new service has been added and what you can do in your online account.",
-   "url": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/check-if-making-tax-digital-for-income-tax-has-been-added-to-your-hmrc-online-account",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual_section",
-   "party_voice": "",
-   "published": "2026-10-16T13:18:36Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Income tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "a996f171c78b0e92",
-   "title": "Send quarterly updates",
-   "summary": "How and when to send quarterly updates and what’s included in them.",
-   "url": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual_section",
-   "party_voice": "",
-   "published": "2026-10-16T13:18:36Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2c85ae6cc48a61dd",
-   "title": "Gwirio a yw’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm wedi’i ychwanegu at eich cyfrif ar-lein CThEF",
-   "summary": "Sut i wirio a yw’r gwasanaeth newydd wedi’i ychwanegu a’r hyn y gallwch ei wneud yn eich cyfrif ar-lein.",
-   "url": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/gwirio-a-yw-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm-wedi-i-ychwanegu-at-eich-cyfrif-ar-lein-cthef",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual_section",
-   "party_voice": "",
-   "published": "2026-10-16T13:18:30Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "5e1593312d4c1c05",
-   "title": "Anfon diweddariadau chwarterol",
-   "summary": "Sut a phryd i anfon diweddariad-au chwarterol, yn seiliedig ar eich cyfnod cyfrifyddu.",
-   "url": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/anfon-diweddariadau-chwarterol",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual_section",
-   "party_voice": "",
-   "published": "2026-10-16T13:18:30Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "cfdee07518efb6d1",
-   "title": "Defnyddio’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm am y tro cyntaf",
-   "summary": "Esboniad o’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm ac arweiniad ar gyfer eich blwyddyn gyntaf.",
-   "url": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm-am-y-tro-cyntaf",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual_section",
-   "party_voice": "",
-   "published": "2026-10-16T13:18:30Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "0a2f073911215efe",
-   "title": "Defnyddio’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm",
-   "summary": "Arweiniad ar gyfer unig fasnachwyr, landlordiaid ac asiantau ynghylch sut i ddefnyddio ffordd newydd CThEF o wneud Hunanasesiad.",
-   "url": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual",
-   "party_voice": "",
-   "published": "2026-10-16T13:18:30Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2757ce3ba9d8057e",
-   "title": "Getting the emissions intensity when importing Carbon Border Adjustment Mechanism (CBAM) goods",
-   "summary": "Find out how to get your emissions intensity as an importer (also known as a liable person) when importing Carbon Border Adjustment Mechanism (CBAM) goods into the UK.",
-   "url": "https://www.gov.uk/guidance/getting-the-emissions-intensity-when-importing-carbon-border-adjustment-mechanism-cbam-goods",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-16T13:18:00Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fc6e899db463098a",
-   "title": "Monitoring emissions as an overseas installation producing Carbon Border Adjustment Mechanism (CBAM) goods, exported to the UK",
-   "summary": "Find out about monitoring emissions and getting emissions verified if you are an installation exporting Carbon Border Adjustment Mechanism (CBAM) goods.",
-   "url": "https://www.gov.uk/guidance/monitoring-emissions-asan-overseas-installation-producing-carbon-border-adjustment-mechanism-cbam-goods-exported-to-the-uk",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-16T13:17:00Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e7163079fb7ed235",
-   "title": "Verifying emissions data for Carbon Border Adjustment Mechanism (CBAM) goods",
-   "summary": "Find out what you must do if you’re verifying emissions data for the Carbon Border Adjustment Mechanism (CBAM).",
-   "url": "https://www.gov.uk/guidance/verifyingemissions-data-for-carbon-border-adjustment-mechanismcbamgoods",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-16T13:16:38Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15442,14 +15462,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
@@ -15463,14 +15483,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 5,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 6,
    "note": ""
   },
   {
@@ -15484,7 +15504,7 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -16244,7 +16264,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 132913,
+   "signatures": 132948,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16253,7 +16273,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 120585,
+   "signatures": 120671,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16262,7 +16282,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 107522,
+   "signatures": 107948,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16271,7 +16291,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85247,
+   "signatures": 85265,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16280,7 +16300,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78375,
+   "signatures": 78410,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16289,7 +16309,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72752,
+   "signatures": 72821,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16298,7 +16318,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55506,
+   "signatures": 55508,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16307,7 +16327,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 53782,
+   "signatures": 53931,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16316,7 +16336,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50450,
+   "signatures": 50458,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16325,7 +16345,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45536,
+   "signatures": 45589,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16334,7 +16354,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44719,
+   "signatures": 44726,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16343,7 +16363,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41502,
+   "signatures": 41512,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -16933,7 +16953,7 @@
      "v": 3.75
     },
     {
-     "d": "2026-10-26",
+     "d": "2026-10-27",
      "v": 3.75
     }
    ],
