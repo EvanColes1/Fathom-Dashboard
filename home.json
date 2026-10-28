@@ -1,7 +1,41 @@
 {
- "updated": "2026-10-28T01:20:43.062378+00:00",
+ "updated": "2026-10-28T04:01:55.456229+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "02a99fc21d2b6314",
+   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+   "summary": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
+   "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-28T03:43:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Cambodia"
+   ]
+  },
+  {
+   "id": "98c66774e3a2592b",
+   "title": "Revealed: The policies that have trickled out of the budget so far",
+   "summary": "",
+   "url": "https://news.sky.com/story/httpsnewsskycomstorypolitics-latest-budget-healey-burnham-labour-badenoch-farage-davey-12593360postid12722274liveblog-body-13604642",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T01:46:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "381b6dbfeecbeb55",
    "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
@@ -221,6 +255,25 @@
    "topics": [],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "98c2a4dca3a990bd",
+   "title": "Why this British plumber prefers working in Poland",
+   "summary": "Poland is now achieving formidable economic growth rates and fast rising living standards",
+   "url": "https://www.bbc.co.uk/news/videos/ckq6nqqlj8nro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-27T19:25:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "Poland"
+   ]
   },
   {
    "id": "b7f0a53f88321bab",
@@ -640,6 +693,21 @@
    "topics": [
     "Economy"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c3729cbd2769dfc5",
+   "title": "How the beauty industry is boosting High Streets",
+   "summary": "Marie Camara believes beauty and personal care businesses play a key role in supporting high streets.",
+   "url": "https://www.bbc.co.uk/news/videos/cmr4y51lp5zko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-27T14:35:10+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -1826,6 +1894,25 @@
    "topics": [],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "58531c9c0382f472",
+   "title": "Business Daily",
+   "summary": "After decades of ultra-cheap money, the cost of borrowing in Japan is rising",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8grq?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-26T21:30:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": [
+    "Japan"
+   ]
   },
   {
    "id": "4bc1a0d6c9227b52",
@@ -3196,8 +3283,8 @@
    "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
    "summary": "The economic is positive now but come January things could become trickier for the Labour government",
    "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-26T00:26:49+00:00",
    "dateonly": false,
@@ -3364,6 +3451,23 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "041c6eed5a32770d",
+   "title": "Business Daily",
+   "summary": "A Chinese export surge has implications far beyond its borders",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-25T19:00:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "China"
+   ]
   },
   {
    "id": "4c13035c70eac348",
@@ -3657,8 +3761,8 @@
    "title": "Budget to include £1bn for social and affordable housing",
    "summary": "The move will take funding for the 10-year programme to more than £40bn.",
    "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-25T10:03:17+00:00",
    "dateonly": false,
@@ -3744,8 +3848,8 @@
    "title": "Rosebank: Life on the oil field at the centre of a political storm",
    "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
    "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-25T07:15:38+00:00",
    "dateonly": false,
@@ -3880,8 +3984,8 @@
    "title": "Four ways Labour could raise money in the Budget without hiking income tax",
    "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
    "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-25T06:00:15+00:00",
    "dateonly": false,
@@ -4090,6 +4194,21 @@
    "parties": [
     "Labour"
    ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3fb225b333ee40e3",
+   "title": "The Documentary",
+   "summary": "Author Katja Hoyer, reports on a city which benefits from a new, green landscape",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct9kk8?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-24T12:00:00+00:00",
+   "dateonly": false,
+   "parties": [],
    "topics": [],
    "tax": [],
    "countries": []
@@ -15302,115 +15421,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "452e7cdf3083b545",
-   "title": "Civil Legal Aid",
-   "summary": "An overview of the legal aid system and related eligibility criteria.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10787/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-16T11:02:32+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d01e8aae9f61ad67",
-   "title": "Check the default values for the Carbon Border Adjustment Mechanism (CBAM)",
-   "summary": "Find out the default values for your goods, when to use them and when to combine them with your actual emissions.",
-   "url": "https://www.gov.uk/government/publications/check-the-default-values-for-the-carbon-border-adjustment-mechanism-cbam",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-16T11:00:19Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fe7570e1cbe55ba1",
-   "title": "Reptile food supplier Monkfield snaps up BGF as investor",
-   "summary": "An investment vehicle set up by Britain's banks in the aftermath of the 2008 financial crisis is close to striking one of its most unusual deals to date by buying a stake in a supplier of reptile food and associated products.",
-   "url": "https://news.sky.com/story/reptile-food-supplier-monkfield-snaps-up-bgf-as-investor-13599921",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-16T11:00:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "81b712d954023271",
-   "title": "Burnham asks for 'manual trawl' of records for former Man City links",
-   "summary": "The PM has faced fresh questions about hospitality dinners since the club was found guilty of Premier League rule breaches.",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2ve4nr9pgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-16T10:51:56+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3d86eea45eea41a5",
-   "title": "Manufacturing Skills",
-   "summary": "A Westminster Hall debate has been scheduled for 20 October on manufacturing skills. The subject for this debate has been chosen by the Backbench Business Committee and it will be opened by Richard Quigley MP.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12208/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-16T10:50:27+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "90a5852029284069",
-   "title": "Find payroll software that is recognised by HMRC",
-   "summary": "Check for free and paid-for software recognised by HMRC that you can use to report PAYE information online.",
-   "url": "https://www.gov.uk/guidance/find-payroll-software-that-is-recognised-by-hmrc",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-16T10:47:47Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d829f22977717c99",
-   "title": "Children could be taught how to treat ‘life-threatening bleeding’ under proposed law",
-   "summary": "The Bill by Conservative MP Neil Shastri-Hurst would build on current life-saving teaching in schools, which already includes CPR",
-   "url": "https://www.independent.co.uk/news/uk/politics/stop-bleeding-children-neil-shastri-hurst-bill-b3068025.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-16T10:47:20+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15425,28 +15435,28 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 6,
+   "new": 8,
    "note": ""
   },
   {
@@ -16229,7 +16239,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 120555,
+   "signatures": 120563,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16238,7 +16248,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 107333,
+   "signatures": 107374,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16247,7 +16257,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85234,
+   "signatures": 85240,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16256,7 +16266,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78363,
+   "signatures": 78366,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16265,7 +16275,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 72740,
+   "signatures": 72746,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16274,7 +16284,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55502,
+   "signatures": 55503,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16283,7 +16293,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 53725,
+   "signatures": 53738,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16292,7 +16302,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50445,
+   "signatures": 50448,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16301,7 +16311,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45518,
+   "signatures": 45521,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16310,7 +16320,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44715,
+   "signatures": 44717,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16319,7 +16329,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41497,
+   "signatures": 41498,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
