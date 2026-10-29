@@ -1,7 +1,1518 @@
 {
- "updated": "2026-10-28T06:18:17.515856+00:00",
- "since": "2026-09-28",
+ "updated": "2026-10-29T06:21:06.111728+00:00",
+ "since": "2026-09-29",
  "whitehall": [
+  {
+   "title": "East region firing times",
+   "url": "https://www.gov.uk/government/publications/east-region-firing-times",
+   "published": "2026-10-28T17:31:11Z",
+   "kind": "guidance",
+   "orgs": [
+    "MOD",
+    "DIO"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Arrested or in prison in the USA",
+   "url": "https://www.gov.uk/guidance/arrested-or-in-prison-in-the-usa",
+   "published": "2026-10-28T17:28:25Z",
+   "kind": "detailed_guide",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "title": "Scotland firing times",
+   "url": "https://www.gov.uk/government/publications/scotland-firing-times",
+   "published": "2026-10-28T17:23:17Z",
+   "kind": "guidance",
+   "orgs": [
+    "MOD",
+    "DIO"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "National DNA Database statistics, Q2 2026 to 2027",
+   "url": "https://www.gov.uk/government/statistics/announcements/national-dna-database-statistics",
+   "published": "2026-10-28T16:37:00Z",
+   "kind": "official_statistics_announcement",
+   "orgs": [
+    "Home Office"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Subnational estimates of properties not connected to the gas network 2015-2025",
+   "url": "https://www.gov.uk/government/statistics/announcements/sub-national-estimates-of-properties-not-connected-to-the-gas-network-2015-2025",
+   "published": "2026-10-28T16:36:37Z",
+   "kind": "official_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Subnational gas consumption in Northern Ireland: 2015-2025",
+   "url": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-northern-ireland-2015-2025",
+   "published": "2026-10-28T16:36:33Z",
+   "kind": "official_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Ireland"
+   ]
+  },
+  {
+   "title": "Subnational electricity consumption in Northern Ireland: 2009-2025",
+   "url": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-northern-ireland-2009-2025",
+   "published": "2026-10-28T16:36:29Z",
+   "kind": "official_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Ireland"
+   ]
+  },
+  {
+   "title": "Subnational gas consumption at postcode level in 2025",
+   "url": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-at-postcode-level-in-2025",
+   "published": "2026-10-28T16:36:23Z",
+   "kind": "official_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Subnational gas consumption at LSOA, MSOA and IGZ level in 2025",
+   "url": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-at-lsoa-msoa-and-igz-level-in-2025",
+   "published": "2026-10-28T16:36:19Z",
+   "kind": "national_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Subnational gas consumption in 2025",
+   "url": "https://www.gov.uk/government/statistics/announcements/sub-national-gas-consumption-in-2025",
+   "published": "2026-10-28T16:36:15Z",
+   "kind": "national_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Subnational electricity consumption at postcode level in 2025",
+   "url": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-at-postcode-level-in-2025",
+   "published": "2026-10-28T16:36:09Z",
+   "kind": "official_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Subnational electricity consumption at LSOA, MSOA and IGZ level in 2025",
+   "url": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-at-lsoa-msoa-and-igz-level-in-2025",
+   "published": "2026-10-28T16:36:04Z",
+   "kind": "national_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Subnational electricity consumption in 2025",
+   "url": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-2025",
+   "published": "2026-10-28T16:35:11Z",
+   "kind": "national_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Management of health and safety in defence – chapter 12: Display screen equipment (JSP 375, volume 1)",
+   "url": "https://www.gov.uk/government/publications/management-of-health-and-safety-in-defence-chapter-12-display-screen-equipment-jsp-375-volume-1",
+   "published": "2026-10-28T16:34:37Z",
+   "kind": "guidance",
+   "orgs": [
+    "MOD"
+   ],
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Management of health and safety in defence – chapter 23: Electrical safety (JSP 375, volume 1)",
+   "url": "https://www.gov.uk/government/publications/management-of-health-and-safety-in-defence-chapter-23-electrical-safety-jsp-375-volume-1",
+   "published": "2026-10-28T16:33:23Z",
+   "kind": "guidance",
+   "orgs": [
+    "MOD"
+   ],
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "What the Autumn Budget 2026 means for your energy bills",
+   "url": "https://www.gov.uk/government/news/what-the-autumn-budget-2026-means-for-your-energy-bills",
+   "published": "2026-10-28T16:19:43Z",
+   "kind": "news_story",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Italy travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/italy",
+   "published": "2026-10-28T16:15:33Z",
+   "kind": "travel_advice",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Italy"
+   ]
+  },
+  {
+   "title": "Living in Italy",
+   "url": "https://www.gov.uk/guidance/living-in-italy",
+   "published": "2026-10-28T16:15:23Z",
+   "kind": "detailed_guide",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Italy"
+   ]
+  },
+  {
+   "title": "Standard voluntary code of conduct: executive search firms",
+   "url": "https://www.gov.uk/government/publications/standard-voluntary-code-of-conduct-executive-search-firms",
+   "published": "2026-10-28T15:58:58Z",
+   "kind": "guidance",
+   "orgs": [
+    "BIST",
+    "DBT",
+    "BEIS"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Dartmoor firing times",
+   "url": "https://www.gov.uk/government/publications/dartmoor-firing-times",
+   "published": "2026-10-28T15:55:33Z",
+   "kind": "guidance",
+   "orgs": [
+    "MOD",
+    "DIO"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "UK boosts support to Ukraine with £10 billion package",
+   "url": "https://www.gov.uk/government/news/uk-boosts-support-to-ukraine-with-10-billion-package",
+   "published": "2026-10-28T15:46:56Z",
+   "kind": "news_story",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine",
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Budget 2026 speech",
+   "url": "https://www.gov.uk/government/speeches/budget-2026-speech",
+   "published": "2026-10-28T15:45:59Z",
+   "kind": "speech",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Mental health support for British nationals in the USA",
+   "url": "https://www.gov.uk/guidance/mental-health-support-for-british-nationals-in-the-usa",
+   "published": "2026-10-28T15:19:42Z",
+   "kind": "detailed_guide",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia",
+    "americas"
+   ],
+   "countries": [
+    "United Kingdom",
+    "United States"
+   ]
+  },
+  {
+   "title": "Standards for official statistics published by DESNZ",
+   "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
+   "published": "2026-10-28T15:18:05Z",
+   "kind": "guidance",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Budget 2026 Fact Sheet: Delivering for Every Region",
+   "url": "https://www.gov.uk/government/news/budget-2026-fact-sheet-delivering-for-every-region",
+   "published": "2026-10-28T15:12:34Z",
+   "kind": "news_story",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "HM Treasury",
+   "url": "https://www.gov.uk/government/organisations/hm-treasury",
+   "published": "2026-10-28T15:09:46Z",
+   "kind": "organisation",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Further support for Ukraine",
+   "url": "https://www.gov.uk/government/news/further-support-for-ukraine",
+   "published": "2026-10-28T15:00:00Z",
+   "kind": "news_story",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine"
+   ]
+  },
+  {
+   "title": "Ministerial Directions",
+   "url": "https://www.gov.uk/government/collections/ministerial-directions",
+   "published": "2026-10-28T14:57:47Z",
+   "kind": "document_collection",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Breathing space for Scottish families and businesses at Budget",
+   "url": "https://www.gov.uk/government/news/breathing-space-for-scottish-families-and-businesses-at-budget",
+   "published": "2026-10-28T14:40:17Z",
+   "kind": "news_story",
+   "orgs": [
+    "HMT",
+    "Scotland Office"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Breathing space for Northern Ireland families and businesses",
+   "url": "https://www.gov.uk/government/news/breathing-space-for-northern-ireland-families-and-businesses",
+   "published": "2026-10-28T14:35:33Z",
+   "kind": "news_story",
+   "orgs": [
+    "HMT",
+    "NIO"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Ireland"
+   ]
+  },
+  {
+   "title": "MOD appoints its first Director General Innovation",
+   "url": "https://www.gov.uk/government/news/mod-appoints-its-first-director-general-innovation",
+   "published": "2026-10-28T14:34:53Z",
+   "kind": "news_story",
+   "orgs": [
+    "MOD"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Breathing space for Welsh families and businesses at Budget 2026",
+   "url": "https://www.gov.uk/government/news/breathing-space-for-welsh-families-and-businesses-at-budget-2026",
+   "published": "2026-10-28T14:29:04Z",
+   "kind": "news_story",
+   "orgs": [
+    "HMT",
+    "Wales Office"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Redress of individual grievances: service complaints (JSP 831)",
+   "url": "https://www.gov.uk/government/publications/jsp-831-redress-of-individual-grievances-service-complaints",
+   "published": "2026-10-28T14:26:41Z",
+   "kind": "guidance",
+   "orgs": [
+    "MOD"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Cutting electric vehicle charging costs",
+   "url": "https://www.gov.uk/government/news/cutting-electric-vehicle-charging-costs",
+   "published": "2026-10-28T14:22:35Z",
+   "kind": "news_story",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "How we protected the UK and space in September 2026",
+   "url": "https://www.gov.uk/government/news/how-we-protected-the-uk-and-space-in-september-2026",
+   "published": "2026-10-28T14:12:49Z",
+   "kind": "news_story",
+   "orgs": [
+    "NSpOC",
+    "UK Space Agency",
+    "BIST"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Budget 2026: Breathing space for Welsh families and businesses",
+   "url": "https://www.gov.uk/government/news/budget-2026-breathing-space-for-welsh-families-and-businesses",
+   "published": "2026-10-28T14:05:42Z",
+   "kind": "press_release",
+   "orgs": [
+    "Wales Office",
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Visa holder earnings, employment and income tax statistics, year ending March 2026",
+   "url": "https://www.gov.uk/government/statistics/announcements/visa-holder-earnings-employment-and-income-tax-statistics-year-ending-march-2026",
+   "published": "2026-10-28T14:00:28Z",
+   "kind": "official_statistics_announcement",
+   "orgs": [
+    "Home Office"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Plastic Packaging Tax Evaluation",
+   "url": "https://www.gov.uk/government/publications/plastic-packaging-tax-evaluation",
+   "published": "2026-10-28T13:51:00Z",
+   "kind": "research",
+   "orgs": [
+    "HMRC",
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "VAT treatment of land for social housing",
+   "url": "https://www.gov.uk/government/consultations/vat-treatment-of-land-for-social-housing",
+   "published": "2026-10-28T13:49:43Z",
+   "kind": "consultation_outcome",
+   "orgs": [
+    "HMRC",
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Alcohol Duty Reforms Evaluation Report",
+   "url": "https://www.gov.uk/government/publications/alcohol-duty-reforms-evaluation-report",
+   "published": "2026-10-28T13:49:07Z",
+   "kind": "research",
+   "orgs": [
+    "HMRC",
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Prime Minister and Chancellor’s call with the President of Ukraine: 28 October 2026",
+   "url": "https://www.gov.uk/government/news/prime-minister-and-chancellors-call-with-the-president-of-ukraine-28-october-2026",
+   "published": "2026-10-28T13:49:00Z",
+   "kind": "press_release",
+   "orgs": [
+    "Number 10"
+   ],
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine"
+   ]
+  },
+  {
+   "title": "E-invoicing implementation Roadmap",
+   "url": "https://www.gov.uk/government/publications/e-invoicing-implementation-roadmap",
+   "published": "2026-10-28T13:49:00Z",
+   "kind": "corporate_report",
+   "orgs": [
+    "HMRC",
+    "DBT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Nigeria travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/nigeria",
+   "published": "2026-10-28T13:48:23Z",
+   "kind": "travel_advice",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "title": "Call for input on goods for cost of living tariff suspensions",
+   "url": "https://www.gov.uk/government/consultations/call-for-input-on-goods-for-cost-of-living-tariff-suspensions",
+   "published": "2026-10-28T13:47:15Z",
+   "kind": "consultation_outcome",
+   "orgs": [
+    "DBT"
+   ],
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Budget 2026: Breathing space for today, hope for the future",
+   "url": "https://www.gov.uk/government/news/budget-2026-breathing-space-for-today-hope-for-the-future",
+   "published": "2026-10-28T13:41:00Z",
+   "kind": "news_story",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Founders’ Relief: technical consultation",
+   "url": "https://www.gov.uk/government/consultations/founders-relief-technical-consultation",
+   "published": "2026-10-28T13:40:29Z",
+   "kind": "open_consultation",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Modernising taxation of foreign sovereign investments",
+   "url": "https://www.gov.uk/government/consultations/modernising-taxation-of-foreign-sovereign-investments",
+   "published": "2026-10-28T13:32:40Z",
+   "kind": "open_consultation",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Cost of public electric vehicle charging review",
+   "url": "https://www.gov.uk/government/publications/cost-of-public-electric-vehicle-charging-review",
+   "published": "2026-10-28T13:32:18Z",
+   "kind": "independent_report",
+   "orgs": [
+    "DfT",
+    "DESNZ",
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Tax Support for Entrepreneurs: Call for Evidence",
+   "url": "https://www.gov.uk/government/calls-for-evidence/tax-support-for-entrepreneurs-call-for-evidence",
+   "published": "2026-10-28T13:32:14Z",
+   "kind": "call_for_evidence_outcome",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "High Value Council Tax Surcharge",
+   "url": "https://www.gov.uk/government/consultations/high-value-council-tax-surcharge",
+   "published": "2026-10-28T13:32:08Z",
+   "kind": "consultation_outcome",
+   "orgs": [
+    "MHCLG",
+    "HMT",
+    "HMRC"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Entrepreneurship in the UK: Start. Scale. Stay.",
+   "url": "https://www.gov.uk/government/publications/entrepreneurship-in-the-uk-start-scale-stay",
+   "published": "2026-10-28T13:32:00Z",
+   "kind": "policy_paper",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "First Time Buyer ISA consultation",
+   "url": "https://www.gov.uk/government/consultations/first-time-buyer-isa-consultation",
+   "published": "2026-10-28T13:31:54Z",
+   "kind": "consultation_outcome",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "HM Treasury framework documents",
+   "url": "https://www.gov.uk/government/publications/hm-treasury-framework-documents",
+   "published": "2026-10-28T13:31:31Z",
+   "kind": "corporate_report",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "HMT monetary policy remit",
+   "url": "https://www.gov.uk/government/collections/monetary-policy-remit",
+   "published": "2026-10-28T13:31:25Z",
+   "kind": "document_collection",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Supporting local investment: An offer to places",
+   "url": "https://www.gov.uk/government/publications/supporting-local-investment-an-offer-to-places",
+   "published": "2026-10-28T13:31:24Z",
+   "kind": "policy_paper",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Monetary policy remit: Budget 2026",
+   "url": "https://www.gov.uk/government/publications/monetary-policy-remit-budget-2026",
+   "published": "2026-10-28T13:31:20Z",
+   "kind": "correspondence",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Financial transaction control framework",
+   "url": "https://www.gov.uk/government/publications/financial-transaction-control-framework",
+   "published": "2026-10-28T13:31:15Z",
+   "kind": "guidance",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Extending online marketplace liability to combat non-compliance",
+   "url": "https://www.gov.uk/government/consultations/extending-online-marketplace-liability-to-combat-non-compliance",
+   "published": "2026-10-28T13:31:09Z",
+   "kind": "consultation_outcome",
+   "orgs": [
+    "HMRC",
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Advance Corporation Tax Reform: Call for Evidence",
+   "url": "https://www.gov.uk/government/calls-for-evidence/advance-corporation-tax-reform-call-for-evidence",
+   "published": "2026-10-28T13:31:05Z",
+   "kind": "call_for_evidence_outcome",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Northern Growth Strategy: Case for change",
+   "url": "https://www.gov.uk/government/publications/northern-growth-strategy-case-for-change",
+   "published": "2026-10-28T13:31:04Z",
+   "kind": "policy_paper",
+   "orgs": [
+    "HMT",
+    "DfT",
+    "MHCLG"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Fiscal Devolution Roadmap",
+   "url": "https://www.gov.uk/government/publications/fiscal-devolution-roadmap",
+   "published": "2026-10-28T13:31:00Z",
+   "kind": "guidance",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Tax Treatment of Predevelopment costs",
+   "url": "https://www.gov.uk/government/consultations/tax-treatment-of-predevelopment-costs--2",
+   "published": "2026-10-28T13:31:00Z",
+   "kind": "consultation_outcome",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Green Book supplementary guidance: discounting",
+   "url": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-discounting",
+   "published": "2026-10-28T13:30:57Z",
+   "kind": "guidance",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "High Value Council Tax Surcharge",
+   "url": "https://www.gov.uk/government/publications/high-value-council-tax-surcharge",
+   "published": "2026-10-28T13:30:56Z",
+   "kind": "guidance",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Developing proportionate business cases",
+   "url": "https://www.gov.uk/government/publications/developing-proportionate-business-cases",
+   "published": "2026-10-28T13:30:54Z",
+   "kind": "guidance",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Pension Tax Allowance Explainer",
+   "url": "https://www.gov.uk/government/publications/pension-tax-allowance-explainer",
+   "published": "2026-10-28T13:30:51Z",
+   "kind": "guidance",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Green Book Discount Rate Review 2026",
+   "url": "https://www.gov.uk/government/publications/green-book-discount-rate-review-2026",
+   "published": "2026-10-28T13:30:51Z",
+   "kind": "policy_paper",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Guidance on developing place-based business cases",
+   "url": "https://www.gov.uk/government/publications/guidance-on-developing-place-based-business-cases",
+   "published": "2026-10-28T13:30:49Z",
+   "kind": "guidance",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "The Green Book and accompanying guidance",
+   "url": "https://www.gov.uk/government/collections/the-green-book-and-accompanying-guidance",
+   "published": "2026-10-28T13:30:45Z",
+   "kind": "document_collection",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "The Chancellor’s Letter to the National Wealth Fund",
+   "url": "https://www.gov.uk/government/publications/the-chancellors-letter-to-the-national-wealth-fund",
+   "published": "2026-10-28T13:30:44Z",
+   "kind": "correspondence",
+   "orgs": [
+    "HMT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "UK Trade Tariff: duty suspensions and autonomous tariff quotas",
+   "url": "https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas",
+   "published": "2026-10-28T13:30:33Z",
+   "kind": "detailed_guide",
+   "orgs": [
+    "BIST",
+    "DBT",
+    "HMT"
+   ],
+   "themes": [
+    "trade"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Wholesale Contracts for Difference",
+   "url": "https://www.gov.uk/government/consultations/wholesale-contracts-for-difference",
+   "published": "2026-10-28T13:30:19Z",
+   "kind": "open_consultation",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Accelerating electricity network connections for strategic demand",
+   "url": "https://www.gov.uk/government/consultations/accelerating-electricity-network-connections-for-strategic-demand",
+   "published": "2026-10-28T13:30:17Z",
+   "kind": "consultation_outcome",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Energy debt circuit breaker: a strategy for domestic energy debt",
+   "url": "https://www.gov.uk/government/publications/energy-debt-circuit-breaker-a-strategy-for-domestic-energy-debt",
+   "published": "2026-10-28T13:30:00Z",
+   "kind": "policy_paper",
+   "orgs": [
+    "DESNZ",
+    "Ofgem"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Russia's war against Ukraine is costing more and achieving less: UK statement to the FSC",
+   "url": "https://www.gov.uk/government/speeches/russias-war-against-ukraine-is-costing-more-and-achieving-less-uk-statement-to-the-fsc",
+   "published": "2026-10-28T13:28:52Z",
+   "kind": "speech",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Spain travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/spain",
+   "published": "2026-10-28T13:02:06Z",
+   "kind": "travel_advice",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "title": "Windrush Compensation Scheme data: August 2026",
+   "url": "https://www.gov.uk/government/statistics/announcements/windrush-compensation-scheme-data-august-2026",
+   "published": "2026-10-28T12:03:53Z",
+   "kind": "official_statistics_announcement",
+   "orgs": [
+    "Home Office"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "UK Offshore Energy Strategic Environmental Assessment: research",
+   "url": "https://www.gov.uk/government/publications/uk-offshore-energy-strategic-environmental-assessment-research-projects",
+   "published": "2026-10-28T12:03:10Z",
+   "kind": "research",
+   "orgs": [
+    "DESNZ",
+    "BEIS"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "OFSI General Licence INT/2025/7895596",
+   "url": "https://www.gov.uk/government/publications/ofsi-general-licence-int20257895596",
+   "published": "2026-10-28T11:50:21Z",
+   "kind": "guidance",
+   "orgs": [
+    "OFSI"
+   ],
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Bulgaria"
+   ]
+  },
+  {
+   "title": "OFSI General Licences",
+   "url": "https://www.gov.uk/government/collections/ofsi-general-licences",
+   "published": "2026-10-28T11:50:11Z",
+   "kind": "document_collection",
+   "orgs": [
+    "OFSI",
+    "HMT"
+   ],
+   "themes": [
+    "sanctions"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Notice of proposed amendments (NPA) reference table",
+   "url": "https://www.gov.uk/government/publications/notice-of-proposed-amendments-npa-reference-table",
+   "published": "2026-10-28T11:46:04Z",
+   "kind": "regulation",
+   "orgs": [
+    "MOD",
+    "MAA"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Notice of proposed amendments (NPA) documents",
+   "url": "https://www.gov.uk/government/publications/notice-of-proposed-amendments-npa-2014-documents",
+   "published": "2026-10-28T11:45:42Z",
+   "kind": "regulation",
+   "orgs": [
+    "MOD",
+    "MAA"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Great British Insulation Scheme release: January 2027",
+   "url": "https://www.gov.uk/government/statistics/announcements/great-british-insulation-scheme-release-january-2027",
+   "published": "2026-10-28T11:26:07Z",
+   "kind": "official_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Household Energy Efficiency Statistics, headline release November 2026",
+   "url": "https://www.gov.uk/government/statistics/announcements/household-energy-efficiency-statistics-headline-release-november-2026",
+   "published": "2026-10-28T11:23:21Z",
+   "kind": "national_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Change of His Majesty’s Ambassador to Seoul",
+   "url": "https://www.gov.uk/government/news/change-of-his-majestys-ambassador-to-seoul",
+   "published": "2026-10-28T11:16:10Z",
+   "kind": "press_release",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "South Korea"
+   ]
+  },
+  {
+   "title": "Kenya travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/kenya",
+   "published": "2026-10-28T11:16:05Z",
+   "kind": "travel_advice",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Kenya"
+   ]
+  },
+  {
+   "title": "Package holidays: complying with regulations - guidance for businesses",
+   "url": "https://www.gov.uk/government/publications/package-holidays-complying-with-regulations-guidance-for-businesses",
+   "published": "2026-10-28T11:00:00Z",
+   "kind": "guidance",
+   "orgs": [
+    "BIST",
+    "DBT",
+    "BEIS"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Brazil travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/brazil",
+   "published": "2026-10-28T10:42:46Z",
+   "kind": "travel_advice",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Brazil"
+   ]
+  },
+  {
+   "title": "Military low flying: RAF operational low flying training timetable",
+   "url": "https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable",
+   "published": "2026-10-28T10:40:10Z",
+   "kind": "guidance",
+   "orgs": [
+    "MOD"
+   ],
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Military low flying: MOD sponsored air exercises",
+   "url": "https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises",
+   "published": "2026-10-28T10:39:22Z",
+   "kind": "guidance",
+   "orgs": [
+    "MOD"
+   ],
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Boiler Upgrade Scheme: September 2026",
+   "url": "https://www.gov.uk/government/statistics/announcements/boiler-upgrade-scheme-september-2026",
+   "published": "2026-10-28T09:57:07Z",
+   "kind": "official_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Statistics on International Development: final UK ODA spend 2025",
+   "url": "https://www.gov.uk/government/statistics/statistics-on-international-development-final-uk-oda-spend-2025",
+   "published": "2026-10-28T09:47:26Z",
+   "kind": "national_statistics",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Uganda travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/uganda",
+   "published": "2026-10-28T09:39:34Z",
+   "kind": "travel_advice",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "africa"
+   ],
+   "countries": [
+    "Uganda"
+   ]
+  },
+  {
+   "title": "Chancellor abolishes standing charges on gas bills to make payments fairer",
+   "url": "https://www.gov.uk/government/news/chancellor-abolishes-standing-charges-on-gas-bills-to-make-payments-fairer",
+   "published": "2026-10-28T09:31:06Z",
+   "kind": "news_story",
+   "orgs": [
+    "Number 10",
+    "HMT",
+    "DESNZ"
+   ],
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Energy infrastructure development applications: decisions",
+   "url": "https://www.gov.uk/government/collections/energy-infrastructure-development-applications-decisions",
+   "published": "2026-10-28T09:11:07Z",
+   "kind": "document_collection",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
   {
    "title": "Warm Homes Loan Scheme",
    "url": "https://www.gov.uk/warm-homes-loan-scheme",
@@ -502,20 +2013,6 @@
    "countries": []
   },
   {
-   "title": "Energy infrastructure development applications: decisions",
-   "url": "https://www.gov.uk/government/collections/energy-infrastructure-development-applications-decisions",
-   "published": "2026-10-27T15:39:26Z",
-   "kind": "document_collection",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
    "title": "Individuals referred to Prevent: to March 2026",
    "url": "https://www.gov.uk/government/statistics/announcements/individuals-referred-to-prevent-to-march-2026",
    "published": "2026-10-27T14:44:19Z",
@@ -896,1536 +2393,6 @@
    "countries": [
     "United Kingdom"
    ]
-  },
-  {
-   "title": "UK and Poland strengthen defences on Europe's Eastern flank",
-   "url": "https://www.gov.uk/government/news/uk-and-poland-strengthen-defences-on-europes-eastern-flank--2",
-   "published": "2026-10-27T10:59:30Z",
-   "kind": "press_release",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "United Kingdom",
-    "Poland"
-   ]
-  },
-  {
-   "title": "Carbon capture, usage and storage (CCUS): business models",
-   "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
-   "published": "2026-10-27T10:01:00Z",
-   "kind": "research",
-   "orgs": [
-    "DESNZ",
-    "BEIS"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Churches Conservation Trust: Tuesday 27th October 2026",
-   "url": "https://www.gov.uk/government/news/churches-conservation-trust-tuesday-27th-october-2026",
-   "published": "2026-10-27T10:00:00Z",
-   "kind": "press_release",
-   "orgs": [
-    "Number 10"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Complying with trade sanctions relating to specified ships",
-   "url": "https://www.gov.uk/government/publications/complying-with-trade-sanctions-relating-to-specified-ships",
-   "published": "2026-10-27T10:00:00Z",
-   "kind": "guidance",
-   "orgs": [
-    "DBT",
-    "OTSI"
-   ],
-   "themes": [
-    "sanctions",
-    "maritime"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Providing professional and business services to a person connected with Russia",
-   "url": "https://www.gov.uk/government/publications/providing-professional-and-business-services-to-a-person-connected-with-russia",
-   "published": "2026-10-27T10:00:00Z",
-   "kind": "guidance",
-   "orgs": [
-    "OTSI",
-    "BIST",
-    "DBT"
-   ],
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia",
-    "European Union"
-   ]
-  },
-  {
-   "title": "Complying with construction services prohibitions related to Russia",
-   "url": "https://www.gov.uk/government/publications/complying-with-construction-services-prohibitions-related-to-russia",
-   "published": "2026-10-27T10:00:00Z",
-   "kind": "guidance",
-   "orgs": [
-    "DBT",
-    "OTSI"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "title": "Weekly road fuel prices",
-   "url": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-   "published": "2026-10-27T09:30:02Z",
-   "kind": "national_statistics",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Summary of questions included in the DESNZ Public Attitudes Tracker",
-   "url": "https://www.gov.uk/government/publications/summary-of-questions-included-in-the-desnz-public-attitudes-tracker",
-   "published": "2026-10-27T09:30:01Z",
-   "kind": "guidance",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "DESNZ Public Attitudes Tracker",
-   "url": "https://www.gov.uk/government/collections/public-attitudes-tracking-survey",
-   "published": "2026-10-27T09:30:01Z",
-   "kind": "document_collection",
-   "orgs": [
-    "DESNZ",
-    "BEIS",
-    "DBT"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "DESNZ Public Attitudes Tracker: Summer 2026",
-   "url": "https://www.gov.uk/government/statistics/desnz-public-attitudes-tracker-summer-2026",
-   "published": "2026-10-27T09:30:00Z",
-   "kind": "official_statistics",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Indonesia: information for victims of rape and sexual assault",
-   "url": "https://www.gov.uk/government/publications/indonesia-information-for-victims-of-rape-and-sexual-assault",
-   "published": "2026-10-27T02:44:42Z",
-   "kind": "guidance",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "asia_pacific"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Indonesia"
-   ]
-  },
-  {
-   "title": "Everyday fixes to make life easier for millions of Britons",
-   "url": "https://www.gov.uk/government/news/everyday-fixes-to-make-life-easier-for-millions-of-britons",
-   "published": "2026-10-26T22:31:09Z",
-   "kind": "press_release",
-   "orgs": [
-    "HMT"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "The United Kingdom remains committed to working with Iraq, Kuwait, and the Tripartite Commission to provide answers for families of missing loved ones: UK statement at the UN Security Council",
-   "url": "https://www.gov.uk/government/speeches/the-united-kingdom-remains-committed-to-working-with-iraq-kuwait-and-the-tripartite-commission-to-provide-answers-for-families-of-missing-loved-ones-u",
-   "published": "2026-10-26T20:07:23Z",
-   "kind": "speech",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "mena",
-    "global"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Iraq",
-    "Kuwait",
-    "United Nations"
-   ]
-  },
-  {
-   "title": "E5 Defence Ministers' Statement: 26 October 2026",
-   "url": "https://www.gov.uk/government/news/e5-defence-ministers-statement-26-october-2026",
-   "published": "2026-10-26T17:44:22Z",
-   "kind": "press_release",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "We must protect and build on 30 years of work supporting the protection of children in conflicts: UK statement at the UN Security Council",
-   "url": "https://www.gov.uk/government/speeches/we-must-protect-and-build-on-30-years-of-work-supporting-the-protection-of-children-in-conflicts-uk-statement-at-the-un-security-council",
-   "published": "2026-10-26T17:27:21Z",
-   "kind": "speech",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "global"
-   ],
-   "countries": [
-    "United Kingdom",
-    "United Nations"
-   ]
-  },
-  {
-   "title": "Ethiopia travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/ethiopia",
-   "published": "2026-10-26T16:58:29Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Ethiopia"
-   ]
-  },
-  {
-   "title": "Established Long-Term Relationship status for service personnel",
-   "url": "https://www.gov.uk/guidance/established-long-term-relationship-status-for-service-personnel",
-   "published": "2026-10-26T16:52:26Z",
-   "kind": "detailed_guide",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Ash dieback on the Ministry of Defence Estate",
-   "url": "https://www.gov.uk/government/publications/ash-dieback-on-the-ministry-of-defence-estate",
-   "published": "2026-10-26T16:29:44Z",
-   "kind": "guidance",
-   "orgs": [
-    "MOD",
-    "DIO"
-   ],
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Respect Orders launch targeting anti-social behaviour offenders",
-   "url": "https://www.gov.uk/government/news/respect-orders-launch-targeting-anti-social-behaviour-offenders",
-   "published": "2026-10-26T16:23:04Z",
-   "kind": "news_story",
-   "orgs": [
-    "Home Office",
-    "MOJ",
-    "MHCLG"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Home Secretary announces independent review into the murder of Henry Nowak",
-   "url": "https://www.gov.uk/government/news/home-secretary-announces-independent-review-into-the-murder-of-henry-nowak",
-   "published": "2026-10-26T16:06:03Z",
-   "kind": "news_story",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Burkina Faso travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/burkina-faso",
-   "published": "2026-10-26T15:58:48Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Burkina Faso"
-   ]
-  },
-  {
-   "title": "The Henry Nowak Independent Review: terms of reference",
-   "url": "https://www.gov.uk/government/publications/the-henry-nowak-independent-review-terms-of-reference",
-   "published": "2026-10-26T15:40:49Z",
-   "kind": "independent_report",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Otterburn firing times",
-   "url": "https://www.gov.uk/government/publications/otterburn-firing-times",
-   "published": "2026-10-26T15:39:02Z",
-   "kind": "guidance",
-   "orgs": [
-    "MOD",
-    "DIO"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Lulworth firing times",
-   "url": "https://www.gov.uk/government/publications/lulworth-firing-notice",
-   "published": "2026-10-26T15:30:16Z",
-   "kind": "guidance",
-   "orgs": [
-    "MOD",
-    "DIO"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Government welcomes Official Partners for COP31 Pavilion",
-   "url": "https://www.gov.uk/government/news/government-welcomes-official-partners-for-cop31-pavilion",
-   "published": "2026-10-26T15:21:31Z",
-   "kind": "news_story",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Turkey",
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "UK Financial Sanctions FAQs",
-   "url": "https://www.gov.uk/government/publications/uk-financial-sanctions-faqs",
-   "published": "2026-10-26T15:19:05Z",
-   "kind": "guidance",
-   "orgs": [
-    "OFSI"
-   ],
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "OFSI General Licences",
-   "url": "https://www.gov.uk/government/collections/ofsi-general-licences",
-   "published": "2026-10-26T15:18:54Z",
-   "kind": "document_collection",
-   "orgs": [
-    "OFSI",
-    "HMT"
-   ],
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Legal Services General Licence",
-   "url": "https://www.gov.uk/government/publications/legal-services-general-licence",
-   "published": "2026-10-26T15:18:45Z",
-   "kind": "guidance",
-   "orgs": [
-    "HMT",
-    "OFSI"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "OFSI General Licence INT/2026/11112108",
-   "url": "https://www.gov.uk/government/publications/ofsi-general-licence-int202611112108",
-   "published": "2026-10-26T15:18:34Z",
-   "kind": "guidance",
-   "orgs": [
-    "OFSI"
-   ],
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "UK Atomic Energy Authority financial transactions",
-   "url": "https://www.gov.uk/government/collections/ukaea-financial-transactions",
-   "published": "2026-10-26T14:43:18Z",
-   "kind": "document_collection",
-   "orgs": [
-    "UKAEA",
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Oil and gas: offshore environmental legislation",
-   "url": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-   "published": "2026-10-26T14:02:46Z",
-   "kind": "detailed_guide",
-   "orgs": [
-    "DESNZ",
-    "OPRED",
-    "BEIS"
-   ],
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Policy appraisal: risk-opportunity analysis (ROA)",
-   "url": "https://www.gov.uk/government/publications/policy-appraisal-risk-opportunity-analysis-roa",
-   "published": "2026-10-26T13:59:53Z",
-   "kind": "guidance",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Proscription policy and process statement",
-   "url": "https://www.gov.uk/government/publications/proscription-policy-and-process-statement",
-   "published": "2026-10-26T12:53:22Z",
-   "kind": "policy_paper",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "2026 post-implementation review of the SECR regulations 2018",
-   "url": "https://www.gov.uk/government/publications/2026-post-implementation-review-of-the-secr-regulations-2018",
-   "published": "2026-10-26T12:35:32Z",
-   "kind": "research",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Four million illegal cigarettes seized in Border Force crackdown",
-   "url": "https://www.gov.uk/government/news/four-million-illegal-cigarettes-seized-in-border-force-crackdown",
-   "published": "2026-10-26T11:44:50Z",
-   "kind": "press_release",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [
-    "conflict",
-    "politics"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "New panel to give child sexual abuse and exploitation survivors a voice",
-   "url": "https://www.gov.uk/government/news/new-panel-to-give-child-abuse-and-exploitation-survivors-a-voice",
-   "published": "2026-10-26T11:29:00Z",
-   "kind": "news_story",
-   "orgs": [
-    "Home Office",
-    "Victims' Commissioner",
-    "MOJ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Notice of proposed amendments (NPA) reference table",
-   "url": "https://www.gov.uk/government/publications/notice-of-proposed-amendments-npa-reference-table",
-   "published": "2026-10-26T11:23:14Z",
-   "kind": "regulation",
-   "orgs": [
-    "MOD",
-    "MAA"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Statement from the Coalition on Atrocity Prevention and Justice for Sudan: one year on from the 26 October 2025 Atrocity in El Fasher",
-   "url": "https://www.gov.uk/government/news/statement-from-the-coalition-on-atrocity-prevention-and-justice-for-sudan-one-year-on-from-the-26-october-2025-atrocity-in-el-fasher",
-   "published": "2026-10-26T11:13:00Z",
-   "kind": "press_release",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "americas",
-    "africa"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Ireland",
-    "France",
-    "Germany",
-    "Netherlands",
-    "Denmark"
-   ]
-  },
-  {
-   "title": "Notice of proposed amendments (NPA) documents",
-   "url": "https://www.gov.uk/government/publications/notice-of-proposed-amendments-npa-2014-documents",
-   "published": "2026-10-26T11:04:41Z",
-   "kind": "regulation",
-   "orgs": [
-    "MOD",
-    "MAA"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Oil and gas: OPRED communications, 2026",
-   "url": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
-   "published": "2026-10-26T10:40:50Z",
-   "kind": "correspondence",
-   "orgs": [
-    "OPRED",
-    "DESNZ"
-   ],
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "UK sanctions senior commanders implicated in campaign of rape in Sudan and unveils new support for survivors",
-   "url": "https://www.gov.uk/government/news/uk-sanctions-senior-commanders-implicated-in-campaign-of-rape-in-sudan-and-unveils-new-support-for-survivors",
-   "published": "2026-10-26T10:10:00Z",
-   "kind": "press_release",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "africa"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Sudan"
-   ]
-  },
-  {
-   "title": "Child sexual abuse victim and survivor panel: factsheet",
-   "url": "https://www.gov.uk/government/publications/child-sexual-abuse-victim-and-survivor-panel-factsheet",
-   "published": "2026-10-26T10:05:31Z",
-   "kind": "guidance",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Sudan: list of designations and sanctions notices",
-   "url": "https://www.gov.uk/guidance/sudan-list-of-designations-and-sanctions-notices",
-   "published": "2026-10-26T10:04:45Z",
-   "kind": "detailed_guide",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "africa"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Sudan"
-   ]
-  },
-  {
-   "title": "Modern Slavery: NRM cases awaiting a conclusive grounds decision: Oct 2026",
-   "url": "https://www.gov.uk/government/statistics/announcements/modern-slavery-nrm-cases-awaiting-a-conclusive-grounds-decision--12",
-   "published": "2026-10-26T09:51:23Z",
-   "kind": "official_statistics_announcement",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Middlesex Regiment soldier laid to rest on the Somme",
-   "url": "https://www.gov.uk/government/news/middlesex-regiment-soldier-laid-to-rest-on-the-somme",
-   "published": "2026-10-26T09:46:28Z",
-   "kind": "news_story",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Bedfordshire soldiers laid to rest on the Western Front",
-   "url": "https://www.gov.uk/government/news/bedfordshire-soldiers-laid-to-rest-on-the-western-front",
-   "published": "2026-10-26T09:46:14Z",
-   "kind": "news_story",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "France"
-   ]
-  },
-  {
-   "title": "Protective Security for Faith Communities Scheme",
-   "url": "https://www.gov.uk/guidance/protective-security-for-faith-communities-scheme",
-   "published": "2026-10-26T09:07:43Z",
-   "kind": "detailed_guide",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Antisocial behaviour powers",
-   "url": "https://www.gov.uk/government/publications/anti-social-behaviour-crime-and-policing-bill-anti-social-behaviour",
-   "published": "2026-10-26T09:00:01Z",
-   "kind": "statutory_guidance",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Arrested or in prison in Nigeria",
-   "url": "https://www.gov.uk/guidance/arrested-or-in-prison-in-nigeria",
-   "published": "2026-10-26T08:40:47Z",
-   "kind": "detailed_guide",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Nigeria"
-   ]
-  },
-  {
-   "title": "PM confident every rough sleeper will have route off the street by Christmas as funding doubles",
-   "url": "https://www.gov.uk/government/news/pm-confident-every-rough-sleeper-will-have-route-off-the-street-by-christmas-as-funding-doubles",
-   "published": "2026-10-25T22:30:05Z",
-   "kind": "press_release",
-   "orgs": [
-    "Number 10"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Joint statement from HM Treasury and Department of Finance Canada",
-   "url": "https://www.gov.uk/government/news/joint-statement-from-hm-treasury-and-department-of-finance-canada",
-   "published": "2026-10-25T17:30:03Z",
-   "kind": "news_story",
-   "orgs": [
-    "HMT"
-   ],
-   "themes": [],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "Canada"
-   ]
-  },
-  {
-   "title": "Joint Press Release on the R4 Ministerial Meeting in Istanbul",
-   "url": "https://www.gov.uk/government/news/joint-press-release-on-the-r4-ministerial-meeting-in-istanbul",
-   "published": "2026-10-24T07:41:00Z",
-   "kind": "press_release",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Turkey",
-    "United Kingdom",
-    "France",
-    "Germany",
-    "Italy"
-   ]
-  },
-  {
-   "title": "Young Voices for Climate and Nature (closed)",
-   "url": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
-   "published": "2026-10-24T07:07:06Z",
-   "kind": "form",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Chancellor unveils Britain’s ambitious plan for AI",
-   "url": "https://www.gov.uk/government/news/chancellor-unveils-britains-ambitious-plan-for-ai",
-   "published": "2026-10-24T05:00:00Z",
-   "kind": "news_story",
-   "orgs": [
-    "HMT"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "UK-France deepen nuclear defence ties in first joint exercise",
-   "url": "https://www.gov.uk/government/news/uk-france-deepen-nuclear-defence-ties-in-first-joint-exercise",
-   "published": "2026-10-23T19:54:18Z",
-   "kind": "press_release",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom",
-    "France"
-   ]
-  },
-  {
-   "title": "PM call with President Kast of Chile: 23 October 2026",
-   "url": "https://www.gov.uk/government/news/pm-call-with-president-kast-of-chile-23-october-2026",
-   "published": "2026-10-23T18:42:26Z",
-   "kind": "press_release",
-   "orgs": [
-    "Number 10"
-   ],
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "Chile"
-   ]
-  },
-  {
-   "title": "PM call with President Trump of the United States: 23 October 2026",
-   "url": "https://www.gov.uk/government/news/pm-call-with-president-trump-of-the-united-states-23-october-2026",
-   "published": "2026-10-23T18:36:49Z",
-   "kind": "press_release",
-   "orgs": [
-    "Number 10"
-   ],
-   "themes": [
-    "politics"
-   ],
-   "regions": [
-    "americas"
-   ],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "title": "Jackdaw gas field gets green light",
-   "url": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
-   "published": "2026-10-23T16:30:25Z",
-   "kind": "press_release",
-   "orgs": [
-    "DESNZ",
-    "HMT",
-    "Scotland Office"
-   ],
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Report 16: offensive weapons homicide review, West Midlands",
-   "url": "https://www.gov.uk/government/publications/report-16-offensive-weapons-homicide-review-west-midlands",
-   "published": "2026-10-23T15:57:34Z",
-   "kind": "independent_report",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Offensive weapons homicide reviews",
-   "url": "https://www.gov.uk/government/collections/offensive-weapons-homicide-reviews",
-   "published": "2026-10-23T15:56:16Z",
-   "kind": "document_collection",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Heat Training Grant: discounted heat network training",
-   "url": "https://www.gov.uk/guidance/apply-for-the-heat-training-grant-discounted-heat-network-training",
-   "published": "2026-10-23T15:27:55Z",
-   "kind": "detailed_guide",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Seychelles travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/seychelles",
-   "published": "2026-10-23T15:17:13Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Martinique travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/martinique",
-   "published": "2026-10-23T15:16:42Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Niger travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/niger",
-   "published": "2026-10-23T15:14:29Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Niger"
-   ]
-  },
-  {
-   "title": "UK-Oman joint statement on Omani State Visit",
-   "url": "https://www.gov.uk/government/news/uk-oman-joint-statement-on-omani-state-visit",
-   "published": "2026-10-23T15:05:00Z",
-   "kind": "press_release",
-   "orgs": [
-    "Number 10"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "mena"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Oman"
-   ]
-  },
-  {
-   "title": "Notices to exporters",
-   "url": "https://www.gov.uk/government/collections/notices-to-exporters",
-   "published": "2026-10-23T15:04:26Z",
-   "kind": "document_collection",
-   "orgs": [
-    "BIST",
-    "ECJU",
-    "OTSI"
-   ],
-   "themes": [
-    "sanctions"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Joint ministerial statement on the risk of famine in Sudan",
-   "url": "https://www.gov.uk/government/news/joint-ministerial-statement-on-the-risk-of-famine-in-sudan",
-   "published": "2026-10-23T15:00:00Z",
-   "kind": "press_release",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [
-    "climate"
-   ],
-   "regions": [
-    "europe_eurasia",
-    "africa"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Sudan"
-   ]
-  },
-  {
-   "title": "UK national risk assessment on security of gas supply 2026",
-   "url": "https://www.gov.uk/government/publications/uk-national-risk-assessment-on-security-of-gas-supply-2026",
-   "published": "2026-10-23T14:59:52Z",
-   "kind": "research",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "The role of heat networks in the energy transition",
-   "url": "https://www.gov.uk/government/speeches/the-role-of-heat-networks-in-the-energy-transition",
-   "published": "2026-10-23T14:43:34Z",
-   "kind": "speech",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Chief of Defence hosts tenth Dragon Group meeting in London",
-   "url": "https://www.gov.uk/government/news/chief-of-defence-hosts-tenth-dragon-group-meeting-in-london",
-   "published": "2026-10-23T13:30:50Z",
-   "kind": "news_story",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Ex-Gratia Medical Payments reviews",
-   "url": "https://www.gov.uk/government/publications/ex-gratia-medical-payments-reviews",
-   "published": "2026-10-23T13:11:48Z",
-   "kind": "guidance",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Azerbaijan travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/azerbaijan",
-   "published": "2026-10-23T12:44:51Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Azerbaijan"
-   ]
-  },
-  {
-   "title": "Improving standards for industrial fans",
-   "url": "https://www.gov.uk/government/consultations/improving-standards-for-industrial-fans",
-   "published": "2026-10-23T11:34:33Z",
-   "kind": "open_consultation",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Expired General Licences",
-   "url": "https://www.gov.uk/government/collections/expired-general-licences",
-   "published": "2026-10-23T10:26:55Z",
-   "kind": "document_collection",
-   "orgs": [
-    "OFSI",
-    "HMT"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Government response to Small Business Regulatory Taskforce report",
-   "url": "https://www.gov.uk/government/publications/government-response-to-small-business-regulatory-taskforce-report",
-   "published": "2026-10-23T10:05:42Z",
-   "kind": "corporate_report",
-   "orgs": [
-    "BIST",
-    "HMT"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Strategic Spatial Energy Plan (SSEP): timeline extension",
-   "url": "https://www.gov.uk/government/publications/strategic-spatial-energy-plan-ssep-timeline-extension",
-   "published": "2026-10-23T10:05:02Z",
-   "kind": "correspondence",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Strategic Spatial Energy Plan: deadline extension",
-   "url": "https://www.gov.uk/government/publications/strategic-spatial-energy-plan-deadline-extension",
-   "published": "2026-10-23T10:00:02Z",
-   "kind": "correspondence",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Deep Space Advanced Radar Capability (DARC)",
-   "url": "https://www.gov.uk/guidance/deep-space-advanced-radar-capability-darc",
-   "published": "2026-10-23T09:06:00Z",
-   "kind": "detailed_guide",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Appointment of the Suffragan Bishop of Jarrow: 23 October 2026",
-   "url": "https://www.gov.uk/government/news/appointment-of-the-suffragan-bishop-of-jarrow-23-october-2026",
-   "published": "2026-10-23T09:00:00Z",
-   "kind": "press_release",
-   "orgs": [
-    "Number 10"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Mental health support for British nationals in United Arab Emirates",
-   "url": "https://www.gov.uk/guidance/mental-health-support-for-british-nationals-in-united-arab-emirates",
-   "published": "2026-10-23T08:10:05Z",
-   "kind": "detailed_guide",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia",
-    "mena"
-   ],
-   "countries": [
-    "United Kingdom",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "title": "Government slashes red tape and tariffs to give businesses breathing space",
-   "url": "https://www.gov.uk/government/news/government-slashes-red-tape-and-tariffs-to-give-businesses-breathing-space",
-   "published": "2026-10-23T05:00:00Z",
-   "kind": "news_story",
-   "orgs": [
-    "HMT"
-   ],
-   "themes": [
-    "trade"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Military planes and helicopters to fight wildfires from the sky",
-   "url": "https://www.gov.uk/government/news/military-planes-and-helicopters-to-fight-wildfires-from-the-sky",
-   "published": "2026-10-22T21:30:00Z",
-   "kind": "press_release",
-   "orgs": [
-    "MHCLG",
-    "MOD",
-    "Number 10"
-   ],
-   "themes": [
-    "conflict",
-    "climate"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Crime and Policing Act 2026: impact assessments",
-   "url": "https://www.gov.uk/government/publications/crime-and-policing-act-2026-impact-assessments",
-   "published": "2026-10-22T15:47:10Z",
-   "kind": "impact_assessment",
-   "orgs": [
-    "Home Office",
-    "MOJ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "PM puts communities first in government investment rules shake up",
-   "url": "https://www.gov.uk/government/news/pm-puts-communities-first-in-government-investment-rules-shake-up",
-   "published": "2026-10-22T15:34:37Z",
-   "kind": "news_story",
-   "orgs": [
-    "HMT",
-    "Number 10"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Report 15: offensive weapons homicide review, West Midlands",
-   "url": "https://www.gov.uk/government/publications/report-15-offensive-weapons-homicide-review-west-midlands",
-   "published": "2026-10-22T15:32:20Z",
-   "kind": "independent_report",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Chief of the General Staff's speech at the opening of Telford Gun Hall",
-   "url": "https://www.gov.uk/government/speeches/chief-of-the-general-staffs-speech-at-the-opening-of-telford-gun-hall",
-   "published": "2026-10-22T15:24:03Z",
-   "kind": "speech",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Renewables Obligation to Exchequer Scheme Expenditure: quarterly reports",
-   "url": "https://www.gov.uk/government/collections/renewables-obligation-to-exchequer-scheme-expenditure-quarterly-reports",
-   "published": "2026-10-22T14:23:12Z",
-   "kind": "document_collection",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "The Renewables Obligation to Exchequer Scheme Expenditure: 1 July to 30 September 2026",
-   "url": "https://www.gov.uk/government/publications/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026",
-   "published": "2026-10-22T14:23:04Z",
-   "kind": "corporate_report",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Updating standards for standby, networked standby and off mode power consumption",
-   "url": "https://www.gov.uk/government/consultations/updating-standards-for-standby-networked-standby-and-off-mode-power-consumption",
-   "published": "2026-10-22T14:13:39Z",
-   "kind": "open_consultation",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Police use of artificial intelligence (AI): factsheet",
-   "url": "https://www.gov.uk/government/publications/police-use-of-artificial-intelligence-ai-factsheet",
-   "published": "2026-10-22T13:57:40Z",
-   "kind": "guidance",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [
-    "cyber"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Defence Secretary Wes Streeting's speech at the opening of Telford Gun Hall",
-   "url": "https://www.gov.uk/government/speeches/defence-secretary-wes-streetings-speech-at-the-opening-of-telford-gun-hall",
-   "published": "2026-10-22T13:54:00Z",
-   "kind": "speech",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Defence Serious Crime Command (DSCC)",
-   "url": "https://www.gov.uk/guidance/defence-serious-crime-command-dscc",
-   "published": "2026-10-22T13:48:46Z",
-   "kind": "detailed_guide",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Ministry of Defence Police: misconduct hearings",
-   "url": "https://www.gov.uk/guidance/ministry-of-defence-police-misconduct-hearings",
-   "published": "2026-10-22T12:44:23Z",
-   "kind": "detailed_guide",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "British jobs boost as tank barrel production returns to the UK for first time in 20 years",
-   "url": "https://www.gov.uk/government/news/british-jobs-boost-as-tank-barrel-production-returns-to-the-uk-for-first-time-in-20-years",
-   "published": "2026-10-22T12:00:00Z",
-   "kind": "press_release",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
   }
  ],
  "laws": [
@@ -2521,78 +2488,71 @@
  ],
  "attention": [
   {
-   "country": "United States",
-   "news_7d": 641,
-   "contributions": 88,
-   "debates": 0,
-   "statements": 1
-  },
-  {
    "country": "Israel",
-   "news_7d": 406,
-   "contributions": 28,
+   "news_7d": 469,
+   "contributions": 29,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "Russia",
-   "news_7d": 276,
-   "contributions": 118,
+   "news_7d": 275,
+   "contributions": 124,
    "debates": 2,
    "statements": 1
   },
   {
    "country": "Ukraine",
-   "news_7d": 274,
-   "contributions": 116,
+   "news_7d": 269,
+   "contributions": 129,
    "debates": 1,
    "statements": 0
   },
   {
    "country": "Palestine",
-   "news_7d": 221,
+   "news_7d": 239,
    "contributions": 19,
    "debates": 1,
    "statements": 0
   },
   {
    "country": "Iran",
-   "news_7d": 215,
-   "contributions": 86,
+   "news_7d": 214,
+   "contributions": 95,
    "debates": 3,
-   "statements": 0
-  },
-  {
-   "country": "Saudi Arabia",
-   "news_7d": 127,
-   "contributions": 38,
-   "debates": 3,
-   "statements": 1
-  },
-  {
-   "country": "Nigeria",
-   "news_7d": 126,
-   "contributions": 5,
-   "debates": 0,
-   "statements": 0
-  },
-  {
-   "country": "China",
-   "news_7d": 119,
-   "contributions": 38,
-   "debates": 0,
    "statements": 0
   },
   {
    "country": "Brazil",
-   "news_7d": 115,
-   "contributions": 2,
+   "news_7d": 136,
+   "contributions": 4,
    "debates": 0,
    "statements": 1
   },
   {
+   "country": "China",
+   "news_7d": 122,
+   "contributions": 41,
+   "debates": 0,
+   "statements": 0
+  },
+  {
+   "country": "Nigeria",
+   "news_7d": 109,
+   "contributions": 6,
+   "debates": 0,
+   "statements": 0
+  },
+  {
+   "country": "Saudi Arabia",
+   "news_7d": 109,
+   "contributions": 38,
+   "debates": 3,
+   "statements": 1
+  },
+  {
    "country": "Yemen",
-   "news_7d": 100,
+   "news_7d": 82,
    "contributions": 21,
    "debates": 0,
    "statements": 1
@@ -2608,14 +2568,8 @@
   {
    "term": "sanctions",
    "theme": "sanctions",
-   "contributions": 96,
+   "contributions": 97,
    "debates": 0
-  },
-  {
-   "term": "energy security",
-   "theme": "energy",
-   "contributions": 73,
-   "debates": 1
   },
   {
    "term": "Red Sea",
@@ -2632,13 +2586,13 @@
   {
    "term": "cyber attack",
    "theme": "cyber",
-   "contributions": 10,
+   "contributions": 11,
    "debates": 0
   },
   {
    "term": "small boats",
    "theme": "migration",
-   "contributions": 24,
+   "contributions": 25,
    "debates": 0
   },
   {
@@ -2649,6 +2603,36 @@
   }
  ],
  "speeches": [
+  {
+   "issue": "sanctions",
+   "member": "Andy Burnham",
+   "party": "",
+   "house": "Commons",
+   "date": "2026-10-28",
+   "debate": "Engagements",
+   "text": "My hon. Friend is absolutely right to call out President Putin’s actions, which have resulted in thousands of innocent Ukrainian children being killed, people forced into the bitter cold, and sending his own Russian people to die on the frontline. I spoke to…",
+   "url": "https://hansard.parliament.uk/Commons/2026-10-28/debates/39FAECD6-52B2-4A7F-A437-E0CA9E98C973"
+  },
+  {
+   "issue": "cyber attack",
+   "member": "Peter Kyle",
+   "party": "",
+   "house": "Commons",
+   "date": "2026-10-28",
+   "debate": " Budget Resolutions and  Economic Situation",
+   "text": "The right hon. Gentleman’s intervention was longer than my speech has been so far. When I find that I agree with every word that somebody is saying, I usually sit down and listen to a bit more of it rather than trying to challenge it. Perhaps the rest of my…",
+   "url": "https://hansard.parliament.uk/Commons/2026-10-28/debates/2A014CAF-3610-4AA1-8A76-A529368815B7"
+  },
+  {
+   "issue": "small boats",
+   "member": "Blake Stephenson",
+   "party": "Con",
+   "house": "Commons",
+   "date": "2026-10-28",
+   "debate": "Draft Border Security, Asylum and Immigration Act 2025 (Specified Purposes Related to Policing) Regulations 2026",
+   "text": "It is a pleasure to serve under your chairship, Mrs Hobhouse. I thank the Minister for those detailed opening remarks. The protection and enforcement of our laws protecting our borders must be an absolute priority for Government. Whether individuals are…",
+   "url": "https://hansard.parliament.uk/Commons/2026-10-28/debates/8bfb8c44-b5e0-4f14-8d3d-bebe901a1434"
+  },
   {
    "issue": "sanctions",
    "member": "Ed Miliband",
@@ -2668,46 +2652,6 @@
    "debate": "International Criminal Court",
    "text": "My Lords, last Thursday, less than a fortnight after the US announced its vindictive sanctions, when Marco Rubio called the ICC a “rogue court” and threatened to cripple its ability to function, the European Parliament awarded the ICC the prestigious Sakharov…",
    "url": "https://hansard.parliament.uk/Lords/2026-10-27/debates/D7D27CC2-38B4-4967-BFF6-533AF0A17795"
-  },
-  {
-   "issue": "sanctions",
-   "member": "Lord Teverson",
-   "party": "LD",
-   "house": "Lords",
-   "date": "2026-10-27",
-   "debate": "International Criminal Court",
-   "text": "My Lords, first, I welcome very much the prompt statement by the UK, together with seven other nations, in support of the ICC, following the assault by sanctions on not just the ICC itself but its staff. What are we doing practically to make sure that the…",
-   "url": "https://hansard.parliament.uk/Lords/2026-10-27/debates/D7D27CC2-38B4-4967-BFF6-533AF0A17795"
-  },
-  {
-   "issue": "energy security",
-   "member": "Baroness Curran",
-   "party": "Lab",
-   "house": "Lords",
-   "date": "2026-10-27",
-   "debate": "Jackdaw Gas Field",
-   "text": "I thank my noble friend for that question. The energy wealth fund is an important part of the announcement that was made on the same day that the decision was made on Jackdaw. For once, we must acknowledge that we should make use of the receipts that we…",
-   "url": "https://hansard.parliament.uk/Lords/2026-10-27/debates/76270F6E-AB94-44F0-AC4A-96A17B9486E1"
-  },
-  {
-   "issue": "energy security",
-   "member": "Earl Russell",
-   "party": "LD",
-   "house": "Lords",
-   "date": "2026-10-27",
-   "debate": "Jackdaw Gas Field",
-   "text": "My Lords, we recognise the logic of this decision, but approving a new gas field in a climate crisis is proof that Britain has not moved nearly fast enough to cut demand for gas in our homes and transport. Jackdaw was licensed decades ago. The decision is…",
-   "url": "https://hansard.parliament.uk/Lords/2026-10-27/debates/76270F6E-AB94-44F0-AC4A-96A17B9486E1"
-  },
-  {
-   "issue": "energy security",
-   "member": "Blair McDougall",
-   "party": "",
-   "house": "Commons",
-   "date": "2026-10-27",
-   "debate": "Draft Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026",
-   "text": "The hon. Gentleman is getting slightly ahead of what I was about to say, which is that we are racing to make sure that as many companies as possible make that deadline. Of course, we will keep things under review as we want the maximum number of companies to…",
-   "url": "https://hansard.parliament.uk/Commons/2026-10-27/debates/ae1cc5b0-c6ab-4fc7-856d-c3f2f141057b"
   },
   {
    "issue": "cyber attack",
@@ -2740,16 +2684,6 @@
    "url": "https://hansard.parliament.uk/Commons/2026-10-27/debates/033A4632-E9CB-4301-A756-56212FF2943E"
   },
   {
-   "issue": "cyber attack",
-   "member": "Charlie Dewhirst",
-   "party": "Con",
-   "house": "Commons",
-   "date": "2026-10-27",
-   "debate": " Strengthening Community Resilience",
-   "text": "I thank the Minister for advance sight of his statement, and join him in sending my condolences to the families of the two men who lost their lives in the storms over the weekend. We welcome measures to address the resilience gap—a process that started under…",
-   "url": "https://hansard.parliament.uk/Commons/2026-10-27/debates/033A4632-E9CB-4301-A756-56212FF2943E"
-  },
-  {
    "issue": "small boats",
    "member": "Ed Miliband",
    "party": "",
@@ -2778,16 +2712,6 @@
    "debate": "Topical Questions",
    "text": "T4. Last year, more than 7,500 Eritrean nationals entered the UK illegally on small boats. Following talks to persuade Eritrea to accept the return of those illegal immigrants, the Eritrean embassy dismissed threats of visa sanctions as “a perfunctory…",
    "url": "https://hansard.parliament.uk/Commons/2026-10-27/debates/8154EEBB-5314-44D0-A921-CB6E98F01D26"
-  },
-  {
-   "issue": "small boats",
-   "member": "Matt Vickers",
-   "party": "",
-   "house": "Commons",
-   "date": "2026-10-27",
-   "debate": "Immigration and Asylum Bill (Twelfth sitting)",
-   "text": "Supporting a victim of modern slavery and deciding what immigration permission that person should have are related questions, but they are not the same. The law must protect people who have been exploited while maintaining an immigration system that is…",
-   "url": "https://hansard.parliament.uk/Commons/2026-10-27/debates/a8a0cedb-124d-420b-b283-58562008074c"
   },
   {
    "issue": "shadow fleet",
