@@ -1,7 +1,39 @@
 {
- "updated": "2026-10-29T19:11:54.190234+00:00",
+ "updated": "2026-10-29T21:58:17.295944+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "c3c296345fb4ef57",
+   "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+   "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T21:52:13+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8077a0eb45ccb889",
+   "title": "Healey backs away from cutting welfare cost despite warnings of public finance shortfall",
+   "summary": "Experts round on chancellor over ‘scattergun’ budget, saying he ducked big tax and spending decisions John Healey has backed away from cutting the cost of welfare this parliament, amid dire warnings his first budget could lead to brutal spending cuts because of a £28bn shortfall in public finances.…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T20:02:16+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "6af6dbc58bbe56f6",
    "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
@@ -200,6 +232,25 @@
    "countries": []
   },
   {
+   "id": "7bd338e592449124",
+   "title": "US interest rates held steady and economy grows - what it means for you",
+   "summary": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
+   "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T17:15:05+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
    "id": "7034e30528fbe324",
    "title": "Interest rates and monetary policy: Economic indicators",
    "summary": "Monetary policy affects the amount of money in the economy and the costs of borrowing. Find the latest data on interest rates in the UK, US and Eurozone.",
@@ -304,8 +355,8 @@
   },
   {
    "id": "15c7b2db1c670f07",
-   "title": "Google parent company takes $500bn market hit over AI fears",
-   "summary": "Shares in Google's parent Alphabet are on course for one of their sharpest one-day falls on record.",
+   "title": "Google owner Alphabet suffers its worst-ever day on stock market - as value plunges $500bn",
+   "summary": "Shares in Google's parent company Alphabet have suffered their worst-ever day on the US stock market, falling more than 12% and knocking around half a trillion dollars off its value.",
    "url": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428",
    "source": "Sky News Business",
    "group": "Economy news",
@@ -315,7 +366,9 @@
    "parties": [],
    "topics": [],
    "tax": [],
-   "countries": []
+   "countries": [
+    "United States"
+   ]
   },
   {
    "id": "6a6ead1b924f94bd",
@@ -15430,51 +15483,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "30806ae7a97ec6eb",
-   "title": "Database of forecasts for the UK economy",
-   "summary": "We’ve compiled independent forecasts for the UK economy since 1986. This database includes forecasts of key economic indicators from those publications.",
-   "url": "https://www.gov.uk/government/statistics/database-of-forecasts-for-the-uk-economy",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "official_statistics",
-   "party_voice": "",
-   "published": "2026-10-21T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "a3eda9a486d19b3a",
-   "title": "Forecasts for the UK economy: October 2026",
-   "summary": "A comparison of independent forecasts for the UK economy in October 2026.",
-   "url": "https://www.gov.uk/government/statistics/forecasts-for-the-uk-economy-october-2026",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "official_statistics",
-   "party_voice": "",
-   "published": "2026-10-21T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d7c6f984903bbe69",
-   "title": "Forecasts for the UK economy",
-   "summary": "Forecasts for the UK economy is a monthly comparison of independent forecasts.",
-   "url": "https://www.gov.uk/government/collections/data-forecasts",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-10-21T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15482,42 +15490,42 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15552,7 +15560,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -15566,7 +15574,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
@@ -16284,7 +16292,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133376,
+   "signatures": 133419,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16293,7 +16301,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 121759,
+   "signatures": 122480,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16302,7 +16310,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 110458,
+   "signatures": 110603,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16311,7 +16319,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85842,
+   "signatures": 85922,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16320,7 +16328,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78771,
+   "signatures": 78796,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16329,7 +16337,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 73496,
+   "signatures": 73547,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16338,7 +16346,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55528,
+   "signatures": 55532,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16347,7 +16355,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 54879,
+   "signatures": 54960,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16356,7 +16364,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50511,
+   "signatures": 50514,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16365,7 +16373,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45959,
+   "signatures": 45978,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16374,7 +16382,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44805,
+   "signatures": 44810,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
@@ -16383,7 +16391,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 42037,
+   "signatures": 42071,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
