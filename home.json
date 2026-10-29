@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T01:18:49.144038+00:00",
+ "updated": "2026-10-29T04:03:54.771074+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-29T01:18:49.144038+00:00",
+   "published": "2026-10-29T04:03:54.771074+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
@@ -20,14 +20,32 @@
    "countries": []
   },
   {
+   "id": "f2bd51646580e9e8",
+   "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+   "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
+   "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T03:16:19+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "China",
+    "Japan"
+   ]
+  },
+  {
    "id": "875601267eab33d5",
-   "title": "Microsoft profits surge days after announcing major job cuts",
+   "title": "Microsoft profits soar days after announcing thousands of layoffs",
    "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
    "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-29T01:08:04+00:00",
+   "published": "2026-10-29T01:27:40+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -85,6 +103,26 @@
    "tax": [],
    "countries": [
     "Japan"
+   ]
+  },
+  {
+   "id": "d9726a95c8f60628",
+   "title": "US holds interest rates - ahead of possible Bank of England hike",
+   "summary": "The Federal Reserve has left interest rates unchanged - despite persistently high inflation and repeated calls from Donald Trump to lower borrowing costs.",
+   "url": "https://news.sky.com/story/us-federal-reserve-holds-interest-rates-ahead-of-possible-bank-of-england-hike-13605142",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-28T23:51:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
    ]
   },
   {
@@ -6590,8 +6628,8 @@
    "title": "Healey to shield low-income pensioners from income tax in the Budget",
    "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
    "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-26T10:28:12+00:00",
    "dateonly": false,
@@ -15427,41 +15465,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "bb7f9e117d7f476f",
-   "title": "Robert Jenrick has a bridge to sell you",
-   "summary": "And so, Robert Jenrick may well try to sell you the idea that only Reform can save Britain from economic decline. But if we are to be honest with ourselves, the only thing Jenrick is selling the British public is a bridge, and a pretty big one at that. The post Robert Jenrick has a bridge to sell…",
-   "url": "https://conservativehome.com/2026/10/20/robert-jenrick-has-a-bridge-to-sell-you/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-20T06:00:06+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "20bc62e646a289cf",
-   "title": "Peter Franklin: How can the Conservatives oppose Burnham’s Rejoin agenda without being derailed by it?",
-   "summary": "Kemi Badenoch, Andrew Griffith and Tom Tugendhat don’t need to bang on about Europe to show us the real Europe. To do so — clearly, calmly and non-obsessively — is all the contribution they need to make. The post Peter Franklin: How can the Conservatives oppose Burnham’s Rejoin agenda without being…",
-   "url": "https://conservativehome.com/2026/10/20/peter-franklin-how-can-the-conservatives-oppose-burnhams-rejoin-agenda-without-being-derailed-by-it/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-20T05:30:50+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15497,21 +15500,21 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15539,7 +15542,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16271,7 +16274,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133139,
+   "signatures": 133143,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16280,7 +16283,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 120996,
+   "signatures": 121004,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16289,7 +16292,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 109476,
+   "signatures": 109495,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16298,7 +16301,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85520,
+   "signatures": 85529,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16307,7 +16310,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78627,
+   "signatures": 78630,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16316,7 +16319,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 73183,
+   "signatures": 73189,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16325,7 +16328,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55521,
+   "signatures": 55522,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16334,7 +16337,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 54585,
+   "signatures": 54590,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16352,7 +16355,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45846,
+   "signatures": 45853,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16361,7 +16364,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44776,
+   "signatures": 44781,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16370,7 +16373,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41637,
+   "signatures": 41644,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
