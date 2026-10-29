@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T21:56:15.497052+00:00",
+ "updated": "2026-10-29T01:18:49.144038+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,11 +10,168 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-28T21:56:15.497052+00:00",
+   "published": "2026-10-29T01:18:49.144038+00:00",
    "dateonly": true,
    "parties": [],
    "topics": [
     "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "875601267eab33d5",
+   "title": "Microsoft profits surge days after announcing major job cuts",
+   "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+   "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T01:08:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f4ef0bf20c8be1ac",
+   "title": "Data Element 2/3: Documents and Other Reference Codes (National) of the Customs Declaration Service (CDS)",
+   "summary": "Find a list of codes for the relevant document codes, document status codes and details to be declared (for example, licences and certificates) in Data Element 2/3 (Appendix 5A).",
+   "url": "https://www.gov.uk/guidance/data-element-23-documents-and-other-reference-codes-national-of-the-customs-declaration-service-cds",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-29T00:15:02Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8a82194b71cd6d38",
+   "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+   "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+   "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T00:00:25+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Fuel and duties"
+   ],
+   "countries": []
+  },
+  {
+   "id": "6c762e0c245bcc30",
+   "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+   "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T00:00:15+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": [
+    "Japan"
+   ]
+  },
+  {
+   "id": "0dfb25b8c70ce04e",
+   "title": "Autumn Budget 2026: A summary",
+   "summary": "The Chancellor presented his 2026 Budget to the Commons on 28 October, and the Office for Budget Responsibility published updated forecasts for the economy and public finances for the next five years.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12252/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-28T23:50:59+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0a2d810ff23ad192",
+   "title": "Autumn Budget 2026: A summary",
+   "summary": "The Chancellor presented his 2026 Budget to the Commons on 28 October, and the Office for Budget Responsibility published updated forecasts for the economy and public finances for the next five years.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/autumn-budget-2026-a-summary/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-28T23:44:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "badbae036b71d9f6",
+   "title": "UK government to allow two-year graduate visa for 'high-compliance' universities",
+   "summary": "The government also announced an expansion of the ‘high potential individual’ visa route to the top 150 global institutions as part of efforts to attract ‘the world’s best graduates’",
+   "url": "https://www.independent.co.uk/news/uk/politics/budget-government-graduate-visa-universities-b3075156.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T22:54:52+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3bb89b474a8f8abf",
+   "title": "Nigel Farage explains stance on Reform UK members supporting Tommy Robinson",
+   "summary": "Robinson could face up to 10 years in prison after being convicted of harassing two journalists and causing them to fear violence",
+   "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-uk-tommy-robinson-b3075168.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-28T22:50:29+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c3f0193f1d371d80",
+   "title": "Badenoch holds Healey to his own test on defence spending and says he’s failed",
+   "summary": "The Conservative leader turned to the resignation letter John healey sent to Keir Starmer to ask why in his debut Budget as Chancellor he didn't meet his own test The post Badenoch holds Healey to his own test on defence spending and says he’s failed appeared first on Conservative Home .",
+   "url": "https://conservativehome.com/2026/10/28/badenoch-holds-healey-to-his-own-test-on-defence-spending-and-says-hes-failed/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-28T21:58:03+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Party leadership",
+    "Defence"
    ],
    "tax": [],
    "countries": []
@@ -289,23 +446,6 @@
    "countries": []
   },
   {
-   "id": "3bb89b474a8f8abf",
-   "title": "Nigel Farage explains stance on Reform UK members supporting Tommy Robinson",
-   "summary": "Robinson could face up to 10 years in prison after being convicted of harassing two journalists and causing them to fear violence",
-   "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-uk-tommy-robinson-b3075168.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-28T18:27:39+00:00",
-   "dateonly": false,
-   "parties": [
-    "Reform UK"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "e280498c9d569880",
    "title": "Budget 2026: £100 energy payment for millions and rise in bank tax as watchdog warns on stalling living standards – as it happened",
    "summary": "OBR says that living standards are forecast to rise by just 1% over the whole post-Covid decade Budget 2026: key points at a glance Martin Lewis said that, when he met John Healey this morning, the chancellor said that, having removed standing charges from gas bills, he would also like to get rid…",
@@ -537,25 +677,6 @@
    "parties": [],
    "topics": [
     "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "badbae036b71d9f6",
-   "title": "UK government to allow two-year graduate visa for 'high-compliance' universities",
-   "summary": "The government has said it will allow graduates from some universities ‘where there are strong labour market outcomes’",
-   "url": "https://www.independent.co.uk/news/uk/politics/budget-government-graduate-visa-universities-b3075156.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-28T18:05:19+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Immigration"
    ],
    "tax": [],
    "countries": []
@@ -1552,8 +1673,8 @@
   },
   {
    "id": "1071be8bbb2ffa37",
-   "title": "The Condiments Budget (Part 2) – Lots and lots of little gherkins, but any meat delayed",
-   "summary": "We were quietly promised a ‘nothing major’, steady as she goes Budget and that’s what we got. Tinkering and avoiding. The biggest tax rise will be drag so he didn’t mention that. Kemi Badenoch had it right when she said people were entitled to ask, “Is that it?” The post The Condiments Budget (Part…",
+   "title": "The condiment Budget (Part 2) – Lots and lots of little gherkins, but any meat delayed",
+   "summary": "We were quietly promised a ‘nothing major’, steady as she goes Budget and that’s what we got. Tinkering and avoiding. The biggest tax rise will be drag so he didn’t mention that. Kemi Badenoch had it right when she said people were entitled to ask, “Is that it?” The post The condiment Budget (Part…",
    "url": "https://conservativehome.com/2026/10/28/the-condiments-budget-part-2-lots-and-lots-of-little-gherkins-but-any-meat-delayed/",
    "source": "ConservativeHome",
    "group": "Party voices",
@@ -3060,23 +3181,6 @@
    "countries": []
   },
   {
-   "id": "8a82194b71cd6d38",
-   "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-   "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-   "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-28T11:30:26+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "4700dc18ea83e07a",
    "title": "Smart glasses and violence against women and girls",
    "summary": "A Westminster Hall debate on Smart glasses and violence against women and girls has been scheduled for 4 November 2026. The debate will be opened by Anna Sabine MP.",
@@ -3160,23 +3264,6 @@
    "tax": [
     "Pensions"
    ],
-   "countries": []
-  },
-  {
-   "id": "0dfb25b8c70ce04e",
-   "title": "Autumn Budget 2026: A summary",
-   "summary": "The Library will publish a summary of the 2026 Autumn Budget in the evening of 28 October.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12252/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-28T10:35:02+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
    "countries": []
   },
   {
@@ -3515,7 +3602,7 @@
   },
   {
    "id": "acca4db39c0f694f",
-   "title": "The condiment Budget – designed to be a large amount of nothing much on a big white plate",
+   "title": "The condiment Budget (Part 1) – Designed to be a large amount of nothing on a big white plate",
    "summary": "I still maintain, and, increasingly so do MPs on all sides, that this is a step on the path to Burnham trying a gamble. It will be as the Number 10 spinners want - a muted steady as you go Budget with some hidden signs buried in the detail. Don’t expect fireworks, but look out for the tell-tale…",
    "url": "https://conservativehome.com/2026/10/28/the-condiment-budget-designed-to-be-a-large-amount-of-nothing-much-on-a-big-white-plate/",
    "source": "ConservativeHome",
@@ -15375,98 +15462,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "923dd82c4ce717d3",
-   "title": "Brandon Lewis: We fixed planning once – it’s time to go back to the drawing board",
-   "summary": "We cleared the thicket once. It has grown back. Britain needs a party willing to go back to the drawing board and the party of home ownership should be the one holding the pen. The post Brandon Lewis: We fixed planning once – it’s time to go back to the drawing board appeared first on Conservative…",
-   "url": "https://conservativehome.com/2026/10/20/brandon-lewis-we-fixed-planning-once-its-time-to-go-back-to-the-drawing-board/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-20T05:20:51+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Housing"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ad6a86fa2683ddf4",
-   "title": "Food aid charity under pressure from fuel costs",
-   "summary": "FareShare South West says fuel costs are putting immense pressure on work helping thousands in need.",
-   "url": "https://www.bbc.co.uk/news/articles/cqy0rxw37x2eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T05:15:16+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "47697788d77bb791",
-   "title": "Rob Waltham: Low taxes, outstanding services and investment – Conservatism in action in North Lincolnshire",
-   "summary": "In several years, we froze Council Tax completely. Residents should keep more of the money they earn. The post Rob Waltham: Low taxes, outstanding services and investment – Conservatism in action in North Lincolnshire appeared first on Conservative Home .",
-   "url": "https://conservativehome.com/2026/10/20/rob-waltham-low-taxes-outstanding-services-and-investment-conservatism-in-action-in-north-lincolnshire/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-20T05:10:15+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Elections"
-   ],
-   "tax": [
-    "Council tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "d8aa26e4026013be",
-   "title": "How is the US economy really doing under President Trump?",
-   "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-   "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T05:00:45+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "eb39c463f4efc0d9",
-   "title": "‘From Hillsborough to the Troubles: Labour must deliver truth and accountability for every family’",
-   "summary": "Andy Burnham knows what it means for families to spend decades fighting for the truth. His tireless campaigning… The post ‘From Hillsborough to the Troubles: Labour must deliver truth and accountability for every family’ appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/hillsborough-troubles-truth-accountability/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-20T05:00:23+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15474,21 +15469,21 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15502,7 +15497,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 5,
+   "new": 3,
    "note": ""
   },
   {
@@ -15516,14 +15511,14 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15544,7 +15539,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15558,7 +15553,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15590,7 +15585,110 @@
    "note": ""
   }
  ],
- "parties": [],
+ "parties": [
+  {
+   "name": "Labour",
+   "abbr": "Lab",
+   "colour": "#d50000",
+   "seats": 404
+  },
+  {
+   "name": "Conservative",
+   "abbr": "Con",
+   "colour": "#0063ba",
+   "seats": 118
+  },
+  {
+   "name": "Liberal Democrat",
+   "abbr": "LD",
+   "colour": "#fc7d0b",
+   "seats": 71
+  },
+  {
+   "name": "Independent",
+   "abbr": "Ind",
+   "colour": "#909090",
+   "seats": 11
+  },
+  {
+   "name": "Reform UK",
+   "abbr": "RUK",
+   "colour": "#12b6cf",
+   "seats": 8
+  },
+  {
+   "name": "Scottish National Party",
+   "abbr": "SNP",
+   "colour": "#fff685",
+   "seats": 8
+  },
+  {
+   "name": "Sinn Féin",
+   "abbr": "SF",
+   "colour": "#02665f",
+   "seats": 7
+  },
+  {
+   "name": "Democratic Unionist Party",
+   "abbr": "DUP",
+   "colour": "#d46a4c",
+   "seats": 5
+  },
+  {
+   "name": "Green Party",
+   "abbr": "Green",
+   "colour": "#78b82a",
+   "seats": 5
+  },
+  {
+   "name": "Plaid Cymru",
+   "abbr": "PC",
+   "colour": "#348837",
+   "seats": 4
+  },
+  {
+   "name": "Social Democratic & Labour Party",
+   "abbr": "SDLP",
+   "colour": "#4ea268",
+   "seats": 2
+  },
+  {
+   "name": "Your Party",
+   "abbr": "YP",
+   "colour": "#ff3131",
+   "seats": 2
+  },
+  {
+   "name": "Alliance",
+   "abbr": "APNI",
+   "colour": "#cdaf2d",
+   "seats": 1
+  },
+  {
+   "name": "Restore Britain",
+   "abbr": "RB",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Speaker",
+   "abbr": "Spk",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Traditional Unionist Voice",
+   "abbr": "TUV",
+   "colour": "#0c3a6a",
+   "seats": 1
+  },
+  {
+   "name": "Ulster Unionist Party",
+   "abbr": "UUP",
+   "colour": "#a1cdf0",
+   "seats": 1
+  }
+ ],
  "elections": [
   {
    "id": "local.argyll-and-bute.2026-10-29",
@@ -16173,7 +16271,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133100,
+   "signatures": 133139,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16182,7 +16280,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 120963,
+   "signatures": 120996,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16191,7 +16289,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 109337,
+   "signatures": 109476,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16200,7 +16298,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85415,
+   "signatures": 85520,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16209,7 +16307,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78602,
+   "signatures": 78627,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16218,7 +16316,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 73134,
+   "signatures": 73183,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16227,7 +16325,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55519,
+   "signatures": 55521,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16236,7 +16334,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 54494,
+   "signatures": 54585,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16245,7 +16343,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50480,
+   "signatures": 50485,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16254,7 +16352,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45827,
+   "signatures": 45846,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16263,7 +16361,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44763,
+   "signatures": 44776,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16272,7 +16370,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41607,
+   "signatures": 41637,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -16871,19 +16969,11 @@
  ],
  "key_dates": [
   {
-   "date": "2026-10-28",
-   "label": "Autumn Budget and OBR Economic and fiscal outlook",
-   "kind": "Fiscal",
-   "url": "https://obr.uk/autumn-2026-forecast-date-announced/"
-  },
-  {
    "date": "2026-11-05",
    "label": "Bank of England interest rate decision",
    "kind": "Monetary",
    "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
   }
  ],
- "problems": [
-  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
- ]
+ "problems": []
 }
