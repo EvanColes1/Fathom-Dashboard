@@ -1,17 +1,672 @@
 {
- "updated": "2026-10-29T10:07:04.731059+00:00",
+ "updated": "2026-10-29T13:19:57.108908+00:00",
  "government": "Labour",
  "articles": [
   {
-   "id": "5760244bcea852e9",
-   "title": "Autumn Budget 2026: initial response",
-   "summary": "",
-   "url": "https://ifs.org.uk/articles/autumn-budget-2026-initial-response",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
+   "id": "c15143f07d5571cd",
+   "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+   "summary": "Budget forecasts show growth in living standards grinding almost to a halt.",
+   "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-29T10:07:04.731059+00:00",
-   "dateonly": true,
+   "published": "2026-10-29T13:19:24+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "113247fff38f86ac",
+   "title": "Excise duty hydrocarbon oils rates and allowances",
+   "summary": "Details of fuel duty payable on light oils, heavy oils, biofuels and road fuel gases.",
+   "url": "https://www.gov.uk/government/publications/rates-and-allowances-excise-duty-hydrocarbon-oils",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-29T13:06:27Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Fuel and duties"
+   ],
+   "countries": []
+  },
+  {
+   "id": "50c1ba4f689ebcb2",
+   "title": "William Hall: Conservatives must win the argument for a smaller state",
+   "summary": "We have a compelling case. But a compelling case is not the same as a won argument. Until Conservatives persuade the country that government must focus on fewer things and do them better, promises of lower taxes will remain vulnerable to demands for ever more spending. The post William Hall:…",
+   "url": "https://conservativehome.com/2026/10/29/william-hall-conservatives-must-win-the-argument-for-a-smaller-state/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-29T13:00:02+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "90413d21ea9ecef8",
+   "title": "HMRC puts 200 billionaires on UK tax crackdown hitlist",
+   "summary": "‘Compliance managers’ to have discussions with authority’s wealthiest customers in attempt to raise tax revenues Business live – latest updates The UK’s tax authority is assigning dedicated “customer compliance managers” to more than 200 billionaires as part of a crackdown meant to raise £500m for…",
+   "url": "https://www.theguardian.com/news/2026/oct/29/hmrc-billionaires-uk-tax-crackdown-compliance-managers",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T12:54:18+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b8926a61218df641",
+   "title": "John Healey faces questions over budget leak that moved bank share prices",
+   "summary": "Treasury select committee asks FCA to investigate whether tax surcharge leak led to ‘improper release of inside information’ UK politics live – latest updates John Healey is facing pressure to clarify whether he permitted a market-sensitive budget leak ahead of his statement, which moved bank share…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-faces-questions-over-budget-leak-that-moved-bank-share-prices",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T12:52:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c24a09ebe7c675dc",
+   "title": "Healey accepts ‘hard decisions’ ahead as thinktank says 2020s set to be worst decade for living standards growth – UK politics live",
+   "summary": "Resolution Foundation says 2020s set to be the worst decade, by far, for more than half a century for rising living standards Selling nicotine-free vapes to children under the age of 18 has become illegal from today, the government has said. Children were already banned from buying vapes containing…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T12:46:42+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "217f98d1d4fee008",
+   "title": "Draft legislation: Better use of new and improved third-party data",
+   "summary": "We welcome views on this technical consultation to improve the quality and consistency of data HMRC receives on interest income and card sales.",
+   "url": "https://www.gov.uk/government/consultations/draft-legislation-better-use-of-new-and-improved-third-party-data",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "consultation_outcome",
+   "party_voice": "",
+   "published": "2026-10-29T12:34:31Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9a5817d317e2541b",
+   "title": "Is this play-safe budget a sign that the prime minister is planning an early election? | Larry Elliott",
+   "summary": "There’s no real strategy behind this hotchpotch of measures. Andy Burnham may be parking the big decisions until he has a true mandate Continue reading...",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/29/budget-prime-minister-early-election-andy-burnham",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T12:34:24+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Elections",
+    "Party leadership",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ac587f357d148c5d",
+   "title": "Healey’s ‘risky’ Budget criticised for failing to tackle worst decade for UK growth on record",
+   "summary": "The influential Institute for Fiscal Studies warns that ‘no amount of temporary cost of living packages’ will fix the lack of household income growth in an indictment of Andy Burnham’s approach to government",
+   "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-ifs-growth-debt-b3075512.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T12:31:13+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "eb79c3a61b18241f",
+   "title": "The Bottom Line",
+   "summary": "How easy is it to build a business after serving time in jail?",
+   "url": "https://www.bbc.co.uk/sounds/play/m0033g29?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T12:30:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7836381077cff989",
+   "title": "Problems with parcel deliveries",
+   "summary": "It is often a retailer’s responsibility to ensure that parcels are delivered safely. Find out more about consumers’ rights in relation to parcel deliveries.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10614/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-29T12:29:12+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9378b988b83eadad",
+   "title": "GDP deflators at market prices, and money GDP",
+   "summary": "Latest Gross Domestic Product (GDP) deflators.",
+   "url": "https://www.gov.uk/government/collections/gdp-deflators-at-market-prices-and-money-gdp",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "document_collection",
+   "party_voice": "",
+   "published": "2026-10-29T12:28:13Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "11a655d85c2d720e",
+   "title": "GDP deflators at market prices, and money GDP October 2026 (Budget)",
+   "summary": "This document contains the latest gross domestic product (GDP) deflators. The GDP deflator can be viewed as a measure of general inflation in the domestic economy.",
+   "url": "https://www.gov.uk/government/statistics/gdp-deflators-at-market-prices-and-money-gdp-october-2026-budget",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "national_statistics",
+   "party_voice": "",
+   "published": "2026-10-29T12:28:09Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e1e626b8357254b3",
+   "title": "Finsbury Foods-owner DBAY bakes plan for sale",
+   "summary": "The private equity investor which took Finsbury Food Group private in 2023 is baking plans for a sale of the speciality cake maker.",
+   "url": "https://news.sky.com/story/finsbury-foods-owner-dbay-bakes-plan-for-sale-13605303",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T12:11:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6af6dbc58bbe56f6",
+   "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+   "summary": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+   "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T12:09:14+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a278bf1f3d15193c",
+   "title": "Income Tax: changes to tax rates for property and savings income",
+   "summary": "This tax information and impact note is about the changes to property rates and savings rates for 2027 to 2028 tax year.",
+   "url": "https://www.gov.uk/government/publications/income-tax-changes-to-tax-rates-for-property-and-savings-income",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "policy_paper",
+   "party_voice": "",
+   "published": "2026-10-29T12:06:49Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Income tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "6c67d193dc473b98",
+   "title": "COP31: The 2026 United Nations Climate Change Conference",
+   "summary": "The 2026 United Nations Climate Change Conference (COP30) is to be held from 9 to 20 November 2026 in Antalya, Türkiye. Last year, Brazil hosted COP30 in Belém, and will hand over the presidency to joint hosts Türkiye and Australia. This briefing covers the main themes of COP31.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12258/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-10-29T12:04:15+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Turkey",
+    "Australia",
+    "Brazil",
+    "United Nations"
+   ]
+  },
+  {
+   "id": "8a82194b71cd6d38",
+   "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+   "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+   "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T11:52:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Fuel and duties"
+   ],
+   "countries": []
+  },
+  {
+   "id": "e6e226bf584d637d",
+   "title": "Healey’s Budget slammed as ‘scattergun’ by think tank formerly run by Treasury minister",
+   "summary": "The Resolution Foundation says the Budget will do little to address ‘the sharp challenges facing Britain’",
+   "url": "https://www.independent.co.uk/news/uk/politics/resolution-foundation-think-tank-budget-torsten-bell-b3075451.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T11:51:16+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1ff209d155f0bcc5",
+   "title": "Chancellor and Burnham at odds over Brexit: ‘We had a referendum’",
+   "summary": "Asked whether growth would be stronger if Britain was in the EU or single market, Mr Healey told LBC: ‘Well, I don’t actually accept that’",
+   "url": "https://www.independent.co.uk/news/uk/politics/brexit-rejoin-referendum-burnham-healey-budget-2026-b3075561.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T11:39:30+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Economy",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7e883c15856826b8",
+   "title": "Robert Jenrick clashes with ITV journalist over ‘always asking negative questions about Reform’",
+   "summary": "Robert Jenrick clashed with an ITV journalist on Good Morning Britain on Thursday (29 October), accusing him of always asking negative questions about Reform UK .",
+   "url": "https://www.independent.co.uk/tv/news/itv-reform-robert-jenrick-paul-brand-video-b3075534.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T11:38:02+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0f8915176fd4a651",
+   "title": "Could she stand? Lagarde quits European Central Bank ahead of French election",
+   "summary": "The French head of the European Central Bank (ECB) is to step down from the role, just months ahead of the troubled country's presidential election.",
+   "url": "https://news.sky.com/story/lagarde-quits-european-central-bank-ahead-of-french-election-13605291",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T11:31:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "5b92070f6b03c0a0",
+   "title": "Healey warned of ‘grim’ squeeze on households despite £100 Budget energy bill help for poorest",
+   "summary": "Economists warned Healey’s first budget offered only a ‘raft of fiddly measures but very little that will move the dial on growth’",
+   "url": "https://www.independent.co.uk/news/uk/politics/budget-john-healey-tax-pensions-energy-bill-help-burnham-b3075042.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T11:17:46+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e5c5f78ab5bc2014",
+   "title": "Tax-free savings newsletter 24",
+   "summary": "October 2026 newsletter to update stakeholders on the latest news for tax-free savings.",
+   "url": "https://www.gov.uk/government/publications/tax-free-savings-newsletter-24",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-29T11:16:50Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0ebd93f41b033b60",
+   "title": "Millions of UK households to get £100 energy bill payment – check if you’re eligible",
+   "summary": "Eligibility will be based on council tax band, the chancellor has said",
+   "url": "https://www.independent.co.uk/news/uk/politics/energy-bill-payment-budget-2026-eligibility-council-tax-band-checker-b3075405.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T11:07:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Elections"
+   ],
+   "tax": [
+    "Council tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "fcf9e940802e9453",
+   "title": "Healey insists he will bring welfare bill down despite delaying decisions",
+   "summary": "The Office for Budget Responsibility (OBR) predicted that the total cost of health-related benefits will exceed £100bn by the end of the decade, with three quarters of the payments forecast to be paid to working-age adults",
+   "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-john-healey-welfare-bill-b3075391.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T11:05:52+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "92aeffa8ab4ec62c",
+   "title": "UK Government Green Financing Programme",
+   "summary": "Publications linked to the UK Government Green Financing Programme, including the Green Financing Framework and allocation and impact reports.",
+   "url": "https://www.gov.uk/government/collections/uk-government-green-financing-programme",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "document_collection",
+   "party_voice": "",
+   "published": "2026-10-29T11:05:13Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e79f1e95b27d49d3",
+   "title": "Martin Lewis delivers his Budget verdict with three key takeaways",
+   "summary": "The money expert appeared disappointed by ‘no news’ on some issues – but was ‘delighted’ by one announcement",
+   "url": "https://www.independent.co.uk/news/uk/politics/martin-lewis-on-budget-healey-income-tax-isa-changes-b3075355.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T11:03:44+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "bbb9bd9ad2612fce",
+   "title": "Joe Shalam: Healey’s fudge-it Budget dodged all the hard choices",
+   "summary": "The Budget was an enormous fudge. No10 should be grateful for the breathing space Healey has bought them. But workers facing higher taxes and young people losing another year to worklessness have fewer reasons to be cheerful. An election promising faster takeaways and dunkable biscuits might be the…",
+   "url": "https://conservativehome.com/2026/10/29/joe-shalam-healeys-fudge-it-budget-dodged-all-the-hard-choices/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-29T11:00:40+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8abbd38f13da50b7",
+   "title": "In The Room | Burnham’s first Budget: Will this really save our economy?",
+   "summary": "Cheaper gherkins, £100 towards energy bills, higher taxes on banks and billions for defence. John Healey’s first Budget had something for everyone. But was there a main course among the picky bits?",
+   "url": "https://www.independent.co.uk/tv/in-the-room/autumn-budget-2026-burnham-healey-tax-analysis-b3075518.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T10:43:30+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Energy bills",
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d7de17be8eaff5b6",
+   "title": "Treasury will not commit to reducing welfare bill before next election",
+   "summary": "The Treasury is disputing that the chancellor suggested to the BBC the benefits bill will be cut before the next election.",
+   "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T10:41:50+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "97d7fcc58282dfc0",
+   "title": "Pension schemes newsletter 186 — October 2026",
+   "summary": "Newsletter 186, published by HMRC in October 2026 to update stakeholders on the latest news for pension schemes.",
+   "url": "https://www.gov.uk/government/publications/pension-schemes-newsletter-186-october-2026",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-10-29T10:36:29Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "88d180fed1bd1de9",
+   "title": "Chancellor John Healey filmed downing pint after delivering maiden Budget",
+   "summary": "John Healey was captured letting loose after announcing his Budget",
+   "url": "https://www.independent.co.uk/news/uk/politics/chancellor-john-healey-downing-pint-b3075402.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T10:25:44+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ea5867f9f17cc7ac",
+   "title": "Reduce the main rate writing-down allowance and increase the main rate first-year allowance",
+   "summary": "This tax information and impact note covers the reduction of the main rate of writing-down allowances and the increase to the main rate first-year allowance.",
+   "url": "https://www.gov.uk/government/publications/reduce-the-main-rate-writing-down-allowance-and-increase-the-main-rate-first-year-allowance",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "policy_paper",
+   "party_voice": "",
+   "published": "2026-10-29T10:17:22Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7d23d94e70c8e15c",
+   "title": "VAT: supply of certain passenger transport services through agents",
+   "summary": "This tax information and impact note is about changes the VAT treatment of passenger transport services supplied by private hire vehicles or taxis through an agent.",
+   "url": "https://www.gov.uk/government/publications/vat-supply-of-certain-passenger-transport-services-through-agents",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "policy_paper",
+   "party_voice": "",
+   "published": "2026-10-29T10:17:12Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "VAT"
+   ],
+   "countries": []
+  },
+  {
+   "id": "fa91bd6bbbb81fb7",
+   "title": "Machine Games Duty: changes to stake and prize thresholds",
+   "summary": "This tax information and impact note explains changes to the stake and prize thresholds used to determine whether a machine is a type 2 or type 3 machine for Machine Games Duty.",
+   "url": "https://www.gov.uk/government/publications/machine-games-duty-changes-to-stake-and-prize-thresholds",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "policy_paper",
+   "party_voice": "",
+   "published": "2026-10-29T10:16:49Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e954cd77d945aee8",
+   "title": "Capital Gains Tax: reduction in the Business Asset Disposal Relief lifetime limit",
+   "summary": "This tax information and impact note is about the reduction in the Business Asset Disposal Relief lifetime limit.",
+   "url": "https://www.gov.uk/government/publications/capital-gains-tax-reduction-in-the-business-asset-disposal-relief-lifetime-limit",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "policy_paper",
+   "party_voice": "",
+   "published": "2026-10-29T10:16:44Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Capital gains tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "f9b3745007252ea1",
+   "title": "Check if you benefit from budget change to gas bills",
+   "summary": "Chancellor John Healey has revealed the government plans to scrap gas standing charges in 2027.",
+   "url": "https://news.sky.com/story/check-if-you-benefit-from-budget-change-to-gas-bills-13605242",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T10:09:00+00:00",
+   "dateonly": false,
    "parties": [],
    "topics": [
     "Tax and spending"
@@ -37,21 +692,6 @@
    "countries": []
   },
   {
-   "id": "6af6dbc58bbe56f6",
-   "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-   "summary": "Poundland's bosses have filed a notice of intention to appoint administrators to the business.",
-   "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-29T09:58:05+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "3ccd152a3bbdccd2",
    "title": "Britain paying ‘moron premium’ on borrowing since Truss’s disastrous mini budget, chancellor says",
    "summary": "It came as John Healey warned that the UK faces more ‘hard decisions’ about its spending priorities in the coming years, after delivering his first Budget on Wednesday",
@@ -69,32 +709,14 @@
    "countries": []
   },
   {
-   "id": "c24a09ebe7c675dc",
-   "title": "Treasury denies Healey plan to cut welfare bill before election, claiming his comments were misinterpreted – UK politics live",
-   "summary": "Asked earlier if there would be a cut to the welfare bill before the next election, the chancellor said: ‘There will be a reduction in the benefits bill’ John Healey has denied postponing difficult decisions on the welfare system, insisting the government is making changes “now”. Thinktanks and…",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
-   "source": "Guardian Politics",
-   "group": "News",
+   "id": "0dfb25b8c70ce04e",
+   "title": "Autumn Budget 2026: A summary",
+   "summary": "The Chancellor presented his 2026 Budget to the Commons on 28 October, and the Office for Budget Responsibility published updated forecasts for the economy and public finances for the next five years.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12252/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
    "party_voice": "",
-   "published": "2026-10-29T09:50:22+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e6e226bf584d637d",
-   "title": "Healey’s Budget slammed as ‘scattergun’ by think tank formerly run by Treasury minister",
-   "summary": "The Resolution Foundation says the Budget will do little to address ‘the sharp challenges facing Britain’",
-   "url": "https://www.independent.co.uk/news/uk/politics/resolution-foundation-think-tank-budget-torsten-bell-b3075451.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-29T09:44:11+00:00",
+   "published": "2026-10-29T09:48:05+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
@@ -208,6 +830,21 @@
    "countries": []
   },
   {
+   "id": "b362b4ec8ef8d0c5",
+   "title": "Suppliers threaten to cut ties with Poundland as chain nears collapse",
+   "summary": "Major suppliers are moving to cut ties with Poundland as the discount chain lurches towards an insolvency process which threatens to unleash thousands of job losses.",
+   "url": "https://news.sky.com/story/suppliers-threaten-to-cut-ties-with-poundland-as-chain-nears-collapse-13605219",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T09:13:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "c3766f1f9f94bf10",
    "title": "‘Scattergun’ budget will still leave Britons facing higher energy bills, says thinktank",
    "summary": "Healey’s attempt to provide ‘breathing space’ gives rich almost as much as poor, says Resolution Foundation Business live – latest updates Budget 2026: what it means for your wallet, your mortgage and your pay John Healey delivered a “scattergun” budget that did little to boost living standards and…",
@@ -281,26 +918,6 @@
    "countries": []
   },
   {
-   "id": "0ebd93f41b033b60",
-   "title": "Millions of UK households to get £100 energy bill payment – check if you’re eligible",
-   "summary": "Eligibility will be based on council tax band, the chancellor has said",
-   "url": "https://www.independent.co.uk/news/uk/politics/energy-bill-payment-budget-2026-eligibility-council-tax-band-checker-b3075405.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-29T08:23:09+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Elections"
-   ],
-   "tax": [
-    "Council tax"
-   ],
-   "countries": []
-  },
-  {
    "id": "ce5808054eddba19",
    "title": "Budget 2026: We answer your questions",
    "summary": "👉Listen to Politics at Sam and Anne's on your podcast app👈",
@@ -326,23 +943,6 @@
    "group": "Economy news",
    "party_voice": "",
    "published": "2026-10-29T08:11:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fcf9e940802e9453",
-   "title": "Healey insists he will bring welfare bill down despite delaying decisions",
-   "summary": "The Office for Budget Responsibility (OBR) predicted that the total cost of health-related benefits will exceed £100bn by the end of the decade, with three quarters of the payments forecast to be paid to working-age adults",
-   "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-john-healey-welfare-bill-b3075391.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-29T08:10:11+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
@@ -384,6 +984,24 @@
    "countries": [
     "Australia"
    ]
+  },
+  {
+   "id": "80e76a15cd768e2b",
+   "title": "Profits up billions at both UK's biggest mortgage provider and major oil producer",
+   "summary": "The UK's largest mortgage lender has seen profits nearly double as customers pay higher interest rates.",
+   "url": "https://news.sky.com/story/profits-up-billions-at-both-uks-biggest-mortgage-provider-lloyds-and-major-oil-producer-shell-13605208",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T08:00:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
   },
   {
    "id": "f2bd51646580e9e8",
@@ -499,23 +1117,6 @@
    "countries": []
   },
   {
-   "id": "e79f1e95b27d49d3",
-   "title": "Martin Lewis delivers his Budget verdict with three key takeaways",
-   "summary": "The money expert appeared disappointed by ‘no news’ on some issues – but was ‘delighted’ by one announcement",
-   "url": "https://www.independent.co.uk/news/uk/politics/martin-lewis-on-budget-healey-income-tax-isa-changes-b3075355.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-29T06:22:19+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "716e879b83b7b201",
    "title": "John Oxley: Low wages may be rising but wage compression is the problem everyone ignores",
    "summary": "Successive Chancellors have raised the floor of what people can earn – Conservative ones included. That has done well for the lowest-paid, but combined with stagnating productivity, those above have been compressed. Middle and higher wages have struggled and household disposable income has barely…",
@@ -536,8 +1137,8 @@
   },
   {
    "id": "b3fd096e5b7b6ea0",
-   "title": "Haulier blames fuel prices for diesel theft",
-   "summary": "Martin Pinches said someone had stolen 400 litres of diesel from two of his lorries",
+   "title": "Fuel is now liquid gold, haulier says after theft",
+   "summary": "The fuel was stolen from two vehicles at the weekend, the director of M Pinches & Sons Ltd said.",
    "url": "https://www.bbc.co.uk/news/articles/ck9qzdwjp03lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
@@ -570,8 +1171,8 @@
   },
   {
    "id": "2ac9adf470a600ba",
-   "title": "Voters welcome Budget energy measures, but demand more action on cost of living – poll",
-   "summary": "Voters welcome the government’s energy bill support, but think more needs to be done at pace to help… The post Voters welcome Budget energy measures, but demand more action on cost of living – poll appeared first on LabourList .",
+   "title": "Voters welcome Budget energy measures, but demand more action on cost of living",
+   "summary": "Voters welcome the government’s energy bill support, but think more needs to be done at pace to help… The post Voters welcome Budget energy measures, but demand more action on cost of living appeared first on LabourList .",
    "url": "https://labourlist.org/2026/10/budget-voters-poll-survation/",
    "source": "LabourList",
    "group": "Party voices",
@@ -634,26 +1235,6 @@
    "dateonly": false,
    "parties": [],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d7de17be8eaff5b6",
-   "title": "Healey promises reduction in welfare bill before next election",
-   "summary": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
-   "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-29T05:57:01+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Elections"
-   ],
    "tax": [],
    "countries": []
   },
@@ -743,25 +1324,6 @@
    "countries": []
   },
   {
-   "id": "8a82194b71cd6d38",
-   "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-   "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-   "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-29T00:00:25+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Fuel and duties"
-   ],
-   "countries": []
-  },
-  {
    "id": "d9726a95c8f60628",
    "title": "US makes interest rate decision - as Bank of England verdict looms",
    "summary": "The Federal Reserve has left interest rates unchanged - despite persistently high inflation and repeated calls from Donald Trump to lower borrowing costs.",
@@ -780,23 +1342,6 @@
    "countries": [
     "United States"
    ]
-  },
-  {
-   "id": "0dfb25b8c70ce04e",
-   "title": "Autumn Budget 2026: A summary",
-   "summary": "The Chancellor presented his 2026 Budget to the Commons on 28 October, and the Office for Budget Responsibility published updated forecasts for the economy and public finances for the next five years.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12252/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-28T23:50:59+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "0a2d810ff23ad192",
@@ -1233,24 +1778,6 @@
    "countries": []
   },
   {
-   "id": "5b92070f6b03c0a0",
-   "title": "Healey warned of ‘grim’ squeeze on households despite £100 Budget energy bill help for poorest",
-   "summary": "Economists warned Healey’s first budget offered only a ‘raft of fiddly measures but very little that will move the dial on growth’",
-   "url": "https://www.independent.co.uk/news/uk/politics/budget-john-healey-tax-pensions-energy-bill-help-burnham-b3075042.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-28T18:16:41+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "e1f75c9ea9c4bcab",
    "title": "Tax thresholds remain unchanged - here's what it means for your pay",
    "summary": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
@@ -1401,7 +1928,7 @@
    "group": "Government",
    "kind": "policy_paper",
    "party_voice": "",
-   "published": "2026-10-28T18:03:09Z",
+   "published": "2026-10-28T18:03:00Z",
    "parties": [],
    "topics": [],
    "tax": [
@@ -4582,6 +5109,23 @@
    "topics": [
     "Tax and spending",
     "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5760244bcea852e9",
+   "title": "Autumn Budget 2026: initial response",
+   "summary": "",
+   "url": "https://ifs.org.uk/articles/autumn-budget-2026-initial-response",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-28T00:00:00+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
    ],
    "tax": [],
    "countries": []
@@ -14925,565 +15469,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "18342e179d45debb",
-   "title": "Google resolves cloud outage affecting UK banks and websites",
-   "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-   "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T18:03:19+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b52fb67e79ab8a06",
-   "title": "Farage vows to scrap tax on armed forces reserves",
-   "summary": "A large group of protesters turned up outside the Reform UK rally in Plymouth with Nigel Farage.",
-   "url": "https://www.bbc.co.uk/news/articles/cvwy788ee34xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T17:59:23+00:00",
-   "dateonly": false,
-   "parties": [
-    "Reform UK"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Defence"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "73216ba33d8aa0b6",
-   "title": "UK gas field set to be approved after years of uncertainty",
-   "summary": "The controversial Jackdaw gas field is expected to receive approval from energy secretary Miatta Fahnbulleh today.",
-   "url": "https://news.sky.com/story/controversial-jackdaw-gas-field-expected-to-be-approved-13601501",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T17:56:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e5b5fa653c742bd3",
-   "title": "Two men re-arrested on suspicion of aiding Iran over RAF Fairford incident",
-   "summary": "Counter-terrorism police say 24 and 25-year-old from central London detained under 2023 National Security Act Counter-terrorism police have re-arrested two men from central London accused of helping Iranian intelligence as part of the investigation into events at RAF Fairford last month. A…",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/20/two-men-re-arrested-on-suspicion-of-aiding-iran-over-raf-fairford-incident",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T17:54:11+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "c87512b627cbb9bd",
-   "title": "UK government to make Jackdaw gas field announcement",
-   "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
-   "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T17:33:42+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "71b9064e781a4632",
-   "title": "Employment in the UK: Economic indicators",
-   "summary": "Employment data tells us about the strength of the labour market. Find the latest data on UK employment levels and rates.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02796/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-20T17:20:02+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "027980390d7e6ec2",
-   "title": "Nige seems tired and bored of himself as Kemi conjures a telepathic budget | John Crace",
-   "summary": "The Tory leader has glimpsed the future and it involves Labour putting every last UK citizen on benefits If you’re worried about next week’s budget, then now is your time to chill out. Because Kemi Badenoch has all the answers. The chancellor, John Healey, has been living rent free in the leader of…",
-   "url": "https://www.theguardian.com/politics/2026/oct/20/nigel-farage-tired-bored-kemi-badenoch-conjures-telepathic-budget",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T16:56:33+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Party leadership",
-    "Housing"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c949915ebbb0d6f7",
-   "title": "Covid inquiry report shows why culture of care workers being undervalued must end, says Andy Burnham – as it happened",
-   "summary": "The prime minister endorses report that says the adult social care sector has been under-recognised Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, enterprise. Britain’s tax burden…",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T16:40:46+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Party leadership",
-    "NHS and care"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f421b32e188e7198",
-   "title": "Government revenues from UK oil and gas production: October 2026",
-   "summary": "Government revenues from oil and gas production, including payments and repayments of offshore Corporation Tax, Supplementary Charge, Energy Profits Levy and Petroleum Revenue Tax.",
-   "url": "https://www.gov.uk/government/statistics/announcements/government-revenues-from-uk-oil-and-gas-production-october-2026",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "national_statistics_announcement",
-   "party_voice": "",
-   "published": "2026-10-20T16:08:24Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Corporation tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "a5688ef2959f6865",
-   "title": "Reform leader accuses MSP of 'squatting' in seat after resignation",
-   "summary": "Malcolm Offord says he is 'disappointed' at Amanda Bland's decision to leave the party and sit as an independent.",
-   "url": "https://www.bbc.co.uk/news/articles/c674p99x7ngpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T15:57:07+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ece38309c00fdfac",
-   "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-   "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
-   "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T15:53:13+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b96e14550014834f",
-   "title": "David Sturrock reappointed as Economic Adviser to the Chancellor",
-   "summary": "David Sturrock has been reappointed as Economic Adviser to the Chancellor of the Exchequer.",
-   "url": "https://www.gov.uk/government/news/david-sturrock-reappointed-as-economic-adviser-to-the-chancellor",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "news_story",
-   "party_voice": "",
-   "published": "2026-10-20T15:48:30Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "bf6afb1857e8710e",
-   "title": "Blow for Farage as Reform UK stuck in third place in polls as he is booed in Plymouth",
-   "summary": "The Reform UK leader was booed for mistaking Plymouth for Portsmouth at a rally as a YouGov poll put his party behind the Tories for a second week in a row after damaging revelations",
-   "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-latest-poll-yougov-labour-tories-b3069729.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T15:38:19+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative",
-    "Reform UK"
-   ],
-   "topics": [
-    "Elections",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "98b64ff3843e9299",
-   "title": "Is the minimum wage to blame for falling youth employment?",
-   "summary": "This blog was originaly published on the Resolution Foundation’s Substack. Once a year the Low Pay Commission (LPC) assemble in their Canary Wharf office to decide the following year’s minimum wage rates. I went along to share my thoughts on falling youth employment. I said that we can’t…",
-   "url": "https://www.resolutionfoundation.org/comment/is-the-minimum-wage-to-blame-for-falling-youth-employment/",
-   "source": "Resolution Foundation",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-20T15:36:35+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "55520c5a4fbed1e3",
-   "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
-   "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
-   "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T15:32:36+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "NHS and care",
-    "Housing"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "dec398b21a846198",
-   "title": "Burnham government ‘not working for the economy’, PM’s former advisor warns",
-   "summary": "Andy Haldane calls on PM and chancellor to restrict spending and not to raise taxes on already-struggling households or on businesses",
-   "url": "https://www.independent.co.uk/news/uk/politics/budget-uk-economy-tax-rises-burnham-andy-haldane-b3069988.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T15:16:01+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fb382ed80a996640",
-   "title": "Union attacks NatWest plans to get workers back to the office",
-   "summary": "The bank says workers will be required to attend the office at least two days a week from February.",
-   "url": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T14:50:19+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "6e86be64e14f6646",
-   "title": "Labour will not have the courage to cut spending, says Badenoch",
-   "summary": "Speaking ahead of next week's Budget, the Conservative leader says her party would make £70bn of cuts.",
-   "url": "https://www.bbc.co.uk/news/articles/cry835v68dq9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T14:46:46+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4bbf6534a44b2591",
-   "title": "Drivers set to get new rights to challenge 'rip-off' private parking fines",
-   "summary": "Drivers are set to receive new rights to stand up to unfair private parking fines, the government has announced.",
-   "url": "https://news.sky.com/story/drivers-set-to-get-new-rights-to-challenge-rip-off-private-parking-fines-13601387",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-20T14:21:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c11a44bcfdf65618",
-   "title": "Youth unemployment statistics",
-   "summary": "This briefing presents the latest statistics on youth unemployment in the UK as well as comparisons with other OECD countries.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/sn05871/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-20T14:03:18+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "81ae1830c7b8481d",
-   "title": "Marco Fawcett: The Conservative Party must offer young people more than nostalgia",
-   "summary": "The question, therefore, is not whether the Conservative Party possesses a distinguished inheritance. That is scarcely in doubt. It is whether that inheritance can be made meaningful to a generation which must concern itself rather more with the prospects of its own future than with the glories of…",
-   "url": "https://conservativehome.com/2026/10/20/marco-fawcett-the-conservative-party-must-offer-young-people-more-than-nostalgia/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-20T14:00:05+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "9e33810c58360dc3",
-   "title": "NHS doctors call government’s proposed pay rise ‘derisory’ and mull further strikes",
-   "summary": "The British Medical Association (BMA) described the figure as a ‘pay cut’",
-   "url": "https://www.independent.co.uk/news/uk/home-news/nhs-doctor-pay-rise-labour-government-bma-b3069971.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T13:59:26+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy",
-    "NHS and care"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7e6cefb920a5839c",
-   "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-   "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
-   "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T13:54:35+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Defence"
-   ],
-   "tax": [],
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "7dd41fd913485e40",
-   "title": "Unemployment in the UK: Economic indicators",
-   "summary": "Unemployment data tells us about the strength of the labour market. Find the latest data on UK unemployment levels and rates.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02797/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-20T13:23:44+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3a8e7fc997f90f75",
-   "title": "UK fighter jets to help defend Saudi Arabia against attacks from Iran-backed Houthis",
-   "summary": "The UK will fly defensive counter air missions using RAF Typhoon fighter jets to support the protection of Saudi cities and critical national infrastructure",
-   "url": "https://www.independent.co.uk/news/uk/politics/uk-jets-saudi-arabia-iran-houthi-attacks-latest-b3069818.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T13:23:01+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "9f1e9071ed684689",
-   "title": "How does the Commonwealth respond to human rights concerns?",
-   "summary": "The Commonwealth funds human rights work, observes elections, and can suspend its members. Challenges include democracy and LGBT+ rights.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9492/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-20T13:13:42+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f6da610b682d3750",
-   "title": "UK labour market statistics",
-   "summary": "This paper provides the latest statistics and analysis of employment, unemployment, economic inactivity and earnings in the UK.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9366/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-20T13:12:02+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ae0209615985f258",
-   "title": "UK poll tracker: Reform still behind Conservatives as Labour’s lead grows",
-   "summary": "Labour continues to see rising approval under the leadership of Andy Burnham",
-   "url": "https://www.independent.co.uk/news/uk/politics/uk-poll-tracker-labour-reform-conservatives-election-b3069794.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T12:58:01+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
-   "topics": [
-    "Elections",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "273444543377b8c0",
-   "title": "Burnham risks wrath of Commons Speaker for talking too much at PMQs",
-   "summary": "The prime minister takes longer than his predecessors to respond to questions from MPs, writes Matt Chorley.",
-   "url": "https://www.bbc.co.uk/news/articles/crvg6qjw6dz5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T12:54:43+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "14dddcbd9c70e8b1",
-   "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-   "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
-   "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T12:36:43+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
-   "id": "8cd12874bb3f9814",
-   "title": "Jonathan Eida: This is the real cost of Britain’s welfare bill",
-   "summary": "As always, the correct answer to resolving this issue lies in both a carrot and stick approach. Welfare is too easy to claim and creates too much dependency. There are too many incentives to remain out of work. The post Jonathan Eida: This is the real cost of Britain’s welfare bill appeared first…",
-   "url": "https://conservativehome.com/2026/10/20/jonathan-eida-this-is-the-real-cost-of-britains-welfare-bill/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-20T12:00:28+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15505,42 +15490,42 @@
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 6,
+   "new": 5,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 5,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15561,7 +15546,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -16293,7 +16278,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133202,
+   "signatures": 133246,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16302,7 +16287,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 121084,
+   "signatures": 121163,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16311,7 +16296,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 109816,
+   "signatures": 110070,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16320,7 +16305,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85593,
+   "signatures": 85652,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16329,7 +16314,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78693,
+   "signatures": 78728,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16338,7 +16323,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 73318,
+   "signatures": 73395,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16347,7 +16332,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55525,
+   "signatures": 55526,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16356,7 +16341,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 54705,
+   "signatures": 54754,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16365,7 +16350,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50491,
+   "signatures": 50499,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16374,7 +16359,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45890,
+   "signatures": 45918,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16383,7 +16368,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44787,
+   "signatures": 44792,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": false,
    "debate": false,
@@ -16392,7 +16377,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41819,
+   "signatures": 41956,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
