@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T06:21:06.111728+00:00",
+ "updated": "2026-10-29T07:20:50.983367+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,8 +10,85 @@
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
-   "published": "2026-10-29T06:21:06.111728+00:00",
+   "published": "2026-10-29T07:20:50.983367+00:00",
    "dateonly": true,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8669cd585fb815a8",
+   "title": "Healey’s Budget was utterly unremarkable",
+   "summary": "And yet, if yesterday’s dealings were anything to go by, it appears as though that promise has been broken. Because what we saw yesterday was not a break from the past, but merely a continuation of it. The Tories have been criticised for labelling Andy Burnham as ‘Keir Starmer 2.0’, but maybe they…",
+   "url": "https://conservativehome.com/2026/10/29/healeys-budget-was-utterly-unremarkable/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-29T07:00:16+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b52f2ee8c4fc3c1b",
+   "title": "Chancellor says government has 'moral duty' to help young people out of work",
+   "summary": "Chancellor John Healey says any cuts to welfare will be done \"in a Labour way\".",
+   "url": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T06:56:58+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c00d8f0187dafac5",
+   "title": "Bob Seely: Ukraine, the Budget and Russian missiles",
+   "summary": "It is rare in our history that such an obvious threat to us and our European allies has been met with such a reluctance to face that threat. Instead of growing to the task, our Government continues to shrink from it, and the missiles keep raining down in Kyiv. The post Bob Seely: Ukraine, the…",
+   "url": "https://conservativehome.com/2026/10/29/bob-seely-ukraine-the-budget-and-russian-missiles/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-29T06:30:39+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "7e77611501fd402f",
+   "title": "'We need help for small businesses, not punishment'",
+   "summary": "People in Bilston react to the new Budget set out by Chancellor John Healey.",
+   "url": "https://www.bbc.co.uk/news/articles/c6kglwxplv1zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T06:27:28+00:00",
+   "dateonly": false,
    "parties": [],
    "topics": [
     "Tax and spending"
@@ -15400,77 +15477,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "f0ab58fba13812d8",
-   "title": "Ex-Greens co-leader urges council groups to reject Zionism policy",
-   "summary": "Exclusive: Adrian Ramsay calls conference motion a distraction and says councillors should maintain coalitions where possible UK politics live – latest updates Adrian Ramsay, the former co-leader of the Greens, has urged his party’s councillors to reject the newly adopted “Zionism is racism” motion…",
-   "url": "https://www.theguardian.com/politics/2026/oct/20/greens-adrian-ramsay-council-groups-reject-zionism-racism-policy",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T08:55:36+00:00",
-   "dateonly": false,
-   "parties": [
-    "Green Party"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b5697eed487540ca",
-   "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-   "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
-   "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T08:55:02+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "26bb927e4cb7d331",
-   "title": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
-   "summary": "Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’ Business live – news updates Healey to reject calls to raise CGT in budget Unemployment in the UK has fallen unexpectedly in the final snapshot of the jobs market before John…",
-   "url": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-20T08:39:27+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3bee3908f136c701",
-   "title": "5. Returns",
-   "summary": "Your responsibilities when submitting returns.",
-   "url": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook/5-returns",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual_section",
-   "party_voice": "",
-   "published": "2026-10-20T08:24:26Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15478,14 +15484,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
@@ -15506,7 +15512,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
@@ -15527,7 +15533,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -16280,7 +16286,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133145,
+   "signatures": 133149,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16289,7 +16295,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 121005,
+   "signatures": 121014,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16298,7 +16304,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 109527,
+   "signatures": 109589,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16307,7 +16313,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85543,
+   "signatures": 85557,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16316,7 +16322,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78636,
+   "signatures": 78645,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16325,7 +16331,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 73200,
+   "signatures": 73210,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16334,7 +16340,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55522,
+   "signatures": 55523,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16343,7 +16349,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 54611,
+   "signatures": 54632,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16361,7 +16367,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45859,
+   "signatures": 45861,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16379,7 +16385,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 41666,
+   "signatures": 41693,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
