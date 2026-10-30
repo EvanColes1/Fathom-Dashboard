@@ -1,7 +1,104 @@
 {
- "updated": "2026-10-30T07:20:15.349669+00:00",
+ "updated": "2026-10-30T10:07:31.046756+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "458458a13522b6b5",
+   "title": "Burnham and Healey clash yet again on Brexit",
+   "summary": "The prime minister has admitted he wants to see Britain rejoin the European Union in his lifetime – but his chancellor is not so sure",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-john-healey-brexit-clash-eu-b3076210.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T10:05:15+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "21860022f5809096",
+   "title": "Burnham says he wants to offer more ‘regional empowerment’ ahead of devolution summit – UK politics live",
+   "summary": "Prime minister in Glasgow to meet with Scottish and Welsh leaders to talk about ‘next stage of devolution’ Wes Streeting, the defence secretary, was on the interview round this morning, announcing a new aspect of defence procurement policy. The Ministry of Defence is now saying that, if overseas…",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T10:01:27+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "451e173e4c25b994",
+   "title": "Healey’s budget cuts mean Britain is likely to miss green heating targets",
+   "summary": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defence Britain is unlikely to hit its targets on green heating after the cuts announced by John Healey this week, experts have warned, as critics of Ed Miliband claim the former energy secretary’s…",
+   "url": "https://www.theguardian.com/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T10:00:50+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Energy bills",
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "afac7849384a7fae",
+   "title": "Burnham admits first Budget was not as radical as he wanted",
+   "summary": "The prime minister has spoken to ITV about his first 100 days in office",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-budget-100-days-prime-minister-b3076224.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T09:47:45+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d05959faa324fae3",
+   "title": "Refunds of UK VAT for non-UK businesses (VAT Notice 723A)",
+   "summary": "How to claim a VAT refund in the UK if you're established outside the UK.",
+   "url": "https://www.gov.uk/guidance/refunds-of-uk-vat-for-non-uk-businesses-or-eu-vat-for-uk-businesses",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-10-30T09:37:34Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "VAT"
+   ],
+   "countries": []
+  },
   {
    "id": "1b2161d396cad67d",
    "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
@@ -10,7 +107,7 @@
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-30T07:16:05+00:00",
+   "published": "2026-10-30T09:33:51+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -18,6 +115,122 @@
    "countries": [
     "North Korea"
    ]
+  },
+  {
+   "id": "f8e3984ac265eeac",
+   "title": "Monthly property transactions completed in the UK with value of £40,000 or above",
+   "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
+   "url": "https://www.gov.uk/government/statistics/monthly-property-transactions-completed-in-the-uk-with-value-40000-or-above",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "national_statistics",
+   "party_voice": "",
+   "published": "2026-10-30T09:30:02Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "38c7a7b57641889d",
+   "title": "Prohibition of promotion of certain tax avoidance arrangements",
+   "summary": "HMRC guidance on sections 159 to 165 of the Finance Act 2026 to introduce new rules that prohibit the promotion of certain tax avoidance arrangements (POP).",
+   "url": "https://www.gov.uk/government/publications/prohibition-of-promotion-of-certain-tax-avoidance-arrangements",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "policy_paper",
+   "party_voice": "",
+   "published": "2026-10-30T09:00:00Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "09005c7fe3d96626",
+   "title": "Andy Burnham admits he would have liked more radical first budget",
+   "summary": "Prime minister says room for manoeuvre was limited by geopolitical crises and Labour’s 2024 manifesto Andy Burnham has admitted his first budget as prime minister was not as radical as he would have liked because of the economic uncertainty facing the country. He said he would have liked to have…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/30/andy-burnham-first-budget-labour-welfare",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T08:53:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2facbc1690e8f70b",
+   "title": "Foreign defence contractors will need to invest in UK under new rules",
+   "summary": "Foreign firms awarded large defence contracts will need to invest an equal value back into the UK, Wes Streeting announces.",
+   "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T08:27:19+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cdf11976a4aa916a",
+   "title": "Beach volleyball in Morecambe Bay? An Olympics of the north sounds like a winner | Emma John",
+   "summary": "Our sport-loving PM is willing to risk a bitter north v south furore, all for the sake of table tennis in Teesside As someone who barely understands their own finances, let alone the country’s, I will admit that budget day doesn’t always register with me. Perhaps if there were outre outfits or…",
+   "url": "https://www.theguardian.com/sport/2026/oct/30/beach-volleyball-morecambe-bay-olympics-of-the-north-andy-burnham",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T08:00:49+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "025884c1d351a915",
+   "title": "Yorkshire Water boss resigns after firm downgraded",
+   "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-30T07:54:08+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fa2f4ae7d8433c7a",
+   "title": "How video game remakes tap the power of nostalgia",
+   "summary": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-30T07:45:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
   },
   {
    "id": "6b630e245e08fc94",
@@ -32,6 +245,25 @@
    "parties": [],
    "topics": [
     "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "acf2e83163c7a67a",
+   "title": "Roll up, roll up, roll up your sleeves would-be candidates – it’s the next batch of seats up for selection",
+   "summary": "Early election speculation has put an urgency into candidate selection - so once again it's time to list Conservative selections advertised in the third tranche of seats, and take a look at the constituencies and the current state of play. The post Roll up, roll up, roll up your sleeves would-be…",
+   "url": "https://conservativehome.com/2026/10/30/roll-up-roll-up-roll-up-your-sleaves-would-be-candidates-its-the-next-batch-of-seats-up-for-selection/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-30T07:00:39+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Elections"
    ],
    "tax": [],
    "countries": []
@@ -54,6 +286,40 @@
    "countries": []
   },
   {
+   "id": "0bb3252bda988a0a",
+   "title": "Sarah Ingham: Is Britain ready for emergency?",
+   "summary": "Apparently on the advice of national fire and rescue services, last August at around 7pm on a Friday Burnham’s unofficial deputy Louise Haigh triggered a national Emergency Alert. If a sceptical public suspects ministers are crying wolf, the Be Ready campaign won’t be worth a hill of non-perishable…",
+   "url": "https://conservativehome.com/2026/10/30/sarah-ingham-is-britain-ready-for-emergency/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-30T06:30:03+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3dd5bc357f0be073",
+   "title": "Conor Burns: Why are people obsessed with Badenoch’s heritage?",
+   "summary": "When a politician's ancestry is repeatedly introduced into arguments where it has little apparent relevance, it is reasonable to ask what purpose that emphasis serves. The post Conor Burns: Why are people obsessed with Badenoch’s heritage? appeared first on Conservative Home .",
+   "url": "https://conservativehome.com/2026/10/30/conor-burns-as-her-personal-popularity-rises-some-have-obsessed-over-badenochs-heritage-and-its-worth-asking-why/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-30T06:20:55+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "a3ed302919373f15",
    "title": "P&R urged to speed up review of relocation grants",
    "summary": "Forward Guernsey believes the allowance is putting pressure on rental prices.",
@@ -64,6 +330,24 @@
    "published": "2026-10-30T06:18:21+00:00",
    "dateonly": false,
    "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "51ff03f950a11088",
+   "title": "David Barton: How do we combat the Lib Dems?",
+   "summary": "Pursue your original campaign, keeping it positive yet constructive with action taken by yourself on things. The post David Barton: How do we combat the Lib Dems? appeared first on Conservative Home .",
+   "url": "https://conservativehome.com/2026/10/30/david-barton-how-do-we-combat-the-lib-dems/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-10-30T06:10:23+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative",
+    "Liberal Democrat"
+   ],
    "topics": [],
    "tax": [],
    "countries": []
@@ -251,7 +535,7 @@
   },
   {
    "id": "365dab95847d9bb7",
-   "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+   "title": "From Levi's to Primark - the fashion chains selling mended clothes",
    "summary": "A new generation is embracing eye-catching patching and visible mends.",
    "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -303,7 +587,7 @@
   },
   {
    "id": "c3c296345fb4ef57",
-   "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+   "title": "Google value plunges by $500bn as AI search hits ad sales",
    "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
    "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -469,6 +753,21 @@
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b93bb8f124a0f774",
+   "title": "What are the government's options for reducing welfare spending?",
+   "summary": "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it.",
+   "url": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T17:59:57+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -1345,7 +1644,7 @@
   },
   {
    "id": "f392c71366c02448",
-   "title": "Manosphere as bad as tobacco in terms of harm, report warns",
+   "title": "'Manosphere' as bad as tobacco for public health, report warns",
    "summary": "Social media \"manosphere\" communities should be treated as a public health issue, a new report says - comparing them to the tobacco industry.",
    "url": "https://news.sky.com/story/manosphere-content-poses-danger-to-public-similar-to-tobacco-report-warns-13605324",
    "source": "Sky News Politics",
@@ -15220,289 +15519,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "00de46d9fd2234c6",
-   "title": "Reva Gudi: Schools can’t do the parenting – it’s time we talked about parental responsibility again",
-   "summary": "A stronger approach would put families at the centre of prevention and protect and strengthen universal health visiting. It makes little sense to keep expanding schools' tasks that begin at home, while health visitors, who support parents of young children, are stretched so thin. The post Reva…",
-   "url": "https://conservativehome.com/2026/10/21/reva-gudi-schools-cant-do-the-parenting-its-time-we-talked-about-parental-responsibility-again/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-21T14:00:28+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b01dd7756ee2bc5b",
-   "title": "Find a charity in your constituency",
-   "summary": "View details of currently active charities whose registered address is within a given constituency.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10801/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-21T14:00:26+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "6f1e446367a57320",
-   "title": "How Jackdaw ignites row over climate and costs",
-   "summary": "How Jackdaw ignites arguments over climate and costs",
-   "url": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-21T13:46:34+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4167d34e55e21490",
-   "title": "Import Control System 2: service availability and issues",
-   "summary": "Check the availability and any issues affecting the Import Control System 2 (ICS2) service.",
-   "url": "https://www.gov.uk/government/publications/import-control-system-2-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-21T13:45:38Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d6cc927a2924abf1",
-   "title": "Andy Burnham warns Royal Mail to improve immediately or face government intervention",
-   "summary": "Andy Burnham said the postal service had been 'unacceptable for far too long' as it has struggled to meet its targets to deliver letters",
-   "url": "https://www.independent.co.uk/news/uk/home-news/royal-mail-delivery-delays-andy-burnham-post-b3070752.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-21T13:37:11+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3a4de486b577ead5",
-   "title": "Politics latest: Trump hails Burnham’s decision to approve Jackdaw gas drilling in North Sea",
-   "summary": "Miatta Fahnbulleh promises greater energy security but tells Britons not to expect lower bills this winter",
-   "url": "https://www.independent.co.uk/news/uk/politics/jackdaw-andy-burnham-pmqs-live-updates-b3070481.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-21T13:22:56+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "ed5d273ba56879cb",
-   "title": "Tories slam ‘unfair’ YouTube tax plan as millions abandon BBC licence fee",
-   "summary": "Exclusive: The Tories have broken their silence on plans to extend the licence fee to streaming services as data shows millions are planning to stop paying for the BBC",
-   "url": "https://www.independent.co.uk/news/uk/politics/tories-bbc-licence-fee-youtube-tax-b3070143.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-21T13:01:44+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Housing"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "cb04c47b2039263f",
-   "title": "Mapped: The British green belt ‘battlegrounds’ set to see the most new houses under Labour plans",
-   "summary": "Ministers revealed earlier this year that green belt land will developed on ‘in exceptional circumstances’",
-   "url": "https://www.independent.co.uk/news/uk/home-news/green-belt-house-building-uk-labour-planning-towns-b3070524.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-21T12:53:33+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3484d9bb35439040",
-   "title": "Online gambling group BetGoodwin eyes punt on £80m London float",
-   "summary": "The father-and-son team who control BetGoodwin, an online sports betting and casino operator, have begun plotting a London stock market listing even as their peers intensify warnings over tax rises in next week's budget.",
-   "url": "https://news.sky.com/story/online-gambling-group-betgoodwin-eyes-punt-on-80m-london-float-13601905",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-21T12:36:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "53a94fc1957aa556",
-   "title": "Agricultural funding for farmers, growers and land managers in England",
-   "summary": "Farm funding from the government is available through the Environmental Land Management (ELM) schemes and grants supporting areas such as innovation, technology and animal welfare.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10952/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-21T12:24:48+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "5bb7db3ecbd997e6",
-   "title": "The hidden problem behind UK job vacancies hitting a five-year low",
-   "summary": "Small business owners call for help from the Chancellor",
-   "url": "https://www.independent.co.uk/news/business/uk-jobs-employment-tax-national-insurance-economy-b3070620.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-21T12:23:06+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e36249cbf37a4a40",
-   "title": "£16 billion productivity boost delivers better value and better services for taxpayers",
-   "summary": "£16 billion in efficiency and savings were delivered last year as government departments significantly outperformed their efficiency target.",
-   "url": "https://www.gov.uk/government/news/16-billion-productivity-boost-delivers-better-value-and-better-services-for-taxpayers",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "news_story",
-   "party_voice": "",
-   "published": "2026-10-21T12:21:11Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "77e81d36a4a05a60",
-   "title": "Who are the losers from the budget?",
-   "summary": "👉Listen to Politics at Sam and Anne's on your podcast app👈",
-   "url": "https://news.sky.com/story/who-are-the-losers-from-the-budget-13601894",
-   "source": "Sky News Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-21T12:05:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d1ebdfb3f2409e3c",
-   "title": "Alison Rodwell: Conservatives must prepare now for a state that does fewer things, and does them well",
-   "summary": "The question is not whether change is possible, but whether we are prepared to do the difficult work to make it happen. For Conservatives, that work must begin in opposition. The prize is a state that works better, costs less and serves us all. A state that works for us. The post Alison Rodwell:…",
-   "url": "https://conservativehome.com/2026/10/21/alison-rodwell-conservatives-must-prepare-now-for-a-state-that-does-fewer-things-and-does-them-well/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-21T12:00:33+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7be56acc3a67661c",
-   "title": "Employment related securities: enquiries",
-   "summary": "Contact HMRC with enquiries about employer share schemes.",
-   "url": "https://www.gov.uk/find-hmrc-contacts/employment-related-securities-enquiries",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "hmrc_contact",
-   "party_voice": "",
-   "published": "2026-10-21T11:57:29Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "0cf84ce706a11c91",
-   "title": "PMQs: Kemi Badenoch says the Tories are the party that ‘live in the real world’",
-   "summary": "The post PMQs: Kemi Badenoch says the Tories are the party that ‘live in the real world’ appeared first on Conservative Home .",
-   "url": "https://conservativehome.com/2026/10/21/pmqs-kemi-badenoch-says-the-tories-are-the-party-that-live-in-the-real-world/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-21T11:29:34+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4bf47310b4e7e44b",
-   "title": "Council Tax: challenges and changes in England and Wales, March 2026",
-   "summary": "Statistics on challenges against the England and Wales Council Tax valuation lists between 1 April 2025 and 31 March 2026.",
-   "url": "https://www.gov.uk/government/statistics/announcements/council-tax-challenges-and-changes-in-england-and-wales-march-2026",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "official_statistics_announcement",
-   "party_voice": "",
-   "published": "2026-10-21T11:29:16Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Elections"
-   ],
-   "tax": [
-    "Council tax"
-   ],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15510,14 +15526,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 4,
    "note": ""
   },
   {
@@ -15531,14 +15547,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
@@ -15551,9 +15567,9 @@
   {
    "name": "ConservativeHome",
    "group": "Party voices",
-   "ok": false,
-   "new": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://conservativehome.com/feed/"
+   "ok": true,
+   "new": 4,
+   "note": ""
   },
   {
    "name": "LabourList",
@@ -16204,7 +16220,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133462,
+   "signatures": 133503,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16213,7 +16229,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 123163,
+   "signatures": 123730,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16222,7 +16238,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 110712,
+   "signatures": 110811,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16231,7 +16247,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86004,
+   "signatures": 86045,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16240,7 +16256,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78824,
+   "signatures": 78849,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16249,7 +16265,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 73585,
+   "signatures": 73616,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16258,7 +16274,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55539,
+   "signatures": 55542,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16267,7 +16283,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55035,
+   "signatures": 55071,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16276,34 +16292,34 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50523,
+   "signatures": 50526,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/763721"
   },
   {
-   "id": 779519,
-   "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45999,
-   "created": "2026-08-13T09:04:39.266Z",
-   "responded": true,
-   "debate": false,
-   "url": "https://petition.parliament.uk/petitions/779519"
-  },
-  {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 45571,
+   "signatures": 48190,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/783252"
   },
   {
+   "id": 779519,
+   "title": "Reduce the retirement age for the NHS pension scheme to 60",
+   "signatures": 46016,
+   "created": "2026-08-13T09:04:39.266Z",
+   "responded": true,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/779519"
+  },
+  {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44830,
+   "signatures": 44841,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
@@ -16893,7 +16909,7 @@
      "v": 3.75
     },
     {
-     "d": "2026-10-28",
+     "d": "2026-10-29",
      "v": 3.75
     }
    ],
