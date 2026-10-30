@@ -1,7 +1,111 @@
 {
- "updated": "2026-10-29T21:58:17.295944+00:00",
+ "updated": "2026-10-30T01:21:44.467016+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "1b2161d396cad67d",
+   "title": "Crypto worth billions frozen after suspected Binance hack",
+   "summary": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
+   "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-30T01:20:57+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "68b747bb9388d331",
+   "title": "Combating UK obesity crisis should be your 'personal mission', MPs tell Burnham",
+   "summary": "The Commons Health and Social Care Committee said that it has ‘no faith’ ministers will deliver on the plans to combat obesity in the UK",
+   "url": "https://www.independent.co.uk/news/uk/politics/obesity-uk-government-mps-layla-moran-b3075733.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T00:01:58+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b0505b05f8298007",
+   "title": "Defence contracts to prioritise British jobs and skills",
+   "summary": "Overseas firms winning UK defence contracts to be required to invest benefits back into the UK under new Offsets policy.",
+   "url": "https://www.gov.uk/government/news/defence-contracts-to-prioritise-british-jobs-and-skills",
+   "source": "MOD",
+   "group": "Government",
+   "kind": "press_release",
+   "party_voice": "",
+   "published": "2026-10-30T00:01:00Z",
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "365dab95847d9bb7",
+   "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+   "summary": "A new generation is embracing eye-catching patching and visible mends.",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-30T00:00:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c9a093530444bf49",
+   "title": "'It looks like a hack': Crypto worth billion stolen from exchange",
+   "summary": "Cryptocurrency worth billions of dollars has been stolen from a major exchange - in what experts have described as \"the largest bank heist in human history\".",
+   "url": "https://news.sky.com/story/crypto-worth-billions-frozen-over-potential-security-issue-13605627",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-29T23:40:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2d21d5ddd83bd9cc",
+   "title": "Reeves urges EU to ‘act now’ and seize £175bn of Russian assets to protect Ukraine",
+   "summary": "The former chancellor said Brussels must act now in her first major intervention since leaving government",
+   "url": "https://www.independent.co.uk/news/uk/politics/rachel-reeves-ukraine-russian-assets-eu-b3076054.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T22:35:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "Belgium"
+   ]
+  },
   {
    "id": "c3c296345fb4ef57",
    "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
@@ -10,7 +114,7 @@
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-29T21:52:13+00:00",
+   "published": "2026-10-29T22:17:52+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -19,7 +123,7 @@
   },
   {
    "id": "8077a0eb45ccb889",
-   "title": "Healey backs away from cutting welfare cost despite warnings of public finance shortfall",
+   "title": "Healey backs away from cutting welfare cost amid warnings of public finance shortfall",
    "summary": "Experts round on chancellor over ‘scattergun’ budget, saying he ducked big tax and spending decisions John Healey has backed away from cutting the cost of welfare this parliament, amid dire warnings his first budget could lead to brutal spending cuts because of a £28bn shortfall in public finances.…",
    "url": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall",
    "source": "Guardian Politics",
@@ -2735,8 +2839,8 @@
    "title": "Tax thresholds remain unchanged - here's what it means for your pay",
    "summary": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
    "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-28T18:12:24+00:00",
    "dateonly": false,
@@ -3654,8 +3758,8 @@
    "title": "Budget 2026: Key points at a glance",
    "summary": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-28T16:55:27+00:00",
    "dateonly": false,
@@ -15393,96 +15497,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "479ff2237bb37147",
-   "title": "Rating Manual section 2: valuation principles",
-   "summary": "The Valuation Office's technical manual for the rating of business (non-domestic) property.",
-   "url": "https://www.gov.uk/guidance/rating-manual-section-2-maintaining-the-rating-list",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual",
-   "party_voice": "",
-   "published": "2026-10-21T09:18:13Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "9236e5f592ad536f",
-   "title": "Part 1: Rateable occupation",
-   "summary": "The Valuation Office's technical manual for the rating of business (non-domestic) property.",
-   "url": "https://www.gov.uk/guidance/rating-manual-section-2-maintaining-the-rating-list/part-1-rateable-occupation",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual_section",
-   "party_voice": "",
-   "published": "2026-10-21T09:18:13Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "9894f047288211e7",
-   "title": "Part 6: Exemptions — Part A: property used for disabled persons",
-   "summary": "The Valuation Office's technical manual for the rating of business (non-domestic) property.",
-   "url": "https://www.gov.uk/guidance/rating-manual-section-2-maintaining-the-rating-list/part-6-exemptions-part-a-property-used-for-disabled-persons",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual_section",
-   "party_voice": "",
-   "published": "2026-10-21T09:18:13Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "903d46ddbfaa302f",
-   "title": "Flood risk management and funding",
-   "summary": "This briefing paper provides an overview of flood and coastal risk management in the UK, including which bodies manage risk, current policy on flood risk management, and how flood funding works.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-7514/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-21T09:05:42+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "60bb768632a84ca5",
-   "title": "Employer Bulletin: October 2026",
-   "summary": "A bi-monthly magazine for employers and agents that gives up-to-date information on payroll topics.",
-   "url": "https://www.gov.uk/government/publications/employer-bulletin-october-2026",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-21T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2320e8b61d2c5409",
-   "title": "Bwletin y Cyflogwr CThEF",
-   "summary": "Gallwch ddod o hyd i’r wybodaeth ddiweddaraf am faterion y gyflogres i gyflogwyr ac asiantau yng nghylchgronau Bwletin y Cyflogwr.",
-   "url": "https://www.gov.uk/government/collections/bwletin-y-cyflogwr-cthef",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-10-21T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15497,7 +15511,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15511,21 +15525,21 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15711,114 +15725,6 @@
   }
  ],
  "elections": [
-  {
-   "id": "local.argyll-and-bute.2026-10-29",
-   "title": "Argyll and Bute local election",
-   "date": "2026-10-29",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "The Argyll and Bute Council"
-  },
-  {
-   "id": "local.argyll-and-bute.mid-argyll.by.2026-10-29",
-   "title": "Argyll and Bute local election Mid Argyll by-election",
-   "date": "2026-10-29",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "The Argyll and Bute Council"
-  },
-  {
-   "id": "local.bassetlaw.2026-10-29",
-   "title": "Bassetlaw local election",
-   "date": "2026-10-29",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Bassetlaw District Council"
-  },
-  {
-   "id": "local.bassetlaw.worksop-east.by.2026-10-29",
-   "title": "Bassetlaw local election Worksop East by-election",
-   "date": "2026-10-29",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Bassetlaw District Council"
-  },
-  {
-   "id": "local.dudley.2026-10-29",
-   "title": "Dudley local election",
-   "date": "2026-10-29",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Dudley Metropolitan Borough Council"
-  },
-  {
-   "id": "local.dudley.st-jamess.by.2026-10-29",
-   "title": "Dudley local election St. James's by-election",
-   "date": "2026-10-29",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Dudley Metropolitan Borough Council"
-  },
-  {
-   "id": "local.halton.2026-10-29",
-   "title": "Halton local election",
-   "date": "2026-10-29",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Halton Borough Council"
-  },
-  {
-   "id": "local.halton.beechwood-heath.by.2026-10-29",
-   "title": "Halton local election Beechwood & Heath by-election",
-   "date": "2026-10-29",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Halton Borough Council"
-  },
-  {
-   "id": "local.newark-and-sherwood.2026-10-29",
-   "title": "Newark and Sherwood local election",
-   "date": "2026-10-29",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Newark and Sherwood District Council"
-  },
-  {
-   "id": "local.newark-and-sherwood.dover-beck.by.2026-10-29",
-   "title": "Newark and Sherwood local election Dover Beck by-election",
-   "date": "2026-10-29",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Newark and Sherwood District Council"
-  },
-  {
-   "id": "local.nottinghamshire.2026-10-29",
-   "title": "Nottinghamshire local election",
-   "date": "2026-10-29",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Nottinghamshire County Council"
-  },
-  {
-   "id": "local.nottinghamshire.southwell.by.2026-10-29",
-   "title": "Nottinghamshire local election Southwell by-election",
-   "date": "2026-10-29",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Nottinghamshire County Council"
-  },
   {
    "id": "local.bournemouth-christchurch-and-poole.2026-11-05",
    "title": "Bournemouth, Christchurch and Poole local election",
@@ -16292,7 +16198,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133419,
+   "signatures": 133448,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16301,7 +16207,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 122480,
+   "signatures": 122887,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16310,7 +16216,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 110603,
+   "signatures": 110671,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16319,7 +16225,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85922,
+   "signatures": 85972,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16328,7 +16234,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78796,
+   "signatures": 78812,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16337,7 +16243,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 73547,
+   "signatures": 73572,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16346,7 +16252,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55532,
+   "signatures": 55534,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16355,7 +16261,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 54960,
+   "signatures": 55013,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16364,7 +16270,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50514,
+   "signatures": 50519,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16373,7 +16279,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45978,
+   "signatures": 45986,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16382,20 +16288,20 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44810,
+   "signatures": 44820,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/781598"
   },
   {
-   "id": 776949,
-   "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 42071,
-   "created": "2026-07-13T16:08:22.844Z",
-   "responded": true,
+   "id": 783252,
+   "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
+   "signatures": 44190,
+   "created": "2026-09-29T14:02:01.115Z",
+   "responded": false,
    "debate": false,
-   "url": "https://petition.parliament.uk/petitions/776949"
+   "url": "https://petition.parliament.uk/petitions/783252"
   }
  ],
  "indicators": [
