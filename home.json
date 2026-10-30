@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-30T01:21:44.467016+00:00",
+ "updated": "2026-10-30T04:04:59.917901+00:00",
  "government": "Labour",
  "articles": [
   {
    "id": "1b2161d396cad67d",
-   "title": "Crypto worth billions frozen after suspected Binance hack",
-   "summary": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
+   "title": "Binance says crypto worth $6.3bn impacted in suspected hack",
+   "summary": "The firm said roughly $3bn in assets have been frozen and that it will \"cover all losses\".",
    "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-10-30T01:20:57+00:00",
+   "published": "2026-10-30T03:34:55+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -71,8 +71,8 @@
   },
   {
    "id": "c9a093530444bf49",
-   "title": "'It looks like a hack': Crypto worth billion stolen from exchange",
-   "summary": "Cryptocurrency worth billions of dollars has been stolen from a major exchange - in what experts have described as \"the largest bank heist in human history\".",
+   "title": "Crypto industry suffers 'largest bank heist in human history'",
+   "summary": "Cryptocurrency worth more than $6.3bn (£4.7bn) has been stolen from a major exchange - with one industry insider telling Sky News it is \"the largest bank heist in human history\".",
    "url": "https://news.sky.com/story/crypto-worth-billions-frozen-over-potential-security-issue-13605627",
    "source": "Sky News Business",
    "group": "Economy news",
@@ -459,7 +459,7 @@
   },
   {
    "id": "15c7b2db1c670f07",
-   "title": "Google owner Alphabet suffers its worst-ever day on stock market - as value plunges $500bn",
+   "title": "Why Google stock has plunged $500bn in a single day",
    "summary": "Shares in Google's parent company Alphabet have suffered their worst-ever day on the US stock market, falling more than 12% and knocking around half a trillion dollars off its value.",
    "url": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428",
    "source": "Sky News Business",
@@ -1145,6 +1145,21 @@
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f392c71366c02448",
+   "title": "Manosphere as bad as tobacco in terms of harm, report warns",
+   "summary": "Social media \"manosphere\" communities should be treated as a public health issue, a new report says - comparing them to the tobacco industry.",
+   "url": "https://news.sky.com/story/manosphere-content-poses-danger-to-public-similar-to-tobacco-report-warns-13605324",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-29T12:57:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -15479,24 +15494,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "78da5ce6372fd672",
-   "title": "Inflation international comparisons: Economic indicators",
-   "summary": "Inflation measures the change in prices over time. Find the latest data on inflation in the UK, the Eurozone, and selected EU countries.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02794/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-21T09:54:27+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15518,28 +15515,28 @@
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16198,7 +16195,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133448,
+   "signatures": 133452,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16207,7 +16204,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 122887,
+   "signatures": 122939,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16216,7 +16213,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 110671,
+   "signatures": 110677,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16225,7 +16222,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85972,
+   "signatures": 85986,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16234,7 +16231,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78812,
+   "signatures": 78814,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16243,7 +16240,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 73572,
+   "signatures": 73573,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16252,7 +16249,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55534,
+   "signatures": 55537,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16261,7 +16258,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55013,
+   "signatures": 55018,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16270,7 +16267,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50519,
+   "signatures": 50520,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16279,7 +16276,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45986,
+   "signatures": 45989,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16288,7 +16285,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44820,
+   "signatures": 44824,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
@@ -16297,7 +16294,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 44190,
+   "signatures": 44530,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
