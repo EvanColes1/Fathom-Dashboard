@@ -1,32 +1,32 @@
 {
- "updated": "2026-10-30T04:04:59.917901+00:00",
+ "updated": "2026-10-30T06:19:53.688922+00:00",
  "feeds": [
   {
    "name": "BBC World",
-   "group": "World news",
-   "ok": true,
-   "new": 0,
-   "note": ""
-  },
-  {
-   "name": "Al Jazeera",
-   "group": "World news",
-   "ok": true,
-   "new": 7,
-   "note": ""
-  },
-  {
-   "name": "The Guardian World",
    "group": "World news",
    "ok": true,
    "new": 6,
    "note": ""
   },
   {
+   "name": "Al Jazeera",
+   "group": "World news",
+   "ok": true,
+   "new": 4,
+   "note": ""
+  },
+  {
+   "name": "The Guardian World",
+   "group": "World news",
+   "ok": true,
+   "new": 10,
+   "note": ""
+  },
+  {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -40,7 +40,7 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -61,14 +61,14 @@
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 4,
    "note": ""
   },
   {
@@ -82,7 +82,7 @@
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 20,
    "note": ""
   },
   {
@@ -124,14 +124,14 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 21,
+   "new": 20,
    "note": "via backup feed"
   },
   {
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 7,
+   "new": 9,
    "note": "via backup feed"
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 6,
+   "new": 2,
    "note": ""
   },
   {
@@ -166,7 +166,7 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -243,7 +243,7 @@
    "name": "IAEA News",
    "group": "Nuclear",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   }
  ],
