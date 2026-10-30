@@ -1,7 +1,58 @@
 {
- "updated": "2026-10-30T06:19:53.688922+00:00",
+ "updated": "2026-10-30T07:20:15.349669+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "1b2161d396cad67d",
+   "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+   "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+   "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-30T07:16:05+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "6b630e245e08fc94",
+   "title": "Mahmood infuriates fellow ministers by failing to reveal impact of UK migration shake-up",
+   "summary": "Home secretary’s colleagues fear homelessness will rise as a result of changes to the asylum system Shabana Mahmood has infuriated ministerial colleagues by failing to share what they see as crucial information about the impact of her migration changes. Sources say the home secretary has repeatedly…",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/30/shabana-mahmood-infuriates-ministers-migration-shake-up",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T07:00:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "42c1e92ee5728008",
+   "title": "Who should pay on the first date?",
+   "summary": "Yasmin Rufo asks New Yorkers who picks up the bill on a first date, and how much they usually spend.",
+   "url": "https://www.bbc.co.uk/news/videos/cmpq0g3g2r8zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-30T06:32:25+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "a3ed302919373f15",
    "title": "P&R urged to speed up review of relocation grants",
@@ -143,23 +194,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "1b2161d396cad67d",
-   "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-   "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-   "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-30T05:15:16+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "North Korea"
-   ]
   },
   {
    "id": "0b7d260f477b08bb",
@@ -15469,43 +15503,6 @@
     "Council tax"
    ],
    "countries": []
-  },
-  {
-   "id": "853e8cc1479b57d1",
-   "title": "Council Tax: challenges and changes in England and Wales, March 2025",
-   "summary": "Statistics on challenges against the England and Wales Council Tax valuation lists between 1 April 2024 and 31 March 2025.",
-   "url": "https://www.gov.uk/government/statistics/announcements/council-tax-challenges-and-changes-in-england-and-wales-march-2025",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "official_statistics_announcement",
-   "party_voice": "",
-   "published": "2026-10-21T11:28:09Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Elections"
-   ],
-   "tax": [
-    "Council tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "ec13ea3aec9380a1",
-   "title": "Inflation in the UK: Economic indicators",
-   "summary": "Inflation measures the change in prices over time. Find the latest data on changes in UK consumer prices, measured by CPI and RPI.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02792/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-21T11:21:54+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15520,7 +15517,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 1,
    "note": ""
   },
   {
@@ -15562,7 +15559,7 @@
    "name": "LabourList",
    "group": "Party voices",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -16207,7 +16204,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133455,
+   "signatures": 133462,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16216,7 +16213,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 123017,
+   "signatures": 123163,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16225,7 +16222,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 110690,
+   "signatures": 110712,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16234,7 +16231,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 85992,
+   "signatures": 86004,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16243,7 +16240,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78820,
+   "signatures": 78824,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16252,7 +16249,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 73577,
+   "signatures": 73585,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16270,7 +16267,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55030,
+   "signatures": 55035,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16279,7 +16276,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50522,
+   "signatures": 50523,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16288,7 +16285,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 45993,
+   "signatures": 45999,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16297,7 +16294,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 44998,
+   "signatures": 45571,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16306,7 +16303,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44827,
+   "signatures": 44830,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
