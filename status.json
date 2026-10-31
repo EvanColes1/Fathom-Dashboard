@@ -1,32 +1,32 @@
 {
- "updated": "2026-10-31T04:00:31.427788+00:00",
+ "updated": "2026-10-31T06:18:05.794554+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 5,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 9,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 5,
+   "new": 7,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -40,7 +40,7 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -61,7 +61,7 @@
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": "via backup feed"
   },
   {
@@ -75,28 +75,28 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 5,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Americas Quarterly",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": "via backup feed"
   },
   {
    "name": "Crisis Group",
    "group": "Think tank",
    "ok": true,
-   "new": 4,
+   "new": 6,
    "note": ""
   },
   {
@@ -124,7 +124,7 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 18,
+   "new": 19,
    "note": "via backup feed"
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 3,
+   "new": 8,
    "note": ""
   },
   {
@@ -201,7 +201,7 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 8,
+   "new": 22,
    "note": "via backup feed"
   },
   {
