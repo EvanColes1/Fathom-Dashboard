@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-31T19:01:55.826767+00:00",
+ "updated": "2026-10-31T21:51:01.353710+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 14,
+   "new": 10,
    "note": ""
   },
   {
@@ -26,28 +26,28 @@
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
@@ -61,7 +61,7 @@
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 5,
+   "new": 2,
    "note": "via backup feed"
   },
   {
@@ -75,15 +75,15 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 5,
+   "new": 3,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
-   "ok": true,
+   "ok": false,
    "new": 0,
-   "note": ""
+   "note": "HTTPSConnectionPool(host='allafrica.com', port=443): Max retries exceeded with url: /tools/headlines/rdf/latest/headlines.rdf (Caused by ConnectTimeoutError(<HT"
   },
   {
    "name": "Americas Quarterly",
@@ -145,7 +145,7 @@
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 11,
+   "new": 12,
    "note": ""
   },
   {
@@ -166,14 +166,14 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 9,
+   "new": 10,
    "note": ""
   },
   {
@@ -187,7 +187,7 @@
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -201,7 +201,7 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 4,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 11,
+   "new": 27,
    "note": "via backup feed"
   },
   {

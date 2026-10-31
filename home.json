@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-31T19:01:55.826767+00:00",
+ "updated": "2026-10-31T21:51:01.353710+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "e06f03b340d2f13f",
+   "title": "Support for rejoining EU grows after Burnham opens door to UK’s return",
+   "summary": "Exclusive: Major new poll is a boost for prime minister’s call for the UK to get closer to the European Union",
+   "url": "https://www.independent.co.uk/news/uk/politics/brexit-uk-rejoin-eu-burnham-b3075236.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-31T20:47:28+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "6bd9d31a8b72a909",
    "title": "Britain’s housing crisis won’t be fixed without a new tax landscape",
@@ -110,27 +131,6 @@
     "Labour"
    ],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e06f03b340d2f13f",
-   "title": "Support for rejoining EU grows after Burnham opens door to UK’s return",
-   "summary": "Exclusive: Major new poll is a boost for prime minister’s call for the UK to get closer to the European Union",
-   "url": "https://www.independent.co.uk/news/uk/politics/brexit-uk-rejoin-eu-burnham-b3075236.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-31T12:34:24+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections",
-    "Party leadership",
-    "Europe"
-   ],
    "tax": [],
    "countries": []
   },
@@ -15581,7 +15581,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15595,7 +15595,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16268,7 +16268,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133732,
+   "signatures": 133753,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16277,7 +16277,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 124989,
+   "signatures": 125061,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16286,7 +16286,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 111315,
+   "signatures": 111355,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16295,7 +16295,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86319,
+   "signatures": 86348,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16304,7 +16304,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 79436,
+   "signatures": 79478,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16313,7 +16313,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74290,
+   "signatures": 74358,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16322,7 +16322,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 57625,
+   "signatures": 57995,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16331,7 +16331,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55570,
+   "signatures": 55573,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16340,7 +16340,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55361,
+   "signatures": 55412,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16349,7 +16349,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50553,
+   "signatures": 50556,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16358,7 +16358,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46243,
+   "signatures": 46254,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16367,7 +16367,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44918,
+   "signatures": 44921,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
