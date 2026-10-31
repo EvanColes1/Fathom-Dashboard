@@ -1,11 +1,107 @@
 {
- "updated": "2026-10-30T21:53:35.960171+00:00",
+ "updated": "2026-10-31T01:21:06.930312+00:00",
  "government": "Labour",
  "articles": [
   {
+   "id": "fc4d7962c02edb21",
+   "title": "Why MPs keep talking about an early election despite Burnham's denials",
+   "summary": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
+   "url": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-31T00:00:15+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "23024b350ef6ef40",
+   "title": "Labour delivers planning officers pledge as 1.5m homes target deadline nears",
+   "summary": "The Labour Party has met its manifesto promise to bring in 300 new planning officers amid a looming deadline to build 1.5million new homes.",
+   "url": "https://www.independent.co.uk/news/uk/home-news/labour-manifesto-new-homes-b3076519.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T22:35:08+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "77e8331448e47476",
+   "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+   "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+   "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T22:11:52+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "G7 / G20"
+   ]
+  },
+  {
+   "id": "9d5b8514c4fe0fea",
+   "title": "British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history | Andy Burnham",
+   "summary": "Financial reparations are not the answer. Working together with our Commonwealth family is the best way to ensure prosperity for us all • Andy Burnham open to calls for formal apology for Britain’s role in slave trade On 28 October 1787, Thomas Clarkson pushed through the crowds to reach the pulpit…",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/30/british-people-slave-trade-reparations-andy-burnham",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T22:00:25+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ffdf7eee4963fc2b",
+   "title": "Andy Burnham open to calls for formal apology for Britain’s role in slave trade",
+   "summary": "Exclusive: UK PM to launch drive to restructure debt of poorest Commonwealth countries but rejects demands for reparations • British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history | Andy Burnham Andy Burnham has gone further than any previous…",
+   "url": "https://www.theguardian.com/world/2026/oct/30/andy-burnham-call-formal-apology-britains-role-in-slave-trade",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-30T22:00:24+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "3663f494e4e6bbc1",
    "title": "Soaring cost of Halloween treats spooks shoppers",
-   "summary": "The price of candy, especially chocolate, has soared, and Halloween bargain hunters are searching for deals and ways to cut costs.",
+   "summary": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
    "url": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
@@ -196,26 +292,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "77e8331448e47476",
-   "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-   "summary": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
-   "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-30T17:25:20+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia",
-    "G7 / G20"
-   ]
   },
   {
    "id": "ad788f5fe4416fd0",
@@ -15492,68 +15568,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "ff86e658f141ba64",
-   "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-   "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-21T23:27:05+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "247f4c57f911a568",
-   "title": "CDS Declaration Completion Instructions for Exports",
-   "summary": "This guide provides detailed completion instructions for data elements when making an export declaration to the Customs Declaration Service (CDS).",
-   "url": "https://www.gov.uk/government/publications/uk-trade-tariff-cds-volume-3-export-declaration-completion-guide",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-21T23:15:01Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3b413718f22b45f1",
-   "title": "Measurement unit codes for Data Elements 2/3 and 4/4 of the Customs Declaration Service",
-   "summary": "Find the measurement unit codes for Data Elements 2/3 and 4/4 when making a declaration to the Customs Declaration Service (Appendix 20).",
-   "url": "https://www.gov.uk/government/publications/measurement-unit-codes-for-data-elements-23-and-44-of-the-customs-declaration-service",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-21T23:15:01Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "5bc7d797e329dbc8",
-   "title": "Additional Information (AI) Statement Codes for Data Element 2/2 of the Customs Declaration Service (CDS)",
-   "summary": "Find out the codes to be used to provide additional information in Data Element (DE) 2/2 of the customs declaration or clearance request (Appendix 4).",
-   "url": "https://www.gov.uk/guidance/additional-information-ai-statement-codes-for-data-element-22-of-the-customs-declaration-service-cds",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-21T23:15:01Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15561,21 +15575,21 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15589,7 +15603,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
@@ -15677,7 +15691,110 @@
    "note": ""
   }
  ],
- "parties": [],
+ "parties": [
+  {
+   "name": "Labour",
+   "abbr": "Lab",
+   "colour": "#d50000",
+   "seats": 404
+  },
+  {
+   "name": "Conservative",
+   "abbr": "Con",
+   "colour": "#0063ba",
+   "seats": 118
+  },
+  {
+   "name": "Liberal Democrat",
+   "abbr": "LD",
+   "colour": "#fc7d0b",
+   "seats": 71
+  },
+  {
+   "name": "Independent",
+   "abbr": "Ind",
+   "colour": "#909090",
+   "seats": 11
+  },
+  {
+   "name": "Reform UK",
+   "abbr": "RUK",
+   "colour": "#12b6cf",
+   "seats": 8
+  },
+  {
+   "name": "Scottish National Party",
+   "abbr": "SNP",
+   "colour": "#fff685",
+   "seats": 8
+  },
+  {
+   "name": "Sinn Féin",
+   "abbr": "SF",
+   "colour": "#02665f",
+   "seats": 7
+  },
+  {
+   "name": "Democratic Unionist Party",
+   "abbr": "DUP",
+   "colour": "#d46a4c",
+   "seats": 5
+  },
+  {
+   "name": "Green Party",
+   "abbr": "Green",
+   "colour": "#78b82a",
+   "seats": 5
+  },
+  {
+   "name": "Plaid Cymru",
+   "abbr": "PC",
+   "colour": "#348837",
+   "seats": 4
+  },
+  {
+   "name": "Social Democratic & Labour Party",
+   "abbr": "SDLP",
+   "colour": "#4ea268",
+   "seats": 2
+  },
+  {
+   "name": "Your Party",
+   "abbr": "YP",
+   "colour": "#ff3131",
+   "seats": 2
+  },
+  {
+   "name": "Alliance",
+   "abbr": "APNI",
+   "colour": "#cdaf2d",
+   "seats": 1
+  },
+  {
+   "name": "Restore Britain",
+   "abbr": "RB",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Speaker",
+   "abbr": "Spk",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Traditional Unionist Voice",
+   "abbr": "TUV",
+   "colour": "#0c3a6a",
+   "seats": 1
+  },
+  {
+   "name": "Ulster Unionist Party",
+   "abbr": "UUP",
+   "colour": "#a1cdf0",
+   "seats": 1
+  }
+ ],
  "elections": [
   {
    "id": "local.bournemouth-christchurch-and-poole.2026-11-05",
@@ -16152,7 +16269,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133619,
+   "signatures": 133633,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16161,7 +16278,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 124445,
+   "signatures": 124504,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16170,7 +16287,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 111051,
+   "signatures": 111092,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16179,7 +16296,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86198,
+   "signatures": 86215,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16188,7 +16305,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 78997,
+   "signatures": 79037,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16197,7 +16314,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74005,
+   "signatures": 74053,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16206,7 +16323,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55549,
+   "signatures": 55553,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16215,7 +16332,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55153,
+   "signatures": 55173,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16224,7 +16341,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 54310,
+   "signatures": 54983,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16233,7 +16350,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50534,
+   "signatures": 50536,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16242,7 +16359,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46147,
+   "signatures": 46165,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16251,7 +16368,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44872,
+   "signatures": 44886,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
@@ -16817,7 +16934,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-09-30",
+     "d": "2024-10-01",
      "v": 5.0
     },
     {
@@ -16856,7 +16973,5 @@
    "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
   }
  ],
- "problems": [
-  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
- ]
+ "problems": []
 }
