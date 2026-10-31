@@ -1,7 +1,41 @@
 {
- "updated": "2026-10-31T06:18:05.794554+00:00",
+ "updated": "2026-10-31T07:15:35.580890+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "09bdeb49763aa035",
+   "title": "Nigel’s ‘chiselled cheekbones’ make the news – Reform’s the Reformer, digested by John Crace",
+   "summary": "Editor, agony uncle, crossword compiler – he even interviews himself. Our sketchwriter finds there’s no end to Farage’s talents Welcome to your new super, soaraway Reformer . The paper that aims to take you back to the 1950s with all the stories that the mainstream media don’t want you to read.…",
+   "url": "https://www.theguardian.com/books/2026/oct/31/nigel-farage-news-the-reformer-digested-by-john-crace",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-31T07:00:37+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "92085c483289847a",
+   "title": "Budget 2026: how to beat the new savings tax rates",
+   "summary": "John Healey’s budget offered a ‘sting in the tail’ for savers by raising tax rates but there are ways to ease the pain Savers were both winners and losers in Wednesday’s budget . In his first outing as chancellor, John Healey dropped a plan to cut the cash Isa limit for under-65s but surprised…",
+   "url": "https://www.theguardian.com/money/2026/oct/31/budget-2026-how-to-beat-the-new-savings-tax-rates",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-31T07:00:36+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "2e8fea08d2215e60",
    "title": "When you’re traduced, abused and gaslighted – believe me, Black History Month matters | Hugh Muir",
@@ -15529,41 +15563,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "d761895002a56147",
-   "title": "No order, no seat: Starbucks China rolls out new store policy",
-   "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-   "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-22T04:02:29+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "China"
-   ]
-  },
-  {
-   "id": "9b029b6f2947d75f",
-   "title": "Everyone hates Oxford Street. Will pedestrianisation save it?",
-   "summary": "In a few days the busiest shopping street in Europe will be closed to traffic. The hope is that an unloved and polluted thoroughfare will turn into somewhere that people actually want to spend time In February, the mayor of London, Sadiq Khan, announced that Britain’s best-known thoroughfare,…",
-   "url": "https://www.theguardian.com/news/2026/oct/22/everyone-hates-oxford-street-will-pedestrianisation-save-it",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T04:00:07+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15571,21 +15570,21 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15655,7 +15654,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
@@ -16265,7 +16264,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133634,
+   "signatures": 133638,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16274,7 +16273,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 124524,
+   "signatures": 124551,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16283,7 +16282,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 111108,
+   "signatures": 111114,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16292,7 +16291,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86224,
+   "signatures": 86230,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16301,7 +16300,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 79050,
+   "signatures": 79072,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16310,7 +16309,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74070,
+   "signatures": 74079,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16328,7 +16327,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 55241,
+   "signatures": 55347,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16337,7 +16336,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55178,
+   "signatures": 55182,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16355,7 +16354,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46171,
+   "signatures": 46172,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
