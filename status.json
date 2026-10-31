@@ -1,32 +1,32 @@
 {
- "updated": "2026-10-31T09:56:06.574568+00:00",
+ "updated": "2026-10-31T13:09:06.597566+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 9,
+   "new": 22,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 4,
+   "new": 8,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 5,
    "note": ""
   },
   {
@@ -40,14 +40,14 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -61,7 +61,7 @@
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": "via backup feed"
   },
   {
@@ -75,14 +75,14 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 5,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 2,
    "note": ""
   },
   {
@@ -124,7 +124,7 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 19,
+   "new": 20,
    "note": "via backup feed"
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 24,
+   "new": 25,
    "note": "via backup feed"
   },
   {
@@ -236,7 +236,7 @@
    "name": "Bulletin of the Atomic Scientists",
    "group": "Nuclear",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": "via backup feed"
   },
   {
