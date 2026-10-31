@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:09:06.597566+00:00",
+ "updated": "2026-10-31T15:51:24.855502+00:00",
  "government": "Labour",
  "articles": [
   {
@@ -10,7 +10,7 @@
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-10-31T13:02:06+00:00",
+   "published": "2026-10-31T15:32:24+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
@@ -20,6 +20,59 @@
     "Immigration",
     "NHS and care"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b52fdeca97e5b477",
+   "title": "A world-first focus on long-term outcomes could transform UK government – or create new spending fights",
+   "summary": "Tucked away in John Healey’s budget is decision to ringfence preventative projects where future savings outweigh initial cost It merited the briefest of mentions in John Healey’s speech and just one paragraph in the 166-page budget document , but some believe it could revolutionise not just public…",
+   "url": "https://www.theguardian.com/politics/2026/oct/31/spending-plan-long-term-focus-uk-government",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-31T15:00:46+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1e34b1a854c2be35",
+   "title": "Starmer says UK must get closer to Europe as US relationship changes",
+   "summary": "Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM says The UK and other European nations must draw closer together as the US becomes a less-reliable partner, Keir Starmer has said in his first significant political intervention since leaving No 10. The…",
+   "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-31T13:32:25+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "5d584be39355f7c9",
+   "title": "Burnham 'open' to calls for slavery apology but not reparations",
+   "summary": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
+   "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-31T13:28:40+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -127,23 +180,6 @@
    "topics": [
     "Tax and spending"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "5d584be39355f7c9",
-   "title": "Burnham 'open' to calls for slavery apology but not reparations",
-   "summary": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
-   "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-31T09:52:52+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -15528,42 +15564,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "cefe0d91ab88cb26",
-   "title": "Banks say they’re overtaxed. The TUC says they’re undertaxed. Who’s right?",
-   "summary": "There are widespread reports that the Budget will increase tax on banks. This follows claims from the TUC that banks are under-taxed, and claims from UK Finance that they’re overtaxed. We’ve compared bank taxation in the UK and eight other countries, examined how much bank profits have really…",
-   "url": "https://taxpolicy.org.uk/2026/10/22/should-bank-tax-go-up/",
-   "source": "Tax Policy Associates",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-22T06:00:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "cf61363b55ef4290",
-   "title": "New clinical trial backed by Andy Burnham could speed up Alzheimer’s treatments",
-   "summary": "The Prime Minister’s father Roy died with Alzheimer’s disease in September.",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-prime-minister-alzheimers-disease-alzheimer-labour-b3071174.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T05:51:28+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15578,7 +15578,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
@@ -15592,7 +15592,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15606,7 +15606,7 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15634,7 +15634,7 @@
    "name": "UK in a Changing Europe",
    "group": "Analysis",
    "ok": true,
-   "new": 16,
+   "new": 15,
    "note": ""
   },
   {
@@ -16265,7 +16265,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133689,
+   "signatures": 133705,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16274,7 +16274,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 124827,
+   "signatures": 124923,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16283,7 +16283,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 111225,
+   "signatures": 111265,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16292,7 +16292,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86277,
+   "signatures": 86295,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16301,7 +16301,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 79335,
+   "signatures": 79382,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16310,7 +16310,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74189,
+   "signatures": 74232,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16319,7 +16319,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 56709,
+   "signatures": 57142,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16328,7 +16328,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55560,
+   "signatures": 55565,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16337,7 +16337,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55257,
+   "signatures": 55310,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16346,7 +16346,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50544,
+   "signatures": 50547,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16355,7 +16355,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46224,
+   "signatures": 46233,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16364,7 +16364,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44905,
+   "signatures": 44915,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
