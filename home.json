@@ -1,7 +1,63 @@
 {
- "updated": "2026-11-01T04:09:13.174515+00:00",
+ "updated": "2026-11-01T06:22:44.136271+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "b7472518fb00f600",
+   "title": "How to move parcels from Great Britain to Northern Ireland for express operators",
+   "summary": "Find out how to send parcels from Great Britain to Northern Ireland if you're a courier or an express operator.",
+   "url": "https://www.gov.uk/guidance/how-to-move-parcels-from-great-britain-to-northern-ireland-for-express-operators",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-01T06:00:05Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Ireland"
+   ]
+  },
+  {
+   "id": "fcd25abc88f6a392",
+   "title": "Moving goods you bring into Northern Ireland as ‘not at risk’ of moving to the EU",
+   "summary": "Find out if goods you bring into Northern Ireland can move as ‘not at risk’ of moving to the EU.",
+   "url": "https://www.gov.uk/guidance/check-if-you-can-declare-goods-you-bring-into-northern-ireland-not-at-risk-of-moving-to-the-eu",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-01T06:00:05Z",
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Ireland"
+   ]
+  },
+  {
+   "id": "83ee3112cd75a8e6",
+   "title": "Pay handling fees for distance sales to Northern Ireland ‘at risk’ of entering the EU",
+   "summary": "How to pay handling fees for distance sales moving into Northern Ireland that are ‘at risk’ of entering the EU, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-handling-fees-for-distance-sales-to-northern-ireland-at-risk-of-entering-the-eu",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-01T06:00:05Z",
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Ireland"
+   ]
+  },
   {
    "id": "c60036466df179ee",
    "title": "Reeves says UK's future should be inside the EU",
@@ -172,6 +228,21 @@
    "topics": [
     "Tax and spending"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5715fa5099a5fbfe",
+   "title": "Majority of funds stolen in cryptocurrency hack replenished, Binance says",
+   "summary": "Around 90% of stolen cryptocurrency assets following a hack on a major exchange has been replenished, according to Binance.",
+   "url": "https://news.sky.com/story/majority-of-funds-stolen-in-cryptocurrency-hack-replenished-binance-says-13606152",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-31T14:39:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -15513,71 +15584,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "7ad82f200d4ee6f2",
-   "title": "HMRC officials' meetings with tobacco stakeholders",
-   "summary": "Details of HMRC officials' meetings with tobacco stakeholders.",
-   "url": "https://www.gov.uk/government/collections/hmrc-officials-meetings-with-tobacco-stakeholders",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-10-22T08:30:08Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "825c7bd8d0612ed0",
-   "title": "Oxford quantum computing spinout QuantrolOx lands £10m funding boost",
-   "summary": "A quantum computing technology company which was spun out of Oxford University and won backing from the Arm Holdings founder Hermann Hauser has landed £10m in a new fundraising.",
-   "url": "https://news.sky.com/story/oxford-quantum-computing-spinout-quantrolox-lands-10m-funding-boost-13602169",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-22T08:26:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "658a15bb7b2cd7f2",
-   "title": "Argentina’s president rules out military action over Falkland Islands",
-   "summary": "Milei’s remarks mark first time he has ruled out military intervention on the territory since Trump said he would review US support for British sovereignty",
-   "url": "https://www.independent.co.uk/news/uk/politics/falkland-islands-javier-milei-argentina-b3071257.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T08:19:07+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Defence"
-   ],
-   "tax": [],
-   "countries": [
-    "United States",
-    "Argentina"
-   ]
-  },
-  {
-   "id": "4a39297be8902925",
-   "title": "Royal Mail performance",
-   "summary": "Royal Mail has missed delivery targets for several years, and has been fined by Ofcom.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10383/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-22T08:17:58+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15585,7 +15591,7 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 3,
    "note": ""
   },
   {
@@ -15613,14 +15619,14 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -16279,7 +16285,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133764,
+   "signatures": 133765,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16288,7 +16294,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 125122,
+   "signatures": 125128,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16297,7 +16303,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 111390,
+   "signatures": 111394,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16306,7 +16312,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86369,
+   "signatures": 86371,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16315,7 +16321,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 79497,
+   "signatures": 79500,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16324,7 +16330,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74414,
+   "signatures": 74420,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16333,7 +16339,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 58380,
+   "signatures": 58421,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16351,7 +16357,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55447,
+   "signatures": 55448,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16369,7 +16375,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46260,
+   "signatures": 46262,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,

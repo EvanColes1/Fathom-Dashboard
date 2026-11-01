@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-01T04:09:13.174515+00:00",
+ "updated": "2026-11-01T06:22:44.136271+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 6,
+   "new": 5,
    "note": ""
   },
   {
@@ -33,14 +33,14 @@
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
@@ -75,7 +75,7 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 5,
+   "new": 4,
    "note": ""
   },
   {
@@ -124,7 +124,7 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 20,
+   "new": 21,
    "note": "via backup feed"
   },
   {
@@ -173,7 +173,7 @@
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 8,
+   "new": 9,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 27,
+   "new": 11,
    "note": "via backup feed"
   },
   {
