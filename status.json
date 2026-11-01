@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T21:51:01.353710+00:00",
+ "updated": "2026-11-01T01:28:20.173785+00:00",
  "feeds": [
   {
    "name": "BBC World",
@@ -12,28 +12,28 @@
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 10,
+   "new": 8,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 6,
+   "new": 5,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -47,14 +47,14 @@
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -75,15 +75,15 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 3,
+   "new": 5,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
-   "ok": false,
+   "ok": true,
    "new": 0,
-   "note": "HTTPSConnectionPool(host='allafrica.com', port=443): Max retries exceeded with url: /tools/headlines/rdf/latest/headlines.rdf (Caused by ConnectTimeoutError(<HT"
+   "note": ""
   },
   {
    "name": "Americas Quarterly",
@@ -96,14 +96,14 @@
    "name": "Crisis Group",
    "group": "Think tank",
    "ok": true,
-   "new": 6,
+   "new": 7,
    "note": ""
   },
   {
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 11,
+   "new": 12,
    "note": "via backup feed"
   },
   {
@@ -173,7 +173,7 @@
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 10,
+   "new": 8,
    "note": ""
   },
   {
@@ -187,7 +187,7 @@
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -201,7 +201,7 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 27,
+   "new": 26,
    "note": "via backup feed"
   },
   {
