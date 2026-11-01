@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-01T09:59:12.145339+00:00",
+ "updated": "2026-11-01T13:10:38.516450+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 16,
+   "new": 15,
    "note": ""
   },
   {
@@ -26,22 +26,22 @@
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 3,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
-   "ok": true,
+   "ok": false,
    "new": 0,
-   "note": ""
+   "note": "406 Client Error: Not Acceptable for url: https://www.euronews.com/rss?level=theme&name=news"
   },
   {
    "name": "NPR World",
@@ -54,14 +54,14 @@
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": "via backup feed"
   },
   {
@@ -75,7 +75,7 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 4,
    "note": ""
   },
   {
@@ -103,7 +103,7 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 14,
+   "new": 13,
    "note": "via backup feed"
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 4,
+   "new": 6,
    "note": ""
   },
   {
@@ -173,7 +173,7 @@
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 9,
+   "new": 8,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 12,
+   "new": 26,
    "note": "via backup feed"
   },
   {

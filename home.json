@@ -1,28 +1,328 @@
 {
- "updated": "2026-11-01T09:59:12.145339+00:00",
+ "updated": "2026-11-01T13:10:38.516450+00:00",
  "government": "Labour",
  "articles": [
   {
+   "id": "798bc911c0b7ca26",
+   "title": "Reform and Farage ‘don’t do defence’ in parliament, new analysis shows",
+   "summary": "Analysis of debates in parliament show that Nigel Farage only appeared in less than 5 per cent in defence debates in parliament despite being Reform’s defence spokesman",
+   "url": "https://www.independent.co.uk/news/uk/politics/farage-reform-defence-parliament-analysis-b3076542.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T12:45:18+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "eed06119b58ba055",
-   "title": "Minister says UK apology over historic role in slave trade won’t lead to financial reparations – UK politics live",
-   "summary": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’ Badenoch is on the BBC’s Sunday with Laura Kuennsberg show now, defending the Tory policy of scrapping inheritance tax on family homes, and saying that the Conservatives’…",
+   "title": "John Healey says UK apology over historic role in slave trade won’t lead to financial reparations – UK politics live",
+   "summary": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’ At the end of his interview with Kuennsberg, Healey was also asked to comment on a potential apology for Britain’s near-250 years of perpetrating the slave trade and why the…",
    "url": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
    "source": "Guardian Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-01T09:49:29+00:00",
+   "published": "2026-11-01T12:38:39+00:00",
    "dateonly": false,
    "parties": [
-    "Labour",
-    "Conservative"
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7bf79c5d111792a9",
+   "title": "The measure slipped into UK budget that could protect spending on children, youth and rough sleeping | Heather Stewart",
+   "summary": "PDEL, which will ringfence money for preventive policies, marks a welcome and potentially consequential addition John Healey’s debut budget was far from a blockbuster, but it may come to be remembered for the birth of a plucky new character in the tax and spend universe – little PDEL. It may not…",
+   "url": "https://www.theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T12:36:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8e1ef3e1533cb842",
+   "title": "The UK’s legal cannabis market is booming – so why can’t this talented artist get any to treat his epilepsy? | Kojo Koram",
+   "summary": "Companies have rushed to supply the drug as a wellness treatment, but patients with serious illnesses aren’t able to get NHS prescriptions In 2022, a prodigiously talented young artist named Louis Petit was preparing to return to the UK, having been effectively exiled in the Netherlands as a…",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/01/uk-legal-cannabis-market-booming-louis-petit-epilepsy",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T12:33:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": [
+    "Netherlands"
+   ]
+  },
+  {
+   "id": "c98c4d26161b04a7",
+   "title": "Healey insists welfare bill will come down under Labour but warns: ‘We never set a timetable for savings’",
+   "summary": "The Chancellor delayed major changes to welfare until 2027 in his first Budget this week",
+   "url": "https://www.independent.co.uk/news/uk/politics/john-healey-welfare-bill-chancellor-labour-benefits-b3077072.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T12:13:16+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "de77300dcc63145a",
+   "title": "Shops looted as German cost of living protests turn violent",
+   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+   "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-01T11:57:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "France",
+    "Germany"
+   ]
+  },
+  {
+   "id": "7ca02a53309589c9",
+   "title": "Labour’s pledge to level-up minimum wage for under-20s before next election in doubt",
+   "summary": "Chancellor John Healey fails to guarantee equalisation with adult wage will happen in timeframe set out in manifesto Labour looks less likely to meet its manifesto pledge to equalise the minimum wage for younger workers before the next election, after the chancellor failed to guarantee the rise…",
+   "url": "https://www.theguardian.com/society/2026/nov/01/chancellor-fails-to-guarantee-minimum-wage-pledge-younger-workers-kuenssberg",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T11:52:55+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
    ],
    "topics": [
     "Tax and spending",
-    "Housing"
+    "Elections"
    ],
-   "tax": [
-    "Inheritance tax"
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3dc9a1419b426405",
+   "title": "Britain should not issue apology over slave trade, says Kemi Badenoch",
+   "summary": "Tory leader says apology would be ‘navel-gazing distraction’ and would be used as lever for financial compensation Kemi Badenoch has said an apology for Britain’s role in the transatlantic slave trade would be a “navel-gazing distraction”, describing slavery as an evil “in which people from every…",
+   "url": "https://www.theguardian.com/world/2026/nov/01/britain-should-not-apologise-slave-trade-kemi-badenoch",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T11:26:46+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
    ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "94366d677245165a",
+   "title": "Badenoch claims British empire was force for good overall: ‘We have had enough of apologies’",
+   "summary": "The Tory leader criticised the prime minister for considering a formal apology for slavery",
+   "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-british-empire-slavery-apology-b3077038.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T11:06:12+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "abae9b2306a19bdb",
+   "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+   "summary": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+   "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T11:05:40+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2c5c270ea9ddcba5",
+   "title": "Tommy Robinson conviction leaves far right with leadership void",
+   "summary": "With heir apparent Danny Tommo also in custody, Robinson’s conviction for harassing journalists is blow to anti-migrant movement The verdict was met with a groan from Tommy Robinson’s supporters, who had sat behind the dock throughout his harassment trial. It took more than 11 hours of jury…",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/01/tommy-robinson-conviction-leaves-far-right-with-leadership-void",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T11:00:09+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c60036466df179ee",
+   "title": "Reeves says UK's future should be inside the EU",
+   "summary": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\".",
+   "url": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T10:47:03+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ec57f895a1aebe57",
+   "title": "Submit your Vaping Products Duty return",
+   "summary": "Use the online service to submit returns for all finished vaping products that have been released for consumption in the UK.",
+   "url": "https://www.gov.uk/guidance/submit-your-vaping-products-duty-return",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-01T10:00:02Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f97789c41e93fb1e",
+   "title": "Submit your Vaping Products Duty return: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Submit your Vaping Products Duty return online service.",
+   "url": "https://www.gov.uk/government/publications/submit-your-vaping-products-duty-return-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-01T10:00:02Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "147cda4a9f0ea981",
+   "title": "Pay Vaping Products Duty",
+   "summary": "How to pay Vaping Products Duty if you are an approved UK vaping products manufacturer, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-vaping-products-duty",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-01T10:00:02Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f0c6812c59bfc88a",
+   "title": "Pay Vaping Products Duty: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Pay Vaping Products Duty online service.",
+   "url": "https://www.gov.uk/government/publications/pay-vaping-products-duty-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-01T10:00:02Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "822ff550b0ba2658",
+   "title": "How to pay Vaping Products Duty",
+   "summary": "Find out the rates of Vaping Products Duty, how to work out the volume of vaping liquid you must account for, and when the duty becomes due.",
+   "url": "https://www.gov.uk/guidance/how-to-pay-vaping-products-duty",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-01T10:00:02Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7af52f266eee7f62",
+   "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+   "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’ The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made the UK “poorer, weaker and less secure”. In her first major intervention since…",
+   "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T09:55:20+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Europe"
+   ],
+   "tax": [],
    "countries": []
   },
   {
@@ -43,6 +343,23 @@
    ],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "641fcec3e146e5fc",
+   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+   "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-01T09:28:06+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "North Korea"
+   ]
   },
   {
    "id": "e74dff9153c670f6",
@@ -102,46 +419,6 @@
    "countries": []
   },
   {
-   "id": "de77300dcc63145a",
-   "title": "Shops looted as German cost of living protests turn violent",
-   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-   "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-01T08:43:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": [
-    "France",
-    "Germany"
-   ]
-  },
-  {
-   "id": "7af52f266eee7f62",
-   "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
-   "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’ The former chancellor Rachel Reeves has argued the UK’s future should be inside the EU, saying Brexit has made the UK “poorer, weaker and less secure”. Writing in the Sunday Times , the Labour former…",
-   "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-01T08:37:34+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "02551eb4154c31f5",
    "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty – podcast",
    "summary": "What if someone told you the truth about the economy? For years, governments have tried spending more, spending less, cutting red tape, Brexit, levelling up – and still failed to increase growth per person in the UK. So what’s the lesson from the great British fairytale? On the latest episode of…",
@@ -178,6 +455,21 @@
     "Denmark",
     "United States"
    ]
+  },
+  {
+   "id": "cc533103fb554273",
+   "title": "National Grid sparks deal to pave way for giant UK data centre",
+   "summary": "National Grid has struck a deal paving the way for Britain’s biggest electricity substation to be built on Teesside as the government races to avoid missing out on global demand for AI infrastructure development.",
+   "url": "https://news.sky.com/story/national-grid-sparks-deal-to-pave-way-for-giant-uk-data-centre-13606573",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-01T07:43:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
   },
   {
    "id": "acb8fbeef0efbbfb",
@@ -285,24 +577,6 @@
    ]
   },
   {
-   "id": "c60036466df179ee",
-   "title": "Reeves says UK's future should be inside the EU",
-   "summary": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\".",
-   "url": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-01T02:57:34+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "abfb1eed17d0ee9b",
    "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
    "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
@@ -356,24 +630,6 @@
     "Elections",
     "Party leadership",
     "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "abae9b2306a19bdb",
-   "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
-   "summary": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
-   "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-31T17:26:29+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Elections"
    ],
    "tax": [],
    "countries": []
@@ -15355,253 +15611,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "75dce64f5c81c2a8",
-   "title": "Average earnings: Economic indicators",
-   "summary": "Earnings data gives us information on the labour market and household finances. Find the latest data on earnings for men and women in the UK.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02795/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-22T13:02:09+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "93a1e9f31d834b8f",
-   "title": "Register to declare goods moving to or from Northern Ireland using the Trader Support Service (TSS)",
-   "summary": "If you move goods to or from Northern Ireland, register for this service to make and manage customs, safety and security declarations, and payments.",
-   "url": "https://www.gov.uk/guidance/register-to-declare-goods-moving-to-or-from-northern-ireland-using-the-trader-support-service-tss",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-22T12:29:49Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Ireland"
-   ]
-  },
-  {
-   "id": "959ddc5c0534b8d2",
-   "title": "Could this be Labour's 'green argument' for approving controversial Rosebank oil field?",
-   "summary": "Former Labour deputy leader Harriet Harman has said she thinks ministers will approve drilling in the controversial Rosebank oil field - and that they will argue they will spend the proceeds investing in renewable energy.",
-   "url": "https://news.sky.com/story/could-this-be-labours-green-argument-for-approving-controversial-rosebank-oil-field-13602244",
-   "source": "Sky News Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T12:28:00+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "11ec7236fe9c7f97",
-   "title": "Jackdaw is a distraction from Aberdeen’s much bigger problem",
-   "summary": "This article was originally published on our Substack. After years of back and forth and months of mounting speculation, this week the Government gave the green light to the Jackdaw gas field. But one small hydrocarbon project dominating headlines risks missing the much bigger – and more important…",
-   "url": "https://www.resolutionfoundation.org/comment/jackdaw-is-a-distraction-from-aberdeens-much-bigger-problem/",
-   "source": "Resolution Foundation",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-22T12:15:30+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "54e5bb73ce7a79cd",
-   "title": "Register your employment related securities scheme",
-   "summary": "When and how to tell HMRC about new employment related securities (ERS) schemes.",
-   "url": "https://www.gov.uk/guidance/tell-hmrc-about-your-employment-related-securities",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-22T12:14:41Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "83a142998c5f3d71",
-   "title": "UK government services offline after global PHP cybersecurity threat",
-   "summary": "Cybersecurity chiefs warned UK organisations that a ‘critical security issue’ had been discovered in the programming language PHP",
-   "url": "https://www.independent.co.uk/news/uk/home-news/php-government-websites-services-issues-b3071405.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T12:14:26+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "67018a3f92878673",
-   "title": "Autumn Budget 2026: Background briefing",
-   "summary": "Ahead of the 2026 Autumn Budget on 28 October, this briefing looks at the economic situation, economic forecasts and the public finances.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12245/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-22T12:13:31+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "09e796abbd956e2e",
-   "title": "Tony de Vizio: The Tories need to build an economy of advancement",
-   "summary": "A Conservative government cannot guarantee where somebody finishes. It should not try. But it can build an economy of advancement where every step forward, wherever you are in your economic journey, makes the next one easier, giving people greater control over their own lives. The post Tony de…",
-   "url": "https://conservativehome.com/2026/10/22/tony-de-vizio-the-tories-need-to-build-an-economy-of-advancement/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-22T12:00:46+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "070ba4ea5156005f",
-   "title": "Thirty-two Government services offline amid PHP cybersecurity issue",
-   "summary": "No 10 said no large UK public-facing critical services have been affected, but some ‘limited’ Government websites have temporarily gone dark.",
-   "url": "https://www.independent.co.uk/news/uk/politics/work-john-healey-times-radio-office-for-budget-responsibility-ncsc-b3071442.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T12:00:16+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d8a8eddb5a49d34a",
-   "title": "John Healey vows to be a chancellor ‘who backs business’ ahead of Budget",
-   "summary": "Chancellor says he is seeking to rebuild the damaged relationship between Labour and business",
-   "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-business-b3071198.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T11:42:42+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "0e879112196f45df",
-   "title": "Tax online sales more heavily to save high streets, Burnham urged",
-   "summary": "Exclusive: British Chambers of Commerce president calls for overhaul of business rates and greater powers for local leaders How Middleton’s revival could inspire struggling towns What makes a good town? Here are five key ingredients Andy Burnham has been urged by one of his most senior former…",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T11:32:45+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e337b73f12b45da9",
-   "title": "‘Limited’ Government services temporarily offline amid PHP cybersecurity issue",
-   "summary": "Downing Street did not provide details of which websites are affected.",
-   "url": "https://www.independent.co.uk/news/uk/politics/government-downing-street-work-openai-b3071412.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T11:08:55+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3a8e9f2562f03d8d",
-   "title": "Child Benefit: service availability and issues",
-   "summary": "Check the availability and any issues affecting the Child Benefit online service.",
-   "url": "https://www.gov.uk/government/publications/child-benefit-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-22T10:46:04Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f494590686149ee1",
-   "title": "Constituency data: Wages",
-   "summary": "Interactive dashboard providing constituency-level data on wages, expressed as the median gross weekly pay for full-time employees.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10524/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-22T10:09:20+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fb57c70b0f26155a",
-   "title": "Stock up to survive 'extreme weather and cyber attacks', government urges",
-   "summary": "The UK is urging households to stock up enough emergency supplies to survive for three days in a crisis as part of a new campaign to strengthen national resilience.",
-   "url": "https://news.sky.com/story/government-launches-new-push-to-prepare-uk-for-emergencies-and-hostile-acts-13602203",
-   "source": "Sky News Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T10:09:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15609,14 +15618,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 6,
+   "new": 5,
    "note": ""
   },
   {
@@ -15630,7 +15639,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
@@ -15644,7 +15653,7 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15657,9 +15666,9 @@
   {
    "name": "LabourList",
    "group": "Party voices",
-   "ok": true,
+   "ok": false,
    "new": 0,
-   "note": ""
+   "note": "feed returned no articles"
   },
   {
    "name": "Lib Dem Voice",
@@ -15672,7 +15681,7 @@
    "name": "UK in a Changing Europe",
    "group": "Analysis",
    "ok": true,
-   "new": 15,
+   "new": 16,
    "note": ""
   },
   {
@@ -16303,7 +16312,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133789,
+   "signatures": 133809,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16312,7 +16321,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 125231,
+   "signatures": 125323,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16321,7 +16330,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 111434,
+   "signatures": 111489,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16330,7 +16339,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86401,
+   "signatures": 86427,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16339,7 +16348,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 79533,
+   "signatures": 79565,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16348,7 +16357,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74446,
+   "signatures": 74473,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16357,7 +16366,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 58765,
+   "signatures": 59378,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16366,7 +16375,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55579,
+   "signatures": 55581,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16375,7 +16384,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55476,
+   "signatures": 55503,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16384,7 +16393,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50557,
+   "signatures": 50562,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16393,7 +16402,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46274,
+   "signatures": 46294,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16402,7 +16411,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44932,
+   "signatures": 44947,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
