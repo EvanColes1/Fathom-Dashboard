@@ -1,22 +1,42 @@
 {
- "updated": "2026-11-01T13:10:38.516450+00:00",
+ "updated": "2026-11-01T15:51:05.693544+00:00",
  "government": "Labour",
  "articles": [
   {
-   "id": "798bc911c0b7ca26",
-   "title": "Reform and Farage ‘don’t do defence’ in parliament, new analysis shows",
-   "summary": "Analysis of debates in parliament show that Nigel Farage only appeared in less than 5 per cent in defence debates in parliament despite being Reform’s defence spokesman",
-   "url": "https://www.independent.co.uk/news/uk/politics/farage-reform-defence-parliament-analysis-b3076542.html",
+   "id": "94366d677245165a",
+   "title": "Badenoch claims British empire was force for good overall: ‘We have had enough of apologies’",
+   "summary": "The Tory leader criticised the prime minister for considering a formal apology for slavery",
+   "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-british-empire-slavery-apology-b3077038.html",
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-01T12:45:18+00:00",
+   "published": "2026-11-01T15:48:28+00:00",
    "dateonly": false,
    "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9ce296a0ad42e5a7",
+   "title": "Treasury minister criticised for suggesting employers are not ‘working people’",
+   "summary": "Reform UK Treasury spokesman Robert Jenrick said: ‘Labour don’t think employers are working people’",
+   "url": "https://www.independent.co.uk/news/uk/politics/emma-reynolds-working-people-treasury-b3077110.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T15:40:56+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
     "Reform UK"
    ],
    "topics": [
-    "Defence"
+    "Tax and spending"
    ],
    "tax": [],
    "countries": []
@@ -29,7 +49,7 @@
    "source": "Guardian Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-01T12:38:39+00:00",
+   "published": "2026-11-01T15:15:31+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
@@ -37,6 +57,119 @@
    "topics": [],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "e74dff9153c670f6",
+   "title": "Bank of England set to rise interest rates for first time since 2023",
+   "summary": "Inflation is expected to be pushed higher this winter after Ofgem's energy price cap rose by 3.6% for a typical household on October 1",
+   "url": "https://www.independent.co.uk/news/uk/politics/interest-rates-increase-bank-of-england-b3077035.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T15:14:28+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "55a7a0a75ac1cea7",
+   "title": "Green party must avoid being taken over by hard left, says former leader",
+   "summary": "Adrian Ramsay says some new members would be ‘more at home’ in Your Party or Socialist Workers party The former Green party leader Adrian Ramsay has said the party must fix its internal democracy to avoid a takeover by the hard left, saying that some new members “might be more at home” in Your…",
+   "url": "https://www.theguardian.com/politics/2026/nov/01/green-party-must-avoid-hard-left-takeover-says-former-leader-adrian-ramsay",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T14:35:39+00:00",
+   "dateonly": false,
+   "parties": [
+    "Green Party",
+    "Your Party"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e9055a5ae0c0357a",
+   "title": "Green Party at 'crossroads', says former co-leader",
+   "summary": "Adrian Ramsay suggested the party needs to focus on its \"core values\", including environmental issues.",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2wkp7e0q9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T14:22:33+00:00",
+   "dateonly": false,
+   "parties": [
+    "Green Party"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4f81832f69080de3",
+   "title": "Rachel Reeves calls for UK to rejoin EU: ‘Brexit has made us poorer, weaker and less secure’",
+   "summary": "The former chancellor said she ‘welcomed’ moves from Andy Burnham to reopen the door to Brussels",
+   "url": "https://www.independent.co.uk/news/uk/politics/brexit-rachel-reeves-rejoin-eu-europe-brussels-andy-burnham-b3076971.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T13:16:19+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Belgium"
+   ]
+  },
+  {
+   "id": "798bc911c0b7ca26",
+   "title": "Reform and Farage ‘don’t do defence’ in parliament, new analysis shows",
+   "summary": "Analysis of debates in parliament show that Nigel Farage only appeared in less than 5 per cent in defence debates in parliament despite being Reform’s defence spokesman",
+   "url": "https://www.independent.co.uk/news/uk/politics/farage-reform-defence-parliament-analysis-b3076542.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T13:12:47+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "641fcec3e146e5fc",
+   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+   "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-01T13:11:37+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "North Korea"
+   ]
   },
   {
    "id": "7bf79c5d111792a9",
@@ -95,7 +228,7 @@
   },
   {
    "id": "de77300dcc63145a",
-   "title": "Shops looted as German cost of living protests turn violent",
+   "title": "Shops looted as German cost-of-living protests turn violent",
    "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
    "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -104,9 +237,7 @@
    "published": "2026-11-01T11:57:48+00:00",
    "dateonly": false,
    "parties": [],
-   "topics": [
-    "Economy"
-   ],
+   "topics": [],
    "tax": [],
    "countries": [
     "France",
@@ -142,25 +273,6 @@
    "group": "News",
    "party_voice": "",
    "published": "2026-11-01T11:26:46+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "94366d677245165a",
-   "title": "Badenoch claims British empire was force for good overall: ‘We have had enough of apologies’",
-   "summary": "The Tory leader criticised the prime minister for considering a formal apology for slavery",
-   "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-british-empire-slavery-apology-b3077038.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-01T11:06:12+00:00",
    "dateonly": false,
    "parties": [
     "Conservative"
@@ -345,41 +457,6 @@
    "countries": []
   },
   {
-   "id": "641fcec3e146e5fc",
-   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-   "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-01T09:28:06+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "North Korea"
-   ]
-  },
-  {
-   "id": "e74dff9153c670f6",
-   "title": "Bank of England set to rise interest rates for first time since 2023",
-   "summary": "Inflation is expected to be pushed higher this winter after Ofgem's energy price cap rose by 3.6% for a typical household on October 1",
-   "url": "https://www.independent.co.uk/news/uk/politics/interest-rates-increase-bank-of-england-b3077035.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-01T09:21:16+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy",
-    "Energy bills"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "13e70e5a8567d36f",
    "title": "Asylum seekers still being sent to France under ‘one in one out’ weeks after scheme ended",
    "summary": "Guardian understands Home Office continues to detain dozens of people, with one group forcibly removed this week The Home Office is still putting asylum seekers on to planes to France weeks after the controversial scheme to remove them ended, the Guardian has learned. The “one in, one out” scheme…",
@@ -401,7 +478,7 @@
   {
    "id": "f47e348631770dc8",
    "title": "Why Scottish nationalists should see Burnham as a real threat – and an opportunity | Rory Scothorne",
-   "summary": "The PM’s goals may spell bad news for the SNP. Ironically, his EU bridge-building could also resurrect their dreams of independence Fifty years ago this month, a group of leftwing Scots gathered in the Golden Lion hotel in Stirling for the inaugural conference of a new political party. The…",
+   "summary": "The PM’s goals may spell bad news for the SNP. But his EU bridge-building could also resurrect its dreams of independence Fifty years ago this month, a group of leftwing Scots gathered in the Golden Lion hotel in Stirling for the inaugural conference of a new political party. The “Scottish Labour…",
    "url": "https://www.theguardian.com/commentisfree/2026/nov/01/scottish-nationalists-burnham-threat-opportunity-labour-eu",
    "source": "Guardian Politics",
    "group": "News",
@@ -590,28 +667,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "4f81832f69080de3",
-   "title": "Rachel Reeves calls for UK to rejoin EU: ‘Brexit has made us poorer, weaker and less secure’",
-   "summary": "The former chancellor said she ‘welcomed’ moves from Andy Burnham to reopen the door to Brussels",
-   "url": "https://www.independent.co.uk/news/uk/politics/brexit-rachel-reeves-rejoin-eu-europe-brussels-andy-burnham-b3076971.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-31T23:16:11+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Belgium"
-   ]
   },
   {
    "id": "e06f03b340d2f13f",
@@ -15556,61 +15611,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "a6551777cd5c0adf",
-   "title": "Rosebank row: will Labour block the oilfield? – podcast",
-   "summary": "The government has given the go-ahead for the Jackdaw gasfield, but that was the easy part. The next big headache is the Rosebank oilfield. The energy secretary, Miatta Fahnbulleh, has indicated she might reject this licence because of the project’s expected environmental impact, but could Andy…",
-   "url": "https://www.theguardian.com/politics/audio/2026/oct/22/rosebank-row-will-labour-block-the-oilfield-podcast",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T13:24:13+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "468b6f8e5d56a62c",
-   "title": "Reform UK and Greens no longer considered main parties, stark new poll shows",
-   "summary": "Voters appear to be losing confidence in the idea that Nigel Farage would lead a government as prime minister",
-   "url": "https://www.independent.co.uk/news/uk/politics/reform-greens-farage-main-party-yougov-poll-b3071481.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T13:09:34+00:00",
-   "dateonly": false,
-   "parties": [
-    "Reform UK",
-    "Green Party"
-   ],
-   "topics": [
-    "Elections",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b1e7d11a118f2a68",
-   "title": "Three-quarters of small business owners delay having kids or buying houses over tax fears",
-   "summary": "More than half of firms surveyed say they’ll respond to a bad Budget by raising prices",
-   "url": "https://www.independent.co.uk/news/business/tax-ni-budget-sme-founders-owners-property-children-b3071315.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T13:08:52+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15618,14 +15618,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 1,
    "note": ""
   },
   {
@@ -15639,21 +15639,21 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15709,7 +15709,7 @@
    "name": "Resolution Foundation",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 6,
+   "new": 7,
    "note": ""
   },
   {
@@ -16312,7 +16312,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133809,
+   "signatures": 133831,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16321,7 +16321,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 125323,
+   "signatures": 125373,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16330,7 +16330,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 111489,
+   "signatures": 111528,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16339,7 +16339,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86427,
+   "signatures": 86454,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16348,7 +16348,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 79565,
+   "signatures": 79583,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16357,7 +16357,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74473,
+   "signatures": 74485,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16366,7 +16366,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 59378,
+   "signatures": 59729,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16375,7 +16375,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55581,
+   "signatures": 55582,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16384,7 +16384,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55503,
+   "signatures": 55529,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16393,7 +16393,7 @@
   {
    "id": 763721,
    "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50562,
+   "signatures": 50566,
    "created": "2026-03-09T10:16:27.934Z",
    "responded": true,
    "debate": false,
@@ -16402,7 +16402,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46294,
+   "signatures": 46306,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16411,7 +16411,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44947,
+   "signatures": 44951,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
