@@ -1,7 +1,76 @@
 {
- "updated": "2026-11-01T06:22:44.136271+00:00",
+ "updated": "2026-11-01T07:22:36.614431+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "acb8fbeef0efbbfb",
+   "title": "Energy bills help 'doesn't go far enough'",
+   "summary": "Families in the West Midlands say they are worried about paying winter energy bills.",
+   "url": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-01T07:15:06+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2481c03b84574483",
+   "title": "Diwali hampers to bring hope to families in need",
+   "summary": "The Diwali Basket Brigade volunteers want to help vulnerable households with rising food prices.",
+   "url": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-01T07:11:33+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "de77300dcc63145a",
+   "title": "Shops looted as German cost of living protests turn violent",
+   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+   "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-01T07:05:50+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "France",
+    "Germany"
+   ]
+  },
+  {
+   "id": "f773110bf72fd57e",
+   "title": "Our top ten picks of the week",
+   "summary": "ConservativeHome's round-up of ten of our best articles from the preceding week. The post Our top ten picks of the week appeared first on Conservative Home .",
+   "url": "https://conservativehome.com/2026/11/01/our-top-ten-picks-of-the-week-240/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-11-01T07:00:58+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "b7472518fb00f600",
    "title": "How to move parcels from Great Britain to Northern Ireland for express operators",
@@ -75,25 +144,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "de77300dcc63145a",
-   "title": "Shops looted as German cost of living protests turn violent",
-   "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
-   "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-01T01:59:57+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": [
-    "Germany"
-   ]
   },
   {
    "id": "4f81832f69080de3",
@@ -15533,57 +15583,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "f607ac89b7c2e222",
-   "title": "Help to prevent payroll errors and PAYE RTI disputed charges — GfC22",
-   "summary": "Find out how to avoid common errors that employers make when completing their PAYE RTI returns.",
-   "url": "https://www.gov.uk/government/publications/help-to-prevent-payroll-errors-and-paye-rti-disputed-charges-gfc22",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "promotional",
-   "party_voice": "",
-   "published": "2026-10-22T09:00:04Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "016cbc7d20cfceb0",
-   "title": "‘I worked in government during UK riots – controlling them is a balancing act’",
-   "summary": "As riots in France lead to increasingly dramatic measures, ex-deputy cabinet secretary Helen MacNamara explains the important balancing act governments face during mass unrest. Report by Maja Anushka",
-   "url": "https://www.independent.co.uk/news/uk/politics/france-paris-riots-uk-tottenham-grenfell-b3070078.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T08:52:23+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": [
-    "France"
-   ]
-  },
-  {
-   "id": "fe1d75fc73dea572",
-   "title": "Statistics of government revenues from UK oil and gas production",
-   "summary": "Statistics of government revenues from UK oil and gas production, including data for fields subject to Petroleum Revenue Tax (PRT).",
-   "url": "https://www.gov.uk/government/statistics/government-revenues-from-uk-oil-and-gas-production--2",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "national_statistics",
-   "party_voice": "",
-   "published": "2026-10-22T08:30:10Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15619,21 +15618,21 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -16294,7 +16293,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 125128,
+   "signatures": 125145,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16303,7 +16302,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 111394,
+   "signatures": 111397,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16312,7 +16311,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86371,
+   "signatures": 86376,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16321,7 +16320,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 79500,
+   "signatures": 79509,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16330,7 +16329,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74420,
+   "signatures": 74423,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16339,7 +16338,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 58421,
+   "signatures": 58462,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16348,7 +16347,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55575,
+   "signatures": 55576,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16357,7 +16356,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55448,
+   "signatures": 55449,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16375,7 +16374,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46262,
+   "signatures": 46265,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16384,7 +16383,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44926,
+   "signatures": 44927,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,

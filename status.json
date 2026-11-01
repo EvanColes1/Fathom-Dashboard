@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T06:22:44.136271+00:00",
+ "updated": "2026-11-01T07:22:36.614431+00:00",
  "feeds": [
   {
    "name": "BBC World",
@@ -12,7 +12,7 @@
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 5,
+   "new": 3,
    "note": ""
   },
   {
@@ -26,7 +26,7 @@
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -40,7 +40,7 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -75,7 +75,7 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
@@ -124,7 +124,7 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 21,
+   "new": 20,
    "note": "via backup feed"
   },
   {
@@ -187,7 +187,7 @@
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
