@@ -1,7 +1,44 @@
 {
- "updated": "2026-11-01T01:28:20.173785+00:00",
+ "updated": "2026-11-01T04:09:13.174515+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "c60036466df179ee",
+   "title": "Reeves says UK's future should be inside the EU",
+   "summary": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\".",
+   "url": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T02:57:34+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "de77300dcc63145a",
+   "title": "Shops looted as German cost of living protests turn violent",
+   "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+   "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-01T01:59:57+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "Germany"
+   ]
+  },
   {
    "id": "4f81832f69080de3",
    "title": "Rachel Reeves calls for UK to rejoin EU: ‘Brexit has made us poorer, weaker and less secure’",
@@ -41,6 +78,24 @@
     "Elections",
     "Party leadership",
     "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "abae9b2306a19bdb",
+   "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+   "summary": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+   "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-10-31T17:26:29+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Elections"
    ],
    "tax": [],
    "countries": []
@@ -15523,55 +15578,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "b6c3c71c9e608482",
-   "title": "2008 and all that…",
-   "summary": "What do a decade and a half of low growth, the rise of populism across the political spectrum,… The post 2008 and all that… appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/2008-and-all-that/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-22T08:17:21+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "bbb40363319c6b9a",
-   "title": "You be the chancellor: play our budget game to see if you can balance the books",
-   "summary": "See if you can do a better job than John Healey at creating a budget that keeps MPs and the bond markets onside On 28 October, John Healey will announce the autumn budget to parliament. As in all years, the chancellor has to strike a balance between the following: Raising the money needed to fund…",
-   "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T08:04:59+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "a7c2f2b8b2de843c",
-   "title": "Tell HMRC your employment related securities scheme has ended",
-   "summary": "What you need to do to cease an employment related securities scheme.",
-   "url": "https://www.gov.uk/guidance/tell-hmrc-your-employment-related-securitiesscheme-has-ended",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-22T07:45:08Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15579,7 +15585,7 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 5,
    "note": ""
   },
   {
@@ -15600,14 +15606,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
@@ -15695,7 +15701,110 @@
    "note": ""
   }
  ],
- "parties": [],
+ "parties": [
+  {
+   "name": "Labour",
+   "abbr": "Lab",
+   "colour": "#d50000",
+   "seats": 404
+  },
+  {
+   "name": "Conservative",
+   "abbr": "Con",
+   "colour": "#0063ba",
+   "seats": 118
+  },
+  {
+   "name": "Liberal Democrat",
+   "abbr": "LD",
+   "colour": "#fc7d0b",
+   "seats": 71
+  },
+  {
+   "name": "Independent",
+   "abbr": "Ind",
+   "colour": "#909090",
+   "seats": 11
+  },
+  {
+   "name": "Reform UK",
+   "abbr": "RUK",
+   "colour": "#12b6cf",
+   "seats": 8
+  },
+  {
+   "name": "Scottish National Party",
+   "abbr": "SNP",
+   "colour": "#fff685",
+   "seats": 8
+  },
+  {
+   "name": "Sinn Féin",
+   "abbr": "SF",
+   "colour": "#02665f",
+   "seats": 7
+  },
+  {
+   "name": "Democratic Unionist Party",
+   "abbr": "DUP",
+   "colour": "#d46a4c",
+   "seats": 5
+  },
+  {
+   "name": "Green Party",
+   "abbr": "Green",
+   "colour": "#78b82a",
+   "seats": 5
+  },
+  {
+   "name": "Plaid Cymru",
+   "abbr": "PC",
+   "colour": "#348837",
+   "seats": 4
+  },
+  {
+   "name": "Social Democratic & Labour Party",
+   "abbr": "SDLP",
+   "colour": "#4ea268",
+   "seats": 2
+  },
+  {
+   "name": "Your Party",
+   "abbr": "YP",
+   "colour": "#ff3131",
+   "seats": 2
+  },
+  {
+   "name": "Alliance",
+   "abbr": "APNI",
+   "colour": "#cdaf2d",
+   "seats": 1
+  },
+  {
+   "name": "Restore Britain",
+   "abbr": "RB",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Speaker",
+   "abbr": "Spk",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Traditional Unionist Voice",
+   "abbr": "TUV",
+   "colour": "#0c3a6a",
+   "seats": 1
+  },
+  {
+   "name": "Ulster Unionist Party",
+   "abbr": "UUP",
+   "colour": "#a1cdf0",
+   "seats": 1
+  }
+ ],
  "elections": [
   {
    "id": "local.bournemouth-christchurch-and-poole.2026-11-05",
@@ -16170,7 +16279,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133763,
+   "signatures": 133764,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16179,7 +16288,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 125112,
+   "signatures": 125122,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16188,7 +16297,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 111388,
+   "signatures": 111390,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16197,7 +16306,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86365,
+   "signatures": 86369,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16206,7 +16315,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 79495,
+   "signatures": 79497,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16215,7 +16324,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74410,
+   "signatures": 74414,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16224,7 +16333,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 58314,
+   "signatures": 58380,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16242,7 +16351,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55445,
+   "signatures": 55447,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16260,7 +16369,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46259,
+   "signatures": 46260,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16269,7 +16378,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44923,
+   "signatures": 44926,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
@@ -16874,7 +16983,5 @@
    "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
   }
  ],
- "problems": [
-  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
- ]
+ "problems": []
 }

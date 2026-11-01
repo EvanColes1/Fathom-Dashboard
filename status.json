@@ -1,39 +1,39 @@
 {
- "updated": "2026-11-01T01:28:20.173785+00:00",
+ "updated": "2026-11-01T04:09:13.174515+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 6,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 5,
+   "new": 4,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -54,7 +54,7 @@
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -103,7 +103,7 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 12,
+   "new": 13,
    "note": "via backup feed"
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 6,
+   "new": 3,
    "note": ""
   },
   {
@@ -166,7 +166,7 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 26,
+   "new": 27,
    "note": "via backup feed"
   },
   {
