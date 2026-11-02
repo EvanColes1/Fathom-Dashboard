@@ -1,11 +1,72 @@
 {
- "updated": "2026-11-01T06:22:44.136271+00:00",
- "since": "2026-10-02",
+ "updated": "2026-11-02T06:41:34.154461+00:00",
+ "since": "2026-10-03",
  "whitehall": [
+  {
+   "title": "Horizon Shortfall Scheme (HSS): fixed sum offer permission to appeal process",
+   "url": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-hss-fixed-sum-offer-permission-to-appeal-process",
+   "published": "2026-11-02T00:15:01Z",
+   "kind": "guidance",
+   "orgs": [
+    "BIST",
+    "DBT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Horizon Shortfall Scheme Appeals (HSSA) process",
+   "url": "https://www.gov.uk/government/collections/horizon-shortfall-scheme-appeals-hssa-process",
+   "published": "2026-11-02T00:15:01Z",
+   "kind": "document_collection",
+   "orgs": [
+    "BIST",
+    "DBT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "HSS fixed sum offer permission to appeal process: registration form",
+   "url": "https://www.gov.uk/government/publications/hss-fixed-sum-offer-permission-to-appeal-process-registration-form",
+   "published": "2026-11-02T00:15:01Z",
+   "kind": "form",
+   "orgs": [
+    "BIST",
+    "DBT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "‘No Place for Knives’ campaign launches in London hotspots",
+   "url": "https://www.gov.uk/government/news/no-place-for-knives-campaign-launches-in-london-hotspots",
+   "published": "2026-11-02T00:01:00Z",
+   "kind": "press_release",
+   "orgs": [
+    "Home Office"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
   {
    "title": "Ecuador travel advice",
    "url": "https://www.gov.uk/foreign-travel-advice/ecuador",
-   "published": "2026-11-01T02:47:08Z",
+   "published": "2026-11-01T19:30:00Z",
    "kind": "travel_advice",
    "orgs": [
     "FCDO"
@@ -2355,73 +2416,6 @@
    "countries": [
     "United Kingdom"
    ]
-  },
-  {
-   "title": "How we protected the UK and space in September 2026",
-   "url": "https://www.gov.uk/government/news/how-we-protected-the-uk-and-space-in-september-2026",
-   "published": "2026-10-28T14:12:49Z",
-   "kind": "news_story",
-   "orgs": [
-    "NSpOC",
-    "UK Space Agency",
-    "BIST"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Budget 2026: Breathing space for Welsh families and businesses",
-   "url": "https://www.gov.uk/government/news/budget-2026-breathing-space-for-welsh-families-and-businesses",
-   "published": "2026-10-28T14:05:00Z",
-   "kind": "press_release",
-   "orgs": [
-    "Wales Office",
-    "HMT"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Plastic Packaging Tax Evaluation",
-   "url": "https://www.gov.uk/government/publications/plastic-packaging-tax-evaluation",
-   "published": "2026-10-28T13:51:00Z",
-   "kind": "research",
-   "orgs": [
-    "HMRC",
-    "HMT"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "VAT treatment of land for social housing",
-   "url": "https://www.gov.uk/government/consultations/vat-treatment-of-land-for-social-housing",
-   "published": "2026-10-28T13:49:43Z",
-   "kind": "consultation_outcome",
-   "orgs": [
-    "HMRC",
-    "HMT"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
   }
  ],
  "laws": [
@@ -2518,57 +2512,50 @@
  "attention": [
   {
    "country": "United States",
-   "news_7d": 655,
+   "news_7d": 692,
    "contributions": 104,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "Israel",
-   "news_7d": 445,
+   "news_7d": 437,
    "contributions": 37,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "Russia",
-   "news_7d": 297,
+   "news_7d": 304,
    "contributions": 136,
    "debates": 2,
    "statements": 1
   },
   {
    "country": "Ukraine",
-   "news_7d": 255,
+   "news_7d": 256,
    "contributions": 159,
    "debates": 1,
    "statements": 0
   },
   {
-   "country": "Palestine",
-   "news_7d": 219,
-   "contributions": 29,
-   "debates": 1,
-   "statements": 0
-  },
-  {
    "country": "Iran",
-   "news_7d": 218,
+   "news_7d": 229,
    "contributions": 104,
    "debates": 3,
    "statements": 0
   },
   {
-   "country": "France",
-   "news_7d": 191,
-   "contributions": 97,
-   "debates": 0,
-   "statements": 1
+   "country": "Palestine",
+   "news_7d": 211,
+   "contributions": 29,
+   "debates": 1,
+   "statements": 0
   },
   {
-   "country": "Brazil",
-   "news_7d": 129,
-   "contributions": 5,
+   "country": "France",
+   "news_7d": 180,
+   "contributions": 97,
    "debates": 0,
    "statements": 1
   },
@@ -2580,22 +2567,29 @@
    "statements": 0
   },
   {
+   "country": "Brazil",
+   "news_7d": 104,
+   "contributions": 5,
+   "debates": 0,
+   "statements": 1
+  },
+  {
    "country": "Spain",
-   "news_7d": 89,
+   "news_7d": 88,
    "contributions": 43,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "Nigeria",
-   "news_7d": 86,
+   "news_7d": 83,
    "contributions": 7,
    "debates": 0,
    "statements": 0
   },
   {
    "country": "Saudi Arabia",
-   "news_7d": 86,
+   "news_7d": 82,
    "contributions": 42,
    "debates": 3,
    "statements": 1
