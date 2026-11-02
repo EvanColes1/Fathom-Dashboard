@@ -1,20 +1,124 @@
 {
- "updated": "2026-11-01T21:51:28.037080+00:00",
+ "updated": "2026-11-02T01:27:49.974326+00:00",
  "government": "Labour",
  "articles": [
   {
+   "id": "bc46b33a5267d126",
+   "title": "Binance users withdraw $3.6bn after record crypto hack",
+   "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+   "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-02T01:15:25+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a2ab8c01d1cf4ca2",
+   "title": "Skilled migrants would boost UK public finances by £115bn under current rules, analysis finds",
+   "summary": "The home secretary has faced backlash from within her own party over her migration reforms",
+   "url": "https://www.independent.co.uk/news/uk/politics/skilled-migrants-boost-uk-finances-ippr-analysis-b3077084.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-02T00:03:07+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "609eda156f789255",
+   "title": "Antigua and Barbuda PM says Burnham should offer reparations",
+   "summary": "Gaston Browne warned there could be a repeat of the past “atrocities” in the future if reparations are not paid",
+   "url": "https://www.independent.co.uk/news/uk/politics/burnham-caribbean-reparations-king-charles-b3077234.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T23:37:11+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a8062c895b5b02df",
+   "title": "Don't get caught out by new Buy Now Pay Later rules",
+   "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+   "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-01T23:34:49+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "2e3df1535eab5b00",
    "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-   "summary": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials initially insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and…",
+   "summary": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and…",
    "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
    "source": "Guardian Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-01T19:50:39+00:00",
+   "published": "2026-11-01T22:26:11+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
     "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "54669da7ed8abb95",
+   "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+   "summary": "The BBC's Clive Myrie travelled to North Caroline where voters voiced their frustrations ahead of midterm elections.",
+   "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-01T22:25:51+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Elections"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "b53b963af9304ed6",
+   "title": "Home secretary to announce new immigration rules",
+   "summary": "Home Secretary Shabana Mahmood will make a statement on new immigration laws on Monday.",
+   "url": "https://news.sky.com/story/home-secretary-to-announce-new-immigration-rules-13606832",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-01T21:30:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
    ],
    "tax": [],
    "countries": []
@@ -1171,6 +1275,23 @@
    "topics": [],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "a2f28390745f4faf",
+   "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+   "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+   "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-10-31T02:12:19+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "North Korea"
+   ]
   },
   {
    "id": "ffdf7eee4963fc2b",
@@ -3479,8 +3600,8 @@
    "title": "Bereaved families will not face tax bill over pension delays under new rules",
    "summary": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
    "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-29T15:18:04+00:00",
    "dateonly": false,
@@ -3517,8 +3638,8 @@
    "title": "Your pay, energy bills and savings: How the Budget affects you",
    "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
    "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-29T15:11:35+00:00",
    "dateonly": false,
@@ -3904,8 +4025,8 @@
    "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
    "summary": "Budget forecasts show growth in living standards grinding almost to a halt.",
    "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-29T13:19:24+00:00",
    "dateonly": false,
@@ -5384,8 +5505,8 @@
    "title": "Healey provides some breathing space but things still set to get worse for most",
    "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
    "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-28T19:51:01+00:00",
    "dateonly": false,
@@ -5528,8 +5649,8 @@
    "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
    "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
    "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-10-28T18:45:09+00:00",
    "dateonly": false,
@@ -15504,124 +15625,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "1632c9e61c0d1343",
-   "title": "UK regional trade in goods statistics disaggregated by smaller geographical areas: 2025",
-   "summary": "International trade in goods data at summary product and country level, by UK areas smaller than ITL1.",
-   "url": "https://www.gov.uk/government/statistics/announcements/uk-regional-trade-in-goods-statistics-disaggregated-by-smaller-geographical-areas-2025",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "official_statistics_announcement",
-   "party_voice": "",
-   "published": "2026-10-22T15:27:18Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ff0a55819ab38772",
-   "title": "Winter energy supply secure but possible 'tight days' for electricity - grid operators",
-   "summary": "Britain's energy supplies are secure for winter, national grid operators have said, despite expected higher gas demand at peak times and possible \"tight days\" for electricity.",
-   "url": "https://news.sky.com/story/winter-energy-supply-secure-despite-forecast-increase-in-peak-gas-and-possible-external-events-influence-grid-operators-13602351",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-22T15:16:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f049733ff177eef7",
-   "title": "'I wasn't thinking straight' says five jobs civil servant",
-   "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
-   "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-22T15:05:47+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "9c3ade6e784f95ff",
-   "title": "Police should not be scared to wade in to stop wrongdoing, says Badenoch",
-   "summary": "The Tory leader calls for more support for police officers and the public when they step in to help.",
-   "url": "https://www.bbc.co.uk/news/articles/cj5yn079w7pro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T14:55:50+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7bac4f9a99cfbce2",
-   "title": "Andy Burnham to become first prime minister to join Celebrity Gogglebox",
-   "summary": "Labour leader was filmed in 10 Downing Street alongside his old friend Steve Rotheram, the mayor of Liverpool",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-celebrity-gogglebox-cancer-b3071482.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T14:38:05+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e3189419e5146a82",
-   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-   "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-22T14:28:59+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "be8e49222a7fcc79",
-   "title": "Post Office to launch first TV ads since Horizon scandal",
-   "summary": "The Post Office is to spend millions of pounds on its first television ads since the Horizon IT scandal, as it seeks to raise awareness of its range of bankjng services during a critical period for the state-owned company.",
-   "url": "https://news.sky.com/story/post-office-to-launch-first-tv-ads-since-horizon-scandal-13602318",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-22T14:23:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15636,28 +15639,28 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 6,
    "note": ""
   },
   {
@@ -15745,7 +15748,110 @@
    "note": ""
   }
  ],
- "parties": [],
+ "parties": [
+  {
+   "name": "Labour",
+   "abbr": "Lab",
+   "colour": "#d50000",
+   "seats": 404
+  },
+  {
+   "name": "Conservative",
+   "abbr": "Con",
+   "colour": "#0063ba",
+   "seats": 118
+  },
+  {
+   "name": "Liberal Democrat",
+   "abbr": "LD",
+   "colour": "#fc7d0b",
+   "seats": 71
+  },
+  {
+   "name": "Independent",
+   "abbr": "Ind",
+   "colour": "#909090",
+   "seats": 11
+  },
+  {
+   "name": "Reform UK",
+   "abbr": "RUK",
+   "colour": "#12b6cf",
+   "seats": 8
+  },
+  {
+   "name": "Scottish National Party",
+   "abbr": "SNP",
+   "colour": "#fff685",
+   "seats": 8
+  },
+  {
+   "name": "Sinn Féin",
+   "abbr": "SF",
+   "colour": "#02665f",
+   "seats": 7
+  },
+  {
+   "name": "Democratic Unionist Party",
+   "abbr": "DUP",
+   "colour": "#d46a4c",
+   "seats": 5
+  },
+  {
+   "name": "Green Party",
+   "abbr": "Green",
+   "colour": "#78b82a",
+   "seats": 5
+  },
+  {
+   "name": "Plaid Cymru",
+   "abbr": "PC",
+   "colour": "#348837",
+   "seats": 4
+  },
+  {
+   "name": "Social Democratic & Labour Party",
+   "abbr": "SDLP",
+   "colour": "#4ea268",
+   "seats": 2
+  },
+  {
+   "name": "Your Party",
+   "abbr": "YP",
+   "colour": "#ff3131",
+   "seats": 2
+  },
+  {
+   "name": "Alliance",
+   "abbr": "APNI",
+   "colour": "#cdaf2d",
+   "seats": 1
+  },
+  {
+   "name": "Restore Britain",
+   "abbr": "RB",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Speaker",
+   "abbr": "Spk",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Traditional Unionist Voice",
+   "abbr": "TUV",
+   "colour": "#0c3a6a",
+   "seats": 1
+  },
+  {
+   "name": "Ulster Unionist Party",
+   "abbr": "UUP",
+   "colour": "#a1cdf0",
+   "seats": 1
+  }
+ ],
  "elections": [
   {
    "id": "local.bournemouth-christchurch-and-poole.2026-11-05",
@@ -16220,7 +16326,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133918,
+   "signatures": 133938,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16229,7 +16335,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 125534,
+   "signatures": 125597,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16238,7 +16344,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 111603,
+   "signatures": 111637,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16247,7 +16353,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86497,
+   "signatures": 86509,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16256,7 +16362,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 79676,
+   "signatures": 79710,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16265,7 +16371,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74527,
+   "signatures": 74537,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16274,43 +16380,34 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 60506,
+   "signatures": 60957,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/783252"
   },
   {
-   "id": 769616,
-   "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55586,
-   "created": "2026-05-11T16:52:32.448Z",
-   "responded": true,
-   "debate": false,
-   "url": "https://petition.parliament.uk/petitions/769616"
-  },
-  {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55574,
+   "signatures": 55599,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/771401"
   },
   {
-   "id": 763721,
-   "title": "Ensure new sewage treatment infrastructure meets higher standards as in the EU",
-   "signatures": 50574,
-   "created": "2026-03-09T10:16:27.934Z",
+   "id": 769616,
+   "title": "Provide lifelong vet care and financial support for retired service animals",
+   "signatures": 55587,
+   "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
-   "url": "https://petition.parliament.uk/petitions/763721"
+   "url": "https://petition.parliament.uk/petitions/769616"
   },
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46328,
+   "signatures": 46340,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16319,11 +16416,20 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44964,
+   "signatures": 44974,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/781598"
+  },
+  {
+   "id": 776949,
+   "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
+   "signatures": 42328,
+   "created": "2026-07-13T16:08:22.844Z",
+   "responded": true,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/776949"
   }
  ],
  "indicators": [
@@ -16885,7 +16991,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-10-02",
+     "d": "2024-10-03",
      "v": 5.0
     },
     {
@@ -16924,7 +17030,5 @@
    "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
   }
  ],
- "problems": [
-  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
- ]
+ "problems": []
 }
