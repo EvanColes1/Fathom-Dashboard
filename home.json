@@ -1,7 +1,601 @@
 {
- "updated": "2026-11-02T10:23:57.268550+00:00",
+ "updated": "2026-11-02T13:29:27.328072+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "32f890107f389cbf",
+   "title": "Tories accuse Shabana Mahmood of ‘U-turn’ on indefinite leave to remain policy – UK politics live",
+   "summary": "Chris Philp says the home secretary is giving in to ‘open-borders Labour left’ ahead of an announcement this afternoon Downing Street has declined to say how much it cost for the plane carrying Andy Burnham and UK delegates to a Commonwealth leaders’ summit to stop in Manchester to pick him up (see…",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-02T13:24:07+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2bbdae702ea12751",
+   "title": "Shop freezers in six European countries hit by suspected cyber-attack",
+   "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+   "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-02T13:19:56+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4fd1c62425d2553e",
+   "title": "Apply for approval for Vaping Products Duty and the Vaping Duty Stamps Scheme",
+   "summary": "What you need to do to apply for approval for Vaping Products Duty and the Vaping Duty Stamps Scheme.",
+   "url": "https://www.gov.uk/guidance/apply-for-approval-for-vaping-products-duty-and-the-vaping-duty-stamps-scheme",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-02T13:15:34Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Fuel and duties"
+   ],
+   "countries": []
+  },
+  {
+   "id": "4e3ef93b0184d9c4",
+   "title": "Cancel your approval for Vaping Products Duty or the Vaping Duty Stamps Scheme",
+   "summary": "How to cancel your approval as an excise warehousekeeper, a vaping products manufacturer, or for vaping duty stamps.",
+   "url": "https://www.gov.uk/guidance/cancel-your-approval-for-vaping-products-duty-or-the-vaping-duty-stamps-scheme",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-02T13:15:28Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Fuel and duties"
+   ],
+   "countries": []
+  },
+  {
+   "id": "ebd336f8fa16bde2",
+   "title": "How to get authorisation as an excise warehousekeeper",
+   "summary": "Find out how to apply to operate as an excise warehousekeeper and how to make changes or cancel your authorisation.",
+   "url": "https://www.gov.uk/guidance/apply-for-authorisation-as-an-excise-warehousekeeper",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-02T13:15:11Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "69bcdb9c03680036",
+   "title": "Apply to be an excise warehousekeeper",
+   "summary": "Apply for authorisation from HMRC to operate as an excise warehousekeeper for alcohol, tobacco and vaping products.",
+   "url": "https://www.gov.uk/guidance/apply-to-be-an-excise-warehousekeeper",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-02T13:14:57Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4c252a53a6e59653",
+   "title": "Registration and approval of excise goods held in duty suspension (Excise Notice 196)",
+   "summary": "Requirements for excise goods held in duty suspension in a warehouse by an authorised warehousekeeper or registered consignor in the UK.",
+   "url": "https://www.gov.uk/guidance/registration-and-approval-of-excise-goods-held-in-duty-suspension-excise-notice-196",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-02T13:14:49Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4eea61806be36fef",
+   "title": "Cancel your excise warehousekeeper authorisation",
+   "summary": "How to cancel your authorisation as an excise warehousekeeper.",
+   "url": "https://www.gov.uk/guidance/cancel-your-excise-warehousekeeper-authorisation",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-02T13:14:34Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4357af9f73d21b80",
+   "title": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
+   "summary": "Prospect to hold workplace sessions and recruit members under agreement with tech company Trade unions are expected to make further inroads into big tech companies in the UK after new rights for unions to access workplaces came into force , with Google UK signing an agreement on Monday. The…",
+   "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-02T13:00:41+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8f83345f79cd9028",
+   "title": "Alex Challoner: I’m not going to be the Mayor of London, but here is what the successful Tory nominee must do",
+   "summary": "It has been an honour and privilege to seek the party’s nomination this time. But, and it might sound odd, I hope that, when it comes to selecting a mayoral candidate for the 2032 City Hall elections, that I will not feel compelled to throw my hat into the ring again. The post Alex Challoner: I’m…",
+   "url": "https://conservativehome.com/2026/11/02/alex-challoner-im-not-going-to-be-the-mayor-of-london-but-here-is-what-the-successful-tory-nominee-must-do/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-11-02T13:00:36+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "359599055c71217e",
+   "title": "Chris Mason: Home secretary to face scrutiny over changes to rules for legal migrants",
+   "summary": "At the heart of the debate around legal migration are contested notions of fairness, our political editor writes.",
+   "url": "https://www.bbc.co.uk/news/articles/ck4g13zrm513o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-02T12:58:05+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4167d34e55e21490",
+   "title": "Import Control System 2: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Import Control System 2 (ICS2) service.",
+   "url": "https://www.gov.uk/government/publications/import-control-system-2-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-02T12:46:31Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7a58968f8875ebd4",
+   "title": "How to work out your Alcohol Duty rates if you’re eligible for Small Producer Relief",
+   "summary": "The figures you’ll need and how to use them to work out your discounted duty rates.",
+   "url": "https://www.gov.uk/guidance/how-to-work-out-your-alcohol-duty-rates-if-youre-eligible-for-small-producer-relief",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-02T12:44:39Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Fuel and duties"
+   ],
+   "countries": []
+  },
+  {
+   "id": "5aabc9a0abf901fc",
+   "title": "Mahmood to set out changes to settlement rules for legal migrants",
+   "summary": "The home secretary will lay out a revised proposal for changing when migrants can claim permanent residency later.",
+   "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-02T12:43:10+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4652b6ad9bef1936",
+   "title": "Ryanair says it may freeze workers' pay and raise airfares",
+   "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+   "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-02T12:22:10+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "dfdecbb36d3c6747",
+   "title": "Downing Street denies Andy Burnham is poised for slave trade payouts",
+   "summary": "It comes as the prime minister has said he is willing to consider an apology for the UK’s historic involvement in the slave trade",
+   "url": "https://www.independent.co.uk/news/uk/politics/slave-trade-reparations-andy-burnham-b3077389.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-02T12:20:36+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fa1fd3ea85219396",
+   "title": "Customs Declaration Service: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Customs Declaration Service.",
+   "url": "https://www.gov.uk/guidance/customs-declaration-service-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-02T12:14:19Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b4705b408391d269",
+   "title": "Hundreds of employers handed penalties for illegally underpaying workers",
+   "summary": "389 employers from across the UK named for failing to pay workers the minimum wage to tens of thousands of workers.",
+   "url": "https://www.gov.uk/government/news/hundreds-of-employers-handed-penalties-for-illegally-underpaying-workers",
+   "source": "DBT",
+   "group": "Government",
+   "kind": "press_release",
+   "party_voice": "",
+   "published": "2026-11-02T12:09:14Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0c0a1dfa08e800c2",
+   "title": "Check if an email you've received from HMRC is genuine",
+   "summary": "Check a list of recent emails from HMRC to help you decide if the email you've received is a scam.",
+   "url": "https://www.gov.uk/guidance/check-if-an-email-youve-received-from-hmrc-is-genuine",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-02T12:07:14Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "25b29e8ad5f36079",
+   "title": "Hundreds of thousands more people to be pushed into poverty by Labour’s freeze on housing benefit",
+   "summary": "Exclusive: Leading charities warn that the decision will ‘undermine’ Andy Burnham’s pledge to end rough sleeping",
+   "url": "https://www.independent.co.uk/news/uk/politics/burnham-homelessness-rough-sleeping-housing-benefit-freeze-budget-b3077339.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-02T12:06:22+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "766cced10762e623",
+   "title": "Cabinet Office and HM Treasury small and medium-sized enterprise (SME) action plan: 2025 to 2028",
+   "summary": "Cabinet Office (CO) and HM Treasury (HMT) are backing your business by making it easier for small businesses to access public sector supply chains, removing unnecessary burdens and costs.",
+   "url": "https://www.gov.uk/government/publications/cabinet-office-and-hm-treasury-small-and-medium-sized-enterprise-sme-action-plan-2025-to-2028--2",
+   "source": "Cabinet Office",
+   "group": "Government",
+   "kind": "policy_paper",
+   "party_voice": "",
+   "published": "2026-11-02T11:43:24Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d1c41169fa38998e",
+   "title": "Why the National Commission on Electoral Reform must consider compulsory voting",
+   "summary": "David Klemperer argues that any upcoming national commission on electoral reform should address the question of whether to introduce compulsory voting. In... The post Why the National Commission on Electoral Reform must consider compulsory voting appeared first on UK in a changing Europe .",
+   "url": "https://ukandeu.ac.uk/why-the-national-commission-on-electoral-reform-must-consider-compulsory-voting/",
+   "source": "UK in a Changing Europe",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-02T11:40:39+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1917015fc7a0ad49",
+   "title": "More than 800,000 low-income families to miss out on £100 energy payment",
+   "summary": "Researchers have labelled the scheme ‘imperfect’",
+   "url": "https://www.independent.co.uk/news/uk/home-news/government-100-energy-payment-household-eligible-labour-budget-b3077338.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-02T11:28:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "76f5825812298600",
+   "title": "The types of extreme pornography that will be banned from Friday",
+   "summary": "Conservative peer Baroness Gabby Bertin said the ban comes ‘not a moment too soon’",
+   "url": "https://www.independent.co.uk/news/uk/politics/crime-policing-act-2026-pornography-ban-uk-b3077425.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-02T11:26:12+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f0162fb712cbd2df",
+   "title": "Claim tax relief if you paid UK-source yearly interest to an overseas lender without deducting tax",
+   "summary": "Find out if you can claim Income Tax relief under a double taxation agreement if you paid interest to an overseas lender without making the correct deductions to account for Income Tax.",
+   "url": "https://www.gov.uk/guidance/claim-tax-relief-if-you-paid-uk-source-yearly-interest-to-an-overseas-lender-without-deducting-tax",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-02T11:17:41Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Income tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "d4ec244e9d355c22",
+   "title": "How the SAS tracked a notorious IRA sniper to a secluded thorn bush",
+   "summary": "A SAS commando tells Sam Kiley how the imperative was to try and take Bernard McGinn alive in 1997 in order not to jeopardise political peace negotiations going on behind the scenes",
+   "url": "https://www.independent.co.uk/news/uk/politics/ira-sniper-sas-northern-ireland-peace-b3063697.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-02T11:11:43+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2af400a0abc72fe3",
+   "title": "Save As You Earn (SAYE): end of year return template and guidance notes",
+   "summary": "Use the template or technical note to create your own template to tell HMRC of registered tax advantaged Save As You Earn (SAYE) options.",
+   "url": "https://www.gov.uk/government/publications/save-as-you-earn-end-of-year-template",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-02T10:57:15Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "af154e5646f4159b",
+   "title": "Government making up China policy as it goes along, say MPs",
+   "summary": "A report by the Business, Innovation, Science and Trade Committee said decision-making had been characterised by \"inconsistency\".",
+   "url": "https://www.bbc.co.uk/news/articles/cr86zn9lj8p1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-02T10:53:20+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "c3fd878ec6622c3b",
+   "title": "Barclays to begin car finance payouts months before outcome of legal challenge",
+   "summary": "Barclays will this week become the first major UK lender to begin offering compensation payments to former motor finance customers, even as the industry's big financiers face waiting months for the outcome of challenges to a £9bn redress scheme.",
+   "url": "https://news.sky.com/story/barclays-to-begin-car-finance-payouts-months-before-outcome-of-legal-challenge-13607016",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-02T10:43:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "79aed46ea0b27f20",
+   "title": "Ministers to hold urgent talks with Poundland chiefs",
+   "summary": "The government is to hold an urgent meeting with Poundland bosses amid growing recriminations over the discount retailer's ownership.",
+   "url": "https://news.sky.com/story/ministers-to-hold-urgent-talks-with-poundland-chiefs-13607012",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-02T10:37:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "86bcbfbbc23822af",
+   "title": "Share Incentive Plan (SIP): end of year template, technical note and guidance notes",
+   "summary": "Use this template or the technical note to create your own template to tell HMRC of registered tax advantaged Share Incentive Plan shares.",
+   "url": "https://www.gov.uk/government/publications/share-incentive-plan-end-of-year-template",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-02T10:35:27Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a7f1bcbaa6d13dbd",
+   "title": "Non-tax advantaged share schemes: end of year return template, technical note and guidance notes",
+   "summary": "Use the template or technical note to create your own template to tell HMRC of other non-tax advantaged shares and securities events.",
+   "url": "https://www.gov.uk/government/publications/other-employment-related-securities-schemes-and-arrangements-end-of-year-return-template",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-02T10:34:53Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3baef838ab05c719",
+   "title": "Enterprise Management Incentives (EMI): end of year return template and guidance notes",
+   "summary": "Use the template or technical note to create your own template to tell HMRC of registered Enterprise Management Incentives (EMI) options.",
+   "url": "https://www.gov.uk/government/publications/enterprise-management-incentives-end-of-year-template",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-02T10:34:32Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0030467f071c0efa",
+   "title": "Company Share Option Plan (CSOP): end of year return template, technical notes and guidance notes",
+   "summary": "Use the template or technical notes to create your own template (also known as EMI2) to tell HMRC of registered tax advantaged Company Share Option Plan (CSOP) options.",
+   "url": "https://www.gov.uk/government/publications/company-share-option-plan-end-of-year-return-template",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-02T10:34:09Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fa5068b2045935bb",
+   "title": "Employment related securities bulletin 70 (November 2026)",
+   "summary": "Read about accessibility improvements to the employment related securities (ERS) end of year templates, guidance and technical notes.",
+   "url": "https://www.gov.uk/guidance/employment-related-securities-bulletin-70-november-2026",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-02T10:33:54Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "00e36162b2655174",
+   "title": "Five things you need to know ahead of Making Tax Digital for Income Tax quarterly deadline",
+   "summary": "HMRC busts five common Making Tax Digital myths ahead of the 7 November quarterly update deadline.",
+   "url": "https://www.gov.uk/government/news/five-things-you-need-to-know-ahead-of-making-tax-digital-for-income-tax-quarterly-deadline",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "press_release",
+   "party_voice": "",
+   "published": "2026-11-02T10:30:05Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Income tax"
+   ],
+   "countries": []
+  },
   {
    "id": "1934407c13008b0d",
    "title": "How to account for VAT using the VAT margin scheme",
@@ -20,42 +614,19 @@
    "countries": []
   },
   {
-   "id": "32f890107f389cbf",
-   "title": "Burnham declines to say net migration still too high as Mahmood prepares to unveil tougher settlement rules – UK politics live",
-   "summary": "Home secretary to make some migrants wait 10 years or more for right to settle in UK Chris Philp , the shadow home secretary, is already ridiculing the indefinite leave to remain (ILR) announcement coming this afternoon. In a post on social media , he claimed that she was surrendering to “the…",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
-   "source": "Guardian Politics",
-   "group": "News",
+   "id": "c516881ae589d1ef",
+   "title": "Urgent questions in the House of Commons since 1997",
+   "summary": "Urgent questions asked from the beginning of the 1997-98 session, including the title, date and names of the Speaker granting, MP asking and minister responding.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-8344/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
    "party_voice": "",
-   "published": "2026-11-02T10:12:44+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4652b6ad9bef1936",
-   "title": "Ryanair says it may freeze workers' pay and raise airfares",
-   "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-   "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-02T10:04:39+00:00",
+   "published": "2026-11-02T10:02:22+00:00",
    "dateonly": false,
    "parties": [],
-   "topics": [
-    "Economy"
-   ],
+   "topics": [],
    "tax": [],
-   "countries": [
-    "Iran"
-   ]
+   "countries": []
   },
   {
    "id": "e0e783d2b07ab8ff",
@@ -70,25 +641,6 @@
    "parties": [],
    "topics": [
     "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "dfdecbb36d3c6747",
-   "title": "Downing Street denies Andy Burnham is poised for slave trade payouts",
-   "summary": "It comes as the prime minister has said he is willing to consider an apology for the UK’s historic involvement in the slave trade",
-   "url": "https://www.independent.co.uk/news/uk/politics/slave-trade-reparations-andy-burnham-b3077389.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-02T10:00:11+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
    ],
    "tax": [],
    "countries": []
@@ -631,21 +1183,6 @@
    "tax": [
     "Income tax"
    ],
-   "countries": []
-  },
-  {
-   "id": "d4ec244e9d355c22",
-   "title": "How the SAS tracked a notorious IRA sniper to a secluded thorn bush",
-   "summary": "A SAS commando tells Sam Kiley how the imperative was to try and take Bernard McGinn alive in 1997 in order not to jeopardise political peace negotiations going on behind the scenes",
-   "url": "https://www.independent.co.uk/news/uk/politics/ira-sniper-sas-northern-ireland-peace-b3063697.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-02T08:15:12+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
    "countries": []
   },
   {
@@ -2593,7 +3130,7 @@
   },
   {
    "id": "93def861e254c76c",
-   "title": "Serbia under Vucic and the 2026 parliamentary election",
+   "title": "Serbia under Aleksandar Vučić and the 2026 parliamentary election",
    "summary": "Serbia’s 2026 parliamentary election ended 14 years of government led by the Serbian Progressive Party, following two years of protests.",
    "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12267/",
    "source": "House of Commons Library",
@@ -7639,6 +8176,23 @@
    "group": "News",
    "party_voice": "",
    "published": "2026-10-28T16:52:16+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2675aa2f001e90d9",
+   "title": "The Chair’s presentation on our October 2026 Economic and fiscal outlook",
+   "summary": "Jonathan Haskel distils the key messages from our latest Economic and fiscal outlook in his press conference presentation and accompanying speaking note. The post The Chair’s presentation on our October 2026 Economic and fiscal outlook appeared first on Office for Budget Responsibility .",
+   "url": "https://obr.uk/the-chairs-presentation-on-our-october-2026-economic-and-fiscal-outlook/",
+   "source": "Office for Budget Responsibility",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-10-28T16:42:05+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
@@ -14693,21 +15247,6 @@
    "countries": []
   },
   {
-   "id": "c516881ae589d1ef",
-   "title": "Urgent questions in the House of Commons since 1997",
-   "summary": "Urgent questions asked from the beginning of the 1997-98 session, including the title, date and names of the Speaker granting, MP asking and minister responding.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-8344/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-23T15:54:24+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "c10168a46a8a4b3a",
    "title": "Manufacturing industries: Economic indicators",
    "summary": "Manufacturing is one of the production industries. Find the latest data on the activity of the UK manufacturing sector.",
@@ -15061,559 +15600,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "1f7811eab9a8c999",
-   "title": "Burnham fails to commit to bringing in Mahmood’s immigration reforms in full after cabinet backlash",
-   "summary": "The prime minister said that the government would ‘come forward with our decisions soon’ following a consultation",
-   "url": "https://www.independent.co.uk/news/uk/politics/immigration-reforms-ilr-burnham-shabana-mahmood-b3072191.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T13:25:36+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership",
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2afb318150bf6f67",
-   "title": "Airbnb hosts can't ask guests to do 'chores' anymore in rule change",
-   "summary": "Airbnb hosts will no longer be able to ask guests to do the dishes or strip the beds under new rules announced by the platform.",
-   "url": "https://news.sky.com/story/airbnb-hosts-can-no-longer-ask-guests-to-do-dishes-or-strip-bed-under-new-rules-13602685",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-23T13:05:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "81d49641146ecf24",
-   "title": "Insolvency practitioner's handbook",
-   "summary": "Find out what you need to account for and who to contact if you're an insolvency practitioner or official receiver dealing with HMRC.",
-   "url": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual",
-   "party_voice": "",
-   "published": "2026-10-23T13:03:02Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fc6fd9920b77934f",
-   "title": "14. Taking control of goods or distraint",
-   "summary": "How taking control of goods or distraint may be used to recover debt.",
-   "url": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook/14-taking-control-of-goods-or-distraint",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual_section",
-   "party_voice": "",
-   "published": "2026-10-23T13:03:02Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f3a0d38b793a926f",
-   "title": "9. Bankrupt continues to trade",
-   "summary": "Your responsibilities when trading continues after bankruptcy.",
-   "url": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook/9-bankrupt-continues-to-trade",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "manual_section",
-   "party_voice": "",
-   "published": "2026-10-23T13:03:02Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8b18fe99540508c6",
-   "title": "Andy Burnham says he has emergency stockpile of beans, soup and Twiglets",
-   "summary": "PM’s revelation follows launch of advice for households to have enough water and food to get by in civil emergency Andy Burnham has said he has stockpiles of beans, soup and Twiglets in case of a civil emergency, as he said a new government campaign was not a reason for panic buying. The prime…",
-   "url": "https://www.theguardian.com/society/2026/oct/23/andy-burnham-emergency-stockpile-twiglets",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T12:57:06+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "24f91ffe692506bb",
-   "title": "Burnham suggests stocking up on tinned food and bottled water",
-   "summary": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.",
-   "url": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T12:41:10+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "5deb14574606c02d",
-   "title": "Insolvency (VAT Notice 700/56)",
-   "summary": "Find out how to account for VAT and who to contact if you're an insolvency practitioner and you're appointed over insolvent VAT-registered businesses.",
-   "url": "https://www.gov.uk/guidance/insolvency-and-vat-notice-70056",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-23T12:27:25Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "48614122c07c6bbe",
-   "title": "Potholes, bus fares and headphone dodgers: will Burnham’s strategy of ‘everyday fixes’ succeed?",
-   "summary": "New PM has prioritised small fixes to show voters Labour can make a real difference, and government insiders are delighted at the public’s reaction In the first episode of Armando Iannucci’s political satire The Thick of It, the hapless minister Hugh Abbot is in the back of a taxi, frantically…",
-   "url": "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T12:26:53+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e85a2852ba805f76",
-   "title": "Military aircraft to help get UK 'on front foot' to fight wildfires, Burnham says",
-   "summary": "The prime minister hosted the UK's first wildfire summit to prepare for future blazes after a record summer 2026.",
-   "url": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T12:25:47+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership",
-    "Defence"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c75360ac724bd2d9",
-   "title": "What is PHP and why did it spark a global cyber-security scramble?",
-   "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-23T12:24:17+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3ecc791e67ae8097",
-   "title": "Voters verdict on Andy Burnham’s first 100 days show that good vibes are not enough",
-   "summary": "As Andy Burnham approaches his 100th day as prime minister, political editor David Maddox looks at why a third of those who expected him to be ‘good’ have been disappointed",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-prime-minister-poll-100-days-yougov-poll-b3072177.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T12:10:32+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "0971fa884cfda8eb",
-   "title": "Neville Lishman: The door is ajar in the Red Wall – we can open it further",
-   "summary": "Let’s treat everyone we speak to as someone who was once most likely with us in 2019, who shares similar values and similar aspirations. These voters are not gone, they just feel let down. The stakes at the next election have never been higher, so let’s earn their trust and together we can beat…",
-   "url": "https://conservativehome.com/2026/10/23/neville-lishman-the-door-is-ajar-in-the-red-wall-we-can-open-it-further/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-23T12:00:35+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fdb10543f1ec6073",
-   "title": "Unaffordable? No, indispensable. The government tries to move the goalposts for care workers",
-   "summary": "Jonathan Portes argues that the government has flipped from treating migrant care workers as a problem to presenting them as a necessity,... The post Unaffordable? No, indispensable. The government tries to move the goalposts for care workers appeared first on UK in a changing Europe .",
-   "url": "https://ukandeu.ac.uk/unaffordable-no-indispensable-the-government-moves-the-goalposts-for-care-workers/",
-   "source": "UK in a Changing Europe",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-23T11:54:13+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "21c6c5a82ad2efdd",
-   "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-   "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
-   "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T11:48:04+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e77bc8a9580d85af",
-   "title": "Burnham downplays adding alcohol to emergency food kits after Rayner’s ‘sauvignon blanc’ quip",
-   "summary": "Mr Burnham’s advice comes as the government unveils its ‘Be Ready’ campaign urging the public to prepare three days of key supplies",
-   "url": "https://www.independent.co.uk/news/uk/politics/alcohol-emergency-stockpile-kit-andy-burnham-britain-advice-b3072138.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T11:24:37+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "cd5a6b287ab754a9",
-   "title": "This man has quit Badenoch’s increasingly hard-right Tory party – others should be brave enough to do the same | Polly Toynbee",
-   "summary": "The London Assembly’s Andrew Boff is one of many who reject Kemi Badenoch’s authoritarian position. They are the only chance for the party’s future The chair of the London Assembly, Andrew Boff, resigned this week from the Conservative party after 53 years of membership. He quit after being blocked…",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/23/tory-party-kemi-badenoch-quit-andrew-boff",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T11:16:16+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c7b927fb5cf5cdc2",
-   "title": "Andy Burnham says politicians can ‘spot faithfuls and traitors a mile off’",
-   "summary": "The prime minister made the comments while appearing on a charity episode of Gogglebox",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-gogglebox-celebrity-traitors-b3072145.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T11:12:35+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "af4d7b01532545ce",
-   "title": "Pelvic mesh and sodium valproate",
-   "summary": "Pelvic mesh and sodium valproate are medical products that have harmed patients. The government are considering recommendations to provide redress to patients who have been harmed.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10487/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-23T10:48:49+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "da27f72dbe0af65b",
-   "title": "Volvo Cars in share price crash as 2,500 job cuts follow sales slump",
-   "summary": "Volvo Cars has revealed a further 2,500 job cuts amid a slump in sales that has seen its share price crash to record lows.",
-   "url": "https://news.sky.com/story/volvo-cars-in-share-price-crash-as-2500-job-cuts-follow-sales-slump-13602644",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-23T10:40:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c1c22eb0c6ba7c40",
-   "title": "Expired General Licences",
-   "summary": "Details of expired General Licences issued by OFSI.",
-   "url": "https://www.gov.uk/government/collections/expired-general-licences",
-   "source": "OFSI",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-10-23T10:26:55Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7664aa611f3b46d2",
-   "title": "Alcohol and Tobacco Warehousing Declarations: service availability and issues",
-   "summary": "Check the availability and any issues affecting Alcohol and Tobacco Warehousing Declarations (ATWD).",
-   "url": "https://www.gov.uk/government/publications/alcohol-and-tobacco-warehousing-declarations-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-23T10:04:10Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f7e47fa2f31e4ece",
-   "title": "Daniel Pitt: The Conservative Party’s history with deals and coalitions is a warning for now",
-   "summary": "The Conservatives have done a reasonable job of winning the acquisition game in the past; for example, the Liberal Unionists and National Liberals were merged within the party, but the acquisition must be attractive, low-cost, and create a competitive advantage. The post Daniel Pitt: The…",
-   "url": "https://conservativehome.com/2026/10/23/daniel-pitt-the-conservative-partys-history-with-deals-and-coalitions-is-warning-for-now/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-23T10:00:58+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "536716348352c1fa",
-   "title": "Minister admits he has not followed government stockpiling advice",
-   "summary": "Households are being urged to be prepared if everyday services are temporarily disrupted with three days of key supplies",
-   "url": "https://www.independent.co.uk/news/uk/politics/stockpiling-food-emergency-checklist-james-murray-b3071986.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T09:46:33+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c0417de83a3e2e85",
-   "title": "Briton facing forced separation from baby son after Sweden orders his deportation",
-   "summary": "Exclusive: Photographer Simon Montgomery told ‘state’s interest in regulated immigration’ outweighs his family concerns A British photographer is facing deportation from Sweden and forced separation from his 16-month-old son after authorities ruled in favour of the country’s immigration interests .…",
-   "url": "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T09:37:12+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": [
-    "Sweden"
-   ]
-  },
-  {
-   "id": "ae2c067ad3092432",
-   "title": "Self Assessment deadline incoming – 100 days to go",
-   "summary": "Self Assessment customers have just 100 days to file their tax return for the 2025 to 2026 tax year and pay any tax owed.",
-   "url": "https://www.gov.uk/government/news/self-assessment-deadline-incoming-100-days-to-go",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "press_release",
-   "party_voice": "",
-   "published": "2026-10-23T09:30:00Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f5d6b79235ee19ed",
-   "title": "The Building Safety (Remediation of Unsafe Cladding etc) Bill 2026-27",
-   "summary": "The Building Safety (Remediation of Unsafe Cladding etc) Bill was introduced on 14 October 2026 to address historical safety risks and ensure remediation of unsafe cladding.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12249/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-23T09:25:50+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "6738bfd51301321d",
-   "title": "European football giants to meet in London for NBA basketball talks",
-   "summary": "A cluster of European football giants will convene in London next week for talks as they try to finalise a string of deals for European basketball teams worth billions of dollars.",
-   "url": "https://news.sky.com/story/european-football-giants-to-meet-in-london-for-nba-basketball-talks-13602607",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-23T09:18:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f586a8e2f2ee38c7",
-   "title": "Three people linked to Conservatives sentenced after cheating at gambling on general election",
-   "summary": "Three people linked to the Conservatives, including the party's former director of campaigning, have been given suspended sentences after admitting to cheating at gambling on the 2024 general election date.",
-   "url": "https://news.sky.com/story/three-people-linked-to-conservatives-sentenced-after-cheating-at-gambling-on-general-election-13602611",
-   "source": "Sky News Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-23T09:18:00+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3fd5d9da5a8343da",
-   "title": "Self Assessment commercial software suppliers",
-   "summary": "Find software suppliers for tax returns, supplementary pages and attachments.",
-   "url": "https://www.gov.uk/government/publications/self-assessment-commercial-software-suppliers",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-23T08:58:57Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "0a7df4d97ef834ab",
-   "title": "My final newsletter – fewer meetings, less management, slower pay growth?",
-   "summary": "Morning all, As I step back from my role as Deputy Chief Executive at RF (I’ll be sticking around as a Research Associate, so you may still spot my by-line here and there), I’ll also be hanging up my Top of the Charts pen. Thank you for occasionally welcoming me into your inboxes over the ……",
-   "url": "https://www.resolutionfoundation.org/comment/my-final-newsletter-fewer-meetings-less-management-slower-pay-growth/",
-   "source": "Resolution Foundation",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-23T08:53:39+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "34dc1a69a013dcb3",
-   "title": "Autumn Budget 2026: Background briefing",
-   "summary": "Ahead of the 2026 Autumn Budget on 28 October, this briefing looks at the economic situation, economic forecasts and the public finances.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/autumn-budget-2026-background-briefing/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-23T08:43:01+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e182452d2defc0c8",
-   "title": "The art of the political apology",
-   "summary": "There are few things more difficult in politics than apologising without making things worse – and there are… The post The art of the political apology appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/the-art-of-the-political-apology/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-23T08:41:30+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15621,7 +15607,7 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 6,
    "note": ""
   },
   {
@@ -15635,7 +15621,7 @@
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15649,14 +15635,14 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15697,9 +15683,9 @@
   {
    "name": "Office for Budget Responsibility",
    "group": "Tax and fiscal",
-   "ok": false,
-   "new": 0,
-   "note": "403 Client Error: Forbidden for url: https://obr.uk/feed/"
+   "ok": true,
+   "new": 3,
+   "note": ""
   },
   {
    "name": "Institute for Fiscal Studies",
@@ -15737,110 +15723,7 @@
    "note": ""
   }
  ],
- "parties": [
-  {
-   "name": "Labour",
-   "abbr": "Lab",
-   "colour": "#d50000",
-   "seats": 404
-  },
-  {
-   "name": "Conservative",
-   "abbr": "Con",
-   "colour": "#0063ba",
-   "seats": 118
-  },
-  {
-   "name": "Liberal Democrat",
-   "abbr": "LD",
-   "colour": "#fc7d0b",
-   "seats": 71
-  },
-  {
-   "name": "Independent",
-   "abbr": "Ind",
-   "colour": "#909090",
-   "seats": 11
-  },
-  {
-   "name": "Reform UK",
-   "abbr": "RUK",
-   "colour": "#12b6cf",
-   "seats": 8
-  },
-  {
-   "name": "Scottish National Party",
-   "abbr": "SNP",
-   "colour": "#fff685",
-   "seats": 8
-  },
-  {
-   "name": "Sinn Féin",
-   "abbr": "SF",
-   "colour": "#02665f",
-   "seats": 7
-  },
-  {
-   "name": "Democratic Unionist Party",
-   "abbr": "DUP",
-   "colour": "#d46a4c",
-   "seats": 5
-  },
-  {
-   "name": "Green Party",
-   "abbr": "Green",
-   "colour": "#78b82a",
-   "seats": 5
-  },
-  {
-   "name": "Plaid Cymru",
-   "abbr": "PC",
-   "colour": "#348837",
-   "seats": 4
-  },
-  {
-   "name": "Social Democratic & Labour Party",
-   "abbr": "SDLP",
-   "colour": "#4ea268",
-   "seats": 2
-  },
-  {
-   "name": "Your Party",
-   "abbr": "YP",
-   "colour": "#ff3131",
-   "seats": 2
-  },
-  {
-   "name": "Alliance",
-   "abbr": "APNI",
-   "colour": "#cdaf2d",
-   "seats": 1
-  },
-  {
-   "name": "Restore Britain",
-   "abbr": "RB",
-   "colour": "#8a96a0",
-   "seats": 1
-  },
-  {
-   "name": "Speaker",
-   "abbr": "Spk",
-   "colour": "#8a96a0",
-   "seats": 1
-  },
-  {
-   "name": "Traditional Unionist Voice",
-   "abbr": "TUV",
-   "colour": "#0c3a6a",
-   "seats": 1
-  },
-  {
-   "name": "Ulster Unionist Party",
-   "abbr": "UUP",
-   "colour": "#a1cdf0",
-   "seats": 1
-  }
- ],
+ "parties": [],
  "elections": [
   {
    "id": "local.bournemouth-christchurch-and-poole.2026-11-05",
@@ -16315,7 +16198,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133979,
+   "signatures": 134008,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16324,7 +16207,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 125769,
+   "signatures": 125841,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16333,7 +16216,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 111694,
+   "signatures": 111737,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16342,7 +16225,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86525,
+   "signatures": 86541,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16351,7 +16234,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 79769,
+   "signatures": 79861,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16360,7 +16243,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74562,
+   "signatures": 74575,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16369,7 +16252,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 61732,
+   "signatures": 62405,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16378,7 +16261,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55619,
+   "signatures": 55639,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16387,7 +16270,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55590,
+   "signatures": 55593,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16396,7 +16279,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46375,
+   "signatures": 46383,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16405,7 +16288,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44986,
+   "signatures": 45002,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
@@ -16414,7 +16297,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 42338,
+   "signatures": 42346,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
@@ -17019,5 +16902,7 @@
    "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
   }
  ],
- "problems": []
+ "problems": [
+  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
+ ]
 }
