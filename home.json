@@ -1,7 +1,71 @@
 {
- "updated": "2026-11-02T06:41:34.154461+00:00",
+ "updated": "2026-11-02T07:45:10.455286+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "bc46b33a5267d126",
+   "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+   "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+   "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-02T07:42:33+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "bb19f805dab2f616",
+   "title": "VAT Import One Stop Shop Scheme: service availability and issues",
+   "summary": "Check the availability and any issues affecting the VAT Import One Stop Shop (IOSS) Scheme online service.",
+   "url": "https://www.gov.uk/government/publications/vat-import-one-stop-shop-scheme-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-02T07:37:10Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "VAT"
+   ],
+   "countries": []
+  },
+  {
+   "id": "266f56a22f1c1fc5",
+   "title": "One Stop Shop Union scheme: service availability and issues",
+   "summary": "Check the availability and any issues affecting the One Stop Shop (OSS) Union scheme online service.",
+   "url": "https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-02T07:33:41Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "308cc1d3732217dd",
+   "title": "Why does Reform want the government to bailout Poundland?",
+   "summary": "I am beginning to harbour suspicions that Reform don't actually have an ideologically consistent policy platform. Their beliefs seem to be grounded in an ideological framework I would term as 'Pollism' - creative, I know. There is no actual belief behind their ideas, nor is there any philosophy to…",
+   "url": "https://conservativehome.com/2026/11/02/why-does-reform-want-the-government-to-bailout-poundland/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-11-02T07:00:31+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "1a50f7d3dfc0b553",
    "title": "Matthew Jeffery: Why the Hell aren’t Britain’s parents angry about their children’s future?",
@@ -173,21 +237,6 @@
     "Italy",
     "Jordan"
    ]
-  },
-  {
-   "id": "bc46b33a5267d126",
-   "title": "Binance users withdraw $3.6bn after record crypto hack",
-   "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
-   "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-02T03:32:14+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "b02c0e7e68e3dcd8",
@@ -373,8 +422,8 @@
   },
   {
    "id": "87765374da3c3c58",
-   "title": "Thousands of jobs at Virgin Media O2 to be cut",
-   "summary": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+   "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+   "summary": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands.",
    "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
@@ -15569,57 +15618,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "d866bc2baaeff1c4",
-   "title": "Minister insists she backs migration policy after joking she couldn’t lie about supporting it",
-   "summary": "Miatta Fahnbulleh says reference to ‘awkward’ interview was meant to be lighthearted and self-deprecating The energy secretary has been forced to clarify that she backs Shabana Mahmood’s migration policy, after earlier joking that she had not been able to “lie” about supporting a key element of the…",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T18:04:58+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "514c8a9ac7701ae5",
-   "title": "Fahnbulleh says she backs home secretary on migration after comments to journalists",
-   "summary": "Energy secretary says she \"didn't get it right\" over comments she made about a TV interview.",
-   "url": "https://www.bbc.co.uk/news/articles/c6y93pz494zzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T17:54:51+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f920fd558f02f842",
-   "title": "The Guardian view on AI safety: the push for global regulation must advance | Editorial",
-   "summary": "The current US administration is an obstacle, but public demand for protection will ultimately prevail Organisations around the world scrambled on Thursday to fix critical flaws in PHP, the software that powers much of the web. The vulnerabilities could allow attackers to take control of affected…",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-22T17:30:45+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
   }
  ],
  "feeds": [
@@ -15634,7 +15632,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
@@ -15655,7 +15653,7 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
@@ -15669,7 +15667,7 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
@@ -16321,7 +16319,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 133944,
+   "signatures": 133949,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16330,7 +16328,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 125619,
+   "signatures": 125659,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16339,7 +16337,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 111646,
+   "signatures": 111656,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16348,7 +16346,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86515,
+   "signatures": 86517,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16357,7 +16355,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 79720,
+   "signatures": 79731,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16366,7 +16364,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74542,
+   "signatures": 74545,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16375,7 +16373,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 61161,
+   "signatures": 61268,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16384,7 +16382,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55606,
+   "signatures": 55612,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16402,7 +16400,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46349,
+   "signatures": 46357,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16411,7 +16409,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 44980,
+   "signatures": 44982,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
@@ -16420,7 +16418,7 @@
   {
    "id": 776949,
    "title": "Introduce urgent moratorium on AI Data Centres and BESS outside AI Growth Zones",
-   "signatures": 42328,
+   "signatures": 42330,
    "created": "2026-07-13T16:08:22.844Z",
    "responded": true,
    "debate": false,
