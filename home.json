@@ -1,7 +1,335 @@
 {
- "updated": "2026-11-03T16:10:07.818374+00:00",
+ "updated": "2026-11-03T19:13:58.249061+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "87129a015be7f57c",
+   "title": "Reform UK councillor charged with rape and sexual assault",
+   "summary": "The Crown Prosecution Service has charged George Madgwick with 35 offences, including 12 counts of rape.",
+   "url": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T19:09:56+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cba0f47f7da4afee",
+   "title": "Ella Baron on the future of care workers in Britain – cartoon",
+   "summary": "Continue reading...",
+   "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/03/ella-baron-care-workers-britain-shabana-mahmood",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T18:41:29+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b73b02bf6f3c1104",
+   "title": "UK meat suppliers’ fridges heat up after cyber attacks hit Europe",
+   "summary": "The National Cyber Security Centre said it is working with the firms affected and that the national impact is ‘minimal’.",
+   "url": "https://www.independent.co.uk/news/uk/politics/defence-secretary-british-retail-consortium-cat-french-press-association-b3078507.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T18:38:05+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ce1b9d85eb59e4f6",
+   "title": "The Guardian view on apologising for slavery: a necessary process has at last begun | Editorial",
+   "summary": "Andy Burnham’s commitment to a structured dialogue with Caribbean governments is a step forward, but they need more than words There was a risk, in the run-up to the Commonwealth heads of government meeting (Chogm) this week, that important discussions could be derailed by the UK government’s…",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-apologising-for-slavery-a-necessary-process-has-at-last-begun",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T18:31:26+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9aae7dfd418b7a13",
+   "title": "The Guardian view on Labour’s growth obsession: a different economics is possible | Editorial",
+   "summary": "The latest edition of Radical Thinking, the Guardian’s new podcast, should be required listening at a Treasury still stifled by outdated orthodoxies As prime ministers have come and gone at bewildering speed in recent years, the search for elusive economic growth has become the overriding fixation…",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-labours-growth-obsession-a-different-economics-is-possible",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T18:30:56+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8208c7c0dd06d175",
+   "title": "MP to highlight girl’s tragic story to urge parents to report councils to police over special needs failures",
+   "summary": "Lib Dem MP Chris Coghlan is set to raise the case of Eivie White in PMQs as he warns of ‘epidemic of suicide’ of children with special needs (SEND)",
+   "url": "https://www.independent.co.uk/news/uk/politics/special-needs-send-councils-police-eivie-white-b3078352.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T18:29:09+00:00",
+   "dateonly": false,
+   "parties": [
+    "Liberal Democrat"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f1de564ea72b52c1",
+   "title": "The UK-EU food produce deal: what was agreed and will it affect shoppers?",
+   "summary": "Two sides agree deal to remove some Brexit checks on food and animal product exports to EU The UK and the EU have finalised their deal to remove red tape for food producers and agreed first drafts on joint positions on migration, youth mobility and electricity trading before a summit on 20…",
+   "url": "https://www.theguardian.com/politics/2026/nov/03/new-uk-eu-brexit-food-produce-deal-explained",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T18:24:37+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ecda2493a0d1031f",
+   "title": "Panel rules out further inquiry into sexual harassment claims against Lib Dem peer Chris Rennard",
+   "summary": "Party leader Ed Davey ‘disappointed and upset’ at decision by independent panel after claims original investigation was flawed The Liberal Democrat peer Chris Rennard has been told there will be no further investigation into sexual harassment allegations made against him, after an independent panel…",
+   "url": "https://www.theguardian.com/politics/2026/nov/03/inquiry-sexual-harassment-claims-lib-dem-peer-chris-rennard",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T18:03:07+00:00",
+   "dateonly": false,
+   "parties": [
+    "Liberal Democrat"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c4909f12613917cc",
+   "title": "Changes to UK visa and settlement rules after the 2025 immigration white paper",
+   "summary": "Frequently asked questions about the UK government's immigration white paper proposals from 2025, including longer qualifying periods for indefinite leave to remain.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10267/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-03T17:57:08+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1ce61f2915820ed0",
+   "title": "UK makes huge aid cuts to Commonwealth nations despite warm words at Chogm summit",
+   "summary": "Nations in the group fare worse than others, with funding for nature projects especially hard hit even as climate crisis intensifies global need The UK government has slashed overseas aid to Commonwealth countries, the Guardian can reveal, in contrast to the warm words for the group from King…",
+   "url": "https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T17:49:57+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f4195c8319081fa7",
+   "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – as it happened",
+   "summary": "Speech by Charles marks formal opening of Commonwealth Heads of Government Meeting (Chogm) in Antigua Q: Do you think the UK should reconsider Commonwealth membership, given other countries just keep asking us for slavery reparations? Badenoch said she did not agree with that “because most…",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T17:30:19+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d1276770fbe04ad1",
+   "title": "Burnham considers ban on ketchup sachets from restaurants and cafes",
+   "summary": "Packets are being outlawed in Northern Ireland under post-Brexit arrangements",
+   "url": "https://www.independent.co.uk/news/uk/politics/burnham-ketchup-sachet-ban-european-union-brexit-b3078461.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T17:14:42+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Ireland"
+   ]
+  },
+  {
+   "id": "37add4f23b8e0d45",
+   "title": "Remembrance Day and Remembrance Sunday in the UK: FAQs",
+   "summary": "An overview of the customs and history of Remembrance Day, which has been held on 11 November each year since the end of the First World War.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12243/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-03T17:10:14+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "74017fea8ffbaa0e",
+   "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+   "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+   "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T17:04:02+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5c2a212ea2315bc5",
+   "title": "All aboard with Kaptain Kemi, lost at sea on the good ship amnesia",
+   "summary": "Launching a defence plan on a rusty sloop, and dogged by a UK Iron Dome that never was, the Tory leader has forgotten her party’s 14 years in power HMS Wellington. A decommissioned Grimsby-class sloop from the second world war. A warship that has been moored on the Thames, going nowhere for the…",
+   "url": "https://www.theguardian.com/politics/2026/nov/03/john-crace-kemi-badenoch-kaptain-defence-lost-at-sea",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T16:45:17+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Party leadership",
+    "Defence"
+   ],
+   "tax": [],
+   "countries": [
+    "New Zealand"
+   ]
+  },
+  {
+   "id": "3a33380e2f39e488",
+   "title": "Keeping mortgage interest relief approved",
+   "summary": "Homeowners can get tax relief of £3,500 on the money spent on the interstate of a mortgage.",
+   "url": "https://www.bbc.co.uk/news/articles/c6vgj0ljx01jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-03T16:44:20+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ba7cefdec93c0fec",
+   "title": "Local Government Pension Scheme investments",
+   "summary": "The Pension Schemes Act 2026 made changes to how the Local Government Pension Scheme makes investments.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-7309/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-03T16:11:14+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "b668684a03e5cb3f",
+   "title": "I’d all but forgotten my ‘altercation’ with Nigel Farage. But since he mentions it, here’s what happened | Caroline Voaden",
+   "summary": "His boorish behaviour towards me typifies the politics of Reform UK: this is a party full of disdain for parliament, its people and its traditions Caroline Voaden is the Liberal Democrat MP for South Devon I got an unexpected message last week from a former colleague whom I haven’t heard from in 20…",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/03/nigel-farage-caroline-voaden-altercation-reform-uk-parliament",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T16:06:04+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK",
+    "Liberal Democrat"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "350cff0284cd668e",
+   "title": "Making a claim to an employment tribunal",
+   "summary": "Workers and employees can make a claim to an employment tribunal to enforce their employment rights.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10776/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-03T16:03:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "b57d83f77c9c4c7b",
    "title": "What's happening to UK interest rates and what does it mean for mortgages?",
@@ -17,6 +345,21 @@
     "Economy",
     "Housing"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "45b27a75429989c8",
+   "title": "Proposals to ban social media for children",
+   "summary": "Supporters say a ban would help protect children online, but others argue it could have unintended consequences",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10468/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-03T15:49:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -38,23 +381,6 @@
    ]
   },
   {
-   "id": "f4195c8319081fa7",
-   "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – UK politics live",
-   "summary": "Speech by Charles marks formal opening of Commonwealth Heads of Government Meeting (Chogm) in Antigua Q: Do you think the UK should reconsider Commonwealth membership, given other countries just keep asking us for slavery reparations? Badenoch said she did not agree with that “because most…",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-03T15:23:11+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "f6f688fad967be2a",
    "title": "Burnham to make major Brexit concession on border checks",
    "summary": "Campaigners will hope the move on ending border checks for fresh goods is the first step towards ending Brexit",
@@ -74,23 +400,6 @@
    "countries": []
   },
   {
-   "id": "87129a015be7f57c",
-   "title": "Reform UK councillor charged with rape and sexual assault",
-   "summary": "The Crown Prosecution Service has charged George Madgwick with 35 offences, including 12 counts of rape.",
-   "url": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-03T15:16:53+00:00",
-   "dateonly": false,
-   "parties": [
-    "Reform UK"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "490d898124a6da60",
    "title": "Asda hires ex-Morrisons boss in bid to grow firm",
    "summary": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
@@ -99,6 +408,21 @@
    "group": "Economy news",
    "party_voice": "",
    "published": "2026-11-03T15:12:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "997618c0ad12a046",
+   "title": "MPs urge online retailers to stop selling AI toys over child harm fears",
+   "summary": "AI toys with built-in chatbots could expose children to psychological harms and inappropriate material, according to MPs and peers who are urging Amazon and eBay to stop selling them.",
+   "url": "https://news.sky.com/story/ai-toys-should-be-banned-over-child-harm-fears-say-mps-as-they-urge-retailers-to-remove-them-13607511",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T15:10:00+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -173,8 +497,8 @@
   },
   {
    "id": "1db7375fd2b3aa2e",
-   "title": "Reform councillor charged with 35 offences including rape",
-   "summary": "A Reform UK councillor has been charged with 35 offences, including 12 counts of rape, and suspended by the party.",
+   "title": "Reform councillor charged with 35 offences including 12 counts of rape",
+   "summary": "A Reform UK councillor has been charged with 35 offences, including 12 counts of rape, the Crown Prosecution Service (CPS) said.",
    "url": "https://news.sky.com/story/reform-councillor-charged-with-35-offences-including-rape-13607499",
    "source": "Sky News Politics",
    "group": "News",
@@ -5489,21 +5813,6 @@
    "tax": [
     "Income tax"
    ],
-   "countries": []
-  },
-  {
-   "id": "45b27a75429989c8",
-   "title": "Proposals to ban social media for children",
-   "summary": "Supporters say a ban would help protect children online, but others argue it could have unintended consequences",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10468/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-30T13:20:44+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
    "countries": []
   },
   {
@@ -15220,330 +15529,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "c7e3599e4a58f19f",
-   "title": "If the PM reboots the UK for working-class people, unions will be with him. But the time for talking is over | Andrea Egan",
-   "summary": "Andy Burnham has railed against neoliberalism – the historic shift must start with this week’s budget Andrea Egan is the general secretary of Unison After Keir Starmer, things could only get better inside Labour. But Andy Burnham’s arrival as party leader and prime minister didn’t just clear that…",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/26/andy-burnham-reboot-uk-working-class-people-budget-unions",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T10:00:27+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "dd884d0633f099c4",
-   "title": "Drive reindustrialisation from No 10 North or risk failure, MPs tell Burnham",
-   "summary": "Ninety-plus Labour MPs warn civil service lacks skills to drive growth where it is needed and plan should be steered by Louise Haigh from Manchester Business live – latest updates Andy Burnham’s pledge to reindustrialise Britain is doomed to fail unless it is driven decisively from his new No 10…",
-   "url": "https://www.theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T09:42:48+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7aa1179141c062a6",
-   "title": "Board of Deputies declares Green Party 'racist' over anti-Zionist policy",
-   "summary": "The motion passed by the Board of Deputies urged other parties not to do deals with the Greens unless they rejected the policy",
-   "url": "https://www.independent.co.uk/news/uk/politics/green-party-zionism-board-of-deputies-b3073301.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T09:38:07+00:00",
-   "dateonly": false,
-   "parties": [
-    "Green Party"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ae83d49d04b63ea9",
-   "title": "Burnham open to 'honest discussion' on EU free movement",
-   "summary": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
-   "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T09:35:08+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "115a57eb0db70685",
-   "title": "Brexit deal is not good enough for British public, says Andy Burnham",
-   "summary": "EU exit has damaged economy and failed to bring promised benefits, says PM, but he rules out big pre-election changes UK politics live – latest updates Europe live – latest updates Brexit has not “played out” like it was promised to the public, has weakened the economy and the current deal is not…",
-   "url": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T09:30:10+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8ccfb6b0dc7f3b05",
-   "title": "HMRC: spending over £500",
-   "summary": "All data on HMRC spending over £500 with an electronic purchasing card solution (ePCS) since April 2011.",
-   "url": "https://www.gov.uk/government/collections/hmrc-spending-over-500",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-10-26T09:30:00Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3254216bbf327952",
-   "title": "Hang on to your hats everyone, because Burnham’s going to risk it, and go early",
-   "summary": "Burnham will try it, because he has said he won’t. What the Budget on Wednesday absolutely won’t do is confront the major problems besetting the British economy, that’s because it’s not deigned to buy growth but buy time. The City is working on the thesis that the duller the Budget the more sign…",
-   "url": "https://conservativehome.com/2026/10/26/hang-on-to-your-hats-everyone-because-burnhams-going-to-risk-it-and-go-early/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-26T07:00:14+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "90d9472581722104",
-   "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
-   "summary": "Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipated The UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m by the end of next year. Calculations from the Center for…",
-   "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T06:59:36+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e6ba02962a655803",
-   "title": "David Gauke: Those Brits who supported Trump and Ukraine must now see the former was their mistake",
-   "summary": "Some have argued that Trump is a natural strongman, and that even if he is not sympathetic to Ukraine, Russia would be more cautious with someone as unpredictable as Trump. I think we can now see that argument as being, at best, flimsy. The post David Gauke: Those Brits who supported Trump and…",
-   "url": "https://conservativehome.com/2026/10/26/david-gauke-those-brits-who-supported-trump-must-surely-now-see-their-mistake/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-26T06:30:04+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "1f20cdda89fe5867",
-   "title": "Damien Hinds: Streeting announced the abolition of NHS England a year ago – today the NHS is in Labour’s limbo",
-   "summary": "We will be setting out our plan for the NHS. One that is rooted in Conservative values, that puts patients and taxpayers first and a plan that will take the Department for Health and Social Care the right way when we return to Government. The post Damien Hinds: Streeting announced the abolition of…",
-   "url": "https://conservativehome.com/2026/10/26/damien-hinds-streeting-announced-the-abolition-of-nhs-england-a-year-ago-today-the-nhs-is-in-labours-limbo/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-26T06:20:40+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
-   "topics": [
-    "NHS and care"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "cb21eab94c9d181a",
-   "title": "Holly Whitbread: ITV’s exposé of Reform UK rings true of our experience in Epping Forest",
-   "summary": "Political debate should be robust, and those in power must be held to account. But legitimate concerns must never be exploited to divide communities. The post Holly Whitbread: ITV’s exposé of Reform UK rings true of our experience in Epping Forest appeared first on Conservative Home .",
-   "url": "https://conservativehome.com/2026/10/26/holly-whitbread-itvs-expose-of-reform-uk-rings-true-of-our-experence-in-epping-forest/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-26T06:10:25+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative",
-    "Reform UK"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "838c7140643f8a9a",
-   "title": "Inside the Fabian Society: ‘Ideas matter and change is possible’",
-   "summary": "As part of our Labour Tribes project, in partnership with PLMR, LabourList is taking an in-depth look at… The post Inside the Fabian Society: ‘Ideas matter and change is possible’ appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/labourlist-plmr-tribes-project-inside-the-fabian-society/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-26T06:00:51+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "6b9479e994706585",
-   "title": "‘Procurement must be at the heart of our growth agenda’",
-   "summary": "Let’s face it: procurement doesn’t strike many of us as a sexy topic, and we might instinctively shrink… The post ‘Procurement must be at the heart of our growth agenda’ appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/procurement-and-growth/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-26T06:00:45+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "313450f7ac01b133",
-   "title": "Higher training costs for older workers risks plan to tackle youth jobs crisis, employers say",
-   "summary": "Exclusive: Ministers planning overhaul of apprenticeship funding to increase cost of over-25s training, Guardian understands Britain’s largest employers have told the government that forcing businesses to pay more to train older workers risks damaging its goal to tackle the youth jobs crisis. The…",
-   "url": "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T06:00:24+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy",
-    "Housing"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8e8966a078de9249",
-   "title": "We’ve made Oxford Street traffic-free – and that’s just the start. Soon there’ll be green spaces for arts and music too | Sadiq Khan",
-   "summary": "We’ll revive the in-person shopping experience with a transformation of the area, inspired by the John Lewis and Selfridges founders who first set up there Sadiq Khan is the mayor of London At around 8pm on Sunday evening the last car made its way down Oxford Street, marking the start of a…",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/26/oxford-street-car-traffic-ban-new-plans-2027-sadiq-khan",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T06:00:24+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ed5c5b02b3c0f298",
-   "title": "From Trump’s staff to buttering a jacket potato: Edith Pritchett’s week in Venn diagrams – cartoon",
-   "summary": "Continue reading...",
-   "url": "https://www.theguardian.com/lifeandstyle/picture/2026/oct/26/edith-pritchett-week-in-venn-diagrams-cartoon-trump-staff-heathrow-airport-renationalise-water",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T06:00:23+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "eaae1b1bf268f270",
-   "title": "‘Public ownership of public services is a vote-winner which Labour should seize’",
-   "summary": "In his Conference speech last month, the Prime Minister told us that his theory of growth includes “retaking… The post ‘Public ownership of public services is a vote-winner which Labour should seize’ appeared first on LabourList .",
-   "url": "https://labourlist.org/2026/10/public-ownership-is-a-vote-winner/",
-   "source": "LabourList",
-   "group": "Party voices",
-   "party_voice": "Labour",
-   "published": "2026-10-26T06:00:21+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Economy",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "6e7a179692637928",
-   "title": "What time does the Budget 2026 announcement start?",
-   "summary": "The Budget is one of the biggest events in the UK's political and economic calendar, when the chancellor sets out the government's plans for taxation, public spending and the wider economy",
-   "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-start-time-date-john-healey-b3072208.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T06:00:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15551,14 +15536,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 7,
+   "new": 6,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 8,
    "note": ""
   },
   {
@@ -15572,28 +15557,28 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 6,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15621,7 +15606,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 2,
+   "new": 4,
    "note": ""
   },
   {
@@ -16281,7 +16266,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 134251,
+   "signatures": 134286,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16290,7 +16275,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 126806,
+   "signatures": 126895,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16299,7 +16284,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 112019,
+   "signatures": 112071,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16308,7 +16293,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86713,
+   "signatures": 86743,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16317,7 +16302,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 80313,
+   "signatures": 80463,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16326,34 +16311,34 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74719,
+   "signatures": 74773,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/777710"
   },
   {
-   "id": 783252,
-   "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 65859,
-   "created": "2026-09-29T14:02:01.115Z",
-   "responded": false,
-   "debate": false,
-   "url": "https://petition.parliament.uk/petitions/783252"
-  },
-  {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 56575,
+   "signatures": 74504,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/775267"
   },
   {
+   "id": 783252,
+   "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
+   "signatures": 66123,
+   "created": "2026-09-29T14:02:01.115Z",
+   "responded": false,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/783252"
+  },
+  {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55776,
+   "signatures": 55793,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16362,7 +16347,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55610,
+   "signatures": 55613,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16371,7 +16356,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46481,
+   "signatures": 46501,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16380,7 +16365,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 45067,
+   "signatures": 45078,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
