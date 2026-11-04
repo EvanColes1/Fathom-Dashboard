@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T22:01:54.470866+00:00",
+ "updated": "2026-11-04T01:25:55.739086+00:00",
  "feeds": [
   {
    "name": "BBC World",
@@ -12,21 +12,21 @@
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 10,
+   "new": 11,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 12,
+   "new": 10,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
@@ -40,42 +40,42 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 7,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 7,
+   "new": 4,
    "note": ""
   },
   {
@@ -110,7 +110,7 @@
    "name": "RUSI",
    "group": "Think tank",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
@@ -124,7 +124,7 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 11,
+   "new": 13,
    "note": "via backup feed"
   },
   {
@@ -138,21 +138,21 @@
    "name": "Atlantic Council",
    "group": "Think tank",
    "ok": true,
-   "new": 18,
+   "new": 16,
    "note": ""
   },
   {
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 10,
+   "new": 11,
    "note": ""
   },
   {
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
@@ -173,7 +173,7 @@
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 7,
+   "new": 8,
    "note": ""
   },
   {
@@ -187,7 +187,7 @@
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -201,14 +201,14 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 3,
+   "new": 6,
    "note": ""
   },
   {
    "name": "The Record",
    "group": "Cyber",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {

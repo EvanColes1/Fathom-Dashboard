@@ -1,7 +1,69 @@
 {
- "updated": "2026-11-03T22:01:54.470866+00:00",
+ "updated": "2026-11-04T01:25:55.739086+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "1dc10774da7ec300",
+   "title": "Canva announces major job cuts after 'our hardest year yet'",
+   "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+   "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-04T00:09:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "93b118af97f60187",
+   "title": "Graduates are managing AI - but are they learning much else?",
+   "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+   "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-04T00:04:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2147ff51d9251562",
+   "title": "Poundland supplier 'will lose millions' if retailer collapses",
+   "summary": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+   "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-04T00:03:17+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d5eefa1e571b4189",
+   "title": "Houses of Parliament at risk of ‘Notre Dame-style fire’ as renovation costs rise",
+   "summary": "Report says cost of maintenance could soon reach £2m a week, including 24-hour patrols to avert fire risk The Palace of Westminster will be at risk of a Notre Dame-style fire or a similar catastrophic event if MPs do not tackle the issue of funding refurbishments, a parliamentary committee has…",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-04T00:01:18+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "418f6a70912b8e60",
    "title": "Burnham says Britons would expect him to take up new EU deal 'with both hands'",
@@ -10,7 +72,7 @@
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-03T21:01:47+00:00",
+   "published": "2026-11-03T21:03:04+00:00",
    "dateonly": false,
    "parties": [
     "Labour"
@@ -354,6 +416,21 @@
     "Tax and spending",
     "Housing"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5a2163963e8364e7",
+   "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+   "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-03T16:19:29+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -15444,94 +15521,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "a4e614479845c0fc",
-   "title": "Tax the banks to save households £290 on energy bills at Budget, Healey urged",
-   "summary": "Exclusive: Energy secretary’s former think tank calls for package worth £6bn ahead of the fiscal event",
-   "url": "https://www.independent.co.uk/news/uk/politics/energy-bills-budget-support-iran-ofgem-price-cap-b3073234.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T11:15:41+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Energy bills"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d203734947e8f5c9",
-   "title": "What the Budget will mean for pensioners and income tax",
-   "summary": "Several major policy announcements are expected at the event",
-   "url": "https://www.independent.co.uk/news/uk/politics/budget-healey-chancellor-pensions-benefits-income-tax-b3073309.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T11:13:12+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Income tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "2c08b4670718cc84",
-   "title": "Thomas Heald: When is a job not really a job? When it’s part of the SNP’s public sector reform",
-   "summary": "The SNP have spent nearly two decades presenting itself as the defender of Scotland’s public services. In doing so, it has too often confused defending services with defending the machinery of government itself. The post Thomas Heald: When is a job not really a job? When it’s part of the SNP’s…",
-   "url": "https://conservativehome.com/2026/10/26/thomas-heald-when-is-a-job-not-really-a-job-when-its-part-of-the-snps-public-sector-reform/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-26T11:00:02+00:00",
-   "dateonly": false,
-   "parties": [
-    "Scottish National Party"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "105567b1eb1627b1",
-   "title": "Government response to SSAC Occasional Paper 27: The influence of the social security system on educational and vocational decision-making at age 16",
-   "summary": "Government's response to the Social Security Advisory Committee report on how the social security system influences educational and vocational decision-making at age 16.",
-   "url": "https://www.gov.uk/government/publications/government-response-to-ssac-occasional-paper-27-the-influence-of-the-social-security-system-on-educational-and-vocational-decision-making-at-age-16",
-   "source": "DWP",
-   "group": "Government",
-   "kind": "correspondence",
-   "party_voice": "",
-   "published": "2026-10-26T11:00:00Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "acae8c3ce471c8f4",
-   "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
-   "summary": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
-   "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-26T10:48:46+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15560,14 +15549,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 6,
    "note": ""
   },
   {
@@ -16269,7 +16258,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 134324,
+   "signatures": 134342,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16278,7 +16267,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 127035,
+   "signatures": 127151,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16287,7 +16276,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 112115,
+   "signatures": 112138,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16296,16 +16285,16 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 92777,
+   "signatures": 105087,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
-   "debate": false,
+   "debate": true,
    "url": "https://petition.parliament.uk/petitions/775267"
   },
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86768,
+   "signatures": 86793,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16314,7 +16303,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 80736,
+   "signatures": 80819,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16323,7 +16312,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74834,
+   "signatures": 74866,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16332,7 +16321,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 66352,
+   "signatures": 66516,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16341,7 +16330,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55856,
+   "signatures": 55917,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16350,7 +16339,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55617,
+   "signatures": 55621,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16359,7 +16348,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46522,
+   "signatures": 46527,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16368,7 +16357,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 45093,
+   "signatures": 45100,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
@@ -16934,7 +16923,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-10-04",
+     "d": "2024-10-07",
      "v": 5.0
     },
     {
