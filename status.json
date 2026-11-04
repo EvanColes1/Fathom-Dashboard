@@ -1,67 +1,67 @@
 {
- "updated": "2026-11-04T10:24:11.271288+00:00",
+ "updated": "2026-11-04T13:28:00.417347+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 17,
+   "new": 20,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 16,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 19,
+   "new": 13,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
-   "ok": true,
-   "new": 4,
-   "note": ""
+   "ok": false,
+   "new": 0,
+   "note": "406 Client Error: Not Acceptable for url: https://www.euronews.com/rss?level=theme&name=news"
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": "via backup feed"
   },
   {
@@ -75,21 +75,21 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 7,
+   "new": 5,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 8,
+   "new": 9,
    "note": ""
   },
   {
    "name": "Americas Quarterly",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": "via backup feed"
   },
   {
@@ -103,14 +103,14 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 16,
+   "new": 18,
    "note": "via backup feed"
   },
   {
    "name": "RUSI",
    "group": "Think tank",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
@@ -131,7 +131,7 @@
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 9,
+   "new": 11,
    "note": "via backup feed"
   },
   {
@@ -145,7 +145,7 @@
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 12,
+   "new": 11,
    "note": ""
   },
   {
@@ -173,7 +173,7 @@
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 5,
+   "new": 6,
    "note": ""
   },
   {
@@ -194,14 +194,14 @@
    "name": "Splash247",
    "group": "Maritime",
    "ok": true,
-   "new": 6,
+   "new": 9,
    "note": ""
   },
   {
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 17,
+   "new": 10,
    "note": "via backup feed"
   },
   {
