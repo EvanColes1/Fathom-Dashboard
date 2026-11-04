@@ -1,7 +1,41 @@
 {
- "updated": "2026-11-04T06:41:43.848381+00:00",
+ "updated": "2026-11-04T07:37:36.111093+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "2147ff51d9251562",
+   "title": "Poundland supplier 'will lose millions' if retailer collapses",
+   "summary": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+   "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-04T07:31:21+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "aa6eab283b0da224",
+   "title": "Badenoch’s ‘Fund Defence’ rally made her look lost at sea",
+   "summary": "Aside from grabbing a bit of media attention in the run up to Thursday, I really don’t see what the purpose of the rally was. It may well be the case that I just don’t understand the complexities of modern day media strategies, but my takeaway was that the whole ordeal made Badenoch look a little…",
+   "url": "https://conservativehome.com/2026/11/04/badenochs-fund-defence-rally-made-her-look-lost-at-sea/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-11-04T07:00:33+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "de1153f686c4f045",
    "title": "John Redwood: We need to have a proper conversation about defence",
@@ -139,7 +173,7 @@
   {
    "id": "6691547bf49d9e6c",
    "title": "Wall Street falls as midterm results emerge - with broad implications possible",
-   "summary": "Markets on Wall Street have fallen as the Democrats gain early momentum in the midterms.",
+   "summary": "Markets on Wall Street have fallen as it becomes clear that Democrats are expected to make wins across the country in the midterms.",
    "url": "https://news.sky.com/story/us-midterms-markets-fall-on-wall-street-as-democrats-gain-early-momentum-13607737",
    "source": "Sky News Business",
    "group": "Economy news",
@@ -199,21 +233,6 @@
    "countries": []
   },
   {
-   "id": "2147ff51d9251562",
-   "title": "Poundland supplier 'will lose millions' if retailer collapses",
-   "summary": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
-   "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-04T00:03:17+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "d5eefa1e571b4189",
    "title": "Houses of Parliament at risk of ‘Notre Dame-style fire’ as renovation costs rise",
    "summary": "Report says cost of maintenance could soon reach £2m a week, including 24-hour patrols to avert fire risk The Palace of Westminster will be at risk of a Notre Dame-style fire or a similar catastrophic event if MPs do not tackle the issue of funding refurbishments, a parliamentary committee has…",
@@ -262,6 +281,21 @@
    "topics": [
     "Europe"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6fa2a501ca09ba62",
+   "title": "Welsh government mini-budget passes after Plaid-Labour deal",
+   "summary": "The original version fell in July in a row over spending on additional learning needs education.",
+   "url": "https://www.bbc.co.uk/news/articles/cmqlnxxe71ydo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-03T20:38:41+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -15483,36 +15517,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "7548aaa241d512a7",
-   "title": "Lions sponsor Howden lines up ex-Goldman partner for board amid fundraising",
-   "summary": "The insurance broker Howden Group is lining up a former Goldman Sachs partner to strengthen boardroom governance amid talks with investors about a multibillion-pound fundraising.",
-   "url": "https://news.sky.com/story/lions-sponsor-howden-lines-up-ex-goldman-partner-for-board-amid-fundraising-13604010",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-26T13:15:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b1652549d333a346",
-   "title": "Anthropic reveals plans for blockbuster IPO",
-   "summary": "Artificial intelligence giant Anthropic, the company behind the popular Claude chatbot, has filed papers to sell shares to the public for the first time.",
-   "url": "https://news.sky.com/story/anthropic-reveals-loss-as-it-plans-to-sell-public-shares-for-first-time-13604009",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-26T13:09:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15520,14 +15524,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 6,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15541,14 +15545,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
@@ -15562,7 +15566,7 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
@@ -16250,7 +16254,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 134350,
+   "signatures": 134352,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16259,7 +16263,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 127190,
+   "signatures": 127237,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16268,7 +16272,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 112151,
+   "signatures": 112162,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16277,7 +16281,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 108477,
+   "signatures": 109953,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16286,7 +16290,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86796,
+   "signatures": 86800,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16295,7 +16299,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 80842,
+   "signatures": 80852,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16304,7 +16308,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74876,
+   "signatures": 74888,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16313,7 +16317,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 66572,
+   "signatures": 66609,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16322,7 +16326,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55986,
+   "signatures": 56050,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16331,29 +16335,29 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55621,
+   "signatures": 55622,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/769616"
   },
   {
-   "id": 779519,
-   "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46534,
-   "created": "2026-08-13T09:04:39.266Z",
-   "responded": true,
-   "debate": false,
-   "url": "https://petition.parliament.uk/petitions/779519"
-  },
-  {
    "id": 766919,
    "title": "Review the law on unfit to plead & reform it to protect victims & public safety",
-   "signatures": 45616,
+   "signatures": 46885,
    "created": "2026-04-09T21:50:01.121Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/766919"
+  },
+  {
+   "id": 779519,
+   "title": "Reduce the retirement age for the NHS pension scheme to 60",
+   "signatures": 46543,
+   "created": "2026-08-13T09:04:39.266Z",
+   "responded": true,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/779519"
   }
  ],
  "indicators": [
