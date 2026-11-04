@@ -1,7 +1,67 @@
 {
- "updated": "2026-11-04T01:25:55.739086+00:00",
+ "updated": "2026-11-04T04:14:41.306434+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "e1db887151ca9ff1",
+   "title": "Parliament risks 'catastrophic event' without urgent renovation",
+   "summary": "The Palace of Westminster is at risk of a \"catastrophic event\" if delays to a renovation initiative are not resolved, a group of MPs have warned.",
+   "url": "https://news.sky.com/story/parliament-risks-catastrophic-event-without-urgent-renovation-mps-warn-13607723",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-04T02:45:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "22bf81550191df52",
+   "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
+   "summary": "Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past \"under the carpet\".",
+   "url": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-04T02:14:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6691547bf49d9e6c",
+   "title": "Wall Street falls as midterm results emerge - with broad implications possible",
+   "summary": "Markets on Wall Street have fallen as the Democrats gain early momentum in the midterms.",
+   "url": "https://news.sky.com/story/us-midterms-markets-fall-on-wall-street-as-democrats-gain-early-momentum-13607737",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-04T01:52:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f13b3f5d42d528ba",
+   "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+   "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-04T01:36:06+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "1dc10774da7ec300",
    "title": "Canva announces major job cuts after 'our hardest year yet'",
@@ -586,7 +646,7 @@
   {
    "id": "fc39e7480c4b5f61",
    "title": "Mining giant joins fight to stop killer toad march across Australia",
-   "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+   "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region.",
    "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
@@ -662,6 +722,21 @@
    "parties": [
     "Reform UK"
    ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1bb9b79877225ea8",
+   "title": "What in the World",
+   "summary": "Some employers create job ads with no intent to hire",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-03T14:30:00+00:00",
+   "dateonly": false,
+   "parties": [],
    "topics": [],
    "tax": [],
    "countries": []
@@ -2904,8 +2979,8 @@
    "title": "Ministers to hold urgent talks with Poundland chiefs",
    "summary": "The government is to hold an urgent meeting with Poundland bosses amid growing recriminations over the discount retailer's ownership.",
    "url": "https://news.sky.com/story/ministers-to-hold-urgent-talks-with-poundland-chiefs-13607012",
-   "source": "Sky News Business",
-   "group": "Economy news",
+   "source": "Sky News Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-11-02T10:37:00+00:00",
    "dateonly": false,
@@ -15435,92 +15510,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "3367b2409fe84101",
-   "title": "I want to see the UK rejoin the EU in my lifetime, Burnham says",
-   "summary": "PM suggested this weekend that a return to freedom of movement could be in Labour’s next election manifesto",
-   "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-uk-andy-burnham-referendum-b3073230.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T12:49:22+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b166b911cd56b678",
-   "title": "The King’s 2026 autumn tour",
-   "summary": "King Charles III is King of The Bahamas, and of Antigua and Barbuda. His 2026 autumn tour includes royal visits to those countries as well as a state visit to Guyana.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12199/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-26T12:35:30+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Guyana"
-   ]
-  },
-  {
-   "id": "8b20c83e69348394",
-   "title": "Potential merits of recognising the production and serving of cask ale as Intangible Cultural Heritage",
-   "summary": "A Westminster Hall debate on the potential merits of recognising the production and serving of cask ale as Intangible Cultural Heritage has been scheduled for 27 October 2026. The debate will be opened by Jacob Collier MP.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12247/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-26T12:10:13+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "245c043dc40264cd",
-   "title": "Budget 2026 tax related documents",
-   "summary": "All HMRC tax related documents and other announcements for Budget 2026.",
-   "url": "https://www.gov.uk/government/collections/budget-2026-tax-related-documents",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-10-26T12:00:01Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "5591663c76df3935",
-   "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
-   "summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
-   "url": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-26T11:21:04+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15528,21 +15517,21 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 6,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15556,14 +15545,14 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 6,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -16258,7 +16247,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 134342,
+   "signatures": 134343,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16267,7 +16256,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 127151,
+   "signatures": 127162,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16276,7 +16265,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 112138,
+   "signatures": 112141,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16285,7 +16274,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 105087,
+   "signatures": 106683,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16294,7 +16283,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86793,
+   "signatures": 86794,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16303,7 +16292,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 80819,
+   "signatures": 80822,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16312,7 +16301,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 74866,
+   "signatures": 74870,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16321,7 +16310,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 66516,
+   "signatures": 66540,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16330,7 +16319,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 55917,
+   "signatures": 55931,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16348,7 +16337,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46527,
+   "signatures": 46528,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16357,7 +16346,7 @@
   {
    "id": 781598,
    "title": "Ban children & their likeness being used to promote pornography or adult-content",
-   "signatures": 45100,
+   "signatures": 45101,
    "created": "2026-09-11T09:04:49.934Z",
    "responded": true,
    "debate": false,
