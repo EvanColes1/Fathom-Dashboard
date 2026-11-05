@@ -1,11 +1,217 @@
 {
- "updated": "2026-11-05T07:38:39.567036+00:00",
+ "updated": "2026-11-05T10:21:28.849538+00:00",
  "government": "Labour",
  "articles": [
   {
+   "id": "ef5fd64a242df297",
+   "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+   "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+   "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-05T10:04:51+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "48b0abac0730d36e",
+   "title": "Start or end an exception to mandatory payrolling of benefits",
+   "summary": "Use this form to ask HMRC to start or end an exception for globally mobile employees from mandatory payrolling of benefits in kind.",
+   "url": "https://www.gov.uk/guidance/start-or-end-an-exception-to-mandatory-payrolling-of-benefits",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-05T10:00:53Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2403f814ab30b066",
+   "title": "Media enquiries - HM Revenue & Customs",
+   "summary": "How to contact the HM Revenue and Customs (HMRC) press office.",
+   "url": "https://www.gov.uk/government/organisations/hm-revenue-customs/about/media-enquiries",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "media_enquiries",
+   "party_voice": "",
+   "published": "2026-11-05T10:00:48Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6f1d1ae531b4d5f3",
+   "title": "No amount of sliding in the polls can shake Kemi Badenoch’s self-belief – or alter her party’s direction | Andy Beckett",
+   "summary": "Two years in to her leadership, Badenoch continues to take the Tories ever-rightwards, into comfort-zone Conservatism What happens to a political leader who is too sure of themself? Sometimes, huge confidence is a very useful, self-fulfilling quality: persuading party colleagues, activists, donors…",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/05/kemi-badenoch-polls-tory-party-direction",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-05T10:00:04+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d73e60372f997abe",
+   "title": "UK can avoid euro but must accept free movement to rejoin EU, says former top Brexit negotiator – UK politics live",
+   "summary": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiable Efforts to reduce the proportion of young care leavers in England who are at risk of or end up homeless will ensure this group “don’t face a cliff edge just when they need support most”,…",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-05T09:55:06+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ee4cb96b5470e207",
+   "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+   "summary": "A little-known investment group has made a bid to buy the business.",
+   "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-05T09:46:32+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0759974699a6ba5e",
+   "title": "Poundland owner turns to Thames Water creditors' lobbying firm as political heat rises",
+   "summary": "The embattled owner of Poundland has parachuted in a team of top London lobbyists as it faces intensifying political pressure over the discount retailer's fate.",
+   "url": "https://news.sky.com/story/poundland-owner-turns-to-thames-water-creditors-lobbying-firm-as-political-heat-rises-13608284",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-05T09:41:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6beda25778675622",
+   "title": "Palestine Action ban undermined confidence in anti-terror laws, Supreme Court told",
+   "summary": "Co-founder of Palestine Action, Huda Ammori, is challenging the government's decision to proscribe the group.",
+   "url": "https://www.bbc.co.uk/news/articles/cmr4yvel29keo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-05T09:17:38+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "b7a7a220263a90c7",
+   "title": "Water reform: “A new vision for water”",
+   "summary": "The government has announced a series of water reforms. Find out more about these plans and the next steps.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10998/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-05T09:15:51+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b6e22adad15183c9",
+   "title": "Minister tells journalist to ‘get a life’ over smoky bacon crisp ban row",
+   "summary": "‘If you want to obsess about smoky bacon crisps, I suppose that’s your choice,’ environment secretary tells radio host",
+   "url": "https://www.independent.co.uk/news/uk/politics/smoky-bacon-crisps-ban-angela-eagle-brexit-deal-eu-b3079575.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-05T09:09:33+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "371db9293d0682b7",
+   "title": "Activists across Europe prepare two days of protests against datacentres",
+   "summary": "More than 100 campaign groups will join together in 15 countries this week to call for a halt to major AI projects Protesters across Europe are planning two days of action against datacentres this week with demonstrations taking place in 15 countries. More than 100 groups are joining together for…",
+   "url": "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-05T09:00:01+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Housing",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3436364e7ca2ac33",
+   "title": "Find out about the loan charge settlement scheme",
+   "summary": "Find out about settling your outstanding disguised remuneration loan charge liability under the loan charge settlement scheme.",
+   "url": "https://www.gov.uk/guidance/find-out-about-the-loan-charge-settlement-scheme",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-05T08:48:16Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7bbf994967a45e83",
+   "title": "Health benefits group Fertifa swoops on menopause specialist Tuune",
+   "summary": "A healthtech company run by one of Britain's most prominent venture capitalists has agreed to buy a women's health specialist amid rising corporate demand for the provision of fertility and other sexual health-related benefits to employees.",
+   "url": "https://news.sky.com/story/health-benefits-group-fertifa-swoops-on-menopause-specialist-tuune-13608243",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-05T07:34:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "09c7c8c25bb7d532",
-   "title": "Ministers to target ‘wild west’ of e-bikes blocking pavements",
-   "summary": "Exclusive: Consultation led by Department for Transport will consider parking standards, fleet sizes and insurance requirements Ministers are seeking to end the “wild west” of parked e-bikes blocking pavements, as they attempt to crack down on antisocial behaviour such as cyclists jumping red…",
+   "title": "Ministers to target ‘wild west’ of ebikes blocking pavements",
+   "summary": "Exclusive: Consultation led by Department for Transport will consider parking standards, fleet sizes and insurance requirements Ministers are seeking to end the “wild west” of parked ebikes blocking pavements, as they attempt to crack down on antisocial behaviour such as cyclists jumping red…",
    "url": "https://www.theguardian.com/world/2026/nov/05/e-bikes-blocking-pavements-department-for-transport",
    "source": "Guardian Politics",
    "group": "News",
@@ -102,7 +308,7 @@
   },
   {
    "id": "e5f76fc9e51c19ad",
-   "title": "Democrats won on affordability. Can they deliver it?",
+   "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
    "summary": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
    "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -111,7 +317,10 @@
    "published": "2026-11-05T06:01:05+00:00",
    "dateonly": false,
    "parties": [],
-   "topics": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
    "tax": [],
    "countries": [
     "United States"
@@ -119,7 +328,7 @@
   },
   {
    "id": "0af3b5b6440aa887",
-   "title": "How irrational are Labour’s plans for migrant workers? To find out, read the small print",
+   "title": "How irrational are Labour’s plans for migrant workers? To find out, read the small print | Frances Ryan",
    "summary": "Despite the partial U-turn on care worker visas, the staff who keep the system afloat still face a hostile environment If you want to see the senselessness of Britain’s immigration debate play out in real time, look no further than the crackdown on care workers’ visas that came to a head this week…",
    "url": "https://www.theguardian.com/commentisfree/2026/nov/05/care-workers-visa-migration-labour-shabana-mahmood",
    "source": "Guardian Politics",
@@ -138,7 +347,7 @@
   },
   {
    "id": "e74b412ac3f0fe15",
-   "title": "Why do sausage rolls and veterinary fees vary in price across London?",
+   "title": "Why do veterinary fees and sausage rolls vary in price across London?",
    "summary": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
    "url": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -174,7 +383,7 @@
   {
    "id": "5f23d19d21511f6f",
    "title": "Pound rises to its highest level since the Brexit referendum",
-   "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+   "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
    "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
@@ -220,7 +429,7 @@
   },
   {
    "id": "09d74acd5d4963d6",
-   "title": "UK agrees to talks on harms of the transatlantic slave trade",
+   "title": "UK agrees to 'time-bound' talks on harms of slave trade",
    "summary": "The UK has agreed to engage in \"structured, time-bound, inclusive and good-faith\" talks that address the \"historical harms\" of the transatlantic slave trade, Commonwealth leaders have said.",
    "url": "https://news.sky.com/story/uk-agrees-to-talks-addressing-historical-harms-of-slavery-but-pm-rules-out-reparations-13608208",
    "source": "Sky News Politics",
@@ -555,23 +764,6 @@
    ]
   },
   {
-   "id": "6beda25778675622",
-   "title": "Palestine Action ban undermined confidence in anti-terror laws, Supreme Court told",
-   "summary": "Co-founder of Palestine Action, Huda Ammori, is challenging the government's decision to proscribe the group.",
-   "url": "https://www.bbc.co.uk/news/articles/cmr4yvel29keo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-04T17:55:53+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Palestine"
-   ]
-  },
-  {
    "id": "2791455f2104be28",
    "title": "UK politics: Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – as it happened",
    "summary": "‘I think people want to see the world coming together and focusing on the things that matter to people,’ PM says Louise Haigh starts by saying she is standing in for Andy Burnham. She says this weekend the whole country will fall silent to mark Remembrance Sunday. Continue reading...",
@@ -592,6 +784,26 @@
     "Iran",
     "United States"
    ]
+  },
+  {
+   "id": "32e0790aa8e0b25c",
+   "title": "Power deal between Labour and Greens in Sheffield",
+   "summary": "Fran Belbin tells a council meeting to expect the current Labour - Green administration to continue.",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly0en8e8eeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-04T17:01:13+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Green Party"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
   },
   {
    "id": "aa5d83d4cac9df36",
@@ -895,6 +1107,23 @@
    ],
    "tax": [
     "VAT"
+   ],
+   "countries": []
+  },
+  {
+   "id": "c48d61a3e4dfb62d",
+   "title": "'Will I get any of my late husband's state pension?'",
+   "summary": "Every week, we help a reader with their consumer issue or personal finance dilemma in our Money Problem series. You can send yours to moneyblog@sky.uk. Today, we answer this question...",
+   "url": "https://news.sky.com/story/will-i-get-any-of-my-late-husbands-state-pension-13607939",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-04T13:11:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Pensions"
    ],
    "countries": []
   },
@@ -4357,8 +4586,8 @@
    "title": "Major business group calls for fundamental change in UK-EU relationship",
    "summary": "A major UK business group has called on the government to \"fundamentally reassess\" the country's relationship with the EU, as it said the current system is still \"failing to deliver\".",
    "url": "https://news.sky.com/story/major-business-group-calls-for-fundamental-change-in-uk-eu-relationship-as-current-system-failing-13607061",
-   "source": "Sky News Business",
-   "group": "Economy news",
+   "source": "Sky News Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-11-02T12:27:00+00:00",
    "dateonly": false,
@@ -15283,240 +15512,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "13db8cab5d676ecf",
-   "title": "UK spending on ‘fairytale’ carbon capture tech is a national embarrassment, chancellor told",
-   "summary": "Chris Packham says £24bn earmarked for projects with ‘ludicrously uncertain results’ should be redirected to help lower bills and cut emissions Campaigners are calling on the chancellor to cut the government’s £24bn spending plans for “fairytale” carbon capture technologies in favour of funding…",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/27/chris-packham-chancellor-scrap-spending-fairytale-carbon-capture-budget",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-27T13:28:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f8a0b434e80f1b8a",
-   "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-   "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-   "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-27T13:25:54+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": [
-    "France",
-    "China"
-   ]
-  },
-  {
-   "id": "6cc29230c0e2f4f4",
-   "title": "Lord Ashcroft: Parties, leaders and the voters they need – the pre-Budget state of play",
-   "summary": "The voters agree change is needed, though they disagree on what kind. Reform’s problem is that the voters it needs fear it can’t deliver change; Labour’s is that the voters it needs fear it won’t. The Conservatives have both problems at once. The post Lord Ashcroft: Parties, leaders and the voters…",
-   "url": "https://conservativehome.com/2026/10/27/lord-ashcroft-parties-leaders-and-the-voters-they-need-the-pre-budget-state-of-play/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-27T13:00:09+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "5a63b73f32e5c853",
-   "title": "Monthly property transactions completed in the UK with the value of £40,000 or above",
-   "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
-   "url": "https://www.gov.uk/government/statistics/announcements/monthly-property-transactions-completed-in-the-uk-with-the-value-of-40000-or-above--31",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "national_statistics_announcement",
-   "party_voice": "",
-   "published": "2026-10-27T12:58:31Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2788d808021611c3",
-   "title": "Find software suppliers for filing charities repayments online",
-   "summary": "Find recognised suppliers and software to file charity repayment claims online.",
-   "url": "https://www.gov.uk/government/publications/charities-online-commercial-software-suppliers",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-27T12:53:48Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "78e092c3885c9748",
-   "title": "Britain ‘in talks with EU’ about return to freedom of movement",
-   "summary": "Britain is reportedly discussing a series of options for closer alignment with the bloc, ahead of a crucial UK-EU summit next month",
-   "url": "https://www.independent.co.uk/news/uk/politics/brexit-uk-eu-free-movement-andy-burnham-b3073929.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-27T12:38:02+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "a0203bee001a107f",
-   "title": "Pay Climate Change Levy",
-   "summary": "How to pay the Climate Change Levy, and how long it takes for your payment to reach HMRC.",
-   "url": "https://www.gov.uk/guidance/pay-climate-change-levy",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-27T12:25:41Z",
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f6e54b32c396c91d",
-   "title": "Rishi Sunak fears prostate cancer screening decision made over flawed data model",
-   "summary": "The committee decided against rolling out wider population screening for prostate cancer through prostate specific antigen (PSA) blood tests",
-   "url": "https://www.independent.co.uk/news/uk/home-news/prostate-cancer-screening-test-rishi-sunak-b3074117.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-27T12:22:46+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "1494a1a6171c35c6",
-   "title": "Select Committees – core tasks",
-   "summary": "On 20 June 2002, the members of the Liaison Committee agreed a set of ten core tasks for select committees to guide their work. The committee reviewed and revised the core tasks in 2012, 2019 and 2024. This research briefing compares the different versions. It also provides a brief background to…",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/sn03161/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-27T12:20:29+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "14de07ff913e6075",
-   "title": "First-time buyer wary of Budget housing loan scheme",
-   "summary": "Luke Anstee has been saving for three years but says rising living costs make home ownership harder.",
-   "url": "https://www.bbc.co.uk/news/articles/c3dxwznv4kyyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-27T12:05:16+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Housing"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "1a9340bee1ad714e",
-   "title": "The role and effectiveness of Ofcom",
-   "summary": "A Westminster Hall debate on the role and effectiveness of Ofcom is scheduled for 29 October 2026. The debate will be opened by Vikki Slade MP.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12253/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-27T11:43:25+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "37e74ec66993b475",
-   "title": "List of approved professional organisations and learned societies (List 3)",
-   "summary": "Check this list of professional bodies to see if you can claim tax relief on your fees or subscriptions.",
-   "url": "https://www.gov.uk/government/publications/professional-bodies-approved-for-tax-relief-list-3",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-27T11:32:10Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "03058755270d1691",
-   "title": "Virgin Atlantic fury as Heathrow forces Delta terminal move",
-   "summary": "Virgin Atlantic Airways has reacted furiously after Heathrow Airport decided to force its joint venture partner to relocate to another terminal - a move it warned would risk driving fares up for passengers.",
-   "url": "https://news.sky.com/story/virgin-atlantic-fury-as-heathrow-forces-delta-terminal-move-13604337",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-27T11:28:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "36338431228b3225",
-   "title": "Andrew Gilligan: Is Andy Burnham the new Jim Callaghan?",
-   "summary": "Yesterday, and not for the first time, some of Burnham’s musings had to be “clarified” by his spokesman. So maybe all this is just riffing. Maybe he just hasn’t thought any of it through. The post Andrew Gilligan: Is Andy Burnham the new Jim Callaghan? appeared first on Conservative Home .",
-   "url": "https://conservativehome.com/2026/10/27/andrew-gilligan-is-andy-burnham-the-new-jim-callaghan/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-10-27T11:00:28+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15531,7 +15526,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
@@ -15545,28 +15540,28 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15594,7 +15589,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -16187,7 +16182,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 141417,
+   "signatures": 143323,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16196,7 +16191,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 134550,
+   "signatures": 134573,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16205,7 +16200,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 127837,
+   "signatures": 127943,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16214,7 +16209,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 112559,
+   "signatures": 112628,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16223,7 +16218,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86934,
+   "signatures": 86949,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16232,34 +16227,34 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 81354,
+   "signatures": 81415,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/779259"
   },
   {
-   "id": 777710,
-   "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 75101,
-   "created": "2026-07-20T20:56:52.894Z",
-   "responded": true,
-   "debate": false,
-   "url": "https://petition.parliament.uk/petitions/777710"
-  },
-  {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 73979,
+   "signatures": 75686,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/783252"
   },
   {
+   "id": 777710,
+   "title": "Make catapult attacks against animals a standalone criminal offence",
+   "signatures": 75122,
+   "created": "2026-07-20T20:56:52.894Z",
+   "responded": true,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/777710"
+  },
+  {
    "id": 766919,
    "title": "Review the law on unfit to plead & reform it to protect victims & public safety",
-   "signatures": 64009,
+   "signatures": 68044,
    "created": "2026-04-09T21:50:01.121Z",
    "responded": true,
    "debate": false,
@@ -16268,7 +16263,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 57222,
+   "signatures": 57262,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16277,7 +16272,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55641,
+   "signatures": 55646,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16286,7 +16281,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46605,
+   "signatures": 46613,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16876,7 +16871,7 @@
      "v": 3.75
     },
     {
-     "d": "2026-11-03",
+     "d": "2026-11-04",
      "v": 3.75
     }
    ],
