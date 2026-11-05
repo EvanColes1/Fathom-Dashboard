@@ -1,10 +1,55 @@
 {
- "updated": "2026-11-05T01:28:47.187683+00:00",
+ "updated": "2026-11-05T04:14:34.709321+00:00",
  "government": "Labour",
  "articles": [
   {
+   "id": "248a0c36145ccfe8",
+   "title": "More asbestos found in Parliament, as MPs urged to get on with revamp",
+   "summary": "MPs told it's crunch time for a decision on refurbishment amid warnings of a Notre Dame-style fire.",
+   "url": "https://www.bbc.co.uk/news/articles/cqly0k8l5mdvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-05T03:05:34+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c352cd185f5da51d",
+   "title": "UK commits to 'time-bound' talks on slavery apology",
+   "summary": "British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes.",
+   "url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-05T02:17:18+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "09d74acd5d4963d6",
+   "title": "UK agrees to talks addressing 'historical harms' of slavery",
+   "summary": "The UK has agreed to engage in \"structured, time-bound, inclusive and good-faith\" talks that address the \"historical harms\" of the transatlantic slave trade, Commonwealth leaders have said.",
+   "url": "https://news.sky.com/story/uk-agrees-to-talks-addressing-historical-harms-of-slavery-but-pm-rules-out-reparations-13608208",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-05T01:30:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "4fe0318c4fb8e49e",
-   "title": "Australia's oldest department store David Jones collapses after 188 years",
+   "title": "Australia's oldest department store David Jones folds after 188 years",
    "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
    "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -212,7 +257,7 @@
   },
   {
    "id": "4507373f08079fb3",
-   "title": "Chris Mason: The US elections will change Trump – how will Burnham react?",
+   "title": "Chris Mason: The US elections will change Trump - how will Burnham react?",
    "summary": "The big question for the British government is does defeat at home make it more likely that President Trump gets angrier abroad?",
    "url": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
@@ -15480,58 +15525,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "088d4b9204220b00",
-   "title": "Apple to replace iPhone Duos affected by screen problem",
-   "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-   "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-27T09:37:55+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b50fe74d885b4843",
-   "title": "Predevelopment costs research",
-   "summary": "Research into the prevalence and nature of predevelopment costs among UK Corporation Tax-paying businesses, their tax treatment and their impact on investment decisions",
-   "url": "https://www.gov.uk/government/publications/predevelopment-costs-research",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "research",
-   "party_voice": "",
-   "published": "2026-10-27T09:30:01Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "eb5999218421548a",
-   "title": "Reform trapped in third place in polls as Burnham eyes another majority for Labour",
-   "summary": "YouGov is the second pollster to put Reform on just 20 per cent in third place behind the Tories, while Labour’s 27 per cent would give them a small majority in an election",
-   "url": "https://www.independent.co.uk/news/uk/politics/reform-farage-burnham-labour-majority-yougov-poll-b3073960.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-27T09:10:05+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15539,35 +15532,35 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 7,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
@@ -16305,7 +16298,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 140130,
+   "signatures": 140498,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16314,7 +16307,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 134541,
+   "signatures": 134545,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16323,7 +16316,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 127797,
+   "signatures": 127802,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16332,7 +16325,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 112523,
+   "signatures": 112527,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16341,7 +16334,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 86925,
+   "signatures": 86926,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16350,7 +16343,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 81300,
+   "signatures": 81309,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16368,7 +16361,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 72706,
+   "signatures": 73025,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16377,7 +16370,7 @@
   {
    "id": 766919,
    "title": "Review the law on unfit to plead & reform it to protect victims & public safety",
-   "signatures": 61001,
+   "signatures": 61333,
    "created": "2026-04-09T21:50:01.121Z",
    "responded": true,
    "debate": false,
@@ -16386,7 +16379,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 57200,
+   "signatures": 57203,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16395,7 +16388,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55638,
+   "signatures": 55640,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16404,7 +16397,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46600,
+   "signatures": 46603,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
