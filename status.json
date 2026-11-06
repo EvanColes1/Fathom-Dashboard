@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-06T06:42:33.421609+00:00",
+ "updated": "2026-11-06T11:04:13.779910+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 4,
+   "new": 7,
    "note": ""
   },
   {
@@ -19,14 +19,14 @@
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 9,
+   "new": 17,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 19,
    "note": ""
   },
   {
@@ -39,57 +39,57 @@
   {
    "name": "Euronews",
    "group": "World news",
-   "ok": false,
-   "new": 0,
-   "note": "406 Client Error: Not Acceptable for url: https://www.euronews.com/rss?level=theme&name=news"
+   "ok": true,
+   "new": 7,
+   "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 10,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 13,
+   "new": 9,
    "note": ""
   },
   {
    "name": "Americas Quarterly",
    "group": "Regional",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": "via backup feed"
   },
   {
@@ -103,14 +103,14 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 13,
+   "new": 10,
    "note": "via backup feed"
   },
   {
    "name": "RUSI",
    "group": "Think tank",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
@@ -124,14 +124,14 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 14,
+   "new": 11,
    "note": "via backup feed"
   },
   {
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 7,
+   "new": 8,
    "note": "via backup feed"
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -166,14 +166,14 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 9,
+   "new": 8,
    "note": ""
   },
   {
@@ -194,14 +194,14 @@
    "name": "Splash247",
    "group": "Maritime",
    "ok": true,
-   "new": 3,
+   "new": 9,
    "note": ""
   },
   {
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
@@ -215,14 +215,14 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 8,
+   "new": 5,
    "note": "via backup feed"
   },
   {
    "name": "Migration Policy Institute",
    "group": "Migration",
    "ok": true,
-   "new": 1,
+   "new": 4,
    "note": ""
   },
   {
@@ -243,7 +243,7 @@
    "name": "IAEA News",
    "group": "Nuclear",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   }
  ],
