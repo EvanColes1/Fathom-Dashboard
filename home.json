@@ -1,7 +1,73 @@
 {
- "updated": "2026-11-06T19:29:37.492593+00:00",
+ "updated": "2026-11-07T00:58:07.992306+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "e49dc2fcf70f0872",
+   "title": "Burnham considers rape trial law change after Russell Brand backlash",
+   "summary": "Prime minister described star’s actions as ‘horrifying’ and praised the bravery of the women who had the ‘courage to speak out’",
+   "url": "https://www.independent.co.uk/news/uk/politics/burnham-russell-brand-rape-trial-guilty-b3080736.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-07T00:01:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "af31ad637890cdeb",
+   "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+   "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+   "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-06T21:49:50+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "334d7d4f743c9496",
+   "title": "Millions can’t afford to follow government’s stockpiling advice, research finds",
+   "summary": "The government’s emergency advice is ‘bordering on irresponsible’, new research warns",
+   "url": "https://www.independent.co.uk/news/uk/home-news/be-ready-stockpile-campaign-government-advice-cost-b3080686.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-06T21:34:40+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8fc8e90c6b3150dc",
+   "title": "AI stocks climb after trillions wiped from market values",
+   "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+   "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-06T21:06:25+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "25645a6494007f54",
    "title": "Young people with mental health issues better off in work than on benefits, Pat McFadden says",
@@ -37,21 +103,6 @@
    ]
   },
   {
-   "id": "334d7d4f743c9496",
-   "title": "Millions can’t afford to follow government’s stockpiling advice, research finds",
-   "summary": "The government’s emergency advice is ‘bordering on irresponsible’, new research warns",
-   "url": "https://www.independent.co.uk/news/uk/home-news/be-ready-stockpile-campaign-government-advice-cost-b3080686.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-06T18:07:10+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "e0e4f2c7c0269c66",
    "title": "Burnham praises victims who spoke out on Russell Brand’s ‘horrific’ crimes",
    "summary": "Comedian is facing a long custodial sentence after being convicted of raping one of his fans and sexually assaulting three other women at the height of his fame in the 2000s",
@@ -73,31 +124,14 @@
    "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
    "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
    "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
+   "source": "BBC Business",
+   "group": "Economy news",
    "party_voice": "",
    "published": "2026-11-06T17:19:38+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
     "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8fc8e90c6b3150dc",
-   "title": "AI stocks climb after trillions wiped from market values",
-   "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-   "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-06T17:03:02+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections"
    ],
    "tax": [],
    "countries": []
@@ -770,21 +804,6 @@
     "Elections",
     "Housing"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "af31ad637890cdeb",
-   "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-   "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-   "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-06T09:57:04+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -15513,21 +15532,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "7290507dee580fa3",
-   "title": "HMT monetary policy remit",
-   "summary": "This series brings together all documents relating to HMT monetary policy remit.",
-   "url": "https://www.gov.uk/government/collections/monetary-policy-remit",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-10-28T13:31:25Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15535,14 +15539,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 7,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
@@ -15556,28 +15560,28 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -15605,7 +15609,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
@@ -15626,7 +15630,7 @@
    "name": "Resolution Foundation",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 5,
+   "new": 3,
    "note": ""
   },
   {
@@ -16355,7 +16359,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 155867,
+   "signatures": 157197,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16364,7 +16368,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 135119,
+   "signatures": 135180,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16373,7 +16377,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 128988,
+   "signatures": 129091,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16382,34 +16386,34 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 113429,
+   "signatures": 113514,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
    "url": "https://petition.parliament.uk/petitions/780269"
   },
   {
-   "id": 773633,
-   "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 87116,
-   "created": "2026-06-17T16:29:16.669Z",
-   "responded": true,
-   "debate": false,
-   "url": "https://petition.parliament.uk/petitions/773633"
-  },
-  {
    "id": 766919,
    "title": "Review the law on unfit to plead & reform it to protect victims & public safety",
-   "signatures": 85712,
+   "signatures": 87591,
    "created": "2026-04-09T21:50:01.121Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/766919"
   },
   {
+   "id": 773633,
+   "title": "Launch a public inquiry into illegal migration in the UK",
+   "signatures": 87182,
+   "created": "2026-06-17T16:29:16.669Z",
+   "responded": true,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/773633"
+  },
+  {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 85594,
+   "signatures": 86719,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16418,7 +16422,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 82012,
+   "signatures": 82122,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16427,7 +16431,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 75396,
+   "signatures": 75451,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16436,7 +16440,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 58573,
+   "signatures": 58932,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16445,7 +16449,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55671,
+   "signatures": 55677,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16454,7 +16458,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46694,
+   "signatures": 46700,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -17020,7 +17024,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-10-07",
+     "d": "2024-10-08",
      "v": 5.0
     },
     {
