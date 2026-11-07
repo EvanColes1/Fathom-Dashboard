@@ -1,7 +1,46 @@
 {
- "updated": "2026-11-07T10:24:17.101924+00:00",
+ "updated": "2026-11-07T11:56:05.054731+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "51bf8d7c5c98484d",
+   "title": "Reform has lost more councillors in five months than any other party. They explain why",
+   "summary": "Five months is a long time in politics. After May’s local elections, Nigel Farage was being considered as the next prime minister, but after a recent collapse in the national polls, holes in the party have also opened at a local level with the loss of dozens of seats. Alex Ross looks at those who…",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-councillors-nigel-farage-defections-racist-election-b3075664.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-07T11:27:34+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Elections",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b8747d4015398014",
+   "title": "'Dirty' Trump deserved to be thrashed in the US midterms, says Kemi Badenoch",
+   "summary": "In a wide-ranging and revealing exclusive interview for The Talk Show with Geordie Greig, Badenoch also savaged Tory predecessors Boris Johnson and Liz Truss for their ‘mistakes’ in government",
+   "url": "https://www.independent.co.uk/news/uk/politics/dirty-trump-deserved-to-be-thrashed-in-the-us-midterms-says-kemi-badenoch-b3080637.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-07T11:22:51+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
   {
    "id": "2f9fb70197b84d44",
    "title": "Revealed: Poundland owner's £18m bonanza from struggling discounter",
@@ -18,22 +57,21 @@
    "countries": []
   },
   {
-   "id": "b8747d4015398014",
-   "title": "'Dirty' Trump deserved to be thrashed in the US midterms, says Kemi Badenoch",
-   "summary": "In a wide-ranging and revealing exclusive interview for The Talk Show with Geordie Greig, Badenoch also savaged Tory predecessors Boris Johnson and Liz Truss for their ‘mistakes’ in government",
-   "url": "https://www.independent.co.uk/news/uk/politics/dirty-trump-deserved-to-be-thrashed-in-the-us-midterms-says-kemi-badenoch-b3080637.html",
+   "id": "43afab47179ad26c",
+   "title": "UK to host Ukraine’s Volodymyr Zelensky for state visit in 2027",
+   "summary": "The visit would aim to project solidarity with Ukraine in what will be the fifth year of its war against Russia",
+   "url": "https://www.independent.co.uk/news/uk/politics/uk-ukraine-zelensky-burnham-state-visit-b3080919.html",
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-07T09:19:53+00:00",
+   "published": "2026-11-07T09:28:50+00:00",
    "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
+   "parties": [],
    "topics": [],
    "tax": [],
    "countries": [
-    "United States"
+    "Russia",
+    "Ukraine"
    ]
   },
   {
@@ -15508,40 +15546,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "c20e5ed71500dfa3",
-   "title": "Understanding Alcohol Producers' Experiences of Duty Reforms",
-   "summary": "This research looked at alcohol producers’ views and experiences of the 2023 Alcohol Duty reforms and the new digital system for submitting returns.",
-   "url": "https://www.gov.uk/government/publications/understanding-alcohol-producers-experiences-of-duty-reforms",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "research",
-   "party_voice": "",
-   "published": "2026-10-28T13:48:52Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Fuel and duties"
-   ],
-   "countries": []
-  },
-  {
-   "id": "0408bc70650948dd",
-   "title": "VAT treatment of travel services in relation to the Tour Operators’ Margin Scheme",
-   "summary": "HMRC welcome views on how the Tour Operators’ Margin Scheme is currently working and options to change, improve and simplify the application of VAT to travel services.",
-   "url": "https://www.gov.uk/government/calls-for-evidence/vat-treatment-of-travel-services-in-relation-to-the-tour-operators-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "open_call_for_evidence",
-   "party_voice": "",
-   "published": "2026-10-28T13:48:43Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15549,14 +15553,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
@@ -15584,7 +15588,7 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15647,7 +15651,7 @@
    "name": "Tax Policy Associates",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 8,
+   "new": 7,
    "note": ""
   },
   {
@@ -16369,7 +16373,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 158356,
+   "signatures": 158795,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16378,7 +16382,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 135249,
+   "signatures": 135275,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16387,7 +16391,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 129240,
+   "signatures": 129299,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16396,7 +16400,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 113583,
+   "signatures": 113610,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16405,7 +16409,7 @@
   {
    "id": 766919,
    "title": "Review the law on unfit to plead & reform it to protect victims & public safety",
-   "signatures": 89727,
+   "signatures": 90289,
    "created": "2026-04-09T21:50:01.121Z",
    "responded": true,
    "debate": false,
@@ -16414,7 +16418,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 87853,
+   "signatures": 88652,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16423,7 +16427,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 87210,
+   "signatures": 87243,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16432,7 +16436,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 82195,
+   "signatures": 82209,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16441,7 +16445,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 75546,
+   "signatures": 75652,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16450,7 +16454,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 59127,
+   "signatures": 59191,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16459,7 +16463,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55680,
+   "signatures": 55681,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16468,7 +16472,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46704,
+   "signatures": 46708,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
