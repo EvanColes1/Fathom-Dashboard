@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-07T11:56:05.054731+00:00",
+ "updated": "2026-11-07T17:46:03.913976+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "5351930e6672c6a3",
+   "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+   "summary": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024 NHS officials are shutting growing numbers of birth centres in a “shocking” denial of a woman’s right to have a midwife rather than a doctor oversee their baby’s birth, say…",
+   "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-07T17:00:16+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "51bf8d7c5c98484d",
    "title": "Reform has lost more councillors in five months than any other party. They explain why",
@@ -10,7 +29,7 @@
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-07T11:27:34+00:00",
+   "published": "2026-11-07T16:08:45+00:00",
    "dateonly": false,
    "parties": [
     "Reform UK"
@@ -23,14 +42,132 @@
    "countries": []
   },
   {
+   "id": "0545b1b04e570ff4",
+   "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+   "summary": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sides Five European leaders have called for closer ties with Britain ahead of a keenly anticipated EU-UK summit. The leaders of Germany, Belgium, the Netherlands, Luxembourg and Denmark, said…",
+   "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-07T15:30:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "Germany",
+    "Netherlands",
+    "Belgium",
+    "Luxembourg",
+    "Denmark"
+   ]
+  },
+  {
+   "id": "306d8dfa440ca4bc",
+   "title": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
+   "summary": "Charges against party members and off-piste remarks highlight problems brought about by rapid expansion Speaking to reporters after unveiling his new defence spokesperson this week, Nigel Farage’s jovial and upbeat mood suddenly switched. Why, he was asked, was a Reform UK councillor who was…",
+   "url": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-07T15:00:14+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "08de24a693ba5584",
+   "title": "Kemi Badenoch: ‘I watched a man being beaten to death in front of me’",
+   "summary": "The Conservative leader tells Geordie Greig how witnessing mob killings in Nigeria shaped her politics and her approach to immigration in an exclusive interview for The Talk Show",
+   "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-nigeria-racism-immigration-marvel-b3080782.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-07T14:58:53+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Party leadership",
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "e49dc2fcf70f0872",
+   "title": "Burnham considers rape trial law change after Russell Brand backlash",
+   "summary": "Prime minister described star’s actions as ‘horrifying’ and praised the bravery of the women who had the ‘courage to speak out’",
+   "url": "https://www.independent.co.uk/news/uk/politics/burnham-russell-brand-rape-trial-guilty-b3080736.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-07T14:52:25+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "395b7d483495f88d",
+   "title": "Court rules against Home Office in asylum seeker kidnapping case",
+   "summary": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya The court of appeal has rejected claims by the Home Office that being kidnapped for ransom is not exploitation of trafficking victims. The ruling means that…",
+   "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-07T13:00:11+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": [
+    "Syria",
+    "Libya"
+   ]
+  },
+  {
+   "id": "8d7f163f4709d765",
+   "title": "Great British Railways: new dawn for a new network but with plenty of old problems to fix",
+   "summary": "Experts predict a baptism of fire for GBR in 2027, with likely issues ranging from clapped-out trains and track to extreme weather-related stress The glad tidings brought by the minister were that the wait was almost over: the establishment of Great British Railways could be wrapped up by…",
+   "url": "https://www.theguardian.com/business/2026/nov/07/great-british-railways-new-dawn-for-a-new-network-but-with-plenty-of-old-problems-to-fix",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-07T13:00:11+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "b8747d4015398014",
-   "title": "'Dirty' Trump deserved to be thrashed in the US midterms, says Kemi Badenoch",
-   "summary": "In a wide-ranging and revealing exclusive interview for The Talk Show with Geordie Greig, Badenoch also savaged Tory predecessors Boris Johnson and Liz Truss for their ‘mistakes’ in government",
+   "title": "‘Dirty’ Trump deserved to be thrashed in the US midterms, says Kemi Badenoch",
+   "summary": "In a wide-ranging and revealing exclusive interview for ‘The Talk Show’ with Geordie Greig, Badenoch also savages Tory predecessors Boris Johnson and Liz Truss for their ‘mistakes’ in government",
    "url": "https://www.independent.co.uk/news/uk/politics/dirty-trump-deserved-to-be-thrashed-in-the-us-midterms-says-kemi-badenoch-b3080637.html",
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-07T11:22:51+00:00",
+   "published": "2026-11-07T12:27:50+00:00",
    "dateonly": false,
    "parties": [
     "Conservative"
@@ -129,28 +266,6 @@
    ]
   },
   {
-   "id": "08de24a693ba5584",
-   "title": "Kemi Badenoch: 'I watched a man being beaten to death in front of me'",
-   "summary": "The Conservative leader tells Geordie Greig how witnessing mob killings in Nigeria shaped her politics and her approach to immigration in an exclusive interview for The Talk Show",
-   "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-nigeria-racism-immigration-marvel-b3080782.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-07T08:20:17+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Party leadership",
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": [
-    "Nigeria"
-   ]
-  },
-  {
    "id": "7c1e3827849e8ae3",
    "title": "Why Woke 2.0 is taking on Trump and establishment politics | Nesrine Malik | Radical Thinking podcast",
    "summary": "Today’s political conversation is dominated by one topic above all: race. The Guardian columnist Nesrine Malik has been way ahead of the pack in diagnosing how immigrants, their children and grandchildren are reshaping not just politics but western societies. On the latest episode of Radical…",
@@ -216,25 +331,6 @@
    "dateonly": false,
    "parties": [],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e49dc2fcf70f0872",
-   "title": "Burnham considers rape trial law change after Russell Brand backlash",
-   "summary": "Prime minister described star’s actions as ‘horrifying’ and praised the bravery of the women who had the ‘courage to speak out’",
-   "url": "https://www.independent.co.uk/news/uk/politics/burnham-russell-brand-rape-trial-guilty-b3080736.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-07T00:01:00+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
    "tax": [],
    "countries": []
   },
@@ -15465,87 +15561,6 @@
     "Income tax"
    ],
    "countries": []
-  },
-  {
-   "id": "84f1f22ed065c2dc",
-   "title": "Reporting company payments to participators",
-   "summary": "This consultation seeks views on proposals to introduce new requirements to report transactions between close companies and their participators to HMRC",
-   "url": "https://www.gov.uk/government/consultations/reporting-company-payments-to-participators",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "consultation_outcome",
-   "party_voice": "",
-   "published": "2026-10-28T13:49:34Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d1ee3ea3722747ef",
-   "title": "Electronic Sales Suppression: Introduction of software standards",
-   "summary": "HMRC is seeking views on proposed software standards to prevent electronic sales suppression and help ensure businesses report sales accurately.",
-   "url": "https://www.gov.uk/government/consultations/electronic-sales-suppression-introduction-of-software-standards",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "consultation_outcome",
-   "party_voice": "",
-   "published": "2026-10-28T13:49:25Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "050842a26254e9c4",
-   "title": "Alcohol Duty Reforms Evaluation Report",
-   "summary": "The joint evaluation by HM Revenue and Customs and HM Treasury of the Alcohol Duty Reforms",
-   "url": "https://www.gov.uk/government/publications/alcohol-duty-reforms-evaluation-report",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "research",
-   "party_voice": "",
-   "published": "2026-10-28T13:49:07Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Fuel and duties"
-   ],
-   "countries": []
-  },
-  {
-   "id": "ff8e0de08255f7dd",
-   "title": "E-invoicing digital reporting",
-   "summary": "We are seeking views on the potential future use of E-invoicing Digital Reporting and how information created through e-invoicing could be used more effectively.",
-   "url": "https://www.gov.uk/government/consultations/e-invoicing-digital-reporting",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "open_consultation",
-   "party_voice": "",
-   "published": "2026-10-28T13:49:00Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "21e17d3715ee35db",
-   "title": "Plastic Packaging Tax Research",
-   "summary": "This research looked at plastic packaging manufacturers and importers' experiences of Plastic Packaging Tax.",
-   "url": "https://www.gov.uk/government/publications/plastic-packaging-tax-research",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "research",
-   "party_voice": "",
-   "published": "2026-10-28T13:48:59Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15560,7 +15575,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 5,
    "note": ""
   },
   {
@@ -15574,7 +15589,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -15616,7 +15631,7 @@
    "name": "UK in a Changing Europe",
    "group": "Analysis",
    "ok": true,
-   "new": 14,
+   "new": 12,
    "note": ""
   },
   {
@@ -15630,7 +15645,7 @@
    "name": "Office for Budget Responsibility",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16373,7 +16388,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 158795,
+   "signatures": 161343,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16382,7 +16397,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 135275,
+   "signatures": 135356,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16391,7 +16406,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 129299,
+   "signatures": 129477,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16400,7 +16415,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 113610,
+   "signatures": 113692,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16409,7 +16424,7 @@
   {
    "id": 766919,
    "title": "Review the law on unfit to plead & reform it to protect victims & public safety",
-   "signatures": 90289,
+   "signatures": 92243,
    "created": "2026-04-09T21:50:01.121Z",
    "responded": true,
    "debate": false,
@@ -16418,7 +16433,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 88652,
+   "signatures": 89922,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16427,7 +16442,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 87243,
+   "signatures": 87490,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16436,7 +16451,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 82209,
+   "signatures": 82251,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16445,7 +16460,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 75652,
+   "signatures": 76614,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16454,7 +16469,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 59191,
+   "signatures": 59382,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16463,7 +16478,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55681,
+   "signatures": 55691,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16472,7 +16487,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46708,
+   "signatures": 46718,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
