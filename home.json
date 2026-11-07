@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-07T17:46:03.913976+00:00",
+ "updated": "2026-11-07T21:57:36.836182+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "e49dc2fcf70f0872",
+   "title": "Burnham considers rape trial law change after Russell Brand backlash",
+   "summary": "Prime minister described star’s actions as ‘horrifying’ and praised the bravery of the women who had the ‘courage to speak out’",
+   "url": "https://www.independent.co.uk/news/uk/politics/burnham-russell-brand-rape-trial-guilty-b3080736.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-07T20:12:35+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "5351930e6672c6a3",
    "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
@@ -104,25 +123,6 @@
    "countries": [
     "Nigeria"
    ]
-  },
-  {
-   "id": "e49dc2fcf70f0872",
-   "title": "Burnham considers rape trial law change after Russell Brand backlash",
-   "summary": "Prime minister described star’s actions as ‘horrifying’ and praised the bravery of the women who had the ‘courage to speak out’",
-   "url": "https://www.independent.co.uk/news/uk/politics/burnham-russell-brand-rape-trial-guilty-b3080736.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-07T14:52:25+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "395b7d483495f88d",
@@ -15575,7 +15575,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
@@ -16388,7 +16388,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 161343,
+   "signatures": 162626,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16397,7 +16397,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 135356,
+   "signatures": 135383,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16406,7 +16406,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 129477,
+   "signatures": 129610,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16415,7 +16415,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 113692,
+   "signatures": 113750,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16424,7 +16424,7 @@
   {
    "id": 766919,
    "title": "Review the law on unfit to plead & reform it to protect victims & public safety",
-   "signatures": 92243,
+   "signatures": 93965,
    "created": "2026-04-09T21:50:01.121Z",
    "responded": true,
    "debate": false,
@@ -16433,7 +16433,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 89922,
+   "signatures": 90852,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16442,7 +16442,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 87490,
+   "signatures": 87606,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16451,7 +16451,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 82251,
+   "signatures": 82277,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16460,7 +16460,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 76614,
+   "signatures": 77429,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16469,7 +16469,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 59382,
+   "signatures": 59513,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16478,7 +16478,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55691,
+   "signatures": 55695,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16487,7 +16487,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46718,
+   "signatures": 46722,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
