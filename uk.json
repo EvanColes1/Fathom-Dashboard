@@ -1,7 +1,54 @@
 {
- "updated": "2026-11-07T11:56:05.054731+00:00",
- "since": "2026-10-08",
+ "updated": "2026-11-08T12:12:25.117163+00:00",
+ "since": "2026-10-09",
  "whitehall": [
+  {
+   "title": "National Service of Remembrance: Sunday 8 November 2026",
+   "url": "https://www.gov.uk/guidance/national-service-of-remembrance-sunday-8-november-2026",
+   "published": "2026-11-08T00:01:01Z",
+   "kind": "detailed_guide",
+   "orgs": [
+    "DCMS",
+    "MOD"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "No one who has served our country should sleep rough on our streets",
+   "url": "https://www.gov.uk/government/news/no-one-who-has-served-our-country-should-sleep-rough-on-our-streets",
+   "published": "2026-11-07T19:21:00Z",
+   "kind": "press_release",
+   "orgs": [
+    "Number 10"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Poland travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/poland",
+   "published": "2026-11-07T15:53:32Z",
+   "kind": "travel_advice",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Poland"
+   ]
+  },
   {
    "title": "Digital Veteran Card passes 23,000 downloads as veterans encouraged to discover its benefits",
    "url": "https://www.gov.uk/government/news/digital-veteran-card-passes-23000-downloads-as-veterans-encouraged-to-discover-its-benefits",
@@ -1460,22 +1507,6 @@
    ]
   },
   {
-   "title": "Moldova travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/moldova",
-   "published": "2026-11-04T14:54:38Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "Moldova"
-   ]
-  },
-  {
    "title": "List of MAA approved organizations",
    "url": "https://www.gov.uk/government/publications/list-of-maa-approved-organisations",
    "published": "2026-11-04T14:34:50Z",
@@ -2374,35 +2405,6 @@
     "global"
    ],
    "countries": []
-  },
-  {
-   "title": "Proposed implementation of Fixed Price Certificates into the UK-wide RO schemes",
-   "url": "https://www.gov.uk/government/consultations/proposed-implementation-of-fixed-price-certificates-into-the-uk-wide-ro-schemes",
-   "published": "2026-11-03T09:30:00Z",
-   "kind": "open_consultation",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Giant 12-tonne box lowered into place for fusion upgrade",
-   "url": "https://www.gov.uk/government/news/giant-12-tonne-box-lowered-into-place-for-fusion-upgrade",
-   "published": "2026-11-03T09:24:00Z",
-   "kind": "press_release",
-   "orgs": [
-    "UKAEA",
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
   }
  ],
  "laws": [
@@ -2512,86 +2514,86 @@
  "attention": [
   {
    "country": "United States",
-   "news_7d": 1000,
+   "news_7d": 998,
    "contributions": 116,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "Iran",
-   "news_7d": 329,
+   "news_7d": 332,
    "contributions": 131,
    "debates": 3,
    "statements": 0
   },
   {
    "country": "Ukraine",
-   "news_7d": 281,
+   "news_7d": 283,
    "contributions": 173,
    "debates": 2,
    "statements": 1
   },
   {
    "country": "Russia",
-   "news_7d": 267,
+   "news_7d": 265,
    "contributions": 143,
    "debates": 2,
    "statements": 1
   },
   {
    "country": "Israel",
-   "news_7d": 243,
+   "news_7d": 256,
    "contributions": 56,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "France",
-   "news_7d": 196,
+   "news_7d": 195,
    "contributions": 106,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "Palestine",
-   "news_7d": 139,
+   "news_7d": 142,
    "contributions": 39,
    "debates": 1,
    "statements": 0
   },
   {
-   "country": "China",
-   "news_7d": 111,
-   "contributions": 57,
-   "debates": 0,
-   "statements": 0
-  },
-  {
    "country": "Nigeria",
-   "news_7d": 102,
+   "news_7d": 119,
    "contributions": 10,
    "debates": 0,
    "statements": 0
   },
   {
+   "country": "China",
+   "news_7d": 107,
+   "contributions": 57,
+   "debates": 0,
+   "statements": 0
+  },
+  {
    "country": "India",
-   "news_7d": 84,
+   "news_7d": 82,
    "contributions": 41,
    "debates": 0,
    "statements": 1
   },
   {
-   "country": "South Africa",
-   "news_7d": 68,
-   "contributions": 4,
-   "debates": 0,
-   "statements": 0
-  },
-  {
    "country": "Yemen",
-   "news_7d": 67,
+   "news_7d": 77,
    "contributions": 23,
    "debates": 0,
+   "statements": 1
+  },
+  {
+   "country": "Saudi Arabia",
+   "news_7d": 72,
+   "contributions": 43,
+   "debates": 3,
    "statements": 1
   }
  ],
