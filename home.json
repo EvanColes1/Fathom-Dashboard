@@ -1,7 +1,74 @@
 {
- "updated": "2026-11-07T21:57:36.836182+00:00",
+ "updated": "2026-11-08T06:14:59.144869+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "fa1fd3ea85219396",
+   "title": "Customs Declaration Service: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Customs Declaration Service.",
+   "url": "https://www.gov.uk/guidance/customs-declaration-service-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-07T23:45:00Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "81040eec9d588cc9",
+   "title": "Nandy confirms Erasmus+ scheme return as UK eyes closer ties with EU",
+   "summary": "The UK departed the programme in 2020 when Boris Johnson was Prime Minister",
+   "url": "https://www.independent.co.uk/news/uk/politics/erasmus-scheme-uk-return-nandy-european-union-b3081055.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-07T23:30:27+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "878739531247ee86",
+   "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+   "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-07T23:02:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6e31703fcb817cd9",
+   "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+   "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+   "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-07T21:36:16+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": [
+    "New Zealand"
+   ]
+  },
   {
    "id": "e49dc2fcf70f0872",
    "title": "Burnham considers rape trial law change after Russell Brand backlash",
@@ -335,6 +402,23 @@
    "countries": []
   },
   {
+   "id": "2e6c6a8a31bbf76f",
+   "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+   "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+   "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-07T01:41:36+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "af31ad637890cdeb",
    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
    "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
@@ -480,6 +564,38 @@
    "dateonly": false,
    "parties": [],
    "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "445fead9387f7722",
+   "title": "Food bank to close amid rising costs",
+   "summary": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
+   "url": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-06T16:42:23+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1490862cebfde7aa",
+   "title": "Winter support for residents facing cost pressures",
+   "summary": "The plans aim to help more people access food, financial advice and help with heating costs.",
+   "url": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-06T16:22:18+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Energy bills"
+   ],
    "tax": [],
    "countries": []
   },
@@ -928,6 +1044,25 @@
    "countries": []
   },
   {
+   "id": "a82d14925c1cdb15",
+   "title": "'I've taken an extra job to pay for heating oil'",
+   "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
+   "url": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-06T11:40:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Housing",
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "2e25e9fcf64709b8",
    "title": "Household debt: Economic indicators",
    "summary": "Debt levels affect how much households spend. Find the latest data on UK household debt, mortgage rates and insolvencies.",
@@ -1332,25 +1467,6 @@
     "Conservative"
    ],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "a82d14925c1cdb15",
-   "title": "'I've taken an extra job to pay for heating oil'",
-   "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
-   "url": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-06T06:06:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy",
-    "Housing",
-    "Energy bills"
-   ],
    "tax": [],
    "countries": []
   },
@@ -2725,8 +2841,8 @@
    "title": "Poundland owner in crunch talks as retailer's collapse looms",
    "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
    "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
+   "source": "BBC Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-11-05T06:58:03+00:00",
    "dateonly": false,
@@ -6564,21 +6680,6 @@
    "kind": "consultation_outcome",
    "party_voice": "",
    "published": "2026-11-02T16:09:05Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fa1fd3ea85219396",
-   "title": "Customs Declaration Service: service availability and issues",
-   "summary": "Check the availability and any issues affecting the Customs Declaration Service.",
-   "url": "https://www.gov.uk/guidance/customs-declaration-service-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T16:06:08Z",
    "parties": [],
    "topics": [],
    "tax": [],
@@ -15457,110 +15558,6 @@
    "countries": [
     "United States"
    ]
-  },
-  {
-   "id": "0ea7cf46cbc50ce4",
-   "title": "Modernising Corporation Tax administration",
-   "summary": "We welcome views on the future of Corporation Tax administration and how it could be simpler, more efficient and more reflective of modern business practices.",
-   "url": "https://www.gov.uk/government/calls-for-evidence/modernising-corporation-tax-administration",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "open_call_for_evidence",
-   "party_voice": "",
-   "published": "2026-10-28T13:49:47Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Corporation tax"
-   ],
-   "countries": []
-  },
-  {
-   "id": "4682350a89a2fc1f",
-   "title": "Business Systems Integration",
-   "summary": "The purpose of this call for evidence is to gather views on the role business systems integration could play in making it easier for businesses to keep records.",
-   "url": "https://www.gov.uk/government/calls-for-evidence/business-systems-integration",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "call_for_evidence_outcome",
-   "party_voice": "",
-   "published": "2026-10-28T13:49:47Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e24dd4900f4f1cc7",
-   "title": "Tackling lower value tax debts",
-   "summary": "A consultation seeking views on proposals to extend existing powers to enforce lower value tax debts through directly deducted monthly instalments.",
-   "url": "https://www.gov.uk/government/consultations/tackling-lower-value-tax-debts",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "consultation_outcome",
-   "party_voice": "",
-   "published": "2026-10-28T13:49:43Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8ad652009c3adacf",
-   "title": "VAT treatment of land for social housing",
-   "summary": "Consultation on introducing a new VAT zero rate for land intended for the construction of social housing across the UK.",
-   "url": "https://www.gov.uk/government/consultations/vat-treatment-of-land-for-social-housing",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "consultation_outcome",
-   "party_voice": "",
-   "published": "2026-10-28T13:49:43Z",
-   "parties": [],
-   "topics": [
-    "Housing"
-   ],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "f371d0060afbcf8f",
-   "title": "Nicotine Approval Scheme",
-   "summary": "Seeking views on the design and implementation of a Nicotine Approval Scheme which will place controls on high-strength nicotine supply chains to protect Vaping Products Duty revenue.",
-   "url": "https://www.gov.uk/government/consultations/nicotine-approval-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "open_consultation",
-   "party_voice": "",
-   "published": "2026-10-28T13:49:42Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "52738b4646a35f55",
-   "title": "Timely Payments in income tax Self Assessment",
-   "summary": "This consultation seeks views on implementing more timely payment in Income Tax Self Assessment (ITSA), following the government’s announcement at Budget 2025.",
-   "url": "https://www.gov.uk/government/consultations/timely-payments-in-income-tax-self-assessment",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "consultation_outcome",
-   "party_voice": "",
-   "published": "2026-10-28T13:49:41Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [
-    "Income tax"
-   ],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15589,14 +15586,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 6,
    "note": ""
   },
   {
@@ -16388,7 +16385,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 162626,
+   "signatures": 163749,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16397,7 +16394,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 135383,
+   "signatures": 135402,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16406,7 +16403,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 129610,
+   "signatures": 129697,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16415,7 +16412,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 113750,
+   "signatures": 113775,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16424,7 +16421,7 @@
   {
    "id": 766919,
    "title": "Review the law on unfit to plead & reform it to protect victims & public safety",
-   "signatures": 93965,
+   "signatures": 95181,
    "created": "2026-04-09T21:50:01.121Z",
    "responded": true,
    "debate": false,
@@ -16433,7 +16430,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 90852,
+   "signatures": 91575,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16442,7 +16439,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 87606,
+   "signatures": 87666,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16451,7 +16448,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 82277,
+   "signatures": 82299,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16460,7 +16457,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 77429,
+   "signatures": 77921,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16469,7 +16466,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 59513,
+   "signatures": 59647,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16478,7 +16475,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55695,
+   "signatures": 55699,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16487,7 +16484,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46722,
+   "signatures": 46725,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -17053,7 +17050,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-10-08",
+     "d": "2024-10-09",
      "v": 5.0
     },
     {

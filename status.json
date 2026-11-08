@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-07T21:57:36.836182+00:00",
+ "updated": "2026-11-08T06:14:59.144869+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 4,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 19,
+   "new": 12,
    "note": ""
   },
   {
@@ -26,28 +26,28 @@
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
-   "ok": true,
-   "new": 3,
-   "note": ""
+   "ok": false,
+   "new": 0,
+   "note": "406 Client Error: Not Acceptable for url: https://www.euronews.com/rss?level=theme&name=news"
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
@@ -61,7 +61,7 @@
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 5,
+   "new": 4,
    "note": "via backup feed"
   },
   {
@@ -75,14 +75,14 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 9,
+   "new": 17,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -124,7 +124,7 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 16,
+   "new": 18,
    "note": "via backup feed"
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
@@ -173,7 +173,7 @@
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 10,
+   "new": 12,
    "note": ""
   },
   {
@@ -201,7 +201,7 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 6,
+   "new": 7,
    "note": "via backup feed"
   },
   {
