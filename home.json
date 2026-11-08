@@ -1,7 +1,73 @@
 {
- "updated": "2026-11-08T12:12:25.117163+00:00",
+ "updated": "2026-11-08T13:38:43.289326+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "83215cc37746ef3b",
+   "title": "‘I just got AI emails rejecting my application – or no reply at all’: this is the soul-crushing reality of being a Neet | John Harris",
+   "summary": "Alan Milburn describes them as a ‘lost generation’. Those I spoke to just want to know what they have to do to finally get a job – and a chance in life Callum Atkinson is 23 years old, and lives in the Greater Manchester town of Rochdale. Until very recently, he was one of hundreds of thousands of…",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/young-people-soul-crushing-reality-neet-alan-milburn-life",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-08T13:27:33+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "200745256bb008e0",
+   "title": "Women in media alleging abuse too often not protected, Lisa Nandy says",
+   "summary": "Culture secretary says there is still a problem in media industry and across public life after Russell Brand conviction Lisa Nandy, the culture secretary, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal with allegations, after…",
+   "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-08T13:18:50+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "05d11e1e7f41738c",
+   "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
+   "summary": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-08T13:05:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "81040eec9d588cc9",
+   "title": "Nandy ‘horrified’ by Tory claim she used Remembrance Sunday for ‘EU membership pitch’",
+   "summary": "Remembrance Sunday is not a time for ‘politicking,’ culture secretary says",
+   "url": "https://www.independent.co.uk/news/uk/politics/erasmus-scheme-uk-return-nandy-european-union-b3081055.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-08T12:14:18+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "7dcd28431b7247fe",
    "title": "UK could rejoin the EU within four years, Barnier suggests",
@@ -56,25 +122,6 @@
    "countries": [
     "Serbia"
    ]
-  },
-  {
-   "id": "81040eec9d588cc9",
-   "title": "Nandy ‘horrified’ by Tory claim she used Remembrance Sunday for ‘EU membership pitch’",
-   "summary": "Remembrance Sunday is not a time for ‘politicking,’ culture secretary says",
-   "url": "https://www.independent.co.uk/news/uk/politics/erasmus-scheme-uk-return-nandy-european-union-b3081055.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-08T10:28:48+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "2835adebafb15c6c",
@@ -15519,55 +15566,6 @@
     "Corporation tax"
    ],
    "countries": []
-  },
-  {
-   "id": "27dd1b6eb4aaaa6d",
-   "title": "Budget 2026: Breathing space for Welsh families and businesses",
-   "summary": "Families and businesses in Wales will get breathing space as a result of action announced in Budget 2026.",
-   "url": "https://www.gov.uk/government/news/budget-2026-breathing-space-for-welsh-families-and-businesses",
-   "source": "Wales Office",
-   "group": "Government",
-   "kind": "press_release",
-   "party_voice": "",
-   "published": "2026-10-28T14:05:00Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "5da99cce6a893387",
-   "title": "Ofwat hands EY £15m contract to monitor troubled Thames Water",
-   "summary": "EY, the big four accountancy firm, has landed a £15m contract to supervise Thames Water, the troubled water utility which stands on the brink of collapse.",
-   "url": "https://news.sky.com/story/ofwat-hands-ey-15m-contract-to-monitor-troubled-thames-water-13604859",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-28T13:57:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "cd3ceecfd08e7362",
-   "title": "Plastic Packaging Tax Evaluation",
-   "summary": "The full evaluation of the of the Plastic Packaging Tax produced by HM Revenue and Customs.",
-   "url": "https://www.gov.uk/government/publications/plastic-packaging-tax-evaluation",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "research",
-   "party_voice": "",
-   "published": "2026-10-28T13:51:00Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15575,14 +15573,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
@@ -15596,28 +15594,28 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16395,7 +16393,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 164676,
+   "signatures": 164924,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16404,7 +16402,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 135441,
+   "signatures": 135458,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16413,7 +16411,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 129967,
+   "signatures": 130005,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16422,7 +16420,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 113837,
+   "signatures": 113853,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16431,7 +16429,7 @@
   {
    "id": 766919,
    "title": "Review the law on unfit to plead & reform it to protect victims & public safety",
-   "signatures": 98501,
+   "signatures": 99251,
    "created": "2026-04-09T21:50:01.121Z",
    "responded": true,
    "debate": false,
@@ -16440,7 +16438,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 92989,
+   "signatures": 93329,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16449,7 +16447,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 87727,
+   "signatures": 87747,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16458,7 +16456,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 82317,
+   "signatures": 82322,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16467,7 +16465,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 78311,
+   "signatures": 78373,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16476,7 +16474,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 59945,
+   "signatures": 59989,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16494,7 +16492,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46731,
+   "signatures": 46733,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,

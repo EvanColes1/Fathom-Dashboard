@@ -1,46 +1,46 @@
 {
- "updated": "2026-11-08T12:12:25.117163+00:00",
+ "updated": "2026-11-08T13:38:43.289326+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 20,
+   "new": 4,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 15,
+   "new": 9,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 10,
+   "new": 2,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 7,
+   "new": 2,
    "note": ""
   },
   {
@@ -54,14 +54,14 @@
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": "via backup feed"
   },
   {
@@ -75,14 +75,14 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 11,
+   "new": 2,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -103,7 +103,7 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 11,
+   "new": 12,
    "note": "via backup feed"
   },
   {
@@ -124,7 +124,7 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 18,
+   "new": 20,
    "note": "via backup feed"
   },
   {
@@ -138,7 +138,7 @@
    "name": "Atlantic Council",
    "group": "Think tank",
    "ok": true,
-   "new": 20,
+   "new": 21,
    "note": ""
   },
   {
@@ -173,7 +173,7 @@
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 12,
+   "new": 11,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 9,
+   "new": 8,
    "note": "via backup feed"
   },
   {
@@ -236,7 +236,7 @@
    "name": "Bulletin of the Atomic Scientists",
    "group": "Nuclear",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": "via backup feed"
   },
   {
