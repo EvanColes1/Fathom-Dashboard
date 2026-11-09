@@ -1,7 +1,247 @@
 {
- "updated": "2026-11-08T12:12:25.117163+00:00",
- "since": "2026-10-09",
+ "updated": "2026-11-09T14:21:34.680834+00:00",
+ "since": "2026-10-10",
  "whitehall": [
+  {
+   "title": "Road fuel prices: 9 November 2026",
+   "url": "https://www.gov.uk/government/statistics/announcements/road-fuel-prices-9-november-2026",
+   "published": "2026-11-09T14:09:28Z",
+   "kind": "national_statistics_announcement",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, 2009 [MS No.12/2026]",
+   "url": "https://www.gov.uk/government/publications/hong-kong-international-convention-for-the-safe-and-environmentally-sound-recycling-of-ships-2009-ms-no122026",
+   "published": "2026-11-09T14:00:00Z",
+   "kind": "international_treaty",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [
+    "maritime"
+   ],
+   "regions": [
+    "asia_pacific"
+   ],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "title": "Treaties published in the Miscellaneous Series",
+   "url": "https://www.gov.uk/government/collections/miscellaneous-treaties-2013",
+   "published": "2026-11-09T14:00:00Z",
+   "kind": "document_collection",
+   "orgs": [
+    "FCO",
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "UK/Korea: Agreement on the Protection of Classified Military Information [TS No.44/2026]",
+   "url": "https://www.gov.uk/government/publications/ukkorea-agreement-on-the-protection-of-classified-military-information-ts-no442026",
+   "published": "2026-11-09T14:00:00Z",
+   "kind": "international_treaty",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Department for Business and Trade",
+   "url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+   "published": "2026-11-09T13:28:07Z",
+   "kind": "organisation",
+   "orgs": [
+    "DBT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Monthly entry clearance visa applications: October 2026",
+   "url": "https://www.gov.uk/government/statistics/announcements/monthly-entry-clearance-visa-applications-october-2026",
+   "published": "2026-11-09T13:13:03Z",
+   "kind": "official_statistics_announcement",
+   "orgs": [
+    "Home Office"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "Chile travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/chile",
+   "published": "2026-11-09T12:06:58Z",
+   "kind": "travel_advice",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "americas"
+   ],
+   "countries": [
+    "Chile"
+   ]
+  },
+  {
+   "title": "Horizon Shortfall Scheme Appeals assessment framework",
+   "url": "https://www.gov.uk/government/publications/horizon-shortfall-scheme-appeals-assessment-framework",
+   "published": "2026-11-09T11:38:03Z",
+   "kind": "guidance",
+   "orgs": [
+    "BIST",
+    "DBT"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Oil and gas: offshore environmental legislation",
+   "url": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
+   "published": "2026-11-09T11:31:25Z",
+   "kind": "detailed_guide",
+   "orgs": [
+    "DESNZ",
+    "OPRED",
+    "BEIS"
+   ],
+   "themes": [
+    "energy"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Defence modelling and simulation standards profile",
+   "url": "https://www.gov.uk/government/publications/modelling-and-simulation-standards-profile",
+   "published": "2026-11-09T11:12:33Z",
+   "kind": "guidance",
+   "orgs": [
+    "MOD"
+   ],
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Extreme weather and natural hazards",
+   "url": "https://www.gov.uk/guidance/extreme-weather-and-natural-hazards",
+   "published": "2026-11-09T11:05:20Z",
+   "kind": "detailed_guide",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Gangmasters Licensing Appeals results and judgements",
+   "url": "https://www.gov.uk/government/publications/gangmasters-licensing-appeals-results-and-judgements",
+   "published": "2026-11-09T10:44:00Z",
+   "kind": "decision",
+   "orgs": [
+    "FWA",
+    "HMCTS",
+    "BIST"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "Joint statement on the closure of Novaya Gazeta in Russia",
+   "url": "https://www.gov.uk/government/news/joint-statement-on-the-closure-of-novaya-gazeta-in-russia",
+   "published": "2026-11-09T10:32:03Z",
+   "kind": "press_release",
+   "orgs": [
+    "FCDO"
+   ],
+   "themes": [],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Russia",
+    "United Kingdom",
+    "Finland"
+   ]
+  },
+  {
+   "title": "Lt Gen Phil Prosser joins as CDLS",
+   "url": "https://www.gov.uk/government/news/lt-gen-phil-prosser-joins-as-chief-of-defence-logistics-support",
+   "published": "2026-11-09T10:00:00Z",
+   "kind": "news_story",
+   "orgs": [
+    "MOD"
+   ],
+   "themes": [],
+   "regions": [
+    "global"
+   ],
+   "countries": []
+  },
+  {
+   "title": "PM call with President Stubb of Finland: 8 November 2026",
+   "url": "https://www.gov.uk/government/news/pm-call-with-president-stubb-of-finland-8-november-2026",
+   "published": "2026-11-08T20:53:40Z",
+   "kind": "press_release",
+   "orgs": [
+    "Number 10"
+   ],
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Finland"
+   ]
+  },
   {
    "title": "National Service of Remembrance: Sunday 8 November 2026",
    "url": "https://www.gov.uk/guidance/national-service-of-remembrance-sunday-8-november-2026",
@@ -1306,72 +1546,12 @@
    "countries": []
   },
   {
-   "title": "Foreign Secretary speech at the 'Blue Finance and Innovation' event at the Commonwealth Heads of Government Meeting (CHOGM)",
-   "url": "https://www.gov.uk/government/speeches/foreign-secretary-speech-at-the-blue-finance-and-innovation-event-at-the-commonwealth-heads-of-government-meeting-chogm",
-   "published": "2026-11-04T18:53:00Z",
-   "kind": "speech",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Ghana travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/ghana",
-   "published": "2026-11-04T17:07:08Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "africa"
-   ],
-   "countries": [
-    "Ghana"
-   ]
-  },
-  {
    "title": "Legal framework for using facial recognition in law enforcement",
    "url": "https://www.gov.uk/government/consultations/legal-framework-for-using-facial-recognition-in-law-enforcement",
    "published": "2026-11-04T16:46:13Z",
    "kind": "consultation_outcome",
    "orgs": [
     "Home Office"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Benin travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/benin",
-   "published": "2026-11-04T16:27:24Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Togo travel advice",
-   "url": "https://www.gov.uk/foreign-travel-advice/togo",
-   "published": "2026-11-04T16:27:18Z",
-   "kind": "travel_advice",
-   "orgs": [
-    "FCDO"
    ],
    "themes": [],
    "regions": [
@@ -1406,37 +1586,6 @@
     "global"
    ],
    "countries": []
-  },
-  {
-   "title": "Withdrawal Agreement Joint Committee",
-   "url": "https://www.gov.uk/government/collections/withdrawal-agreement-joint-committee",
-   "published": "2026-11-04T16:00:06Z",
-   "kind": "document_collection",
-   "orgs": [
-    "FCDO",
-    "Cabinet Office"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "The UK is deeply concerned by the growing threats to information integrity: UK Statement at the UN Fourth Committee",
-   "url": "https://www.gov.uk/government/speeches/the-uk-is-deeply-concerned-by-the-growing-threats-to-information-integrity-uk-statement-at-the-un-fourth-committee--2",
-   "published": "2026-11-04T15:58:42Z",
-   "kind": "speech",
-   "orgs": [
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
   },
   {
    "title": "Military low flying: RAF operational low flying training timetable",
@@ -1487,24 +1636,6 @@
     "global"
    ],
    "countries": []
-  },
-  {
-   "title": "Intergovernmental Relations",
-   "url": "https://www.gov.uk/government/collections/intergovernmental-relations",
-   "published": "2026-11-04T15:00:06Z",
-   "kind": "document_collection",
-   "orgs": [
-    "Cabinet Office",
-    "DHSC",
-    "FCDO"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
   },
   {
    "title": "List of MAA approved organizations",
@@ -1583,10 +1714,11 @@
   {
    "title": "New Chair appointed to the National Savings and Investments Board",
    "url": "https://www.gov.uk/government/news/new-chair-appointed-to-the-national-savings-and-investments-board",
-   "published": "2026-11-04T12:47:30Z",
+   "published": "2026-11-04T12:47:00Z",
    "kind": "news_story",
    "orgs": [
-    "HMT"
+    "HMT",
+    "NS&I"
    ],
    "themes": [],
    "regions": [
@@ -2039,24 +2171,6 @@
    ]
   },
   {
-   "title": "Oil and gas: offshore environmental legislation",
-   "url": "https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation",
-   "published": "2026-11-03T16:30:03Z",
-   "kind": "detailed_guide",
-   "orgs": [
-    "DESNZ",
-    "OPRED",
-    "BEIS"
-   ],
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
    "title": "Commonwealth Heads of Government 2026 statement between the UK and Australia",
    "url": "https://www.gov.uk/government/news/commonwealth-heads-of-government-2026-statement-between-the-uk-and-australia",
    "published": "2026-11-03T16:00:01Z",
@@ -2296,115 +2410,6 @@
    "countries": [
     "United Kingdom"
    ]
-  },
-  {
-   "title": "Visa expiry outcomes statistics, to December 2025",
-   "url": "https://www.gov.uk/government/statistics/announcements/visa-expiry-outcomes-statistics-to-december-2025",
-   "published": "2026-11-03T10:23:54Z",
-   "kind": "official_statistics_announcement",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "HM Treasury Statistics: Timetable, standards and policies",
-   "url": "https://www.gov.uk/government/statistics/hm-treasury-statistics-timetable-standards-and-policies",
-   "published": "2026-11-03T10:11:24Z",
-   "kind": "official_statistics",
-   "orgs": [
-    "HMT"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Revised guidance issued under section 182 of Licensing Act 2003",
-   "url": "https://www.gov.uk/government/publications/explanatory-memorandum-revised-guidance-issued-under-s-182-of-licensing-act-2003",
-   "published": "2026-11-03T10:00:05Z",
-   "kind": "statutory_guidance",
-   "orgs": [
-    "Home Office"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "The Multinational Force-Ukraine",
-   "url": "https://www.gov.uk/guidance/the-multinational-force-ukraine",
-   "published": "2026-11-03T09:50:00Z",
-   "kind": "detailed_guide",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Weekly road fuel prices",
-   "url": "https://www.gov.uk/government/statistics/weekly-road-fuel-prices",
-   "published": "2026-11-03T09:30:03Z",
-   "kind": "national_statistics",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Proposed legislative changes to support implementation of the British Industrial Competitiveness Scheme",
-   "url": "https://www.gov.uk/government/consultations/proposed-legislative-changes-to-support-implementation-of-the-british-industrial-competitiveness-scheme",
-   "published": "2026-11-03T09:30:03Z",
-   "kind": "consultation_outcome",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Independent regulatory skills and capability review of the Office of Gas and Electricity Markets (Ofgem)",
-   "url": "https://www.gov.uk/government/publications/independent-regulatory-skills-and-capability-review-of-the-office-of-gas-and-electricity-markets-ofgem",
-   "published": "2026-11-03T09:30:03Z",
-   "kind": "independent_report",
-   "orgs": [
-    "BIST",
-    "DESNZ"
-   ],
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "global"
-   ],
-   "countries": []
   }
  ],
  "laws": [
@@ -2514,84 +2519,84 @@
  "attention": [
   {
    "country": "United States",
-   "news_7d": 998,
+   "news_7d": 982,
    "contributions": 116,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "Iran",
-   "news_7d": 332,
+   "news_7d": 342,
    "contributions": 131,
    "debates": 3,
    "statements": 0
   },
   {
    "country": "Ukraine",
-   "news_7d": 283,
+   "news_7d": 275,
    "contributions": 173,
    "debates": 2,
    "statements": 1
   },
   {
    "country": "Russia",
-   "news_7d": 265,
+   "news_7d": 250,
    "contributions": 143,
    "debates": 2,
    "statements": 1
   },
   {
    "country": "Israel",
-   "news_7d": 256,
+   "news_7d": 244,
    "contributions": 56,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "France",
-   "news_7d": 195,
+   "news_7d": 194,
    "contributions": 106,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "Palestine",
-   "news_7d": 142,
+   "news_7d": 140,
    "contributions": 39,
    "debates": 1,
    "statements": 0
   },
   {
-   "country": "Nigeria",
-   "news_7d": 119,
-   "contributions": 10,
-   "debates": 0,
-   "statements": 0
-  },
-  {
    "country": "China",
-   "news_7d": 107,
+   "news_7d": 118,
    "contributions": 57,
    "debates": 0,
    "statements": 0
   },
   {
+   "country": "Nigeria",
+   "news_7d": 89,
+   "contributions": 10,
+   "debates": 0,
+   "statements": 0
+  },
+  {
    "country": "India",
-   "news_7d": 82,
+   "news_7d": 80,
    "contributions": 41,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "Yemen",
-   "news_7d": 77,
+   "news_7d": 79,
    "contributions": 23,
    "debates": 0,
    "statements": 1
   },
   {
    "country": "Saudi Arabia",
-   "news_7d": 72,
+   "news_7d": 73,
    "contributions": 43,
    "debates": 3,
    "statements": 1
