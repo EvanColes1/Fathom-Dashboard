@@ -1,7 +1,105 @@
 {
- "updated": "2026-11-08T19:44:32.000246+00:00",
+ "updated": "2026-11-09T00:58:43.763571+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "20e38220237bafa0",
+   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+   "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+   "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-09T00:50:06+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "a050d1c23afb8067",
+   "title": "Doing these things now will help you save money at Christmas",
+   "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+   "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-09T00:09:14+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0d7a934c4c193205",
+   "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
+   "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has said, warning that it is increasing…",
+   "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-09T00:01:05+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "85dbc19fc4aaffbe",
+   "title": "Burnham admits NHS faces difficult winter as he unveils £40m to help keep patients out of hospital",
+   "summary": "Health secretary Yvette Cooper said the NHS had already had a ‘heavy summer’ as a result of a series of heatwaves",
+   "url": "https://www.independent.co.uk/news/uk/politics/burnham-nhs-winter-gp-hospital-b3081294.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-08T22:39:07+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "11fe0cc6a5f07407",
+   "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
+   "summary": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays Hundreds of thousands of vulnerable patients in England are to receive extra support from their GP as part of a £40m drive aimed at keeping them out of hospital this winter. As the NHS gears…",
+   "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-08T22:30:51+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "db5b6fcc42f4f84c",
+   "title": "Government considering banning under-16s from Vinted and eBay",
+   "summary": "The government is seriously considering banning children from online sales platforms such as eBay and Vinted, the culture secretary has said.",
+   "url": "https://news.sky.com/story/government-considering-banning-under-16s-from-vinted-and-ebay-13609954",
+   "source": "Sky News Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-08T19:43:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "200745256bb008e0",
    "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
@@ -34,21 +132,6 @@
     "Party leadership",
     "Europe"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "0d7a934c4c193205",
-   "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
-   "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has said, warning that it is increasing…",
-   "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-08T18:07:54+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -273,7 +356,7 @@
   {
    "id": "f22d837c2d1d7f6e",
    "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-   "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to “It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily…",
+   "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to ‘It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily…",
    "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
    "source": "Guardian Politics",
    "group": "News",
@@ -15486,91 +15569,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "9b7edddadb0df30c",
-   "title": "Further support for Ukraine",
-   "summary": "The Chancellor has announced a new package of over £10bn in economic and military support for Ukraine.",
-   "url": "https://www.gov.uk/government/news/further-support-for-ukraine",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "news_story",
-   "party_voice": "",
-   "published": "2026-10-28T15:00:00Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Defence"
-   ],
-   "tax": [],
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "0cfa02766356024f",
-   "title": "Ministerial Directions",
-   "summary": "This series brings together all published Ministerial Directions.",
-   "url": "https://www.gov.uk/government/collections/ministerial-directions",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-10-28T14:57:47Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b7f0a53f88321bab",
-   "title": "How much is the minimum wage going up by?",
-   "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-   "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-28T14:53:29+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "97ef6ee07df5b61f",
-   "title": "Watch in full: Budget 2026 announcement as John Healey unveils cost of living measures",
-   "summary": "John Healey delivered his first Budget on Wednesday, 28 October, in the House of Commons, including measures to help tackle the soaring cost of living.",
-   "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-announcement-watch-live-stream-b3074939.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-28T14:51:29+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "6eddd9cd162a7d97",
-   "title": "Martin Lewis delivers his Budget verdict with three key takeaways",
-   "summary": "The money expert appeared disappointed by ‘no news’ on some issues – but was ‘delighted’ by one announcement",
-   "url": "https://www.independent.co.uk/news/uk/politics/martin-lewis-budget-healey-income-tax-isa-changes-b3074937.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-28T14:51:04+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15585,28 +15583,28 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
@@ -16398,7 +16396,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 165876,
+   "signatures": 166619,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16407,7 +16405,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 135572,
+   "signatures": 135651,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16416,7 +16414,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 130174,
+   "signatures": 130315,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16425,25 +16423,16 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 113919,
+   "signatures": 113980,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
    "url": "https://petition.parliament.uk/petitions/780269"
   },
   {
-   "id": 766919,
-   "title": "Review the law on unfit to plead & reform it to protect victims & public safety",
-   "signatures": 101105,
-   "created": "2026-04-09T21:50:01.121Z",
-   "responded": true,
-   "debate": true,
-   "url": "https://petition.parliament.uk/petitions/766919"
-  },
-  {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 94656,
+   "signatures": 97274,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": false,
@@ -16452,7 +16441,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 87792,
+   "signatures": 87832,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16461,7 +16450,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 82342,
+   "signatures": 82360,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16470,7 +16459,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 78623,
+   "signatures": 78845,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16479,7 +16468,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 60205,
+   "signatures": 60353,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16488,7 +16477,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55711,
+   "signatures": 55717,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16497,11 +16486,20 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46747,
+   "signatures": 46750,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/779519"
+  },
+  {
+   "id": 781048,
+   "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
+   "signatures": 46687,
+   "created": "2026-09-04T13:29:23.523Z",
+   "responded": false,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/781048"
   }
  ],
  "indicators": [
@@ -17063,7 +17061,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-10-09",
+     "d": "2024-10-10",
      "v": 5.0
     },
     {
