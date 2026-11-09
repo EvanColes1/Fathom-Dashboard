@@ -1,95 +1,95 @@
 {
- "updated": "2026-11-09T14:21:34.680834+00:00",
+ "updated": "2026-11-09T22:29:07.285311+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 11,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 9,
+   "new": 25,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 6,
+   "new": 17,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 22,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 10,
    "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 11,
    "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 9,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 8,
+   "new": 17,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 15,
+   "new": 16,
    "note": ""
   },
   {
    "name": "Americas Quarterly",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": "via backup feed"
   },
   {
@@ -103,14 +103,14 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 9,
+   "new": 10,
    "note": "via backup feed"
   },
   {
    "name": "RUSI",
    "group": "Think tank",
    "ok": true,
-   "new": 5,
+   "new": 4,
    "note": ""
   },
   {
@@ -131,49 +131,49 @@
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 11,
+   "new": 10,
    "note": "via backup feed"
   },
   {
    "name": "Atlantic Council",
    "group": "Think tank",
    "ok": true,
-   "new": 37,
+   "new": 36,
    "note": ""
   },
   {
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 11,
+   "new": 10,
    "note": ""
   },
   {
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "UK Financial Sanctions (OFSI)",
    "group": "Sanctions",
    "ok": true,
-   "new": 4,
+   "new": 1,
    "note": ""
   },
   {
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 2,
+   "new": 13,
    "note": ""
   },
   {
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 12,
+   "new": 13,
    "note": ""
   },
   {
@@ -187,7 +187,7 @@
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 7,
    "note": ""
   },
   {
@@ -201,14 +201,14 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 10,
    "note": ""
   },
   {
    "name": "The Record",
    "group": "Cyber",
    "ok": true,
-   "new": 2,
+   "new": 4,
    "note": ""
   },
   {
@@ -222,28 +222,28 @@
    "name": "Migration Policy Institute",
    "group": "Migration",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Arms Control Association",
    "group": "Nuclear",
    "ok": true,
-   "new": 0,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Bulletin of the Atomic Scientists",
    "group": "Nuclear",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": "via backup feed"
   },
   {
    "name": "IAEA News",
    "group": "Nuclear",
    "ok": true,
-   "new": 6,
+   "new": 7,
    "note": ""
   }
  ],
