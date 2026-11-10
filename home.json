@@ -1,7 +1,318 @@
 {
- "updated": "2026-11-10T13:46:46.444170+00:00",
+ "updated": "2026-11-10T17:07:27.465981+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "e7fbb349c95811e6",
+   "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+   "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+   "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-10T17:04:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "93f4a644c124249e",
+   "title": "Some pupils 'struggling just to get a hot meal'",
+   "summary": "Students speak out as school dinner prices are set to increase for the second time in a year.",
+   "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-10T16:46:21+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ead68cd5aa766db3",
+   "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – UK politics live",
+   "summary": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bn Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount…",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-10T16:43:46+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Economy",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": [
+    "Netherlands"
+   ]
+  },
+  {
+   "id": "486a801c79722e1c",
+   "title": "Tories pledge to cut benefits for children with 'milder cases' of ADHD",
+   "summary": "Conservative shadow minister Helen Whately says the system risks putting children on a \"conveyor belt\" towards a \"lifetime on benefits\".",
+   "url": "https://www.bbc.co.uk/news/articles/c3j474prl2r7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-10T16:37:14+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "98055ec494f8af83",
+   "title": "MP warns of ‘vast evidence of law breaking’ by councils over special needs education",
+   "summary": "It comes as Labour MPs are warned that a large numbers of voters related to children with SEND needs could decide whether Andy Burnham’s party survives the next election",
+   "url": "https://www.independent.co.uk/news/uk/politics/special-needs-education-week-send-councils-ehcps-b3081832.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-10T16:28:36+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8f805a93c67b97f1",
+   "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+   "summary": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
+   "url": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-10T16:03:46+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Elections",
+    "Housing",
+    "Energy bills"
+   ],
+   "tax": [
+    "Council tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "019606fabe119b06",
+   "title": "Labour hits new high in polls – as Reform UK sinks to record low",
+   "summary": "Nigel Farage’s party topped the polls for more than a year until Andy Burnham entered Downing Street",
+   "url": "https://www.independent.co.uk/news/uk/politics/reform-uk-labour-yougov-poll-nigel-farage-andy-burnham-b3082390.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-10T16:03:13+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Reform UK"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "13444f1fd8e9e666",
+   "title": "HMRC email updates, videos and webinars for Alcohol Duty",
+   "summary": "Learn more about the support available for Alcohol Duty.",
+   "url": "https://www.gov.uk/guidance/hmrc-email-updates-videos-and-webinars-for-alcohol-duty",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-10T15:50:28Z",
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Fuel and duties"
+   ],
+   "countries": []
+  },
+  {
+   "id": "a7ab6d5551408339",
+   "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+   "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+   "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-10T15:10:20+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "79a36758bd902b5c",
+   "title": "Noah Avis: The Conservative case for an AI-skilled generation",
+   "summary": "The question is whether Britain chooses to lead that transformation, and whether the Conservatives are prepared to make the case for an AI-skilled generation. The post Noah Avis: The Conservative case for an AI-skilled generation appeared first on Conservative Home .",
+   "url": "https://conservativehome.com/2026/11/10/noah-avis-the-conservative-case-for-an-ai-skilled-generation/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-11-10T15:00:47+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c80415e89573ba86",
+   "title": "Scottish Labour leader says the UK should re-join EU",
+   "summary": "Michael Marra said he wanted \"solidarity, not separation\" and accepted that \"re-joining the EU won't be easy\".",
+   "url": "https://www.bbc.co.uk/news/articles/c820v0e43xr4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-10T15:00:13+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0349d100d32a62f6",
+   "title": "Police receive further criminal allegations against Russell Brand",
+   "summary": "Met says several people have been in contact since start of disgraced comedian’s rape and sexual assault trial Brand sentenced to more than 10 years in prison for rape and sexual assault Police have received further criminal allegations against Russell Brand since the start of his trial. The…",
+   "url": "https://www.theguardian.com/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-10T14:57:34+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "adf593f41910254a",
+   "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+   "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+   "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-10T14:46:50+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "928277f3a9d06586",
+   "title": "US inflation higher than expected in October - here's what is happening with prices",
+   "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+   "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-10T14:45:46+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "005522e5f30dbafe",
+   "title": "'Can I sell my house to my daughter for a reduced fee to avoid inheritance tax?'",
+   "summary": "Every week, we help readers with their consumer issue or personal finance dilemma in our Money Problem series. You can send yours to moneyblog@sky.uk. Today, we answer this question...",
+   "url": "https://news.sky.com/story/can-i-sell-my-house-to-my-daughter-for-a-reduced-fee-to-avoid-inheritance-tax-13610679",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-10T14:42:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "Inheritance tax"
+   ],
+   "countries": []
+  },
+  {
+   "id": "f39a45202e52a2f2",
+   "title": "Tesco 'drivers' mock Christmas ad for containing 'sackable offence'",
+   "summary": "Tesco's Christmas advert has been called out online for containing a \"sackable offence\".",
+   "url": "https://news.sky.com/story/tesco-drivers-mock-christmas-ad-for-containing-sackable-offence-13610680",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-10T14:42:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "09fab27d7ac9b0b5",
+   "title": "Income Record Viewer for agents: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Income Record Viewer for agents service.",
+   "url": "https://www.gov.uk/government/publications/income-record-viewer-for-agents-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-10T14:33:26Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4116f8157cb0d132",
+   "title": "Job adverts must include salaries in 'clampdown' on recruiters",
+   "summary": "Job adverts must display a salary under plans for new transparency laws.",
+   "url": "https://news.sky.com/story/job-adverts-must-include-salaries-in-clampdown-on-recruiters-13610677",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-10T14:24:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "bd60fae217f51280",
    "title": "Rates and allowances: Child Benefit, Guardian's Allowance and tax credits",
@@ -18,43 +329,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "adf593f41910254a",
-   "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
-   "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-   "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-10T13:45:36+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ead68cd5aa766db3",
-   "title": "‘Double amputees run marathons,’ says Badenoch as she proposes £36bn cuts to disability and other benefits – UK politics live",
-   "summary": "Conservative leader launches Welfare That Works policy document Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount they spend on getting people into work…",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-10T13:44:15+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Economy",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": [
-    "Netherlands"
-   ]
   },
   {
    "id": "015418e705f74de1",
@@ -106,23 +380,6 @@
    "topics": [
     "Economy"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "486a801c79722e1c",
-   "title": "Tories pledge to restrict benefits for children with ADHD",
-   "summary": "Conservative shadow minister Helen Whately says the system risks putting children on a \"conveyor belt\" towards a \"lifetime on benefits\".",
-   "url": "https://www.bbc.co.uk/news/articles/c3j474prl2r7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-10T13:37:16+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -200,6 +457,21 @@
    "kind": "guidance",
    "party_voice": "",
    "published": "2026-11-10T12:46:47Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "cb65eba8634beede",
+   "title": "Anthropic seeks $1.4trn valuation amid worry over AI investment",
+   "summary": "AI chatbot maker Anthropic is seeking a stock market valuation of up to $1.4trn (£1trn).",
+   "url": "https://news.sky.com/story/claude-maker-anthropic-seeks-14trn-valuation-amid-worry-over-ai-investment-13610628",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-10T12:43:00+00:00",
+   "dateonly": false,
    "parties": [],
    "topics": [],
    "tax": [],
@@ -335,6 +607,23 @@
    "countries": []
   },
   {
+   "id": "c8e2610c5843f4d5",
+   "title": "Poundland owner releases £10m to retailer hours before MP grilling",
+   "summary": "Poundland's owner has released millions of pounds of funding to pay the discount retailer's suppliers - a breakthrough in talks about saving the company and its 10,500 staff.",
+   "url": "https://news.sky.com/story/poundland-owner-releases-10m-to-retailer-hours-before-mp-grilling-13610590",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-10T11:47:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "a95b598f766f84b1",
    "title": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
    "summary": "Find out if you need to register for CBAM when you import selected CBAM goods from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors from 1 January 2027.",
@@ -344,21 +633,6 @@
    "kind": "document_collection",
    "party_voice": "",
    "published": "2026-11-10T11:43:56Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "a7ab6d5551408339",
-   "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-   "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-   "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-10T11:43:06+00:00",
-   "dateonly": false,
    "parties": [],
    "topics": [],
    "tax": [],
@@ -484,25 +758,6 @@
    "countries": []
   },
   {
-   "id": "0349d100d32a62f6",
-   "title": "Brand barrister’s cross-examination of victims shocking and depressing, says Labour deputy",
-   "summary": "Lucy Powell says she thought ‘we’d gone past that sort of culture’, and that she regrets setting up Miliband interview with comedian in 2015 Brand sentenced to more than 10 years in prison for rape and sexual assault Labour’s deputy leader, Lucy Powell, has criticised the “depressing” nature of the…",
-   "url": "https://www.theguardian.com/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-10T10:28:51+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "2b1a8fc3dc4597a4",
    "title": "Armed Forces Bill 2026-27: Lords amendments",
    "summary": "What changes have the House of Lords made to the Armed Forces Bill 2026-27?",
@@ -568,62 +823,6 @@
     "Defence"
    ],
    "tax": [],
-   "countries": []
-  },
-  {
-   "id": "98055ec494f8af83",
-   "title": "MP warns of ‘vast evidence of law breaking’ by councils over special needs education",
-   "summary": "It comes as Labour MPs are warned that a large numbers of voters related to children with SEND needs could decide whether Andy Burnham’s party survives the next election",
-   "url": "https://www.independent.co.uk/news/uk/politics/special-needs-education-week-send-councils-ehcps-b3081832.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-10T10:01:34+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e7fbb349c95811e6",
-   "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-   "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-   "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-10T09:57:49+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8f805a93c67b97f1",
-   "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
-   "summary": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
-   "url": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-10T09:57:29+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Elections",
-    "Housing",
-    "Energy bills"
-   ],
-   "tax": [
-    "Council tax"
-   ],
    "countries": []
   },
   {
@@ -723,21 +922,6 @@
    "tax": [
     "Corporation tax"
    ],
-   "countries": []
-  },
-  {
-   "id": "93f4a644c124249e",
-   "title": "Headteachers say families will struggle after another rise in school dinner prices",
-   "summary": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
-   "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-10T09:13:30+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
    "countries": []
   },
   {
@@ -1123,6 +1307,23 @@
    "published": "2026-11-10T00:00:00+00:00",
    "dateonly": true,
    "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5f89d36cb2e02166",
+   "title": "The Conservatives' plan for welfare: IFS response",
+   "summary": "",
+   "url": "https://ifs.org.uk/articles/conservatives-plan-welfare-ifs-response",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-11-10T00:00:00+00:00",
+   "dateonly": true,
+   "parties": [
+    "Conservative"
+   ],
    "topics": [],
    "tax": [],
    "countries": []
@@ -2930,8 +3131,8 @@
    "title": "Government considering banning under-16s from Vinted and eBay",
    "summary": "The government is seriously considering banning children from online sales platforms such as eBay and Vinted, the culture secretary has said.",
    "url": "https://news.sky.com/story/government-considering-banning-under-16s-from-vinted-and-ebay-13609954",
-   "source": "Sky News Business",
-   "group": "Economy news",
+   "source": "Sky News Politics",
+   "group": "News",
    "party_voice": "",
    "published": "2026-11-08T19:43:00+00:00",
    "dateonly": false,
@@ -13341,7 +13542,7 @@
   {
    "id": "6e28e0a8e07d95a3",
    "title": "What does the abolition of the gas standing charge mean for households?",
-   "summary": "This blog was originally published on the Resolution Foundation’s Substack. While the £100 Household Energy Payment grabbed most of the headlines, another energy bill change announced on Wednesday has got less attention. But John Healey’s request for Ofgem to abolish the standing charge on…",
+   "summary": "While the £100 Household Energy Payment grabbed most of the headlines, another energy bill change announced on Wednesday has got less attention. But John Healey’s request for Ofgem to abolish the standing charge on household gas bills by the end of 2027 will also affect future bills. And because…",
    "url": "https://www.resolutionfoundation.org/comment/what-does-the-abolition-of-the-gas-standing-charge-mean-for-households/",
    "source": "Resolution Foundation",
    "group": "Tax and fiscal",
@@ -15202,206 +15403,6 @@
     "Corporation tax"
    ],
    "countries": []
-  },
-  {
-   "id": "62f3822881b022b0",
-   "title": "It’s good to be flexible",
-   "summary": "This blog was originally published on the Resolution Foundation’s Substack. Yesterday the Chancellor told us what the minimum wage rates will be from April 2027 (well, strictly speaking he told the Times on Tuesday…). All rates – both adult and youth – will go up by 3.9 per cent. The adult rate…",
-   "url": "https://www.resolutionfoundation.org/comment/its-good-to-be-flexible/",
-   "source": "Resolution Foundation",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-10-29T14:36:01+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ac8857a9822706ef",
-   "title": "Community Infrastructure Levy appeal decisions",
-   "summary": "The Valuation Office publishes Community Infrastructure Levy appeal decisions.",
-   "url": "https://www.gov.uk/government/collections/community-infrastructure-levy-appeal-decisions",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-10-29T14:30:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "9146310216130da2",
-   "title": "CIL Appeal 1894440 — 03 September 26 — Chargeable amount",
-   "summary": "Appeal concerning calculation of Community Infrastructure Levy liability for a mixed-use hotel and office development's part change of use.",
-   "url": "https://www.gov.uk/government/publications/cil-appeal-1894440-03-september-26-chargeable-amount",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "decision",
-   "party_voice": "",
-   "published": "2026-10-29T14:30:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f5c86b0ad83876b1",
-   "title": "Choose the right software for Pillar 2 Top-up Taxes",
-   "summary": "Find out what commercial software is available to report Domestic Top-up Tax and Multinational Top-up Tax.",
-   "url": "https://www.gov.uk/government/publications/choose-the-right-software-for-pillar-2-top-up-taxes",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-10-29T14:29:41Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "1b01b80c08c498f7",
-   "title": "Commons Leader warns Tories 'be very careful what you ask for' after snap election claims",
-   "summary": "The Conservatives described the budget as one ‘for a May general election, not the future of Britain’",
-   "url": "https://www.independent.co.uk/news/uk/politics/snap-election-burnham-labour-conservatives-alan-campbell-b3075674.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-29T14:17:42+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Tax and spending",
-    "Elections",
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "dc642ffa66e81314",
-   "title": "Amend a VAT group",
-   "summary": "Use form VAT50/51 to amend or remove an existing VAT group.",
-   "url": "https://www.gov.uk/guidance/amend-a-vat-group",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-10-29T14:05:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "b8319706bcb47fe2",
-   "title": "Accessing and sharing health records FAQs",
-   "summary": "Information for anyone attempting to gain access to their own, or somebody else’s, medical records.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10686/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-10-29T13:55:09+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e6e226bf584d637d",
-   "title": "Healey’s Budget slammed as ‘scattergun’ by think tank formerly run by Treasury minister",
-   "summary": "The Resolution Foundation says the Budget will do little to address ‘the sharp challenges facing Britain’",
-   "url": "https://www.independent.co.uk/news/uk/politics/resolution-foundation-think-tank-budget-torsten-bell-b3075451.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-10-29T13:52:35+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f297a2cda86d7415",
-   "title": "Island Energy: No plans to remove gas standing charge",
-   "summary": "The provider said any change would need support from the community, the regulator and government.",
-   "url": "https://www.bbc.co.uk/news/articles/cwy7l1375d74o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-29T13:39:54+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8ccb2310c0a2bccd",
-   "title": "Regulators Council: letter on regulator effectiveness and reform",
-   "summary": "A letter summarising the Regulator Council meetings in October 2026 including agreeing the terms of reference for the regulator effectiveness and reform work.",
-   "url": "https://www.gov.uk/government/publications/regulators-council-letter-on-regulator-effectiveness-and-reform",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "correspondence",
-   "party_voice": "",
-   "published": "2026-10-29T13:35:38Z",
-   "parties": [],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8f56794b69425b1c",
-   "title": "Overweight offshore workers 'could lose their jobs' under new rules",
-   "summary": "Hundreds of offshore workers could be at risk of losing their jobs when a new weight limit comes into effect next month, an industry body has warned.",
-   "url": "https://news.sky.com/story/overweight-offshore-workers-could-lose-their-jobs-under-new-rules-industry-body-oeuk-warns-13605340",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-29T13:31:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "5b3229ac59c307ac",
-   "title": "Minimum wage rise 'a massive blow' says farmer",
-   "summary": "Tristan Bennett voices his disappointment in the Budget, describing it as \"a lot of tinkering\".",
-   "url": "https://www.bbc.co.uk/news/articles/c6zxj9qy4yg8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-10-29T13:29:15+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15409,49 +15410,49 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 7,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 5,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 5,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
@@ -15479,7 +15480,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
@@ -15493,7 +15494,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 6,
+   "new": 4,
    "note": ""
   },
   {
@@ -15525,110 +15526,7 @@
    "note": ""
   }
  ],
- "parties": [
-  {
-   "name": "Labour",
-   "abbr": "Lab",
-   "colour": "#d50000",
-   "seats": 404
-  },
-  {
-   "name": "Conservative",
-   "abbr": "Con",
-   "colour": "#0063ba",
-   "seats": 118
-  },
-  {
-   "name": "Liberal Democrat",
-   "abbr": "LD",
-   "colour": "#fc7d0b",
-   "seats": 71
-  },
-  {
-   "name": "Independent",
-   "abbr": "Ind",
-   "colour": "#909090",
-   "seats": 12
-  },
-  {
-   "name": "Reform UK",
-   "abbr": "RUK",
-   "colour": "#12b6cf",
-   "seats": 8
-  },
-  {
-   "name": "Scottish National Party",
-   "abbr": "SNP",
-   "colour": "#fff685",
-   "seats": 8
-  },
-  {
-   "name": "Sinn Féin",
-   "abbr": "SF",
-   "colour": "#02665f",
-   "seats": 7
-  },
-  {
-   "name": "Green Party",
-   "abbr": "Green",
-   "colour": "#78b82a",
-   "seats": 5
-  },
-  {
-   "name": "Democratic Unionist Party",
-   "abbr": "DUP",
-   "colour": "#d46a4c",
-   "seats": 4
-  },
-  {
-   "name": "Plaid Cymru",
-   "abbr": "PC",
-   "colour": "#348837",
-   "seats": 4
-  },
-  {
-   "name": "Social Democratic & Labour Party",
-   "abbr": "SDLP",
-   "colour": "#4ea268",
-   "seats": 2
-  },
-  {
-   "name": "Your Party",
-   "abbr": "YP",
-   "colour": "#ff3131",
-   "seats": 2
-  },
-  {
-   "name": "Alliance",
-   "abbr": "APNI",
-   "colour": "#cdaf2d",
-   "seats": 1
-  },
-  {
-   "name": "Restore Britain",
-   "abbr": "RB",
-   "colour": "#8a96a0",
-   "seats": 1
-  },
-  {
-   "name": "Speaker",
-   "abbr": "Spk",
-   "colour": "#8a96a0",
-   "seats": 1
-  },
-  {
-   "name": "Traditional Unionist Voice",
-   "abbr": "TUV",
-   "colour": "#0c3a6a",
-   "seats": 1
-  },
-  {
-   "name": "Ulster Unionist Party",
-   "abbr": "UUP",
-   "colour": "#a1cdf0",
-   "seats": 1
-  }
- ],
+ "parties": [],
  "elections": [
   {
    "id": "local.hyndburn.2026-11-12",
@@ -16247,7 +16145,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 170538,
+   "signatures": 170845,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16256,7 +16154,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 136323,
+   "signatures": 136400,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16265,7 +16163,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 131205,
+   "signatures": 131272,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16274,7 +16172,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 114223,
+   "signatures": 114263,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16283,7 +16181,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 107657,
+   "signatures": 108078,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -16292,7 +16190,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 87980,
+   "signatures": 87997,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16301,7 +16199,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 84630,
+   "signatures": 84759,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16310,7 +16208,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 79398,
+   "signatures": 79441,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16319,7 +16217,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 61639,
+   "signatures": 61770,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16328,7 +16226,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55747,
+   "signatures": 55751,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16337,7 +16235,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 48877,
+   "signatures": 49017,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
@@ -16346,7 +16244,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46842,
+   "signatures": 46849,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16948,5 +16846,7 @@
   }
  ],
  "key_dates": [],
- "problems": []
+ "problems": [
+  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
+ ]
 }
