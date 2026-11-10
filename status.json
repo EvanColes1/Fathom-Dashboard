@@ -1,32 +1,32 @@
 {
- "updated": "2026-11-10T17:07:27.465981+00:00",
+ "updated": "2026-11-10T23:29:08.480574+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 16,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 24,
+   "new": 25,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 11,
+   "new": 14,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 15,
+   "new": 12,
    "note": ""
   },
   {
@@ -40,49 +40,49 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 6,
    "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 9,
+   "new": 7,
    "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 11,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 9,
+   "new": 13,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 14,
+   "new": 9,
    "note": ""
   },
   {
@@ -103,7 +103,7 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 8,
+   "new": 13,
    "note": "via backup feed"
   },
   {
@@ -124,7 +124,7 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 15,
+   "new": 17,
    "note": "via backup feed"
   },
   {
@@ -138,14 +138,14 @@
    "name": "Atlantic Council",
    "group": "Think tank",
    "ok": true,
-   "new": 22,
+   "new": 20,
    "note": ""
   },
   {
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 8,
+   "new": 9,
    "note": ""
   },
   {
@@ -166,14 +166,14 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 5,
+   "new": 9,
    "note": ""
   },
   {
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 14,
+   "new": 15,
    "note": ""
   },
   {
@@ -187,28 +187,28 @@
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 5,
+   "new": 8,
    "note": ""
   },
   {
    "name": "Splash247",
    "group": "Maritime",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 1,
+   "new": 8,
    "note": ""
   },
   {
    "name": "The Record",
    "group": "Cyber",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
@@ -236,14 +236,14 @@
    "name": "Bulletin of the Atomic Scientists",
    "group": "Nuclear",
    "ok": true,
-   "new": 6,
+   "new": 5,
    "note": "via backup feed"
   },
   {
    "name": "IAEA News",
    "group": "Nuclear",
    "ok": true,
-   "new": 5,
+   "new": 3,
    "note": ""
   }
  ],
