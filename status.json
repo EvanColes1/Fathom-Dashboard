@@ -1,67 +1,67 @@
 {
- "updated": "2026-11-11T12:57:30.565187+00:00",
+ "updated": "2026-11-11T17:14:48.915023+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 7,
+   "new": 9,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 25,
+   "new": 17,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 16,
+   "new": 18,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 23,
+   "new": 14,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 4,
    "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 4,
+   "new": 1,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 8,
+   "new": 4,
    "note": "via backup feed"
   },
   {
@@ -75,14 +75,14 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 13,
+   "new": 14,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 14,
+   "new": 12,
    "note": ""
   },
   {
@@ -103,14 +103,14 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 9,
+   "new": 10,
    "note": "via backup feed"
   },
   {
    "name": "RUSI",
    "group": "Think tank",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
@@ -124,21 +124,21 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 13,
+   "new": 16,
    "note": "via backup feed"
   },
   {
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 9,
+   "new": 5,
    "note": "via backup feed"
   },
   {
    "name": "Atlantic Council",
    "group": "Think tank",
    "ok": true,
-   "new": 19,
+   "new": 20,
    "note": ""
   },
   {
@@ -166,7 +166,7 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 5,
+   "new": 7,
    "note": ""
   },
   {
@@ -180,42 +180,42 @@
    "name": "Carbon Brief",
    "group": "Energy",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Splash247",
    "group": "Maritime",
    "ok": true,
-   "new": 10,
+   "new": 5,
    "note": ""
   },
   {
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "The Record",
    "group": "Cyber",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 5,
+   "new": 10,
    "note": "via backup feed"
   },
   {
@@ -229,7 +229,7 @@
    "name": "Arms Control Association",
    "group": "Nuclear",
    "ok": true,
-   "new": 4,
+   "new": 5,
    "note": ""
   },
   {
