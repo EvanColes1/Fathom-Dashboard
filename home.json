@@ -1,23 +1,603 @@
 {
- "updated": "2026-11-13T11:11:17.210000+00:00",
+ "updated": "2026-11-13T13:26:11.879067+00:00",
  "government": "Labour",
  "articles": [
   {
+   "id": "3a624c1bd8eabaaa",
+   "title": "Piddington to bring legal challenge over asylum base plans",
+   "summary": "Up to 1,256 men could be housed at the site near Piddington in Oxfordshire under the plans.",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-13T13:15:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "08bfa77a38a6d3e9",
+   "title": "Pay overclaimed Research and Development (R&D) tax relief",
+   "summary": "How to repay R&D tax relief if you claimed too much.",
+   "url": "https://www.gov.uk/guidance/pay-overclaimed-research-and-development-rd-tax-relief",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T13:04:32Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "24242f5fc2807838",
+   "title": "Pay the Spirit Drinks Verification Scheme fee",
+   "summary": "How to pay your verification fee for the Spirit Drinks Verification Scheme, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-spirits-drinks-verification-fee",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T13:03:55Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5c4baad5e41a7d54",
+   "title": "Pay for imports declared using the Customs Declaration Service",
+   "summary": "How to pay what you owe if you've used the Customs Declaration Service to tell HMRC you've imported goods into the UK.",
+   "url": "https://www.gov.uk/guidance/pay-for-imports-declared-using-the-customs-declaration-service",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T13:03:11Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a0741aeafcaa9804",
+   "title": "Pay your Economic Crime Levy",
+   "summary": "How to pay the Economic Crime Levy, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-your-economic-crime-levy",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T13:03:05Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ee9f802d535e3e82",
+   "title": "HMRC tax receipts and National Insurance contributions for the UK",
+   "summary": "Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.",
+   "url": "https://www.gov.uk/government/statistics/announcements/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk--152",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "national_statistics_announcement",
+   "party_voice": "",
+   "published": "2026-11-13T13:02:12Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [
+    "National Insurance"
+   ],
+   "countries": []
+  },
+  {
+   "id": "568baeee4e3ec164",
+   "title": "Pay Stamp Duty on shares",
+   "summary": "How to pay your Stamp Duty, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-stamp-duty",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T13:01:43Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [
+    "Property and stamp duty"
+   ],
+   "countries": []
+  },
+  {
+   "id": "def35ba41882ae89",
+   "title": "Pay Stamp Duty Reserve Tax",
+   "summary": "How to pay your Stamp Duty Reserve Tax, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-stamp-duty-reserve-tax",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T13:01:37Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [
+    "Property and stamp duty"
+   ],
+   "countries": []
+  },
+  {
+   "id": "ecaf8ae7b5846e60",
+   "title": "Pay taxes, penalties or enquiry settlements",
+   "summary": "How to pay taxes, penalties and enquiry settlements to HMRC if you cannot find instructions in other 'paying HMRC' guides, or if your payment reference starts with X.",
+   "url": "https://www.gov.uk/guidance/pay-taxes-penalties-or-enquiry-settlements",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T13:01:31Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0bd5846c887db334",
+   "title": "Pay the VAT due on your Import One Stop Shop VAT return",
+   "summary": "How to pay the VAT due on your Import One Stop Shop (IOSS) VAT return and the time it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-the-vat-due-on-your-import-one-stop-shop-vat-return",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T13:01:22Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [
+    "VAT"
+   ],
+   "countries": []
+  },
+  {
+   "id": "48f740ae9a0c7801",
+   "title": "Pay Pillar 2 top-up taxes (Domestic Top-up Tax and Multinational Top-up Tax)",
+   "summary": "How to pay Pillar 2 top-up taxes, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-pillar-2-top-up-taxes-domestic-top-up-tax-and-multinational-top-up-tax",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T13:01:16Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "35b9257918602d9a",
+   "title": "Daragh Quinn: Friday fun – why not wear your true blue politics on your sleeve!",
+   "summary": "There is something enjoyable and affirming about the possibility that two people could pass one another in the street, one recognising a reference that means absolutely nothing to everyone around them. Kemi said she wanted to make being a Conservative fun again. So do we. The post Daragh Quinn:…",
+   "url": "https://conservativehome.com/2026/11/13/daragh-quinn-friday-fun-why-not-wear-your-true-blue-politics-on-your-sleeve/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-11-13T13:00:35+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7a78699205918519",
+   "title": "Pay Alcohol Duty",
+   "summary": "How to pay Alcohol Duty if you are an approved alcoholic products producer, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-alcohol-duty",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T13:00:01Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [
+    "Fuel and duties"
+   ],
+   "countries": []
+  },
+  {
+   "id": "dc42f96323e0e639",
+   "title": "Pay the Soft Drinks Industry Levy (notice 5)",
+   "summary": "How to pay the Soft Drinks Industry Levy, Soft Drinks Industry Levy penalty, or claim a levy credit.",
+   "url": "https://www.gov.uk/guidance/pay-the-soft-drinks-industry-levy-notice-5",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:59:54Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "f8b56170157a68e1",
-   "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
-   "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next week The government will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into accommodation for more than 1,200 detained asylum seekers, the parish council…",
+   "title": "Row breaks out between Tories and Reform at Piddington news conference – UK politics live",
+   "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and cameras A news conference in Piddington has descended into a shouting match between Reform’s Zia Yusuf and the Conservative’s Chris Philp. The two men, who are both home affairs spokespeople for their…",
    "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
    "source": "Guardian Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-13T10:54:56+00:00",
+   "published": "2026-11-13T12:59:35+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "065b47cac579e131",
+   "title": "Pay Stamp Duty Land Tax",
+   "summary": "How to pay Stamp Duty Land Tax, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-stamp-duty-land-tax",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:58:40Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [
+    "Property and stamp duty"
+   ],
+   "countries": []
+  },
+  {
+   "id": "b9ad700b29a3ba92",
+   "title": "Pay annual tax on enveloped dwellings",
+   "summary": "How to pay annual tax on enveloped dwellings (ATED) and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-annual-tax-on-enveloped-dwellings",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:58:33Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1f10d521d28af004",
+   "title": "Pay a penalty charge for not registering or maintaining a trust",
+   "summary": "How to pay a penalty charge if you have failed to register or maintain a trust, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-a-penalty-charge-for-not-registering-or-maintaining-a-trust",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:58:28Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1d56403dc156f2af",
+   "title": "Pay tax on cryptoassets",
+   "summary": "How to pay unpaid tax if you have income or gains from cryptoassets, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-tax-on-cryptoassets",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:58:24Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3de9b3b052fcfdde",
+   "title": "Pay General Betting, Pool Betting or Remote Gaming Duty",
+   "summary": "How to pay General Betting, Pool Betting or Remote Gaming Duty, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-general-betting-pool-betting-or-remote-gaming-duty",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:57:21Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6f689d4cb2554a1e",
+   "title": "Pay Insurance Premium Tax",
+   "summary": "How to pay Insurance Premium Tax, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-insurance-premium-tax",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:57:14Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c58deec4c696d76c",
+   "title": "Pay money laundering regulations fees",
+   "summary": "How to pay money laundering fees, and the time it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-money-laundering-regulations-fees-and-penalty-charges",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:57:07Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9c4612891e72ef39",
+   "title": "Pay tax as a pension scheme administrator",
+   "summary": "How to pay charges on payments from registered pension schemes and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pension-scheme-administrators-paying-tax",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:57:02Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "4362f8ad5ef2ab5c",
+   "title": "Pay Landfill Tax",
+   "summary": "How to pay Landfill Tax, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-landfill-tax",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:55:40Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d6e2b89f4c7a901d",
+   "title": "Pay Plastic Packaging Tax",
+   "summary": "How to pay Plastic Packaging Tax, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-plastic-packaging-tax",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:55:34Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a32ea0407b172eb5",
+   "title": "Pay duty on biofuels or road fuel gas",
+   "summary": "How to pay duty on biofuels or road fuel gas, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-duty-on-biofuels-or-gas-for-road-use",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:55:27Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7e94c97fc1163eda",
+   "title": "Pay Gaming or Bingo Duty",
+   "summary": "How to pay Gaming or Bingo Duty, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-gambling-duties",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:55:21Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "218e8fbc87b79eac",
+   "title": "The dark side of reselling apps: ‘If you include your pants, I’ll pay more’",
+   "summary": "Ministers consider banning under-16s from platforms amid reported misuse of messaging functions and users’ photos In June, Hannah* listed her seven-year-old daughter’s pink swimming costume for sale on Vinted, hoping other parents surfing the reselling site would snap up the £1 offer. Her inbox…",
+   "url": "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-13T12:54:16+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
-    "Elections",
-    "Immigration",
-    "Defence"
+    "Economy"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "db022e9c64466c3f",
+   "title": "Pay the VAT due on your One Stop Shop VAT Return",
+   "summary": "How to pay the VAT due on your One Stop Shop VAT (OSS) Return and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-the-vat-due-on-your-one-stop-shop-vat-return",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:52:52Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [
+    "VAT"
+   ],
+   "countries": []
+  },
+  {
+   "id": "24dfab022bf5b096",
+   "title": "David Walliams whistleblower Lucy Beaumont backs change to ‘insane’ UK consent laws",
+   "summary": "The comedian was among the people who spoke to The Guardian as part of its investigation into Walliams",
+   "url": "https://www.independent.co.uk/news/uk/politics/david-walliams-consent-law-lucy-beaumont-b3084289.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-13T12:52:52+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "71a5ca125eef97f5",
+   "title": "Pay Air Passenger Duty",
+   "summary": "How to pay Air Passenger Duty, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-air-passenger-duty",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:52:41Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a0203bee001a107f",
+   "title": "Pay Climate Change Levy",
+   "summary": "How to pay the Climate Change Levy, and how long it takes for your payment to reach HMRC.",
+   "url": "https://www.gov.uk/guidance/pay-climate-change-levy",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:52:28Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "2788d808021611c3",
+   "title": "Find software suppliers for filing charities repayments online",
+   "summary": "Find recognised suppliers and software to file charity repayment claims online.",
+   "url": "https://www.gov.uk/government/publications/charities-online-commercial-software-suppliers",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-13T12:50:03Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fa1fd3ea85219396",
+   "title": "Customs Declaration Service: service availability and issues",
+   "summary": "Check the availability and any issues affecting the Customs Declaration Service.",
+   "url": "https://www.gov.uk/guidance/customs-declaration-service-service-availability-and-issues",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-13T12:36:26Z",
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -29,7 +609,133 @@
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-11-13T10:53:40+00:00",
+   "published": "2026-11-13T12:31:49+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b11f78109a56b0bd",
+   "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+   "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+   "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-13T12:22:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "b4a904eeb970d612",
+   "title": "Impact of hostile-state activity on the UK economy",
+   "summary": "A Westminster Hall debate on the impact of hostile-state activity on the UK economy is scheduled for 17 November 2026. Graeme Downie MP will open the debate.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/impact-of-hostile-state-activity-on-the-uk-economy/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-13T12:15:32+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c4fa94b8145d4815",
+   "title": "Andy Burnham hits back at David Cameron over criticism of his EU plans",
+   "summary": "Lord Cameron said starting a conversation about rejoining the bloc would be ‘very long and painful’",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-david-cameron-eu-brexit-b3084339.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-13T12:07:07+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "0937be442b710645",
+   "title": "How are medicines and medical devices regulated in the UK?",
+   "summary": "The Medicines and Healthcare products Regulatory Agency is the UK regulator for medicines and medical devices. The government is making changes to regulations, including major reforms for medical devices.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/how-are-medicines-and-medical-devices-regulated-in-the-uk/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-13T11:39:53+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b58e997268aa5077",
+   "title": "Performance of the Medicines and Healthcare products Regulatory Agency",
+   "summary": "The Medicines and Healthcare products Regulatory Agency is responsible for ensuring the safety of medicines, medical devices and blood components for transfusion.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/performance-of-the-medicines-and-healthcare-products-regulatory-agency/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-13T11:33:25+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "890bbd2cd7d217ca",
+   "title": "Go Compare owner Future eyes sale of business arm",
+   "summary": "The London-listed company which owns Go Compare, the price comparison platform, is exploring a sale of its business-to-business arm.",
+   "url": "https://news.sky.com/story/go-compare-owner-future-eyes-sale-of-business-arm-13611868",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-13T11:32:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "66202ee7ac371248",
+   "title": "Digested week: Do we really have to see Liz Truss at the Cenotaph for the next 30 years? | John Crace",
+   "summary": "At some point even Liz won’t remember why she’s there. Meanwhile, Nige wants more air time, and Boris Johnson couldn’t have made less effort Like most people, I assume, I had always thought the Remembrance Sunday service at the Cenotaph was a time to think of those who died in the two world wars…",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/13/digested-week-liz-truss-cenotaph",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-13T11:28:43+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6a457537e3f20b15",
+   "title": "Robert Marr: Far from re-nationalising the railways we should be rolling towards full privatisation",
+   "summary": "Whether by resuming franchises under the recent privatised model, or taking the opportunity to go further by creating new vertically integrated railway companies, it’s time to privatise the railways — again. The post Robert Marr: Far from re-nationalising the railways we should be rolling towards…",
+   "url": "https://conservativehome.com/2026/11/13/robert-marr-far-from-re-nationalising-the-railways-we-should-be-rolling-towards-full-privatisation/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-11-13T11:00:54+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -38,8 +744,8 @@
   },
   {
    "id": "45ad344362a213e7",
-   "title": "Planned asylum centre near Oxfordshire village to face legal challenge",
-   "summary": "Parish council of village that declared independence from UK over centre says it will ‘absolutely’ launch legal action UK politics – live updates Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into accommodation for…",
+   "title": "Oxfordshire villagers to launch legal fight against asylum centre plan",
+   "summary": "Parish council of Piddington, which symbolically voted to leave UK over plan, says it will ‘absolutely’ take legal action UK politics – live updates Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into accommodation…",
    "url": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
    "source": "Guardian Politics",
    "group": "News",
@@ -67,23 +773,6 @@
    "published": "2026-11-13T10:40:45Z",
    "parties": [],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3a624c1bd8eabaaa",
-   "title": "Piddington to bring legal challenge over asylum base plans",
-   "summary": "Up to 1,256 men could be housed at the site near Piddington in Oxfordshire under the plans.",
-   "url": "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-13T10:30:13+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Immigration"
-   ],
    "tax": [],
    "countries": []
   },
@@ -156,25 +845,6 @@
    "countries": []
   },
   {
-   "id": "c4fa94b8145d4815",
-   "title": "Andy Burnham hits back at David Cameron over criticism of his EU plans",
-   "summary": "Lord Cameron said starting a conversation about rejoining the bloc would be ‘very long and painful’",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-david-cameron-eu-brexit-b3084339.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-13T09:34:20+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "c5f13dab1a6aec34",
    "title": "Heat pumps: How much heat does your home really need?",
    "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
@@ -236,21 +906,6 @@
    "tax": [
     "Pensions"
    ],
-   "countries": []
-  },
-  {
-   "id": "24dfab022bf5b096",
-   "title": "David Walliams whistleblower Lucy Beaumont backs change to ‘insane’ UK consent laws",
-   "summary": "The comedian was among the people who spoke to The Guardian as part of its investigation into Walliams",
-   "url": "https://www.independent.co.uk/news/uk/politics/david-walliams-consent-law-lucy-beaumont-b3084289.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-13T07:09:57+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
    "countries": []
   },
   {
@@ -6543,23 +7198,6 @@
    "countries": []
   },
   {
-   "id": "5c4baad5e41a7d54",
-   "title": "Pay for imports declared using the Customs Declaration Service",
-   "summary": "How to pay what you owe if you've used the Customs Declaration Service to tell HMRC you've imported goods into the UK.",
-   "url": "https://www.gov.uk/guidance/pay-for-imports-declared-using-the-customs-declaration-service",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-09T09:19:53Z",
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "6d5b73e46efc137d",
    "title": "National Minimum Wage information for employers",
    "summary": "Find out about the checks we carry out to make sure you're paying your workers at least the National Minimum Wage.",
@@ -7377,21 +8015,6 @@
    "parties": [
     "Labour"
    ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fa1fd3ea85219396",
-   "title": "Customs Declaration Service: service availability and issues",
-   "summary": "Check the availability and any issues affecting the Customs Declaration Service.",
-   "url": "https://www.gov.uk/guidance/customs-declaration-service-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-07T23:45:00Z",
-   "parties": [],
    "topics": [],
    "tax": [],
    "countries": []
@@ -12793,24 +13416,6 @@
    "countries": []
   },
   {
-   "id": "08bfa77a38a6d3e9",
-   "title": "Pay overclaimed Research and Development (R&D) tax relief",
-   "summary": "How to repay R&D tax relief if you claimed too much.",
-   "url": "https://www.gov.uk/guidance/pay-overclaimed-research-and-development-rd-tax-relief",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-03T10:42:58Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending",
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "21d86ea6589aa90f",
    "title": "Tied Oils Enquiry Service: service availability and issues",
    "summary": "Check the availability and any issues affecting the Tied Oils Enquiry Service online service.",
@@ -12899,23 +13504,6 @@
    "countries": [
     "Czechia"
    ]
-  },
-  {
-   "id": "7e94c97fc1163eda",
-   "title": "Pay Gaming or Bingo Duty",
-   "summary": "How to pay Gaming or Bingo Duty, and how long it takes for your payment to reach HMRC.",
-   "url": "https://www.gov.uk/guidance/pay-gambling-duties",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-03T09:42:03Z",
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
   },
   {
    "id": "5bc7d797e329dbc8",
@@ -14690,570 +15278,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "d9c8e43626e46da2",
-   "title": "Reporting cryptoasset user and transaction data",
-   "summary": "Find out when and how to report to HMRC under the Cryptoasset Reporting Framework (CARF).",
-   "url": "https://www.gov.uk/guidance/reporting-cryptoasset-user-and-transaction-data",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T10:00:01Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b9860f1629f0e743",
-   "title": "Tax Alumni Network Privacy Notice",
-   "summary": "This Privacy Notice supplements the HMT Personal Information Charter and outlines additional information in relation to managing the HMT Tax Alumni Network.",
-   "url": "https://www.gov.uk/government/publications/tax-alumni-network-privacy-notice",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-11-02T10:00:01Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "9546eea1ecaa2349",
-   "title": "Personal information charter - HM Treasury",
-   "summary": "This information charter sets out the standards you can expect from HM Treasury (HMT) when we collect, hold, or use your personal information.",
-   "url": "https://www.gov.uk/government/organisations/hm-treasury/about/personal-information-charter",
-   "source": "HMT",
-   "group": "Government",
-   "kind": "personal_information_charter",
-   "party_voice": "",
-   "published": "2026-11-02T10:00:01Z",
-   "parties": [],
-   "topics": [
-    "Tax and spending"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c625bd73c09bdbeb",
-   "title": "Legal migrants to face waits of 10 years or more for right to settle in UK",
-   "summary": "There is speculation that one group of workers will be exempt from the change",
-   "url": "https://www.independent.co.uk/news/uk/politics/migration-rules-uk-ilr-mahmood-b3077314.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-02T09:36:33+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "03023a9b9cf4f062",
-   "title": "How to work out the margin and VAT due using VAT margin schemes",
-   "summary": "How to work out the margin and VAT due and how to calculate the purchase and selling price.",
-   "url": "https://www.gov.uk/guidance/how-to-work-out-the-margin-and-vat-due-using-vat-margin-schemes",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:30:06Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "39c80a4b69c68015",
-   "title": "Calum Davies: The failed experiment – the case for the abolition of National devolution in Wales",
-   "summary": "My Welshness is strong enough to survive without an unnecessary layer of government. My Welshness is not so fragile that it needs a failed legislature to uphold it. My Welshness is defined by my culture and my community. Wales was here before devolution, and it will be here after it. The post Calum…",
-   "url": "https://conservativehome.com/2026/11/02/calum-davies-the-failed-experiment-the-case-for-the-abolition-of-national-devolution-in-wales/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-11-02T09:00:53+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b4162a42dbaeceb2",
-   "title": "Using the VAT margin scheme for hire-purchase and part-exchange goods",
-   "summary": "How to account for VAT using the VAT margin scheme for hire-purchase sales and part-exchange goods.",
-   "url": "https://www.gov.uk/guidance/using-the-vat-margin-scheme-for-hire-purchase-and-part-exchange-goods",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "280594d00bb3e5d7",
-   "title": "Check the recognised overseas pension schemes notification list",
-   "summary": "Find schemes that have told HMRC they meet the conditions to be a recognised overseas pension scheme (ROPS).",
-   "url": "https://www.gov.uk/guidance/check-the-recognised-overseas-pension-schemes-notification-list",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
-   "id": "8142319e50cfe0fd",
-   "title": "Recording VAT margin scheme transactions",
-   "summary": "How to record margin scheme transactions if you do not make a profit on the sale of the goods and what to do if you want to change a margin scheme transaction",
-   "url": "https://www.gov.uk/guidance/recording-vat-margin-scheme-transactions",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "0052bf5f4288f707",
-   "title": "List of Individual Savings Account (ISA) managers approved by HMRC",
-   "summary": "Find ISA managers approved by HMRC from October 2014.",
-   "url": "https://www.gov.uk/government/publications/list-of-individual-savings-account-isa-managers-approved-by-hmrc",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "bf545f4be5316ff1",
-   "title": "Using the VAT margin scheme for repossessed goods and goods subject to insurance claims",
-   "summary": "How to account for VAT using the VAT margin scheme for repossessed goods and goods subject to insurance claims.",
-   "url": "https://www.gov.uk/guidance/using-the-vat-margin-scheme-for-repossessed-goods-and-goods-subject-to-insurance-claims",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "2362ba249a5222bb",
-   "title": "Goods eligible for the VAT margin scheme",
-   "summary": "What goods are eligible and not eligible for the scheme and what purchase conditions apply.",
-   "url": "https://www.gov.uk/guidance/goods-eligible-for-the-vat-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "de5a2b174c1b96a5",
-   "title": "How to value goods for import VAT",
-   "summary": "Find out how to value your goods to help when working out the VAT due when importing goods into the UK.",
-   "url": "https://www.gov.uk/guidance/how-to-value-goods-for-import-vat",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "a7f5366f68673308",
-   "title": "Accounting for VAT on bad debts when using the VAT margin scheme if you’re a seller",
-   "summary": "How to account for VAT on bad debts when using the VAT margin scheme.",
-   "url": "https://www.gov.uk/guidance/accounting-for-vat-on-bad-debts-when-using-the-vat-margin-scheme-if-youre-a-seller",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "2dbaed53bc78ab58",
-   "title": "Buying or selling joint purchases and shares using the VAT margin scheme",
-   "summary": "How to use the margin scheme to account for VAT on joint purchases and shares.",
-   "url": "https://www.gov.uk/guidance/buying-or-selling-joint-purchases-and-shares-using-the-vat-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "0622c7d71a924e78",
-   "title": "Import works of art, antiques and collectors' items using the VAT margin or global accounting scheme",
-   "summary": "Using a VAT margin scheme or global accounting scheme for works of art, antiques and collectors items imported into the United Kingdom.",
-   "url": "https://www.gov.uk/guidance/import-works-of-art-antiques-and-collectors-items-using-the-vat-margin-or-global-accounting-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:02Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "72b9b8fa06c7b481",
-   "title": "Using a VAT margin scheme if you’re an agent",
-   "summary": "How to account for VAT using the VAT margin scheme if you are an agent, or a seller using an agent.",
-   "url": "https://www.gov.uk/guidance/using-a-vat-margin-scheme-if-youre-an-agent",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:02Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "402fa2716d7c9e3d",
-   "title": "Buying and selling horses and ponies using the British Equestrian Trade Association form",
-   "summary": "How to use the British Equestrian Trade Association (BETA) form when buying and selling horses and ponies.",
-   "url": "https://www.gov.uk/guidance/buying-and-selling-horses-and-ponies-using-the-british-equestrian-trade-association-form",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:02Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8783e867a90ea6b1",
-   "title": "Exporting goods using the VAT margin scheme",
-   "summary": "Find out how to account for VAT on margin scheme goods that are exported outside the UK.",
-   "url": "https://www.gov.uk/guidance/exporting-goods-using-the-vat-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:02Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "a49ea48998fd4bce",
-   "title": "Buying goods as a transfer of going concern or assignments of rights using the VAT margin scheme",
-   "summary": "How to use the margin scheme to account for VAT on transfers of going concerns and assignments of rights.",
-   "url": "https://www.gov.uk/guidance/buying-goods-as-a-transfer-of-going-concern-or-assignments-of-rights-using-the-vat-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:02Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "38aec13e8e52ca23",
-   "title": "Using the VAT margin scheme for linked insurance products and warranties",
-   "summary": "How to account for VAT on linked insurance products and warranties.",
-   "url": "https://www.gov.uk/guidance/using-the-vat-margin-scheme-for-linked-insurance-products-and-warranties",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:02Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "2700630bd0b2727b",
-   "title": "Buying and selling goods in Northern Ireland using the VAT margin scheme",
-   "summary": "If you buy and sell goods between Northern Ireland and the EU or between Great Britain and Northern Ireland check how to use the VAT margin scheme (VAT Notice 718).",
-   "url": "https://www.gov.uk/guidance/buying-and-selling-goods-in-northern-ireland-using-the-vat-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:02Z",
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [
-    "VAT"
-   ],
-   "countries": [
-    "Ireland"
-   ]
-  },
-  {
-   "id": "b3cc68e3b5dfebb4",
-   "title": "Buying and selling goods at auction using the VAT margin scheme",
-   "summary": "How to account for VAT using the VAT margin scheme when buying or selling second-hand goods at auctions.",
-   "url": "https://www.gov.uk/guidance/buying-and-selling-goods-at-auction-using-the-vat-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:02Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "477bee5faab8d927",
-   "title": "Buying and selling houseboats and caravans using the VAT margin scheme",
-   "summary": "If you sell second-hand houseboats or caravans in the UK, find out how to use a margin scheme to account for VAT.",
-   "url": "https://www.gov.uk/guidance/buying-and-selling-houseboats-and-caravans-using-the-vat-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:01Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "1d626e7926601043",
-   "title": "Using the auctioneers' VAT margin scheme",
-   "summary": "How to account for VAT using the auctioneers’ scheme.",
-   "url": "https://www.gov.uk/guidance/using-the-auctioneers-vat-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:01Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "d974747b4630ba11",
-   "title": "Selling unredeemed pawns if you use a VAT margin scheme",
-   "summary": "How to use the margin scheme to account for VAT when selling unredeemed pawns.",
-   "url": "https://www.gov.uk/guidance/selling-unredeemed-pawns-if-you-use-a-vat-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:01Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "660612c530ca4cca",
-   "title": "Buying and selling horses and ponies using the VAT margin scheme",
-   "summary": "How to use the margin scheme when buying and selling horses and ponies.",
-   "url": "https://www.gov.uk/guidance/buying-and-selling-horses-and-ponies-using-the-vat-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:01Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "3c03c14e433dbffd",
-   "title": "Using the global accounting VAT margin scheme",
-   "summary": "How to account for VAT using the global accounting scheme.",
-   "url": "https://www.gov.uk/guidance/using-the-global-accounting-vat-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:01Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "ced372f13fe717b2",
-   "title": "Buying and selling second-hand motor vehicles using the VAT margin scheme",
-   "summary": "How to use a margin scheme to account for VAT if you sell second-hand vehicles.",
-   "url": "https://www.gov.uk/guidance/buying-and-selling-second-hand-motor-vehicles-using-the-vat-margin-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T09:00:01Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "VAT"
-   ],
-   "countries": []
-  },
-  {
-   "id": "bc46b33a5267d126",
-   "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-   "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-   "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-02T07:42:33+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "North Korea"
-   ]
-  },
-  {
-   "id": "308cc1d3732217dd",
-   "title": "Why does Reform want the government to bailout Poundland?",
-   "summary": "I am beginning to harbour suspicions that Reform don't actually have an ideologically consistent policy platform. Their beliefs seem to be grounded in an ideological framework I would term as 'Pollism' - creative, I know. There is no actual belief behind their ideas, nor is there any philosophy to…",
-   "url": "https://conservativehome.com/2026/11/02/why-does-reform-want-the-government-to-bailout-poundland/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-11-02T07:00:31+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "1a50f7d3dfc0b553",
-   "title": "Matthew Jeffery: Why the Hell aren’t Britain’s parents angry about their children’s future?",
-   "summary": "Our parents wanted us to have more than they did. They worked, saved and sacrificed because they believed their children should enjoy opportunities they never had. We were supposed to pass that promise on, not enjoy the rewards ourselves and pull up the ladder behind us. The post Matthew Jeffery:…",
-   "url": "https://conservativehome.com/2026/11/02/matthew-jeffery-why-the-hell-arent-britains-parents-angry-about-their-childrens-future/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-11-02T06:30:10+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "3b795619991f6998",
-   "title": "Christmas donations gift demand up, charities say",
-   "summary": "Charities collecting Christmas presents for struggling families say demand has gone up.",
-   "url": "https://www.bbc.co.uk/news/articles/cm5ynrp0lg2yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-02T06:22:48+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "48ded28533b4b923",
-   "title": "Christmas shoebox appeal launches to help children",
-   "summary": "A gift-filled shoebox campaign launched for children who would otherwise go without this Christmas.",
-   "url": "https://www.bbc.co.uk/news/articles/cv98zr5wxp21o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-02T06:21:09+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15261,14 +15285,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 7,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
@@ -15282,28 +15306,28 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
@@ -15331,7 +15355,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
@@ -16045,7 +16069,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 174419,
+   "signatures": 174545,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16054,7 +16078,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 137264,
+   "signatures": 137301,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16063,7 +16087,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 133523,
+   "signatures": 133741,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16072,7 +16096,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 114598,
+   "signatures": 114616,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16081,7 +16105,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 110687,
+   "signatures": 110737,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -16090,7 +16114,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 88223,
+   "signatures": 88238,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16099,7 +16123,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 86251,
+   "signatures": 86317,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16108,7 +16132,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 82449,
+   "signatures": 82513,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16117,7 +16141,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 64566,
+   "signatures": 64654,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16126,7 +16150,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55799,
+   "signatures": 55804,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16135,7 +16159,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 51924,
+   "signatures": 51960,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
@@ -16144,7 +16168,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 46920,
+   "signatures": 46921,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
