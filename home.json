@@ -1,7 +1,110 @@
 {
- "updated": "2026-11-14T10:37:46.892000+00:00",
+ "updated": "2026-11-14T12:30:18.664030+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "2142c2384f5e3ebd",
+   "title": "Andy Burnham accuses Tories of ‘burning bridges’ with EU over Brexit",
+   "summary": "The prime minister’s remarks in recent weeks have fuelled questions about the prospect of the UK returning to the EU",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-eu-brexit-labour-b3084959.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-14T12:08:19+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ea18e7d70abcc9cb",
+   "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+   "summary": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
+   "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-14T12:05:59+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "66024c09ac205f75",
+   "title": "Stronger savings for hundreds of thousands of workers",
+   "summary": "Workers can join schemes where a proportion of their salary, chosen by them, automatically goes into their own savings pot.",
+   "url": "https://www.gov.uk/government/news/stronger-savings-for-hundreds-of-thousands-of-workers",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "news_story",
+   "party_voice": "",
+   "published": "2026-11-14T11:07:16Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "156d88413f5268fc",
+   "title": "Madeline Horwath on the complexity of modern politics – cartoon",
+   "summary": "Continue reading...",
+   "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/14/madeline-horwath-complexity-modern-politics-cartoon",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-14T11:00:44+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c041aabb973bcb27",
+   "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
+   "summary": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham King Asylum seekers accommodated at a controversial military base in East Sussex have been subjected to inadequate welfare checks, and torture survivors may have been placed…",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-14T11:00:43+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration",
+    "Defence"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7fe8265ac92a9bf8",
+   "title": "David Cameron reveals Alzheimer’s made his mother beg sister to kill her in heartbreaking NHS drugs plea",
+   "summary": "The fomer prime minster, who is also president of charity Alzheimer’s Research UK, lost his mother to the disease in 2025",
+   "url": "https://www.independent.co.uk/news/uk/home-news/david-cameron-mother-alzheimers-nhs-trial-b3084928.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-14T10:40:08+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "84eda51959978c3b",
    "title": "Tories agree to pay artist after legal threat over ‘Bottler Burnham’",
@@ -16,40 +119,6 @@
     "Labour",
     "Conservative"
    ],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7fe8265ac92a9bf8",
-   "title": "David Cameron reveals Alzheimer’s made his mother beg sister to kill her in heartbreaking NHS drugs plea",
-   "summary": "The fomer prime minster, who is also president of charity Alzheimer’s Research UK, lost his mother to the disease in 2025",
-   "url": "https://www.independent.co.uk/news/uk/home-news/david-cameron-mother-alzheimers-nhs-trial-b3084928.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-14T09:55:40+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "NHS and care"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ea18e7d70abcc9cb",
-   "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-   "summary": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
-   "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-14T09:05:48+00:00",
-   "dateonly": false,
-   "parties": [],
    "topics": [
     "Economy"
    ],
@@ -15240,70 +15309,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "4c252a53a6e59653",
-   "title": "Registration and approval of excise goods held in duty suspension (Excise Notice 196)",
-   "summary": "Requirements for excise goods held in duty suspension in a warehouse by an authorised warehousekeeper or registered consignor in the UK.",
-   "url": "https://www.gov.uk/guidance/registration-and-approval-of-excise-goods-held-in-duty-suspension-excise-notice-196",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T13:14:49Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4eea61806be36fef",
-   "title": "Cancel your excise warehousekeeper authorisation",
-   "summary": "How to cancel your authorisation as an excise warehousekeeper.",
-   "url": "https://www.gov.uk/guidance/cancel-your-excise-warehousekeeper-authorisation",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T13:14:34Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4357af9f73d21b80",
-   "title": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
-   "summary": "Prospect to hold workplace sessions and recruit members under agreement with tech company Trade unions are expected to make further inroads into big tech companies in the UK after new rights for unions to access workplaces came into force , with Google UK signing an agreement on Monday. The…",
-   "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-02T13:00:41+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "8f83345f79cd9028",
-   "title": "Alex Challoner: I’m not going to be the Mayor of London, but here is what the successful Tory nominee must do",
-   "summary": "It has been an honour and privilege to seek the party’s nomination this time. But, and it might sound odd, I hope that, when it comes to selecting a mayoral candidate for the 2032 City Hall elections, that I will not feel compelled to throw my hat into the ring again. The post Alex Challoner: I’m…",
-   "url": "https://conservativehome.com/2026/11/02/alex-challoner-im-not-going-to-be-the-mayor-of-london-but-here-is-what-the-successful-tory-nominee-must-do/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-11-02T13:00:36+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15311,7 +15316,7 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15332,7 +15337,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
@@ -15346,7 +15351,7 @@
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -16095,7 +16100,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 175245,
+   "signatures": 175310,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16104,7 +16109,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 137522,
+   "signatures": 137541,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16113,7 +16118,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 135561,
+   "signatures": 135766,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16122,7 +16127,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 114863,
+   "signatures": 114898,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16131,7 +16136,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 111154,
+   "signatures": 111206,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -16140,7 +16145,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 88375,
+   "signatures": 88398,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16149,7 +16154,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 86653,
+   "signatures": 86686,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16158,34 +16163,34 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 82942,
+   "signatures": 82968,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/777710"
   },
   {
-   "id": 771401,
-   "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 65453,
-   "created": "2026-06-01T21:45:40.778Z",
-   "responded": true,
-   "debate": false,
-   "url": "https://petition.parliament.uk/petitions/771401"
-  },
-  {
    "id": 767590,
    "title": "Increase the personal tax allowance threshold to £20,000",
-   "signatures": 64159,
+   "signatures": 65786,
    "created": "2026-04-17T17:08:31.605Z",
    "responded": false,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/767590"
   },
   {
+   "id": 771401,
+   "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
+   "signatures": 65518,
+   "created": "2026-06-01T21:45:40.778Z",
+   "responded": true,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/771401"
+  },
+  {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55821,
+   "signatures": 55823,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16194,7 +16199,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 52303,
+   "signatures": 52331,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
