@@ -1,7 +1,37 @@
 {
- "updated": "2026-11-14T18:14:54.080192+00:00",
+ "updated": "2026-11-14T22:35:11.888250+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "a7a17af5c4a50473",
+   "title": "UK ethics watchdog chief steps back from role over sexual misconduct claims",
+   "summary": "The government says Stuart Sterling has stepped back from his role after claims made during the early 2000s emerged.",
+   "url": "https://www.bbc.co.uk/news/articles/cmewv2kzq2e5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-14T21:14:52+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "be302646ca9b3e3f",
+   "title": "David Cameron's mother signs petition rallying against government cuts to children's services",
+   "summary": "Mary Cameron said: 'My name is on the petition but I don’t want to discuss this any further'",
+   "url": "https://www.independent.co.uk/news/uk/politics/david-camerons-mother-signs-petition-rallying-against-government-cuts-to-childrens-services-a6862331.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-14T20:38:20+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "7fe8265ac92a9bf8",
    "title": "David Cameron reveals Alzheimer’s made his mother beg sister to end her life in heartbreaking NHS drugs plea",
@@ -15287,36 +15317,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "4e5577e538b1bc56",
-   "title": "Poundland's former owner offers to invest as minister prepares to meet board",
-   "summary": "Wolverhampton's Steve Smith said he wants to put some money back into the firm he started.",
-   "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-02T13:40:36+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "6422c25fa1777f9b",
-   "title": "Sporting Events Bill [HL] 2026-27",
-   "summary": "The Sporting Events Bill [HL] 2026-27 is scheduled to have its remaining stages in the House of Commons on 4 November 2026.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10933/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-11-02T13:35:59+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15324,28 +15324,28 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
@@ -16108,7 +16108,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 175457,
+   "signatures": 175558,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16117,7 +16117,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 137597,
+   "signatures": 137636,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16126,7 +16126,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 136401,
+   "signatures": 136915,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16135,7 +16135,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 114987,
+   "signatures": 115073,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16144,34 +16144,34 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 111323,
+   "signatures": 111389,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
    "url": "https://petition.parliament.uk/petitions/783252"
   },
   {
-   "id": 773633,
-   "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 88428,
-   "created": "2026-06-17T16:29:16.669Z",
-   "responded": true,
-   "debate": false,
-   "url": "https://petition.parliament.uk/petitions/773633"
-  },
-  {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 88309,
+   "signatures": 89991,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/779259"
   },
   {
+   "id": 773633,
+   "title": "Launch a public inquiry into illegal migration in the UK",
+   "signatures": 88454,
+   "created": "2026-06-17T16:29:16.669Z",
+   "responded": true,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/773633"
+  },
+  {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 83054,
+   "signatures": 83094,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16180,7 +16180,7 @@
   {
    "id": 767590,
    "title": "Increase the personal tax allowance threshold to £20,000",
-   "signatures": 69756,
+   "signatures": 71971,
    "created": "2026-04-17T17:08:31.605Z",
    "responded": false,
    "debate": false,
@@ -16189,7 +16189,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 65836,
+   "signatures": 66010,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16198,7 +16198,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55831,
+   "signatures": 55835,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16207,7 +16207,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 52420,
+   "signatures": 52479,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
