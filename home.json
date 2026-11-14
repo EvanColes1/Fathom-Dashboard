@@ -1,21 +1,129 @@
 {
- "updated": "2026-11-14T01:28:47.037872+00:00",
+ "updated": "2026-11-14T10:37:46.892000+00:00",
  "government": "Labour",
  "articles": [
   {
+   "id": "84eda51959978c3b",
+   "title": "Tories agree to pay artist after legal threat over ‘Bottler Burnham’",
+   "summary": "Illustrator Stanley Chow previously claimed the Conservatives ‘haven’t done their due diligence’",
+   "url": "https://www.independent.co.uk/news/uk/politics/conservatives-bottler-burnham-stanley-chow-b3084940.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-14T10:07:41+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7fe8265ac92a9bf8",
+   "title": "David Cameron reveals Alzheimer’s made his mother beg sister to kill her in heartbreaking NHS drugs plea",
+   "summary": "The fomer prime minster, who is also president of charity Alzheimer’s Research UK, lost his mother to the disease in 2025",
+   "url": "https://www.independent.co.uk/news/uk/home-news/david-cameron-mother-alzheimers-nhs-trial-b3084928.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-14T09:55:40+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "NHS and care"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ea18e7d70abcc9cb",
+   "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+   "summary": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
+   "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-14T09:05:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b03fe8c7f149e268",
+   "title": "Trump’s disastrous midterms defeat partly driven by treatment of US allies, senior Republican says",
+   "summary": "Exclusive: Outspoken Trump critic Asa Hutchinson, a former Republican presidential candidate, rejects warning that UK must choose between US and EU",
+   "url": "https://www.independent.co.uk/news/uk/politics/trump-eu-brexit-hsa-hutchinson-republican-midterm-b3084133.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-14T08:36:55+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "731ce958637ad5b7",
+   "title": "Thames Water creditors offer £75m social tariff boost to win over Burnham",
+   "summary": "Thames Water creditors will establish a £75m fund for vulnerable customers as part of a package designed to win Andy Burnham’s support for a private sector rescue of the company and avert its nationalisation.",
+   "url": "https://news.sky.com/story/thames-water-creditors-offer-75m-social-tariff-boost-to-win-over-burnham-13612117",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-14T07:46:00+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "a20a765200c51b0c",
-   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-   "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+   "title": "Microsoft says services fully restored after day-long global outage",
+   "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
    "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-11-13T21:14:22+00:00",
+   "published": "2026-11-14T06:42:27+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
    "tax": [],
    "countries": []
+  },
+  {
+   "id": "25b6951773cfaf62",
+   "title": "UK tells blind Nigerian pensioner to go to India for medical treatment",
+   "summary": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rules A blind Nigerian pensioner who has lived in the UK for 26 years has been told by the Home Office she can safely go to India, a country she has never visited, for medical treatment.…",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-14T06:00:37+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "India",
+    "Nigeria"
+   ]
   },
   {
    "id": "dabb9c42293eb206",
@@ -15196,108 +15304,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "359599055c71217e",
-   "title": "Chris Mason: Home secretary to face scrutiny over changes to rules for legal migrants",
-   "summary": "At the heart of the debate around legal migration are contested notions of fairness, our political editor writes.",
-   "url": "https://www.bbc.co.uk/news/articles/ck4g13zrm513o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-02T12:58:05+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7a58968f8875ebd4",
-   "title": "How to work out your Alcohol Duty rates if you’re eligible for Small Producer Relief",
-   "summary": "The figures you’ll need and how to use them to work out your discounted duty rates.",
-   "url": "https://www.gov.uk/guidance/how-to-work-out-your-alcohol-duty-rates-if-youre-eligible-for-small-producer-relief",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T12:44:39Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Fuel and duties"
-   ],
-   "countries": []
-  },
-  {
-   "id": "519507f235d93a46",
-   "title": "Major business group calls for fundamental change in UK-EU relationship",
-   "summary": "A major UK business group has called on the government to \"fundamentally reassess\" the country's relationship with the EU, as it said the current system is still \"failing to deliver\".",
-   "url": "https://news.sky.com/story/major-business-group-calls-for-fundamental-change-in-uk-eu-relationship-as-current-system-failing-13607061",
-   "source": "Sky News Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-02T12:27:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4652b6ad9bef1936",
-   "title": "Ryanair says it may freeze workers' pay and raise airfares",
-   "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-   "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-02T12:22:10+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "b4705b408391d269",
-   "title": "Hundreds of employers handed penalties for illegally underpaying workers",
-   "summary": "389 employers from across the UK named for failing to pay workers the minimum wage to tens of thousands of workers.",
-   "url": "https://www.gov.uk/government/news/hundreds-of-employers-handed-penalties-for-illegally-underpaying-workers",
-   "source": "DBT",
-   "group": "Government",
-   "kind": "press_release",
-   "party_voice": "",
-   "published": "2026-11-02T12:09:14Z",
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "0c0a1dfa08e800c2",
-   "title": "Check if an email you've received from HMRC is genuine",
-   "summary": "Check a list of recent emails from HMRC to help you decide if the email you've received is a scam.",
-   "url": "https://www.gov.uk/guidance/check-if-an-email-youve-received-from-hmrc-is-genuine",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-02T12:07:14Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15312,7 +15318,7 @@
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 2,
    "note": ""
   },
   {
@@ -15326,21 +15332,21 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15368,7 +15374,7 @@
    "name": "UK in a Changing Europe",
    "group": "Analysis",
    "ok": true,
-   "new": 11,
+   "new": 12,
    "note": ""
   },
   {
@@ -16089,7 +16095,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 175115,
+   "signatures": 175245,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16098,7 +16104,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 137461,
+   "signatures": 137522,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16107,7 +16113,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 135064,
+   "signatures": 135561,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16116,7 +16122,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 114798,
+   "signatures": 114863,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16125,7 +16131,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 111043,
+   "signatures": 111154,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -16134,7 +16140,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 88344,
+   "signatures": 88375,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16143,7 +16149,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 86566,
+   "signatures": 86653,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": false,
@@ -16152,7 +16158,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 82879,
+   "signatures": 82942,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16161,7 +16167,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 65270,
+   "signatures": 65453,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16170,7 +16176,7 @@
   {
    "id": 767590,
    "title": "Increase the personal tax allowance threshold to £20,000",
-   "signatures": 59676,
+   "signatures": 64159,
    "created": "2026-04-17T17:08:31.605Z",
    "responded": false,
    "debate": false,
@@ -16179,7 +16185,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55815,
+   "signatures": 55821,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16188,7 +16194,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 52187,
+   "signatures": 52303,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
