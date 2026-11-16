@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T14:00:18.816202+00:00",
+ "updated": "2026-11-16T19:40:44.154495+00:00",
  "feeds": [
   {
    "name": "BBC World",
@@ -12,35 +12,35 @@
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 25,
+   "new": 23,
    "note": ""
   },
   {
    "name": "The Guardian World",
    "group": "World news",
    "ok": true,
-   "new": 25,
+   "new": 12,
    "note": ""
   },
   {
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 21,
+   "new": 19,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 8,
+   "new": 6,
    "note": ""
   },
   {
@@ -54,35 +54,35 @@
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 5,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
-   "ok": true,
-   "new": 9,
-   "note": "via backup feed"
+   "ok": false,
+   "new": 0,
+   "note": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Akyivindependent.com%20when%3A14d&hl=en-GB&gl=GB&ceid=GB:en"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 10,
+   "new": 15,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 25,
+   "new": 19,
    "note": ""
   },
   {
@@ -103,14 +103,14 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 13,
+   "new": 12,
    "note": "via backup feed"
   },
   {
    "name": "RUSI",
    "group": "Think tank",
    "ok": true,
-   "new": 5,
+   "new": 4,
    "note": ""
   },
   {
@@ -124,7 +124,7 @@
    "name": "Carnegie",
    "group": "Think tank",
    "ok": true,
-   "new": 17,
+   "new": 21,
    "note": "via backup feed"
   },
   {
@@ -138,7 +138,7 @@
    "name": "Atlantic Council",
    "group": "Think tank",
    "ok": true,
-   "new": 19,
+   "new": 20,
    "note": ""
   },
   {
@@ -166,14 +166,14 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 6,
+   "new": 10,
    "note": ""
   },
   {
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 18,
+   "new": 17,
    "note": ""
   },
   {
@@ -187,14 +187,14 @@
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 0,
+   "new": 7,
    "note": ""
   },
   {
    "name": "Splash247",
    "group": "Maritime",
    "ok": true,
-   "new": 10,
+   "new": 1,
    "note": ""
   },
   {
@@ -208,14 +208,14 @@
    "name": "The Record",
    "group": "Cyber",
    "ok": true,
-   "new": 0,
+   "new": 5,
    "note": ""
   },
   {
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 6,
+   "new": 7,
    "note": "via backup feed"
   },
   {
@@ -229,14 +229,14 @@
    "name": "Arms Control Association",
    "group": "Nuclear",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
    "name": "Bulletin of the Atomic Scientists",
    "group": "Nuclear",
    "ok": true,
-   "new": 8,
+   "new": 6,
    "note": "via backup feed"
   },
   {
