@@ -1,88 +1,88 @@
 {
- "updated": "2026-11-17T14:54:33.334488+00:00",
+ "updated": "2026-11-17T16:11:21.961822+00:00",
  "feeds": [
   {
    "name": "BBC World",
-   "group": "World news",
-   "ok": true,
-   "new": 19,
-   "note": ""
-  },
-  {
-   "name": "Al Jazeera",
-   "group": "World news",
-   "ok": true,
-   "new": 25,
-   "note": ""
-  },
-  {
-   "name": "The Guardian World",
-   "group": "World news",
-   "ok": true,
-   "new": 25,
-   "note": ""
-  },
-  {
-   "name": "France 24",
-   "group": "World news",
-   "ok": true,
-   "new": 23,
-   "note": ""
-  },
-  {
-   "name": "DW",
-   "group": "World news",
-   "ok": true,
-   "new": 5,
-   "note": ""
-  },
-  {
-   "name": "Euronews",
-   "group": "World news",
-   "ok": true,
-   "new": 17,
-   "note": ""
-  },
-  {
-   "name": "NPR World",
    "group": "World news",
    "ok": true,
    "new": 3,
    "note": ""
   },
   {
+   "name": "Al Jazeera",
+   "group": "World news",
+   "ok": true,
+   "new": 5,
+   "note": ""
+  },
+  {
+   "name": "The Guardian World",
+   "group": "World news",
+   "ok": true,
+   "new": 6,
+   "note": ""
+  },
+  {
+   "name": "France 24",
+   "group": "World news",
+   "ok": true,
+   "new": 8,
+   "note": ""
+  },
+  {
+   "name": "DW",
+   "group": "World news",
+   "ok": true,
+   "new": 3,
+   "note": ""
+  },
+  {
+   "name": "Euronews",
+   "group": "World news",
+   "ok": true,
+   "new": 2,
+   "note": ""
+  },
+  {
+   "name": "NPR World",
+   "group": "World news",
+   "ok": true,
+   "new": 0,
+   "note": ""
+  },
+  {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 4,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
-   "ok": true,
-   "new": 10,
-   "note": "via backup feed"
+   "ok": false,
+   "new": 0,
+   "note": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Akyivindependent.com%20when%3A14d&hl=en-GB&gl=GB&ceid=GB:en"
   },
   {
    "name": "The Diplomat",
    "group": "Regional",
    "ok": true,
-   "new": 7,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 19,
+   "new": 5,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 19,
+   "new": 5,
    "note": ""
   },
   {
@@ -96,21 +96,21 @@
    "name": "Crisis Group",
    "group": "Think tank",
    "ok": true,
-   "new": 7,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 12,
+   "new": 11,
    "note": "via backup feed"
   },
   {
    "name": "RUSI",
    "group": "Think tank",
    "ok": true,
-   "new": 4,
+   "new": 3,
    "note": ""
   },
   {
@@ -123,15 +123,15 @@
   {
    "name": "Carnegie",
    "group": "Think tank",
-   "ok": true,
-   "new": 17,
-   "note": "via backup feed"
+   "ok": false,
+   "new": 0,
+   "note": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Acarnegieendowment.org%20when%3A14d&hl=en-GB&gl=GB&ceid=GB:en"
   },
   {
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 9,
+   "new": 7,
    "note": "via backup feed"
   },
   {
@@ -145,14 +145,14 @@
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 10,
+   "new": 8,
    "note": ""
   },
   {
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
@@ -166,7 +166,7 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 9,
+   "new": 2,
    "note": ""
   },
   {
@@ -180,49 +180,49 @@
    "name": "Carbon Brief",
    "group": "Energy",
    "ok": true,
-   "new": 7,
+   "new": 6,
    "note": ""
   },
   {
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Splash247",
    "group": "Maritime",
    "ok": true,
-   "new": 9,
+   "new": 1,
    "note": ""
   },
   {
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 5,
+   "new": 1,
    "note": ""
   },
   {
    "name": "The Record",
    "group": "Cyber",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 14,
+   "new": 11,
    "note": "via backup feed"
   },
   {
    "name": "Migration Policy Institute",
    "group": "Migration",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
@@ -236,7 +236,7 @@
    "name": "Bulletin of the Atomic Scientists",
    "group": "Nuclear",
    "ok": true,
-   "new": 11,
+   "new": 9,
    "note": "via backup feed"
   },
   {

@@ -1,20 +1,369 @@
 {
- "updated": "2026-11-17T14:54:33.334488+00:00",
+ "updated": "2026-11-17T16:11:21.961822+00:00",
  "government": "Labour",
  "articles": [
   {
-   "id": "adae717e460e3f85",
-   "title": "‘Half measures will not do’: Milburn calls for wholesale reform as he publishes major youth unemployment report – live",
-   "summary": "‘We are failing as a nation to gift young people, the next generation, the opportunities they need to succeed,’ Alan Milburn says Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely to happen to the…",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-   "source": "Guardian Politics",
+   "id": "aad658853cb92122",
+   "title": "Individual Savings Accounts (ISAs) compliance package",
+   "summary": "The measure introduces a modern, fair and effective Individual Savings Account (ISA) compliance framework that supports digital reporting and makes sure the ISA system operates as intended.",
+   "url": "https://www.gov.uk/government/publications/individual-savings-accounts-isas-compliance-package",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "policy_paper",
+   "party_voice": "",
+   "published": "2026-11-17T16:06:30Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ee0f76c0618e67e2",
+   "title": "Milburn report live: PM wants review to be ‘watershed moment’ in youth unemployment crisis",
+   "summary": "Major report urges government to crack down on benefits for under-25s and offer employers incentives to tackle youth unemployment crisis",
+   "url": "https://www.independent.co.uk/news/uk/politics/neets-alan-milburn-report-burnham-live-updates-b3086066.html",
+   "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-17T14:48:03+00:00",
+   "published": "2026-11-17T16:02:20+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
     "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "adae717e460e3f85",
+   "title": "Burnham makes Milburn head of unit to implement new jobs and welfare approach for young people – live",
+   "summary": "Author of Neets report will be in charge of ‘unblocking delivery and driving progress’ Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn…",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-17T16:00:24+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "75f0e536e404aadb",
+   "title": "‘They learn the job doing the job’: the project helping UK’s Neets into work",
+   "summary": "Labour’s plan to get young unemployed people into work involves overhaul of welfare support, but for those with disabilities, specialist help is crucial When Rory Bowman finished school he joined the cohort of almost a million Neets – young people not in education, employment or training – around…",
+   "url": "https://www.theguardian.com/society/2026/nov/17/helping-neets-into-work-project",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-17T16:00:15+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4b6f10c89569f078",
+   "title": "UK sanctions firms over Israeli West Bank settlements",
+   "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-17T15:59:47+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "5a6ce98acf8a231e",
+   "title": "Hoping for Britain to rejoin the EU with Andy Burnham? You may be waiting a long time | Timothy Garton Ash",
+   "summary": "The PM’s first big speech on the UK and Europe was cautious and disappointing. Don’t expect any great leaps towards a new deal Ever since Andy Burnham became the British prime minister this summer, people all over Europe have been asking me one question: “Will the UK rejoin the EU?” Sometimes they…",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/17/hope-britain-rejoin-eu-andy-burnham-europe",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-17T15:58:47+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "48dc1a3164c49fa0",
+   "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+   "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+   "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-17T15:56:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "National Insurance"
+   ],
+   "countries": []
+  },
+  {
+   "id": "7431930992b8a758",
+   "title": "Burnham’s Brexit deal with EU ‘going to the wire’ – with deadlock over key issue",
+   "summary": "Andy Burnham has vowed to negotiate ‘to the last minute’ to get a visa agreement for under-30s over the line but it comes as new polling reveals Labour’s election changes are massively boosted if he says the UK will rejoin the EU",
+   "url": "https://www.independent.co.uk/news/uk/politics/brexit-youth-mobility-eu-reset-deal-b3086366.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-17T15:55:37+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Elections",
+    "Immigration",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9897155374528922",
+   "title": "HMRC email updates, videos and webinars for tax agents and advisers",
+   "summary": "Learn more about the support available to tax agents and advisers which will help you and your clients.",
+   "url": "https://www.gov.uk/guidance/help-and-support-for-agents",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-17T15:54:22Z",
+   "parties": [],
+   "topics": [
+    "Tax and spending"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3c84617d19c29a21",
+   "title": "Hundreds of SEND children could be abandoned under Milburn reforms, campaigners fear",
+   "summary": "Exclusive: The case of Ella Sanwalka, 18, who attempted suicide on multiple occasions and received almost no formal education because Surrey County Council failed to provide for her special educational needs, has been highlighted to show why SEND children will be abandoned by the Milburn reforms",
+   "url": "https://www.independent.co.uk/news/uk/politics/alan-milburn-neets-report-send-children-b3086082.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-17T15:49:22+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "961479e61fb9484f",
+   "title": "Ministers vow to create new welfare system for young people as they back Milburn report",
+   "summary": "Government promises spending cuts to pay for the proposals, described by prime minister as ‘watershed moment’ UK politics live – latest updates Neet ideas: what’s in Milburn’s report? Ministers have promised to create an entirely new welfare system for young people as they gave their backing to…",
+   "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-report-young-people-work-neets-job-support-savingsalan-milburn-plan-young-people-work-neets-savings-200m-a-year",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-17T15:35:09+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Party leadership"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "82e03dabd545ea0c",
+   "title": "UK labour market statistics",
+   "summary": "This paper provides the latest statistics and analysis of employment, unemployment, economic inactivity and earnings in the UK.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/uk-labour-market-statistics/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-17T15:34:24+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fba1c3c8ae7cc965",
+   "title": "Constituency data: People claiming unemployment benefits",
+   "summary": "Explore constituency-level data on people claiming unemployment benefits using the interactive dashboard.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/constituency-data-people-claiming-unemployment-benefits/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-17T15:29:56+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "fa6ea2b599b0a665",
+   "title": "Average Earnings: Economic Indicators",
+   "summary": "Earnings data gives us information on the labour market and household finances. Find the latest data on earnings for men and women in the UK.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/average-earnings-economic-indicators/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-17T15:22:30+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "65213c14a7b93fa2",
+   "title": "Forget Brexiteers and Remainers. Which of the these Brexit tribes do you fall into?",
+   "summary": "Research suggests Britain’s relationship with the EU is no longer defined by the divisions of the 2016 referendum, with voters now falling into three new camps",
+   "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-brexiteer-remainer-burnham-b3085927.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-17T15:17:22+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "01d86b2deab3a425",
+   "title": "Customs civil penalties",
+   "summary": "Find out about the law and regulations for customs civil penalties.",
+   "url": "https://www.gov.uk/government/publications/customs-civil-penalties",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-17T15:16:16Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "80311802f1359657",
+   "title": "Speed camera fault may have allowed drivers to escape fines",
+   "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+   "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-17T15:08:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4d93f89ec49d31c1",
+   "title": "Employment in the UK: Economic indicators",
+   "summary": "Employment data tells us about the strength of the labour market. Find the latest data on UK employment levels and rates.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/employment-in-the-uk-economic-indicators/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-17T15:06:48+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "66cb3d97bd3ccdff",
+   "title": "US bank services returning to normal after major outage",
+   "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+   "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-17T15:04:24+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "823537660b58c4e2",
+   "title": "Lord Ashcroft: Ukraine needs good friends on both sides of the tracks in the US",
+   "summary": "I have long believed that one of the greatest failures of American policy towards Ukraine was the inability to explain to ordinary Americans why supporting the country matters to them. The post Lord Ashcroft: Ukraine needs good friends on both sides of the tracks in the US appeared first on…",
+   "url": "https://conservativehome.com/2026/11/17/lord-ashcroft-ukraine-needs-good-friends-on-both-sides-of-the-tracks-in-the-us/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-11-17T15:00:26+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "d42da70fe4fe149f",
+   "title": "‘Chloe’s policy’ aims to prevent repeat of case of Treasury worker who took her own life",
+   "summary": "Exclusive: Parents of Chloe Moffat urge employers to treat staff facing allegations in a kinder, more human way The parents of a Treasury worker who took her own life last year have launched a policy that directs employers to treat staff in a kinder and more commonsense way, and are asking HR…",
+   "url": "https://www.theguardian.com/politics/2026/nov/17/chloe-moffat-policy-parents-treasury-worker-employers",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-17T15:00:14+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Tax and spending"
    ],
    "tax": [],
    "countries": []
@@ -31,26 +380,6 @@
    "published": "2026-11-17T14:45:52Z",
    "parties": [],
    "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7431930992b8a758",
-   "title": "Burnham’s Brexit deal with EU ‘going to the wire’ – with deadlock over key issue",
-   "summary": "Andy Burnham has vowed to negotiate ‘to the last minute’ to get a visa agreement for under-30s over the line",
-   "url": "https://www.independent.co.uk/news/uk/politics/brexit-youth-mobility-eu-reset-deal-b3086366.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-17T14:40:57+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Immigration",
-    "Europe"
-   ],
    "tax": [],
    "countries": []
   },
@@ -147,23 +476,6 @@
    "group": "News",
    "party_voice": "",
    "published": "2026-11-17T14:02:19+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ee0f76c0618e67e2",
-   "title": "Milburn report live: UK ‘breaking Great British promise’ to young people over their future, review chief warns",
-   "summary": "Major report urges government to crack down on benefits for under-25s and offer employers incentives to tackle youth unemployment crisis",
-   "url": "https://www.independent.co.uk/news/uk/politics/neets-alan-milburn-report-burnham-live-updates-b3086066.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-17T13:54:07+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
@@ -298,24 +610,6 @@
    "countries": []
   },
   {
-   "id": "4b6f10c89569f078",
-   "title": "UK sanctions firms over Israeli West Bank settlements",
-   "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-17T13:10:06+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
    "id": "3fd5d9da5a8343da",
    "title": "Self Assessment commercial software suppliers",
    "summary": "Find software suppliers for tax returns, supplementary pages and attachments.",
@@ -361,21 +655,6 @@
    "topics": [
     "Economy"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "80311802f1359657",
-   "title": "Speed camera fault may have allowed drivers to escape fines",
-   "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-   "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-17T13:03:30+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -832,21 +1111,6 @@
    "countries": []
   },
   {
-   "id": "961479e61fb9484f",
-   "title": "Alan Milburn says his plan to get young people into work will save only £200m a year",
-   "summary": "Author of long-awaited report says money saved in benefit cuts will mostly be used to fund new job support system UK politics live – latest updates Neet ideas: what’s in Milburn’s report? Alan Milburn has said his plan to get more young people into work will save the government only £200m a year as…",
-   "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-report-young-people-work-neets-job-support-savingsalan-milburn-plan-young-people-work-neets-savings-200m-a-year",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-17T11:30:35+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "bfcaf275b27da53f",
    "title": "US government confirms investigation into tech firm Megaspeed",
    "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
@@ -1251,23 +1515,6 @@
    "countries": []
   },
   {
-   "id": "66cb3d97bd3ccdff",
-   "title": "Customers report service outages at major US banks",
-   "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-   "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-17T00:18:01+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
    "id": "f19923c6d119395a",
    "title": "Sadiq Khan secures major funding boost in bid to end rough sleeping in London",
    "summary": "Lord Khan is aiming to end rough sleeping by 2030",
@@ -1304,6 +1551,21 @@
    "title": "Milburn Review of Young People and Work: IFS response",
    "summary": "",
    "url": "https://ifs.org.uk/articles/milburn-review-young-people-and-work-ifs-response",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-11-17T00:00:00+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ecae46373f640a93",
+   "title": "Institutional transmission of social preferences",
+   "summary": "",
+   "url": "https://ifs.org.uk/publications/institutional-transmission-social-preferences",
    "source": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "party_voice": "",
@@ -15040,289 +15302,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "f33b1b45a909c381",
-   "title": "Farage appoints RAF wing commander as armed forces spokesman to rebuff claims he is pro-Putin",
-   "summary": "Angus MacIntyre will be unveiled as Reform’s new armed forces spokesman after months of criticism over their failure to take defence seriously",
-   "url": "https://www.independent.co.uk/news/uk/politics/farage-reform-armed-forces-angus-macintyre-putin-defence-b3079284.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-05T00:01:00+00:00",
-   "dateonly": false,
-   "parties": [
-    "Reform UK"
-   ],
-   "topics": [
-    "Defence"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "07d116d6abcc75c2",
-   "title": "Most UK voters back post-Brexit youth mobility scheme with EU",
-   "summary": "Summit later this month could clinch a deal on a scheme as well as food and drink checks",
-   "url": "https://www.independent.co.uk/news/uk/politics/brexit-youth-mobility-scheme-eu-uk-voters-b3079338.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-05T00:01:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "7b75c4bb68966f17",
-   "title": "Can the government make us eat more healthily?",
-   "summary": "",
-   "url": "https://ifs.org.uk/articles/can-government-make-us-eat-more-healthily",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-11-05T00:00:00+00:00",
-   "dateonly": true,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2b47aba0fa727a37",
-   "title": "UK and Caribbean to begin ‘dialogue’ within next year after slavery reparations call",
-   "summary": "Antigua and Barbuda’s prime minister says there was a consensus at Commonwealth summit on way forward The UK has agreed to “structured dialogue” in the next year with Caribbean nations affected by the slave trade and its legacy, Commonwealth leaders have said. Gaston Browne, Antigua and Barbuda’s…",
-   "url": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-04T23:51:58+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "a3e2b24eafb54c15",
-   "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-   "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-   "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-04T21:41:15+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "4507373f08079fb3",
-   "title": "Chris Mason: The US elections will change Trump - how will Burnham react?",
-   "summary": "The big question for the British government is does defeat at home make it more likely that President Trump gets angrier abroad?",
-   "url": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-04T21:02:58+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "8b94fd9acd207dcb",
-   "title": "Burnham says ‘world has an opportunity’ to resolve Iran war after Trump’s US midterms disaster",
-   "summary": "‘That’s what the voters, in my view, are saying in the United States,’ PM said in a damning indictment of the humiliating results for Donald Trump and Republicans",
-   "url": "https://www.independent.co.uk/news/uk/politics/midterm-results-burnham-iran-trump-b3079081.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-04T20:51:54+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "f13b3f5d42d528ba",
-   "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-   "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-04T19:38:53+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "08e26fbfbc100f9d",
-   "title": "The Guardian view on EU ‘Made in Europe’ rules: a fatal blow to Brexiter delusions | Editorial",
-   "summary": "It is getting ever harder for Eurosceptics to deny that it was an economic and strategic blunder for Britain to leave the single market The EU is a constantly evolving institution. The rules keep changing and, since Britain is destined by geography to want a close economic relationship with the…",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/04/the-guardian-view-on-eu-made-in-europe-rules-a-fatal-blow-to-brexiter-delusions",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-04T18:30:24+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "f9c497c2e8072121",
-   "title": "Ban on ketchup sachets is down to Burnham and not the EU, says No 10",
-   "summary": "Ministers plan consultation on outlawing single-serving packaging in line with EU policy",
-   "url": "https://www.independent.co.uk/news/uk/politics/ban-ketchup-sachets-burnham-eu-b3079316.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-04T18:28:59+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "aaeaaf65495ce398",
-   "title": "The pollsters had got it wrong on the US midterms, said Nige. That aged well | John Crace",
-   "summary": "After his embarrassment of epic proportions, Farage turned up at PMQs – the last place anyone would expect to find him In what counts as breaking news on this slowest of slow Wednesdays in Westminster – most eyes were on the US midterm elections – it was nice to be able to report that Nigel Farage…",
-   "url": "https://www.theguardian.com/politics/2026/nov/04/john-crace-nigel-farage-us-midterms",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-04T18:02:19+00:00",
-   "dateonly": false,
-   "parties": [
-    "Reform UK"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "2791455f2104be28",
-   "title": "UK politics: Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – as it happened",
-   "summary": "‘I think people want to see the world coming together and focusing on the things that matter to people,’ PM says Louise Haigh starts by saying she is standing in for Andy Burnham. She says this weekend the whole country will fall silent to mark Remembrance Sunday. Continue reading...",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-04T17:01:31+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "32e0790aa8e0b25c",
-   "title": "Power deal between Labour and Greens in Sheffield",
-   "summary": "Fran Belbin tells a council meeting to expect the current Labour - Green administration to continue.",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly0en8e8eeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-04T17:01:13+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Green Party"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "aa5d83d4cac9df36",
-   "title": "Russia’s hybrid warfare campaign in Europe",
-   "summary": "Russia is alleged to be conducting a campaign of hybrid warfare across Europe.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12272/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-11-04T16:51:38+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "6888ec2250e76f5d",
-   "title": "New EU deal worth billions must be ‘launch pad’ to rejoin bloc, Burnham told",
-   "summary": "As Andy Burnham prepares to reveal a deal on border checks and a new youth mobility scheme, campaigners argue he must use it to persuade sceptics in Labour that the party needs to commit to rejoin the bloc",
-   "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-deal-andy-burnham-b3079028.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-04T16:51:02+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15330,14 +15309,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 10,
+   "new": 3,
    "note": ""
   },
   {
@@ -15351,28 +15330,28 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 9,
+   "new": 2,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 6,
+   "new": 1,
    "note": ""
   },
   {
@@ -15400,14 +15379,14 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Office for Budget Responsibility",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 2,
+   "new": 1,
    "note": ""
   },
   {
@@ -16150,7 +16129,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 176803,
+   "signatures": 176831,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16159,7 +16138,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 142139,
+   "signatures": 142236,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16168,7 +16147,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 138202,
+   "signatures": 138215,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16177,7 +16156,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 115794,
+   "signatures": 115818,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16186,7 +16165,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 112443,
+   "signatures": 112466,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -16195,7 +16174,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 104984,
+   "signatures": 105046,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": true,
@@ -16204,7 +16183,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 89276,
+   "signatures": 89292,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16213,7 +16192,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 83539,
+   "signatures": 83548,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16222,7 +16201,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 68189,
+   "signatures": 68214,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16240,7 +16219,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 55081,
+   "signatures": 55117,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
@@ -16249,7 +16228,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 47051,
+   "signatures": 47054,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
