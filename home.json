@@ -1,7 +1,99 @@
 {
- "updated": "2026-11-19T20:45:23.879606+00:00",
+ "updated": "2026-11-20T02:23:16.502992+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "819d3babef6f1ce8",
+   "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+   "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-20T02:13:05+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8e3d04f615291106",
+   "title": "Airbnb's divisive new house rules come into force",
+   "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+   "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-20T00:12:28+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9dbb17faab1db222",
+   "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+   "summary": "What is acceptable to eat at your desk, without annoying your colleagues?",
+   "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-20T00:08:37+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "91681bf0848f72d5",
+   "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+   "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+   "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-20T00:02:07+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "779c3aaa135ef1ac",
+   "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+   "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+   "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-19T23:33:51+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "28fefe16dbf392e6",
+   "title": "California targets Nvidia in China AI chip probe",
+   "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+   "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-19T23:04:30+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "China"
+   ]
+  },
   {
    "id": "e3a5c10bd4246035",
    "title": "EU-UK talks going down to the wire, says No 10",
@@ -10,7 +102,43 @@
    "source": "BBC Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-19T18:55:52+00:00",
+   "published": "2026-11-19T22:26:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e88484f1f58fbb11",
+   "title": "Burnham agrees to ‘let 100,000 come to UK a year in youth scheme’ in new EU deal",
+   "summary": "Talks on new EU relationship ‘down to the wire’ as Britain set to again drop long-promised ban on foie gras imports",
+   "url": "https://www.independent.co.uk/news/uk/politics/burnham-eu-deal-youth-mobility-scheme-b3088271.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-19T21:50:35+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5107e59575ddcbbf",
+   "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+   "summary": "Britain makes concessions on youth mobility scheme as negotiations on food and farming go down to the wire British and European negotiators were closing in on a reset deal on Thursday night as they provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility…",
+   "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-19T20:52:05+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [
@@ -244,23 +372,6 @@
    ],
    "topics": [
     "Elections",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "5107e59575ddcbbf",
-   "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-   "summary": "Britain understood to have made concessions on youth mobility scheme as negotiations on wider deal continue British and EU negotiators have provisionally agreed to allow 100,000 young EU citizens to come to the UK every year under a new mobility scheme, as negotiations on the UK-EU reset talks go…",
-   "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-19T17:19:17+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
     "Europe"
    ],
    "tax": [],
@@ -15152,123 +15263,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "a05b3e2188d9f687",
-   "title": "Luke Graham: More government doesn’t mean better government",
-   "summary": "The real test is not how many mayors are created or how much revenue is reassigned. It is whether services improve, communities become more prosperous and local people gain more opportunities and meaningful control. The post Luke Graham: More government doesn’t mean better government appeared first…",
-   "url": "https://conservativehome.com/2026/11/09/luke-graham-more-government-doesnt-mean-better-government/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-11-09T11:00:23+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "78117f40fb5039ab",
-   "title": "Funds giant DE Shaw in talks to back £7bn digital bank Monzo",
-   "summary": "An American fund management giant is in talks to lead a capital-raising at Monzo, the UK-based digital bank, which is likely to value it at over £7bn.",
-   "url": "https://news.sky.com/story/funds-giant-de-shaw-in-talks-to-back-7bn-digital-bank-monzo-13610129",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-09T10:55:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "7e70f105a9deb07e",
-   "title": "Housing market: Economic indicators",
-   "summary": "Find the latest data on house prices, mortgage approvals, and house building in the UK.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02820/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-11-09T10:45:45+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Housing"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "a9a2e70a07b8c3a3",
-   "title": "A debate on hunting trophy imports",
-   "summary": "On Wednesday 11 November 2026 there will be a Westminster Hall debate on trophy hunting imports, opened by Clive Efford MP (Labour).",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12271/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-11-09T10:35:29+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d044bcc3cf1f6901",
-   "title": "‘Climate change is no longer a warning about the future. It is here in Britain now’",
-   "summary": "Exclusive : Ahead of the crucial Cop31 summit in Turkey, the secretary of state for energy and net zero – Miatta Fahnbulleh – tells The Independent that attending the talks ‘is about Britain’s national interest’",
-   "url": "https://www.independent.co.uk/climate-change/climate-uk-drought-heatwave-cop31-b3080502.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-09T10:16:46+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Energy bills"
-   ],
-   "tax": [],
-   "countries": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "9eeb16debbe122ce",
-   "title": "Debate on government policy on Rosebank oilfield",
-   "summary": "On 11 November 2026 there will be a 90-minute Westminster Hall debate at 2:30pm on government policy on Rosebank oilfield. It will be opened by Carla Denyer MP.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12278/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-11-09T10:09:42+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "95d6565e0f65d9d0",
-   "title": "North Sea oil and gas",
-   "summary": "A briefing on North Sea oil and gas in the UK and its impact on energy security, the economy and jobs, and the climate and the environment.",
-   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12212/",
-   "source": "House of Commons Library",
-   "group": "Analysis",
-   "party_voice": "",
-   "published": "2026-11-09T09:55:34+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15276,14 +15270,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 6,
+   "new": 0,
    "note": ""
   },
   {
@@ -15297,14 +15291,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 6,
    "note": ""
   },
   {
@@ -15318,7 +15312,7 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15346,7 +15340,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15360,7 +15354,7 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 3,
+   "new": 2,
    "note": ""
   },
   {
@@ -15392,170 +15386,111 @@
    "note": ""
   }
  ],
- "parties": [],
+ "parties": [
+  {
+   "name": "Labour",
+   "abbr": "Lab",
+   "colour": "#d50000",
+   "seats": 404
+  },
+  {
+   "name": "Conservative",
+   "abbr": "Con",
+   "colour": "#0063ba",
+   "seats": 118
+  },
+  {
+   "name": "Liberal Democrat",
+   "abbr": "LD",
+   "colour": "#fc7d0b",
+   "seats": 71
+  },
+  {
+   "name": "Independent",
+   "abbr": "Ind",
+   "colour": "#909090",
+   "seats": 12
+  },
+  {
+   "name": "Reform UK",
+   "abbr": "RUK",
+   "colour": "#12b6cf",
+   "seats": 8
+  },
+  {
+   "name": "Scottish National Party",
+   "abbr": "SNP",
+   "colour": "#fff685",
+   "seats": 8
+  },
+  {
+   "name": "Sinn Féin",
+   "abbr": "SF",
+   "colour": "#02665f",
+   "seats": 7
+  },
+  {
+   "name": "Green Party",
+   "abbr": "Green",
+   "colour": "#78b82a",
+   "seats": 5
+  },
+  {
+   "name": "Democratic Unionist Party",
+   "abbr": "DUP",
+   "colour": "#d46a4c",
+   "seats": 4
+  },
+  {
+   "name": "Plaid Cymru",
+   "abbr": "PC",
+   "colour": "#348837",
+   "seats": 4
+  },
+  {
+   "name": "Social Democratic & Labour Party",
+   "abbr": "SDLP",
+   "colour": "#4ea268",
+   "seats": 2
+  },
+  {
+   "name": "Your Party",
+   "abbr": "YP",
+   "colour": "#ff3131",
+   "seats": 2
+  },
+  {
+   "name": "Alliance",
+   "abbr": "APNI",
+   "colour": "#cdaf2d",
+   "seats": 1
+  },
+  {
+   "name": "Restore Britain",
+   "abbr": "RB",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Speaker",
+   "abbr": "Spk",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Traditional Unionist Voice",
+   "abbr": "TUV",
+   "colour": "#0c3a6a",
+   "seats": 1
+  },
+  {
+   "name": "Ulster Unionist Party",
+   "abbr": "UUP",
+   "colour": "#a1cdf0",
+   "seats": 1
+  }
+ ],
  "elections": [
-  {
-   "id": "local.caerphilly.2026-11-19",
-   "title": "Caerphilly local election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Caerphilly County Borough Council"
-  },
-  {
-   "id": "local.caerphilly.risca-east.by.2026-11-19",
-   "title": "Caerphilly local election Risca East by-election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Caerphilly County Borough Council"
-  },
-  {
-   "id": "local.conwy.2026-11-19",
-   "title": "Conwy local election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Conwy County Borough Council"
-  },
-  {
-   "id": "local.conwy.bryn.by.2026-11-19",
-   "title": "Conwy local election Bryn by-election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Conwy County Borough Council"
-  },
-  {
-   "id": "local.county-durham.2026-11-19",
-   "title": "County Durham local election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Durham County Council"
-  },
-  {
-   "id": "local.county-durham.craghead-south-moor.by.2026-11-19",
-   "title": "County Durham local election Craghead & South Moor by-election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Durham County Council"
-  },
-  {
-   "id": "local.fareham.2026-11-19",
-   "title": "Fareham local election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Fareham Borough Council"
-  },
-  {
-   "id": "local.fareham.portchester-wicor.by.2026-11-19",
-   "title": "Fareham local election Portchester Wicor by-election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Fareham Borough Council"
-  },
-  {
-   "id": "local.havant.2026-11-19",
-   "title": "Havant local election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Havant Borough Council"
-  },
-  {
-   "id": "local.havant.emsworth.by.2026-11-19",
-   "title": "Havant local election Emsworth by-election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Havant Borough Council"
-  },
-  {
-   "id": "local.hertfordshire.2026-11-19",
-   "title": "Hertfordshire local election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Hertfordshire County Council"
-  },
-  {
-   "id": "local.hertfordshire.letchworth-north.by.2026-11-19",
-   "title": "Hertfordshire local election Letchworth North by-election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Hertfordshire County Council"
-  },
-  {
-   "id": "local.north-hertfordshire.2026-11-19",
-   "title": "North Hertfordshire local election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "North Hertfordshire District Council"
-  },
-  {
-   "id": "local.north-hertfordshire.letchworth-norton.by.2026-11-19",
-   "title": "North Hertfordshire local election Letchworth Norton by-election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "North Hertfordshire District Council"
-  },
-  {
-   "id": "local.rotherham.2026-11-19",
-   "title": "Rotherham local election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Rotherham Metropolitan Borough Council"
-  },
-  {
-   "id": "local.rotherham.anston-woodsetts.by.2026-11-19",
-   "title": "Rotherham local election Anston & Woodsetts by-election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Rotherham Metropolitan Borough Council"
-  },
-  {
-   "id": "local.south-staffordshire.2026-11-19",
-   "title": "South Staffordshire local election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "South Staffordshire Council"
-  },
-  {
-   "id": "local.south-staffordshire.huntington-hatherton.by.2026-11-19",
-   "title": "South Staffordshire local election Huntington & Hatherton by-election",
-   "date": "2026-11-19",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "South Staffordshire Council"
-  },
   {
    "id": "local.birmingham.2026-11-26",
    "title": "Birmingham local election",
@@ -15993,7 +15928,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 177649,
+   "signatures": 177696,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -16002,7 +15937,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 144787,
+   "signatures": 144913,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -16011,7 +15946,7 @@
   {
    "id": 767687,
    "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 138641,
+   "signatures": 138696,
    "created": "2026-04-18T21:09:56.887Z",
    "responded": true,
    "debate": true,
@@ -16020,7 +15955,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 116412,
+   "signatures": 116436,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -16029,7 +15964,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 113315,
+   "signatures": 113389,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -16038,7 +15973,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 106063,
+   "signatures": 106116,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": true,
@@ -16047,7 +15982,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 89863,
+   "signatures": 89888,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16056,7 +15991,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 83735,
+   "signatures": 83755,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16065,7 +16000,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 69330,
+   "signatures": 69401,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16083,7 +16018,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 55803,
+   "signatures": 55861,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
@@ -16092,7 +16027,7 @@
   {
    "id": 778680,
    "title": "Launch a public inquiry into the regulation of animal experimentation",
-   "signatures": 48197,
+   "signatures": 48311,
    "created": "2026-08-01T14:22:42.430Z",
    "responded": true,
    "debate": false,
@@ -16694,7 +16629,5 @@
   }
  ],
  "key_dates": [],
- "problems": [
-  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
- ]
+ "problems": []
 }
