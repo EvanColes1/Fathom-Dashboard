@@ -1,16 +1,48 @@
 {
- "updated": "2026-11-20T20:29:28.227624+00:00",
+ "updated": "2026-11-21T02:26:18.756771+00:00",
  "government": "Labour",
  "articles": [
   {
+   "id": "819d3babef6f1ce8",
+   "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+   "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-20T22:53:24+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "7abcb9e67aa8baf2",
-   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-   "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+   "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
    "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-11-20T20:00:53+00:00",
+   "published": "2026-11-20T22:42:47+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "d9c51d3510a38e74",
+   "title": "Productivity: Economic indicators",
+   "summary": "The level of output the economy produces for a given input is called productivity. Find the latest data on UK and international productivity.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn02791/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-20T21:29:30+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -25,7 +57,7 @@
    "source": "BBC Business",
    "group": "Economy news",
    "party_voice": "",
-   "published": "2026-11-20T19:51:52+00:00",
+   "published": "2026-11-20T20:54:12+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -272,8 +304,8 @@
    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
    "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
    "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
+   "source": "BBC Business",
+   "group": "Economy news",
    "party_voice": "",
    "published": "2026-11-20T17:49:48+00:00",
    "dateonly": false,
@@ -805,21 +837,6 @@
     "Economy",
     "Europe"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "819d3babef6f1ce8",
-   "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-   "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-20T13:08:30+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -15291,25 +15308,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "ba12eec00de0ceda",
-   "title": "Deputy Labour leader defends Ed Miliband appearing on Russell Brand's YouTube show",
-   "summary": "Ed Miliband previously expressed regret for appearing on Russell Brand’s YouTube channel",
-   "url": "https://www.independent.co.uk/news/uk/politics/russell-brand-ed-miliband-interview-2015-trew-news-b3082351.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-10T11:39:34+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15317,14 +15315,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 6,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 8,
+   "new": 0,
    "note": ""
   },
   {
@@ -15338,28 +15336,28 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15387,7 +15385,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 9,
+   "new": 1,
    "note": ""
   },
   {
@@ -15408,7 +15406,7 @@
    "name": "Resolution Foundation",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 7,
+   "new": 5,
    "note": ""
   },
   {
@@ -15433,7 +15431,110 @@
    "note": ""
   }
  ],
- "parties": [],
+ "parties": [
+  {
+   "name": "Labour",
+   "abbr": "Lab",
+   "colour": "#d50000",
+   "seats": 404
+  },
+  {
+   "name": "Conservative",
+   "abbr": "Con",
+   "colour": "#0063ba",
+   "seats": 118
+  },
+  {
+   "name": "Liberal Democrat",
+   "abbr": "LD",
+   "colour": "#fc7d0b",
+   "seats": 71
+  },
+  {
+   "name": "Independent",
+   "abbr": "Ind",
+   "colour": "#909090",
+   "seats": 12
+  },
+  {
+   "name": "Reform UK",
+   "abbr": "RUK",
+   "colour": "#12b6cf",
+   "seats": 8
+  },
+  {
+   "name": "Scottish National Party",
+   "abbr": "SNP",
+   "colour": "#fff685",
+   "seats": 8
+  },
+  {
+   "name": "Sinn Féin",
+   "abbr": "SF",
+   "colour": "#02665f",
+   "seats": 7
+  },
+  {
+   "name": "Green Party",
+   "abbr": "Green",
+   "colour": "#78b82a",
+   "seats": 5
+  },
+  {
+   "name": "Democratic Unionist Party",
+   "abbr": "DUP",
+   "colour": "#d46a4c",
+   "seats": 4
+  },
+  {
+   "name": "Plaid Cymru",
+   "abbr": "PC",
+   "colour": "#348837",
+   "seats": 4
+  },
+  {
+   "name": "Social Democratic & Labour Party",
+   "abbr": "SDLP",
+   "colour": "#4ea268",
+   "seats": 2
+  },
+  {
+   "name": "Your Party",
+   "abbr": "YP",
+   "colour": "#ff3131",
+   "seats": 2
+  },
+  {
+   "name": "Alliance",
+   "abbr": "APNI",
+   "colour": "#cdaf2d",
+   "seats": 1
+  },
+  {
+   "name": "Restore Britain",
+   "abbr": "RB",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Speaker",
+   "abbr": "Spk",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Traditional Unionist Voice",
+   "abbr": "TUV",
+   "colour": "#0c3a6a",
+   "seats": 1
+  },
+  {
+   "name": "Ulster Unionist Party",
+   "abbr": "UUP",
+   "colour": "#a1cdf0",
+   "seats": 1
+  }
+ ],
  "elections": [
   {
    "id": "local.birmingham.2026-11-26",
@@ -15872,7 +15973,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 177848,
+   "signatures": 177894,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -15881,25 +15982,16 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 145588,
+   "signatures": 145696,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
    "url": "https://petition.parliament.uk/petitions/769589"
   },
   {
-   "id": 767687,
-   "title": "Hold a UK-wide briefing on climate and nature risks",
-   "signatures": 138820,
-   "created": "2026-04-18T21:09:56.887Z",
-   "responded": true,
-   "debate": true,
-   "url": "https://petition.parliament.uk/petitions/767687"
-  },
-  {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 116551,
+   "signatures": 116576,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -15908,7 +16000,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 113535,
+   "signatures": 113579,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -15917,7 +16009,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 106255,
+   "signatures": 106284,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": true,
@@ -15926,7 +16018,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 90008,
+   "signatures": 90059,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -15935,7 +16027,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 83821,
+   "signatures": 83836,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -15944,7 +16036,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 70093,
+   "signatures": 70497,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -15953,7 +16045,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 56204,
+   "signatures": 56611,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
@@ -15962,7 +16054,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 55965,
+   "signatures": 55968,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -15971,11 +16063,20 @@
   {
    "id": 778680,
    "title": "Launch a public inquiry into the regulation of animal experimentation",
-   "signatures": 48647,
+   "signatures": 48735,
    "created": "2026-08-01T14:22:42.430Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/778680"
+  },
+  {
+   "id": 779519,
+   "title": "Reduce the retirement age for the NHS pension scheme to 60",
+   "signatures": 47183,
+   "created": "2026-08-13T09:04:39.266Z",
+   "responded": true,
+   "debate": false,
+   "url": "https://petition.parliament.uk/petitions/779519"
   }
  ],
  "indicators": [
@@ -16537,7 +16638,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-10-21",
+     "d": "2024-10-22",
      "v": 5.0
     },
     {
@@ -16573,7 +16674,5 @@
   }
  ],
  "key_dates": [],
- "problems": [
-  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
- ]
+ "problems": []
 }
