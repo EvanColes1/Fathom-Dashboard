@@ -1,7 +1,84 @@
 {
- "updated": "2026-11-21T13:43:10.183659+00:00",
- "since": "2026-10-22",
+ "updated": "2026-11-22T13:36:44.151482+00:00",
+ "since": "2026-10-23",
  "whitehall": [
+  {
+   "title": "UK Government position on COP31 Outcome",
+   "url": "https://www.gov.uk/government/news/uk-government-position-on-cop31-outcome",
+   "published": "2026-11-22T12:21:38Z",
+   "kind": "news_story",
+   "orgs": [
+    "DESNZ"
+   ],
+   "themes": [
+    "climate"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "title": "UK reaches for stars with NATO space launch plan",
+   "url": "https://www.gov.uk/government/news/uk-reaches-for-stars-with-nato-space-launch-plan",
+   "published": "2026-11-22T00:01:05Z",
+   "kind": "press_release",
+   "orgs": [
+    "MOD",
+    "BIST"
+   ],
+   "themes": [
+    "conflict"
+   ],
+   "regions": [
+    "europe_eurasia",
+    "global"
+   ],
+   "countries": [
+    "United Kingdom",
+    "NATO"
+   ]
+  },
+  {
+   "title": "PM meeting with Prime Minister Jetten of the Netherlands: 21 November 2026",
+   "url": "https://www.gov.uk/government/news/pm-meeting-with-prime-minister-jetten-of-the-netherlands-21-november-2026",
+   "published": "2026-11-21T22:16:39Z",
+   "kind": "press_release",
+   "orgs": [
+    "Number 10"
+   ],
+   "themes": [
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Netherlands"
+   ]
+  },
+  {
+   "title": "Defence Secretary meets President Zelensky and Minister Khmara in Kyiv as UK deepens industrial support for Ukraine",
+   "url": "https://www.gov.uk/government/news/defence-secretary-meets-president-zelensky-and-minister-khmara-in-kyiv-as-uk-deepens-industrial-support-for-ukraine",
+   "published": "2026-11-21T15:50:54Z",
+   "kind": "press_release",
+   "orgs": [
+    "MOD"
+   ],
+   "themes": [
+    "conflict",
+    "politics"
+   ],
+   "regions": [
+    "europe_eurasia"
+   ],
+   "countries": [
+    "Ukraine",
+    "United Kingdom"
+   ]
+  },
   {
    "title": "Chief of Defence Intelligence speech at Cambridge Intelligence Seminar: 20 November 2026",
    "url": "https://www.gov.uk/government/speeches/chief-of-defence-intelligence-speech-at-cambridge-intelligence-seminar-20-november-2026",
@@ -1542,25 +1619,6 @@
    "countries": []
   },
   {
-   "title": "Subnational electricity consumption in Northern Ireland: 2009-2025",
-   "url": "https://www.gov.uk/government/statistics/announcements/sub-national-electricity-consumption-in-northern-ireland-2009-2025",
-   "published": "2026-11-19T10:02:14Z",
-   "kind": "official_statistics_announcement",
-   "orgs": [
-    "DESNZ"
-   ],
-   "themes": [
-    "energy"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom",
-    "Ireland"
-   ]
-  },
-  {
    "title": "How to report serious abuse or exploitation at work",
    "url": "https://www.gov.uk/guidance/how-to-report-serious-abuse-or-exploitation-at-work",
    "published": "2026-11-19T09:49:33Z",
@@ -2413,55 +2471,6 @@
     "global"
    ],
    "countries": []
-  },
-  {
-   "title": "Military low flying: air weapons ranges activity",
-   "url": "https://www.gov.uk/government/publications/military-low-flying-air-weapons-ranges-activity",
-   "published": "2026-11-18T11:52:16Z",
-   "kind": "guidance",
-   "orgs": [
-    "MOD"
-   ],
-   "themes": [
-    "conflict"
-   ],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "title": "Dartmoor firing times",
-   "url": "https://www.gov.uk/government/publications/dartmoor-firing-times",
-   "published": "2026-11-18T11:48:01Z",
-   "kind": "guidance",
-   "orgs": [
-    "MOD",
-    "DIO"
-   ],
-   "themes": [],
-   "regions": [
-    "global"
-   ],
-   "countries": []
-  },
-  {
-   "title": "Study to examine skills retention in UK financial services",
-   "url": "https://www.gov.uk/government/publications/study-to-examine-skills-retention-in-uk-financial-services",
-   "published": "2026-11-18T11:00:08Z",
-   "kind": "correspondence",
-   "orgs": [
-    "HMT"
-   ],
-   "themes": [],
-   "regions": [
-    "europe_eurasia"
-   ],
-   "countries": [
-    "United Kingdom"
-   ]
   }
  ],
  "laws": [
@@ -2571,85 +2580,85 @@
  "attention": [
   {
    "country": "United States",
-   "news_7d": 767,
-   "contributions": 114,
+   "news_7d": 762,
+   "contributions": 103,
    "debates": 0,
    "statements": 2
   },
   {
    "country": "Russia",
-   "news_7d": 424,
-   "contributions": 99,
+   "news_7d": 436,
+   "contributions": 95,
    "debates": 2,
    "statements": 0
   },
   {
    "country": "Ukraine",
-   "news_7d": 334,
-   "contributions": 157,
+   "news_7d": 338,
+   "contributions": 152,
    "debates": 3,
    "statements": 2
   },
   {
    "country": "China",
-   "news_7d": 256,
-   "contributions": 105,
+   "news_7d": 253,
+   "contributions": 103,
    "debates": 4,
    "statements": 1
   },
   {
    "country": "Iran",
-   "news_7d": 233,
-   "contributions": 103,
+   "news_7d": 239,
+   "contributions": 98,
    "debates": 2,
    "statements": 0
   },
   {
    "country": "Israel",
-   "news_7d": 209,
-   "contributions": 79,
+   "news_7d": 210,
+   "contributions": 77,
    "debates": 0,
    "statements": 0
   },
   {
    "country": "France",
-   "news_7d": 171,
-   "contributions": 107,
+   "news_7d": 175,
+   "contributions": 101,
    "debates": 0,
    "statements": 2
   },
   {
    "country": "Palestine",
    "news_7d": 159,
-   "contributions": 84,
+   "contributions": 81,
    "debates": 2,
    "statements": 0
   },
   {
    "country": "Yemen",
-   "news_7d": 94,
-   "contributions": 20,
+   "news_7d": 93,
+   "contributions": 10,
    "debates": 0,
    "statements": 0
   },
   {
    "country": "Saudi Arabia",
-   "news_7d": 76,
-   "contributions": 29,
-   "debates": 2,
+   "news_7d": 74,
+   "contributions": 21,
+   "debates": 1,
    "statements": 0
   },
   {
    "country": "Australia",
-   "news_7d": 68,
-   "contributions": 84,
+   "news_7d": 70,
+   "contributions": 76,
    "debates": 0,
    "statements": 3
   },
   {
-   "country": "Myanmar",
-   "news_7d": 64,
-   "contributions": 6,
+   "country": "Nigeria",
+   "news_7d": 63,
+   "contributions": 16,
    "debates": 0,
    "statements": 0
   }
@@ -2664,31 +2673,31 @@
   {
    "term": "sanctions",
    "theme": "sanctions",
-   "contributions": 152,
+   "contributions": 150,
    "debates": 2
   },
   {
    "term": "energy security",
    "theme": "energy",
-   "contributions": 120,
+   "contributions": 119,
    "debates": 1
   },
   {
    "term": "Red Sea",
    "theme": "maritime",
-   "contributions": 5,
+   "contributions": 3,
    "debates": 0
   },
   {
    "term": "critical minerals",
    "theme": "trade",
-   "contributions": 19,
+   "contributions": 18,
    "debates": 0
   },
   {
    "term": "cyber attack",
    "theme": "cyber",
-   "contributions": 29,
+   "contributions": 28,
    "debates": 0
   },
   {
