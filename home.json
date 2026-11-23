@@ -1,7 +1,110 @@
 {
- "updated": "2026-11-22T19:48:40.120515+00:00",
+ "updated": "2026-11-23T01:48:57.872228+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "72d697f951652922",
+   "title": "Energy bills will soar - here's how you can ease the pain",
+   "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+   "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-23T01:05:07+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Energy bills"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6bc6938e2ca51318",
+   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+   "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-23T00:33:36+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Italy"
+   ]
+  },
+  {
+   "id": "e75ad5ef70f287d3",
+   "title": "What is going on with Poundland?",
+   "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-23T00:22:27+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8fce329df41e4d8a",
+   "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+   "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+   "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-23T00:08:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "28c90a96fa7e81c5",
+   "title": "Badenoch hits out at PM’s ‘terrible’ EU deal as Farage warns of rejoin ‘disaster’",
+   "summary": "Their interventions follow Friday’s UK-EU summit",
+   "url": "https://www.independent.co.uk/news/uk/politics/brexit-farage-eu-plan-rejoin-b3089439.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-22T22:03:55+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative",
+    "Reform UK"
+   ],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9e0e59e94b700d88",
+   "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+   "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking…",
+   "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+   "source": "Guardian Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-22T22:00:58+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "4d48a33f8141fe61",
    "title": "Pip review will call for overhaul rather than scrapping benefit for under-25s",
@@ -53,25 +156,6 @@
    "countries": []
   },
   {
-   "id": "9e0e59e94b700d88",
-   "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-   "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking…",
-   "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-22T16:12:54+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "7a9c296a38c7bb9c",
    "title": "UK taxpayers held more than £1tn in offshore tax havens, latest HMRC data shows",
    "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama, raising fears over cost to public purse The amount of money UK taxpayers hold in offshore accounts in tax havens has exceeded £1tn for the first time, raising concerns about potential losses to the public…",
@@ -112,7 +196,7 @@
   },
   {
    "id": "f443b6dc67ee2615",
-   "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+   "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills",
    "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
    "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -303,23 +387,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "6bc6938e2ca51318",
-   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-   "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-   "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-22T07:12:41+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Italy"
-   ]
   },
   {
    "id": "930dd9ba890f5ba5",
@@ -587,6 +654,24 @@
    ],
    "topics": [
     "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9fc0b61bdeb0c015",
+   "title": "Sessions offer advice on rising energy costs",
+   "summary": "A council is urging people to seek support with rising energy costs on heating this winter.",
+   "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-21T12:09:49+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Elections",
+    "Energy bills"
    ],
    "tax": [],
    "countries": []
@@ -1431,6 +1516,25 @@
    "dateonly": false,
    "parties": [],
    "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a26fc5856d332aa8",
+   "title": "Thousands join cost of living protests across Europe",
+   "summary": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
+   "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-20T14:43:39+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Housing",
+    "Europe"
+   ],
    "tax": [],
    "countries": []
   },
@@ -15243,110 +15347,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "569acd21ef2e5e1d",
-   "title": "Suella Braverman was paid £100K to be handcuffed to Katie Price on Channel 4 reality show",
-   "summary": "Celebrity Handcuffed will force the Reform UK MP and the former glamour model to carry out daily tasks together while competing against other famous pairs",
-   "url": "https://www.independent.co.uk/news/uk/politics/suella-braverman-katie-price-100k-celebrity-handcuffed-b3082650.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-10T22:59:39+00:00",
-   "dateonly": false,
-   "parties": [
-    "Reform UK"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d68f526af6ae195e",
-   "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-   "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-   "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-10T22:52:15+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "China",
-    "United States"
-   ]
-  },
-  {
-   "id": "01463bfaacc842f6",
-   "title": "Angela Rayner to push for 'new wave' of homes to 'turn the tide' on housebuilding crisis",
-   "summary": "Ms Rayner has previously acknowledged there is a ‘slim chance’ Labour will meet its target of building 1.5 million homes in England by the next election but has said she is not giving up on it",
-   "url": "https://www.independent.co.uk/news/uk/politics/angela-rayner-labour-housing-new-homes-b3082784.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-10T22:30:04+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections",
-    "Housing"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "a854d67a1a12cd8e",
-   "title": "Census should include black English and Asian English options, says MP",
-   "summary": "Josh Babarinde's proposal is also supported by other MPs, including David Lammy and Sir James Cleverly.",
-   "url": "https://www.bbc.co.uk/news/articles/c3lylyy24xl5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-10T22:04:54+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "2a9eda8f49549b42",
-   "title": "Law on 'holiday hunger' passed by Stormont assembly",
-   "summary": "A majority of 49 to 24 assembly members backed the legislation, which was proposed by Sinn Féin's Danny Baker and welcomed by some parents and charities.",
-   "url": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-10T21:24:06+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "75e9080be0800978",
-   "title": "The Guardian view on rough sleeping: Burnham’s laudable target is in danger of being missed | Editorial",
-   "summary": "Energetic mayors and councils can help street homeless people to rebuild their lives. But the underlying affordability crisis needs tackling too Bringing an end to rough sleeping was among Andy Burnham’s first pledges after entering Downing Street – as it was when he became mayor of Manchester.…",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/10/the-guardian-view-on-rough-sleeping-burnhams-laudable-target-is-in-danger-of-being-missed",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-10T19:19:25+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15354,14 +15354,14 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Guardian Politics",
    "group": "News",
    "ok": true,
-   "new": 5,
+   "new": 0,
    "note": ""
   },
   {
@@ -15375,14 +15375,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 5,
    "note": ""
   },
   {
@@ -15470,7 +15470,110 @@
    "note": ""
   }
  ],
- "parties": [],
+ "parties": [
+  {
+   "name": "Labour",
+   "abbr": "Lab",
+   "colour": "#d50000",
+   "seats": 404
+  },
+  {
+   "name": "Conservative",
+   "abbr": "Con",
+   "colour": "#0063ba",
+   "seats": 118
+  },
+  {
+   "name": "Liberal Democrat",
+   "abbr": "LD",
+   "colour": "#fc7d0b",
+   "seats": 71
+  },
+  {
+   "name": "Independent",
+   "abbr": "Ind",
+   "colour": "#909090",
+   "seats": 12
+  },
+  {
+   "name": "Reform UK",
+   "abbr": "RUK",
+   "colour": "#12b6cf",
+   "seats": 8
+  },
+  {
+   "name": "Scottish National Party",
+   "abbr": "SNP",
+   "colour": "#fff685",
+   "seats": 8
+  },
+  {
+   "name": "Sinn Féin",
+   "abbr": "SF",
+   "colour": "#02665f",
+   "seats": 7
+  },
+  {
+   "name": "Green Party",
+   "abbr": "Green",
+   "colour": "#78b82a",
+   "seats": 5
+  },
+  {
+   "name": "Democratic Unionist Party",
+   "abbr": "DUP",
+   "colour": "#d46a4c",
+   "seats": 4
+  },
+  {
+   "name": "Plaid Cymru",
+   "abbr": "PC",
+   "colour": "#348837",
+   "seats": 4
+  },
+  {
+   "name": "Social Democratic & Labour Party",
+   "abbr": "SDLP",
+   "colour": "#4ea268",
+   "seats": 2
+  },
+  {
+   "name": "Your Party",
+   "abbr": "YP",
+   "colour": "#ff3131",
+   "seats": 2
+  },
+  {
+   "name": "Alliance",
+   "abbr": "APNI",
+   "colour": "#cdaf2d",
+   "seats": 1
+  },
+  {
+   "name": "Restore Britain",
+   "abbr": "RB",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Speaker",
+   "abbr": "Spk",
+   "colour": "#8a96a0",
+   "seats": 1
+  },
+  {
+   "name": "Traditional Unionist Voice",
+   "abbr": "TUV",
+   "colour": "#0c3a6a",
+   "seats": 1
+  },
+  {
+   "name": "Ulster Unionist Party",
+   "abbr": "UUP",
+   "colour": "#a1cdf0",
+   "seats": 1
+  }
+ ],
  "elections": [
   {
    "id": "local.birmingham.2026-11-26",
@@ -15909,7 +16012,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 178079,
+   "signatures": 178126,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -15918,7 +16021,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 146480,
+   "signatures": 146595,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -15927,7 +16030,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 118274,
+   "signatures": 118752,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -15936,7 +16039,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 113876,
+   "signatures": 113929,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -15945,7 +16048,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 106472,
+   "signatures": 106498,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": true,
@@ -15954,7 +16057,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 90285,
+   "signatures": 90306,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -15963,7 +16066,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 83918,
+   "signatures": 83938,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -15972,7 +16075,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 73258,
+   "signatures": 73526,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -15981,7 +16084,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 58534,
+   "signatures": 59143,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
@@ -15990,7 +16093,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 56005,
+   "signatures": 56019,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -15999,7 +16102,7 @@
   {
    "id": 778680,
    "title": "Launch a public inquiry into the regulation of animal experimentation",
-   "signatures": 49942,
+   "signatures": 50113,
    "created": "2026-08-01T14:22:42.430Z",
    "responded": true,
    "debate": false,
@@ -16008,7 +16111,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 47252,
+   "signatures": 47254,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
@@ -16574,7 +16677,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-10-23",
+     "d": "2024-10-24",
      "v": 5.0
     },
     {
@@ -16610,7 +16713,5 @@
   }
  ],
  "key_dates": [],
- "problems": [
-  "seats: HTTPSConnectionPool(host='members-api.parliament.uk', port=443): Read timed out. (read timeout=25)"
- ]
+ "problems": []
 }
