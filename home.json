@@ -1,7 +1,104 @@
 {
- "updated": "2026-11-24T13:54:27.519176+00:00",
+ "updated": "2026-11-24T16:27:06.557422+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "439f3f0e5c65b973",
+   "title": "Appendix 21: Import Declaration Category Data Sets",
+   "summary": "Find out about the specific data elements needed for each declaration category when making an import declaration on the Customs Declaration Service.",
+   "url": "https://www.gov.uk/government/publications/appendix-21-import-declaration-category-data-sets",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "guidance",
+   "party_voice": "",
+   "published": "2026-11-24T16:22:08Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "d9ac6062d2e4095d",
+   "title": "Reform breaks boycott of Welsh Parliament with call to remove presiding officer",
+   "summary": "The party had boycotted full Senedd meetings after a member's speaking ban over remarks about immigration.",
+   "url": "https://www.bbc.co.uk/news/articles/cmqj5ql7r2ljo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-24T16:19:04+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f12cf1b0989a793a",
+   "title": "Tories accuse Burnham of turning No 10 into 'joke' after influencer video row",
+   "summary": "Social media influencer Max Balegde has deleted a video filmed outside the door of Number 10, which was posted on TikTok, in which he mimed along to explicit lyrics.",
+   "url": "https://www.bbc.co.uk/news/articles/cv0l3nlgl80ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-24T16:11:29+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9813bf5831a7bedb",
+   "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
+   "summary": "Daniel E. Pinto has been appointed as an external member of the Financial Policy Committee.",
+   "url": "https://www.gov.uk/government/news/daniel-e-pinto-appointed-to-the-bank-of-englands-financial-policy-committee",
+   "source": "HMT",
+   "group": "Government",
+   "kind": "press_release",
+   "party_voice": "",
+   "published": "2026-11-24T16:00:00Z",
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c8894690c9b435ab",
+   "title": "Can we make our disability benefits system work better and cost less?",
+   "summary": "Can we make our disability benefits system work better and cost less? Reviews of health and disability benefits are behaving like buses: you wait years for one, then two turn up within a week! Last Tuesday it was the Milburn Review of young people and work; today, the Government has published the…",
+   "url": "https://www.resolutionfoundation.org/comment/can-we-make-our-disability-benefits-system-work-better-and-cost-less/",
+   "source": "Resolution Foundation",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-11-24T15:59:31+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8d253af48958820a",
+   "title": "Ministers agree to reform ‘dehumanising’ disability benefit received by millions",
+   "summary": "The year-long review, by Sir Stephen Timms, proposals an overhaul of Personal Independence Payments but makes no recommendations to cut welfare bill",
+   "url": "https://www.independent.co.uk/news/uk/politics/pip-timms-review-welfare-disability-benefits-burnham-b3090622.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-24T15:54:29+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "d83564717d6a9fdf",
    "title": "Timms Review: Key takeaways and what report means for future of disability benefits",
@@ -10,9 +107,149 @@
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-24T13:52:30+00:00",
+   "published": "2026-11-24T15:40:03+00:00",
    "dateonly": false,
    "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "7ace473d11df3309",
+   "title": "US investor Staple Street backs last-gasp German bid for Poundland",
+   "summary": "A US-based private equity investor is backing a last-gasp German offer to buy Poundland and save the discount retailer from a calamitous pre-Christmas collapse into administration.",
+   "url": "https://news.sky.com/story/us-investor-staple-street-backs-last-gasp-german-bid-for-poundland-13616017",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-24T15:13:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Germany",
+    "United States"
+   ]
+  },
+  {
+   "id": "8667f537c7cc7641",
+   "title": "Tommy Birch: ‘Loved for being hated’ – the very real limits of Nigel Farage’s strategy",
+   "summary": "Farage has shown that being hated can make you famous. He has not shown that it can make you trusted. Attention can be won in a week; trust takes years. He has spent years cultivating intensity. And it is trust, not volume, that wins general elections. The post Tommy Birch: ‘Loved for being hated’…",
+   "url": "https://conservativehome.com/2026/11/24/tommy-birch-loved-for-being-hated-the-very-real-limits-of-nigel-farages-strategy/",
+   "source": "ConservativeHome",
+   "group": "Party voices",
+   "party_voice": "Conservative",
+   "published": "2026-11-24T15:00:43+00:00",
+   "dateonly": false,
+   "parties": [
+    "Reform UK"
+   ],
+   "topics": [
+    "Elections"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "83387676b97acfd8",
+   "title": "UK sanctions Myanmar’s military leaders over Rohingya genocide",
+   "summary": "Ed Miliband says new laws will also be passed to stop the supply of aviation fuel to the country",
+   "url": "https://www.independent.co.uk/news/uk/politics/myanmar-uk-sanctions-genocide-rohingya-b3090187.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-24T14:45:23+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "b67d7fb09384db36",
+   "title": "Folic acid fortification",
+   "summary": "From 13 December 2026, non-wholemeal wheat flour will be fortified with folic acid in the UK, with the aim of reducing neural tube defects in foetuses.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12314/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-24T14:16:48+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "63097d76fea75796",
+   "title": "Tory plan to sell off London's Victorian jails to raise £1.4bn",
+   "summary": "The party says the move could fund the construction of modern purpose-built prisons elsewhere.",
+   "url": "https://www.bbc.co.uk/news/articles/c607417kgx81o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-24T14:02:03+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b800a720f8483629",
+   "title": "MI5 issues urgent warning to UK defence companies over Russian attacks",
+   "summary": "British businesses are being told their own staff are at risk of Russian attacks and they must improve security in an unprecedented series of emergency briefings this week",
+   "url": "https://www.independent.co.uk/news/uk/politics/mi5-russia-warning-mod-security-uk-defence-business-b3090635.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-24T13:59:35+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Defence"
+   ],
+   "tax": [],
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "3b45d5bee1f724dc",
+   "title": "Software developers providing customs declaration software",
+   "summary": "Check a list of software developers who can provide Customs Declaration Service software.",
+   "url": "https://www.gov.uk/guidance/list-of-software-developers-providing-customs-declaration-support",
+   "source": "HMRC",
+   "group": "Government",
+   "kind": "detailed_guide",
+   "party_voice": "",
+   "published": "2026-11-24T13:58:37Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9258d10c9412eca5",
+   "title": "Downing Street embroiled in influencer row as Burnham accused of turning No 10 into a ‘joke’",
+   "summary": "Kemi Badenoch said it was a ‘disgrace’ that No 10 is being ‘degraded in this way’",
+   "url": "https://www.independent.co.uk/news/uk/politics/influencer-downing-street-andy-burnham-video-no-10-b3090656.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-24T13:56:28+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
    "topics": [],
    "tax": [],
    "countries": []
@@ -31,40 +268,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "8d253af48958820a",
-   "title": "Ministers agree to reform ‘dehumanising’ disability benefit received by millions",
-   "summary": "The review, by Sir Stephen Timms, makes no recommendations to cut welfare bill",
-   "url": "https://www.independent.co.uk/news/uk/politics/pip-timms-review-welfare-disability-benefits-burnham-b3090622.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-24T13:41:43+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "b800a720f8483629",
-   "title": "MI5 warns UK defence companies to urgently boost security amid Russian threats",
-   "summary": "British businesses are being told their own staff are at risk of Russian attacks and they must improve security in an unprecedented series of emergency briefings this week",
-   "url": "https://www.independent.co.uk/news/uk/politics/mi5-russia-warning-mod-security-uk-defence-business-b3090635.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-24T13:19:13+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Defence"
-   ],
-   "tax": [],
-   "countries": [
-    "Russia"
-   ]
   },
   {
    "id": "ffa2001c61e89c1e",
@@ -779,6 +982,41 @@
    "countries": []
   },
   {
+   "id": "998ae97fb47dd4dc",
+   "title": "Timms Review into personal independence payment: IFS response",
+   "summary": "",
+   "url": "https://ifs.org.uk/articles/timms-review-personal-independence-payment-ifs-response",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-11-24T00:00:00+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6e60f7d28ed16b82",
+   "title": "How would going ahead with the Welsh Government’s council tax reforms affect different places and households?",
+   "summary": "",
+   "url": "https://ifs.org.uk/publications/how-would-going-ahead-welsh-governments-council-tax-reforms-affect-different-places",
+   "source": "Institute for Fiscal Studies",
+   "group": "Tax and fiscal",
+   "party_voice": "",
+   "published": "2026-11-24T00:00:00+00:00",
+   "dateonly": true,
+   "parties": [],
+   "topics": [
+    "Tax and spending",
+    "Elections"
+   ],
+   "tax": [
+    "Council tax"
+   ],
+   "countries": []
+  },
+  {
    "id": "cffe6f553ee97871",
    "title": "Andy Burnham labelled ‘unserious’ after influencer recreates Love, Actually dance through No 10",
    "summary": "Influencer Luke Hamnett posted the video on social media in which he dances to the Pointer Sisters’ Jump",
@@ -862,25 +1100,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "83387676b97acfd8",
-   "title": "UK sanctions Myanmar’s president and military leaders over Rohingya genocide",
-   "summary": "Ed Miliband says new laws will also be passed to stop the supply of aviation fuel to the country",
-   "url": "https://www.independent.co.uk/news/uk/politics/myanmar-uk-sanctions-genocide-rohingya-b3090187.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-23T19:18:07+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Defence"
-   ],
-   "tax": [],
-   "countries": [
-    "Myanmar"
-   ]
   },
   {
    "id": "0c3e002729bd1513",
@@ -15172,216 +15391,6 @@
     "Income tax"
    ],
    "countries": []
-  },
-  {
-   "id": "bf1e98558e53de3b",
-   "title": "Jack Peters: The Conservatives weren’t too liberal: we were too weak",
-   "summary": "Margaret Thatcher famously said that “the Scots invented Thatcherism long before I was thought of.” The Conservative Party treats Thatcher like a comfort blanket, turning back to her battles and aesthetics in times of crisis. But Thatcher didn’t win by imitating anyone. The post Jack Peters: The…",
-   "url": "https://conservativehome.com/2026/11/12/jack-peters-the-conservatives-werent-too-liberal-we-were-too-weak/",
-   "source": "ConservativeHome",
-   "group": "Party voices",
-   "party_voice": "Conservative",
-   "published": "2026-11-12T11:00:40+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "cb2b059cfab9bdc5",
-   "title": "How to complete your annual return for pension schemes operating relief at source",
-   "summary": "Find out how to submit your registered pension schemes relief at source annual information return electronically as a flat text file.",
-   "url": "https://www.gov.uk/government/publications/how-to-complete-your-annual-return-of-information-for-pension-schemes-operating-relief-at-source-2019-version",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-11-12T10:47:20Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
-   "id": "cd8908ef0ffad1b4",
-   "title": "Check if you're impacted by Vaping Products Duty and the Vaping Duty Stamps Scheme",
-   "summary": "What Vaping Products Duty and the Vaping Duty Stamps Scheme are and how they will affect you or your business.",
-   "url": "https://www.gov.uk/guidance/check-if-youre-impacted-by-vaping-products-duty-and-the-vaping-duty-stamps-scheme",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "detailed_guide",
-   "party_voice": "",
-   "published": "2026-11-12T10:43:10Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Fuel and duties"
-   ],
-   "countries": []
-  },
-  {
-   "id": "b3f30eed137a03e8",
-   "title": "UK drone maker founded by Ukrainians hits £4.5bn value after raising £500m",
-   "summary": "Britain’s national wealth fund invests £113m in UForce, whose equipment has been used heavily in war with Russia A London-based naval drone maker founded by Ukrainians has reached a £4.5bn valuation after it raised more than £500m from investors including the UK government. UForce, which makes…",
-   "url": "https://www.theguardian.com/business/2026/nov/12/uk-drone-maker-ukraine-value-uforce",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-12T10:31:50+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "8c6aab2ca1f0b165",
-   "title": "Earned settlement",
-   "summary": "The government is consulting on how the current settlement system should be reformed and how those reforms should be implemented.",
-   "url": "https://www.gov.uk/government/consultations/earned-settlement",
-   "source": "Home Office",
-   "group": "Government",
-   "kind": "consultation_outcome",
-   "party_voice": "",
-   "published": "2026-11-12T10:20:11Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d7ec7a2f7716b3aa",
-   "title": "Under-fire Poundland owner 'among suitors' for footwear chain Dune",
-   "summary": "The beleaguered owner of Poundland is among the parties who have been considering offers for Dune, the British footwear retailer, even as its biggest UK high street asset teeters on the brink of collapse.",
-   "url": "https://news.sky.com/story/under-fire-poundland-owner-among-suitors-for-footwear-chain-dune-13611420",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-12T10:15:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "1de21e458fad8b30",
-   "title": "UK hosts global summit to combat financial crime",
-   "summary": "Government, law enforcement and industry leaders from around the world met in London this week to strengthen the global response to financial crime.",
-   "url": "https://www.gov.uk/government/news/uk-hosts-global-summit-to-combat-financial-crime",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "press_release",
-   "party_voice": "",
-   "published": "2026-11-12T10:00:03Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "80b053483e3ca5b0",
-   "title": "Agent services account if you’re not based in the UK: service availability and issues",
-   "summary": "Check the availability and any issues affecting the approval and set up of your agent services account if you are not based in the UK.",
-   "url": "https://www.gov.uk/government/publications/agent-services-account-if-you-are-not-based-in-the-uk-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-11-12T09:53:11Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "ed1138d4e43f3fa3",
-   "title": "Pension Schemes: service availability and issues",
-   "summary": "Check the availability and any issues affecting the online services for pension schemes.",
-   "url": "https://www.gov.uk/government/publications/pension-schemes-service-availability-and-issues",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "guidance",
-   "party_voice": "",
-   "published": "2026-11-12T09:48:10Z",
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Pensions"
-   ],
-   "countries": []
-  },
-  {
-   "id": "24a71011d44d1147",
-   "title": "Andy Burnham is beginning to sound like Keir Starmer with a northern accent",
-   "summary": "Political editor David Maddox listens to the prime minister’s speech at COP31 – and wonders what happened to the radical change promised after he replaced Keir Starmer",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-cop31-keir-starmer-b3083637.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-12T09:43:25+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "eb74ddc5a29fcf6a",
-   "title": "UK trade in goods statistics",
-   "summary": "UK overseas trade in goods statistics and UK regional trade in goods statistics at summary product and country level, and by UK regions and devolved administrations.",
-   "url": "https://www.gov.uk/government/collections/uk-trade-in-goods-statistics",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-11-12T09:30:13Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "276ac274108c9491",
-   "title": "Non-domestic rating: challenges and changes, 2023 and 2026 rating lists, September 2026",
-   "summary": "Statistics on checks and challenges against the 2023 and 2026 local rating lists at 30 September 2026.",
-   "url": "https://www.gov.uk/government/statistics/non-domestic-rating-challenges-and-changes-2023-and-2026-rating-lists-september-2026",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "official_statistics",
-   "party_voice": "",
-   "published": "2026-11-12T09:30:09Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "87eccee4470c80b2",
-   "title": "HMRC performance updates",
-   "summary": "These performance reports show HMRC's progress towards achieving its strategic objectives.",
-   "url": "https://www.gov.uk/government/collections/hmrc-quarterly-performance-updates",
-   "source": "HMRC",
-   "group": "Government",
-   "kind": "document_collection",
-   "party_voice": "",
-   "published": "2026-11-12T09:30:08Z",
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15389,7 +15398,7 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 4,
    "note": ""
   },
   {
@@ -15410,28 +15419,28 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 7,
+   "new": 1,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 4,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 6,
+   "new": 1,
    "note": ""
   },
   {
@@ -15459,7 +15468,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
@@ -15473,14 +15482,14 @@
    "name": "Institute for Fiscal Studies",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 2,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Resolution Foundation",
    "group": "Tax and fiscal",
    "ok": true,
-   "new": 6,
+   "new": 5,
    "note": ""
   },
   {
@@ -15944,7 +15953,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 178342,
+   "signatures": 178370,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -15953,7 +15962,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 147390,
+   "signatures": 147458,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -15962,7 +15971,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 121711,
+   "signatures": 121881,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -15971,7 +15980,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 114198,
+   "signatures": 114209,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -15980,7 +15989,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 106625,
+   "signatures": 106638,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": true,
@@ -15989,7 +15998,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 90453,
+   "signatures": 90465,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -15998,7 +16007,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 83996,
+   "signatures": 84007,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16007,7 +16016,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 74305,
+   "signatures": 74359,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16016,7 +16025,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 60597,
+   "signatures": 60660,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
@@ -16025,7 +16034,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 56039,
+   "signatures": 56042,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16034,7 +16043,7 @@
   {
    "id": 778680,
    "title": "Launch a public inquiry into the regulation of animal experimentation",
-   "signatures": 51807,
+   "signatures": 51953,
    "created": "2026-08-01T14:22:42.430Z",
    "responded": true,
    "debate": false,
@@ -16043,7 +16052,7 @@
   {
    "id": 779519,
    "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 47324,
+   "signatures": 47328,
    "created": "2026-08-13T09:04:39.266Z",
    "responded": true,
    "debate": false,
