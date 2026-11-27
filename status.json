@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-26T17:02:20.625138+00:00",
+ "updated": "2026-11-27T01:47:12.674169+00:00",
  "feeds": [
   {
    "name": "BBC World",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 7,
    "note": ""
   },
   {
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 10,
+   "new": 25,
    "note": ""
   },
   {
@@ -26,7 +26,7 @@
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 2,
+   "new": 17,
    "note": ""
   },
   {
@@ -40,7 +40,7 @@
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 1,
+   "new": 8,
    "note": ""
   },
   {
@@ -54,15 +54,15 @@
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
-   "ok": false,
-   "new": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Akyivindependent.com%20when%3A14d&hl=en-GB&gl=GB&ceid=GB:en"
+   "ok": true,
+   "new": 5,
+   "note": "via backup feed"
   },
   {
    "name": "The Diplomat",
@@ -75,22 +75,22 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 3,
+   "new": 14,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Americas Quarterly",
    "group": "Regional",
-   "ok": false,
-   "new": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aamericasquarterly.org%20when%3A14d&hl=en-GB&gl=GB&ceid=GB:en"
+   "ok": true,
+   "new": 1,
+   "note": "via backup feed"
   },
   {
    "name": "Crisis Group",
@@ -102,9 +102,9 @@
   {
    "name": "Chatham House",
    "group": "Think tank",
-   "ok": false,
-   "new": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Achathamhouse.org%20when%3A14d&hl=en-GB&gl=GB&ceid=GB:en"
+   "ok": true,
+   "new": 13,
+   "note": "via backup feed"
   },
   {
    "name": "RUSI",
@@ -123,9 +123,9 @@
   {
    "name": "Carnegie",
    "group": "Think tank",
-   "ok": false,
-   "new": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Acarnegieendowment.org%20when%3A14d&hl=en-GB&gl=GB&ceid=GB:en"
+   "ok": true,
+   "new": 11,
+   "note": "via backup feed"
   },
   {
    "name": "ECFR",
@@ -145,15 +145,15 @@
    "name": "War on the Rocks",
    "group": "Think tank",
    "ok": true,
-   "new": 7,
+   "new": 6,
    "note": ""
   },
   {
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
-   "ok": false,
-   "new": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=OFAC%20sanctions%20designates%20when%3A14d&hl=en-GB&gl=GB&ceid=GB:en"
+   "ok": true,
+   "new": 3,
+   "note": ""
   },
   {
    "name": "UK Financial Sanctions (OFSI)",
@@ -166,15 +166,15 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 3,
+   "new": 7,
    "note": ""
   },
   {
    "name": "IEA News",
    "group": "Energy",
-   "ok": false,
-   "new": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aiea.org%20when%3A14d&hl=en-GB&gl=GB&ceid=GB:en"
+   "ok": true,
+   "new": 6,
+   "note": ""
   },
   {
    "name": "Carbon Brief",
@@ -187,7 +187,7 @@
    "name": "gCaptain",
    "group": "Maritime",
    "ok": true,
-   "new": 2,
+   "new": 0,
    "note": ""
   },
   {
@@ -201,7 +201,7 @@
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
@@ -214,9 +214,9 @@
   {
    "name": "UNHCR News",
    "group": "Migration",
-   "ok": false,
-   "new": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aunhcr.org%20when%3A14d&hl=en-GB&gl=GB&ceid=GB:en"
+   "ok": true,
+   "new": 7,
+   "note": "via backup feed"
   },
   {
    "name": "Migration Policy Institute",
@@ -235,15 +235,15 @@
   {
    "name": "Bulletin of the Atomic Scientists",
    "group": "Nuclear",
-   "ok": false,
-   "new": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Athebulletin.org%20when%3A14d&hl=en-GB&gl=GB&ceid=GB:en"
+   "ok": true,
+   "new": 4,
+   "note": "via backup feed"
   },
   {
    "name": "IAEA News",
    "group": "Nuclear",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   }
  ],

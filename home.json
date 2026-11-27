@@ -1,7 +1,241 @@
 {
- "updated": "2026-11-26T17:02:20.625138+00:00",
+ "updated": "2026-11-27T01:47:12.674169+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "224ca0e3af2bbe58",
+   "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+   "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-27T00:54:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "f9fb9773b06745a3",
+   "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+   "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+   "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-27T00:02:19+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "6be86ae374ced61d",
+   "title": "First cabinet minister speaks out on ending Brexit status quo",
+   "summary": "In a major speech, the Scottish secretary will warn: ‘We cannot deliver the change Britain needs over the next decade without changing our relationship with Europe’",
+   "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-douglas-alexander-speech-andy-burnham-b3092290.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-27T00:00:45+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "540b51f49497a58f",
+   "title": "UK to pay 'participation' fee to deliver EU deals",
+   "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+   "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-26T23:17:12+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Economy",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "68d12cc1e2c8f51a",
+   "title": "Asia made a big AI bet on Nvidia. What happens now?",
+   "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+   "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-26T23:08:12+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "86f3b76948b7e162",
+   "title": "Andy Burnham faces rebellion on Rosebank as nearly 100 Labour MPs warn against approving",
+   "summary": "The decision threatens to become a major political problem for Andy Burnham",
+   "url": "https://www.independent.co.uk/news/uk/politics/rosebank-andy-burnham-miatta-fahnbulleh-energy-climate-change-b3092433.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-26T22:19:57+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "c331218a77ca9850",
+   "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+   "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+   "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-26T19:55:58+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "United States"
+   ]
+  },
+  {
+   "id": "da24218cbd19d33a",
+   "title": "Burnham says UK net migration now under 'sufficient' control",
+   "summary": "It comes after annual net migration fell to 77,000 - the lowest level this century, excluding the coronavirus pandemic.",
+   "url": "https://www.bbc.co.uk/news/articles/ck792l8ndqyqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-26T19:43:09+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Immigration"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b3091b3af36454d5",
+   "title": "Government promised Peter Mandelson ‘light touch’ vetting on conflicts of interest, new files show",
+   "summary": "Andy Burnham has said ‘there’s a lot further to go’ in changing the political culture that gave rise to the scandal",
+   "url": "https://www.independent.co.uk/news/uk/politics/mandelson-epstein-scandal-global-counsel-shares-b3092183.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-26T19:20:05+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "5850a2a7aaf3ffa6",
+   "title": "Burnham joined by former PMs at Widdecombe service",
+   "summary": "Hundreds of guests attended including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
+   "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-26T18:26:09+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "119d2602408f1a94",
+   "title": "Andy Burnham among former PMs to pay respects at Ann Widdecombe memorial service",
+   "summary": "Around 600 mourners gathered at Westminster Cathedral for the service on Thursday afternoon",
+   "url": "https://www.independent.co.uk/news/uk/politics/ann-widdecombe-memorial-westminster-cathedral-burnham-b3092410.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-26T18:23:18+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Economy"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e246d51812f0b364",
+   "title": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
+   "summary": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein.",
+   "url": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-26T18:22:31+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "b239f3d4fe86e866",
+   "title": "NEET: Young People Not in Education, Employment or Training",
+   "summary": "This briefing presents the latest statistics on young people who were Not in Education, Employment or Training (NEET), and the policies in place to reduce the number of people who are NEET.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn06705/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-26T17:39:15+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "1f475a1b7ee420dc",
+   "title": "When will Poundland shops close? Five key questions answered",
+   "summary": "Why is Poundland closing down, and what will happen to staff and suppliers?",
+   "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-26T17:21:21+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
   {
    "id": "ca873e2a40ccf000",
    "title": "Watch: Sadiq Khan proud of 'various identities' in Lords maiden speech",
@@ -33,38 +267,6 @@
    "countries": []
   },
   {
-   "id": "5850a2a7aaf3ffa6",
-   "title": "Burnham joined by former PMs at Widdecombe service",
-   "summary": "Hundreds of guests attended including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
-   "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-26T16:48:40+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e246d51812f0b364",
-   "title": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
-   "summary": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein.",
-   "url": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-26T16:46:51+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
    "id": "32d473afedd450bb",
    "title": "Mandelson betrayed our country, says cabinet minister",
    "summary": "Scottish secretary Douglas Alexander told The Independent’s editor-in-chief Geordie Greig that he wishes he had never met Peter Mandelson, in an exclusive interview for The Talk Show",
@@ -78,6 +280,21 @@
    "topics": [
     "Party leadership"
    ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "4d8882957c495bd4",
+   "title": "Airline suspends all flights - as carrier faces bankruptcy",
+   "summary": "Norse Atlantic Airways has suspended all flights, with the company saying it could file for bankruptcy unless an urgent solution to its finances is found.",
+   "url": "https://news.sky.com/story/norse-atlantic-airways-suspends-all-flights-as-carrier-faces-bankruptcy-13616901",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-26T16:36:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -114,25 +331,6 @@
    "countries": []
   },
   {
-   "id": "b3091b3af36454d5",
-   "title": "Government promised Peter Mandelson ‘light touch’ vetting on conflicts of interest, new files show",
-   "summary": "Labour grandee was sacked as ambassador to Washington over his links to Jeffrey Epstein",
-   "url": "https://www.independent.co.uk/news/uk/politics/mandelson-epstein-scandal-global-counsel-shares-b3092183.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-26T16:25:30+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
    "id": "08ead3274b9c0757",
    "title": "Crest Nicholson chair to step down amid urgent lender talks",
    "summary": "The chairman of Crest Nicholson, one of Britain's biggest housebuilders, is preparing to step down amid urgent talks with its lenders aimed at fortifying its troubled balance sheet.",
@@ -141,6 +339,36 @@
    "group": "Economy news",
    "party_voice": "",
    "published": "2026-11-26T16:24:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "8c8087c94b5ce052",
+   "title": "Regional and National Economic Indicators",
+   "summary": "A summary of the latest economic indicators for the regions and nations of the UK.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/sn06924/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-26T16:14:56+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "3073936d666792fd",
+   "title": "Household incomes and poverty by UK country and region",
+   "summary": "This interactive dashboard shows how household incomes, poverty, food insecurity, and deep material poverty have changed over time by UK region and country.",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12322/",
+   "source": "House of Commons Library",
+   "group": "Analysis",
+   "party_voice": "",
+   "published": "2026-11-26T16:01:46+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -161,21 +389,6 @@
    "topics": [
     "Europe"
    ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "1f475a1b7ee420dc",
-   "title": "When will Poundland shops close? Five key questions answered",
-   "summary": "Why is Poundland closing down, and what will happen to staff and suppliers?",
-   "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-26T15:55:50+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
    "tax": [],
    "countries": []
   },
@@ -618,6 +831,21 @@
    "kind": "guidance",
    "party_voice": "",
    "published": "2026-11-26T12:22:15Z",
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "e18a1cfd15104869",
+   "title": "New boss appointed to lead Travelodge",
+   "summary": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-26T12:03:49+00:00",
+   "dateonly": false,
    "parties": [],
    "topics": [],
    "tax": [],
@@ -15048,242 +15276,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "861e0c85bddf9a58",
-   "title": "Home Office accused of trying to cancel online talk by Andreas Malm",
-   "summary": "Hackney mayor decries ‘assault’ on free speech over event featuring academic who is banned from entering UK Shabana Mahmood has been accused of an “assault” on free speech over claims her officials tried to cancel an online talk by the climate academic Andreas Malm days after he was banned from…",
-   "url": "https://www.theguardian.com/politics/2026/nov/16/home-office-andreas-malm-climate-academic-online-talk",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T06:00:37+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Elections"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "506833219b826a8b",
-   "title": "Special needs overhaul in England could bring in new avenues for extra support",
-   "summary": "Planned reforms could include appeals to ombudsman or review panel for parents dissatisfied with provisions Families of children with special needs may get new avenues to appeal for extra support at school, under major concessions being considered for the government’s overhaul of special needs…",
-   "url": "https://www.theguardian.com/education/2026/nov/16/families-rights-appeal-support-send-overhaul-england",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T06:00:35+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "beb812b23eded9fa",
-   "title": "From post-midterms Republicans to a dog wearing a cone: Edith Pritchett’s week in Venn diagrams – cartoon",
-   "summary": "Continue reading...",
-   "url": "https://www.theguardian.com/lifeandstyle/picture/2026/nov/16/edith-pritchett-week-in-venn-diagrams-cartoon-burnham-eu-republicans-midterms-north-sea-oil",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T06:00:34+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "501905f9bb02995a",
-   "title": "Intel sued by investors after PC sales slump hits share price",
-   "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-   "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-16T03:04:01+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c6f717fdbe762fdd",
-   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-   "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-   "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-16T01:47:57+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "China",
-    "United States"
-   ]
-  },
-  {
-   "id": "8df58e03b92cea24",
-   "title": "Government accused of 'complacency' over 'catastrophic' security risks to UK",
-   "summary": "Andy Burnham's government appears \"complacent\" about the potential for \"catastrophic risks\" to the UK - and the country is underprepared, an influential committee of peers has warned.",
-   "url": "https://news.sky.com/story/government-accused-of-complacency-over-catastrophic-security-risks-to-uk-13612651",
-   "source": "Sky News Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T00:28:00+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "4f02dd8e39b4a077",
-   "title": "Sky News announces new hosts of Sunday Morning With…",
-   "summary": "Sky News has announced its hosting line-up for the next four episodes of its flagship Sunday morning current affairs programme.",
-   "url": "https://news.sky.com/story/sky-news-announces-new-hosts-of-sunday-morning-with-13611914",
-   "source": "Sky News Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T00:01:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "c40a77b5893dee41",
-   "title": "Jackdaw begins gas production as Burnham faces rebellion over Rosebank decision",
-   "summary": "Gas has begun to flow from the Jackdaw production platform in the North Sea",
-   "url": "https://www.independent.co.uk/news/uk/politics/jackdaw-andy-burnham-rosebank-gas-production-b3085263.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T00:01:00+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "1429ca31f72cd7b4",
-   "title": "Firm concentration & job design: the case of schedule flexible work arrangements",
-   "summary": "",
-   "url": "https://ifs.org.uk/publications/firm-concentration-job-design-case-schedule-flexible-work-arrangements",
-   "source": "Institute for Fiscal Studies",
-   "group": "Tax and fiscal",
-   "party_voice": "",
-   "published": "2026-11-16T00:00:00+00:00",
-   "dateonly": true,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "10e0f8ce74c383b7",
-   "title": "Milburn review to call for national insurance cuts for young people to create jobs, says report",
-   "summary": "The report will call for employer national insurance contributions to be reduced for employees aged between 21 and 24",
-   "url": "https://www.independent.co.uk/news/uk/politics/neets-crisis-milburn-review-national-insurance-cut-b3085355.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-15T23:43:05+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [
-    "National Insurance"
-   ],
-   "countries": []
-  },
-  {
-   "id": "94fcee867fdfe65f",
-   "title": "Tories pledge to halt screen-based school exams and cut coursework",
-   "summary": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI.",
-   "url": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-15T22:00:37+00:00",
-   "dateonly": false,
-   "parties": [
-    "Conservative"
-   ],
-   "topics": [],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "d3b90e91c8715674",
-   "title": "PM to say 'Brexit hasn't worked' and set out conditions for future EU deal in major speech",
-   "summary": "The prime minister will call for a reset of Britain's relationship with Europe ahead of Friday's UK-EU summit - and assert that \"the Brexit we were given has not worked\".",
-   "url": "https://news.sky.com/story/pm-to-say-brexit-hasnt-worked-and-set-out-conditions-for-future-eu-deal-in-major-speech-13612600",
-   "source": "Sky News Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-15T21:33:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Party leadership",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "aa8c56bdebfb948a",
-   "title": "Reform UK losing ground to Labour as Burnham ‘more plausible’ than Starmer, says Danny Kruger",
-   "summary": "The MP, who defected from the Conservatives, admitted prime minister Andy Burnham looks ‘more plausible’ than predecessor Sir Keir Starmer",
-   "url": "https://www.independent.co.uk/news/uk/politics/danny-kruger-difficult-year-reform-labour-burnham-farage-b3085299.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-15T19:59:50+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour",
-    "Conservative",
-    "Reform UK"
-   ],
-   "topics": [
-    "Party leadership"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "e2c24991db38b9de",
-   "title": "Trident nuclear submarine concludes record underwater deployment",
-   "summary": "HMS Vengeance’s seven-month patrol prompts fears over slow pace of maintenance of ageing fleet and strain on crew A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland where its crew was greeted by the defence secretary, Wes…",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-15T18:50:33+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Defence"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15291,7 +15283,7 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
@@ -15312,14 +15304,14 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 2,
+   "new": 3,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 6,
    "note": ""
   },
   {
@@ -15361,7 +15353,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 1,
+   "new": 3,
    "note": ""
   },
   {
@@ -15512,114 +15504,6 @@
   }
  ],
  "elections": [
-  {
-   "id": "local.birmingham.2026-11-26",
-   "title": "Birmingham local election",
-   "date": "2026-11-26",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Birmingham City Council"
-  },
-  {
-   "id": "local.birmingham.shard-end.by.2026-11-26",
-   "title": "Birmingham local election Shard End by-election",
-   "date": "2026-11-26",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Birmingham City Council"
-  },
-  {
-   "id": "local.bromsgrove.2026-11-26",
-   "title": "Bromsgrove local election",
-   "date": "2026-11-26",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Bromsgrove District Council"
-  },
-  {
-   "id": "local.bromsgrove.marlbrook.by.2026-11-26",
-   "title": "Bromsgrove local election Marlbrook by-election",
-   "date": "2026-11-26",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Bromsgrove District Council"
-  },
-  {
-   "id": "local.flintshire.2026-11-26",
-   "title": "Flintshire local election",
-   "date": "2026-11-26",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Flintshire County Council"
-  },
-  {
-   "id": "local.flintshire.mold-broncoed.by.2026-11-26",
-   "title": "Flintshire local election Mold: Broncoed by-election",
-   "date": "2026-11-26",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Flintshire County Council"
-  },
-  {
-   "id": "local.manchester.2026-11-26",
-   "title": "Manchester local election",
-   "date": "2026-11-26",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Manchester City Council"
-  },
-  {
-   "id": "local.manchester.harpurhey.by.2026-11-26",
-   "title": "Manchester local election Harpurhey by-election",
-   "date": "2026-11-26",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Manchester City Council"
-  },
-  {
-   "id": "local.reading.2026-11-26",
-   "title": "Reading local election",
-   "date": "2026-11-26",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Reading Borough Council"
-  },
-  {
-   "id": "local.reading.caversham-heights.by.2026-11-26",
-   "title": "Reading local election Caversham Heights by-election",
-   "date": "2026-11-26",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Reading Borough Council"
-  },
-  {
-   "id": "local.solihull.2026-11-26",
-   "title": "Solihull local election",
-   "date": "2026-11-26",
-   "type": "Local elections",
-   "level": "organisation",
-   "by": false,
-   "org": "Solihull Metropolitan Borough Council"
-  },
-  {
-   "id": "local.solihull.castle-bromwich.by.2026-11-26",
-   "title": "Solihull local election Castle Bromwich by-election",
-   "date": "2026-11-26",
-   "type": "Local elections",
-   "level": "ballot",
-   "by": true,
-   "org": "Solihull Metropolitan Borough Council"
-  },
   {
    "id": "local.gosport.2026-12-03",
    "title": "Gosport local election",
@@ -15949,7 +15833,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 178566,
+   "signatures": 178671,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -15958,7 +15842,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 148957,
+   "signatures": 149191,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -15967,7 +15851,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 122970,
+   "signatures": 123085,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -15976,7 +15860,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 114512,
+   "signatures": 114571,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -15985,7 +15869,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 106750,
+   "signatures": 106784,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": true,
@@ -15994,7 +15878,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 90668,
+   "signatures": 90732,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -16003,7 +15887,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 84128,
+   "signatures": 84141,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -16012,7 +15896,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 75648,
+   "signatures": 75873,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -16021,7 +15905,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 61218,
+   "signatures": 61403,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
@@ -16030,7 +15914,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 56066,
+   "signatures": 56071,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -16039,20 +15923,20 @@
   {
    "id": 778680,
    "title": "Launch a public inquiry into the regulation of animal experimentation",
-   "signatures": 53204,
+   "signatures": 53377,
    "created": "2026-08-01T14:22:42.430Z",
    "responded": true,
    "debate": false,
    "url": "https://petition.parliament.uk/petitions/778680"
   },
   {
-   "id": 779519,
-   "title": "Reduce the retirement age for the NHS pension scheme to 60",
-   "signatures": 47394,
-   "created": "2026-08-13T09:04:39.266Z",
+   "id": 783423,
+   "title": "End the religious slaughter exemption and require irreversible stunning",
+   "signatures": 47410,
+   "created": "2026-10-01T05:08:27.324Z",
    "responded": true,
    "debate": false,
-   "url": "https://petition.parliament.uk/petitions/779519"
+   "url": "https://petition.parliament.uk/petitions/783423"
   }
  ],
  "indicators": [
