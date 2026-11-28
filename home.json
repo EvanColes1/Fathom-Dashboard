@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-27T23:31:14.265147+00:00",
+ "updated": "2026-11-28T07:59:07.559013+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "0a85f31c22b47990",
+   "title": "Butcher blames costs for closure after 127 years",
+   "summary": "Bennett Butchers in Spalding says rises in National Insurance and energy have made it \"unviable\".",
+   "url": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-28T07:18:47+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "National Insurance"
+   ],
+   "countries": []
+  },
   {
    "id": "daf7990673d80ab1",
    "title": "DWP cyber incident ‘probably an attack’, former UK technology chief says",
@@ -15235,21 +15252,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "d4fbb17aacef249f",
-   "title": "Water companies told to act over fears drought will extend into next year",
-   "summary": "Water firms have been told to do more over fears the current drought will extend into next year.",
-   "url": "https://news.sky.com/story/water-companies-told-to-act-over-fears-drought-will-extend-into-next-year-13612971",
-   "source": "Sky News Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-16T18:39:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15257,7 +15259,7 @@
    "name": "BBC Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 1,
    "note": ""
   },
   {
@@ -15278,7 +15280,7 @@
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 3,
+   "new": 0,
    "note": ""
   },
   {
@@ -15299,7 +15301,7 @@
    "name": "ConservativeHome",
    "group": "Party voices",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15327,7 +15329,7 @@
    "name": "House of Commons Library",
    "group": "Analysis",
    "ok": true,
-   "new": 6,
+   "new": 0,
    "note": ""
   },
   {
@@ -15807,7 +15809,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 178804,
+   "signatures": 179031,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -15816,7 +15818,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 149739,
+   "signatures": 149792,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -15825,7 +15827,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 123241,
+   "signatures": 123265,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -15834,7 +15836,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 114658,
+   "signatures": 114676,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -15843,7 +15845,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 106846,
+   "signatures": 106850,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": true,
@@ -15852,7 +15854,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 90796,
+   "signatures": 90807,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -15861,7 +15863,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 84164,
+   "signatures": 84169,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -15870,7 +15872,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 77678,
+   "signatures": 77907,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -15879,7 +15881,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 61718,
+   "signatures": 61768,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
@@ -15888,7 +15890,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 56076,
+   "signatures": 56078,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -15897,7 +15899,7 @@
   {
    "id": 778680,
    "title": "Launch a public inquiry into the regulation of animal experimentation",
-   "signatures": 53662,
+   "signatures": 53686,
    "created": "2026-08-01T14:22:42.430Z",
    "responded": true,
    "debate": false,
@@ -15906,7 +15908,7 @@
   {
    "id": 783423,
    "title": "End the religious slaughter exemption and require irreversible stunning",
-   "signatures": 47910,
+   "signatures": 47963,
    "created": "2026-10-01T05:08:27.324Z",
    "responded": true,
    "debate": false,
@@ -16472,7 +16474,7 @@
    "source": "Bank of England",
    "series": [
     {
-     "d": "2024-10-28",
+     "d": "2024-10-29",
      "v": 5.0
     },
     {
