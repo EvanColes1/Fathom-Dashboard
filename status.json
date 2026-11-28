@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:59:07.559013+00:00",
+ "updated": "2026-11-28T14:32:12.931351+00:00",
  "feeds": [
   {
    "name": "BBC World",
@@ -12,7 +12,7 @@
    "name": "Al Jazeera",
    "group": "World news",
    "ok": true,
-   "new": 20,
+   "new": 23,
    "note": ""
   },
   {
@@ -26,42 +26,42 @@
    "name": "France 24",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 16,
    "note": ""
   },
   {
    "name": "DW",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 4,
    "note": ""
   },
   {
    "name": "Euronews",
    "group": "World news",
    "ok": true,
-   "new": 3,
+   "new": 5,
    "note": ""
   },
   {
    "name": "NPR World",
    "group": "World news",
    "ok": true,
-   "new": 0,
+   "new": 2,
    "note": ""
   },
   {
    "name": "RFE/RL",
    "group": "Regional",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Kyiv Independent",
    "group": "Regional",
    "ok": true,
-   "new": 2,
+   "new": 5,
    "note": "via backup feed"
   },
   {
@@ -75,14 +75,14 @@
    "name": "Middle East Eye",
    "group": "Regional",
    "ok": true,
-   "new": 19,
+   "new": 12,
    "note": ""
   },
   {
    "name": "AllAfrica",
    "group": "Regional",
    "ok": true,
-   "new": 6,
+   "new": 12,
    "note": ""
   },
   {
@@ -103,7 +103,7 @@
    "name": "Chatham House",
    "group": "Think tank",
    "ok": true,
-   "new": 7,
+   "new": 10,
    "note": "via backup feed"
   },
   {
@@ -131,14 +131,14 @@
    "name": "ECFR",
    "group": "Think tank",
    "ok": true,
-   "new": 3,
-   "note": ""
+   "new": 8,
+   "note": "via backup feed"
   },
   {
    "name": "Atlantic Council",
    "group": "Think tank",
    "ok": true,
-   "new": 12,
+   "new": 13,
    "note": ""
   },
   {
@@ -152,7 +152,7 @@
    "name": "OFAC and US Treasury sanctions",
    "group": "Sanctions",
    "ok": true,
-   "new": 4,
+   "new": 2,
    "note": ""
   },
   {
@@ -166,14 +166,14 @@
    "name": "OilPrice.com",
    "group": "Energy",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "IEA News",
    "group": "Energy",
    "ok": true,
-   "new": 11,
+   "new": 7,
    "note": ""
   },
   {
@@ -193,15 +193,15 @@
   {
    "name": "Splash247",
    "group": "Maritime",
-   "ok": false,
+   "ok": true,
    "new": 0,
-   "note": "415 Client Error: Unsupported Media Type for url: https://splash247.com/feed/"
+   "note": ""
   },
   {
    "name": "The Maritime Executive",
    "group": "Maritime",
    "ok": true,
-   "new": 7,
+   "new": 0,
    "note": ""
   },
   {
@@ -215,7 +215,7 @@
    "name": "UNHCR News",
    "group": "Migration",
    "ok": true,
-   "new": 8,
+   "new": 7,
    "note": "via backup feed"
   },
   {
@@ -236,7 +236,7 @@
    "name": "Bulletin of the Atomic Scientists",
    "group": "Nuclear",
    "ok": true,
-   "new": 6,
+   "new": 8,
    "note": "via backup feed"
   },
   {

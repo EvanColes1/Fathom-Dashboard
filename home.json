@@ -1,7 +1,93 @@
 {
- "updated": "2026-11-28T07:59:07.559013+00:00",
+ "updated": "2026-11-28T14:32:12.931351+00:00",
  "government": "Labour",
  "articles": [
+  {
+   "id": "a46eaebf77dd269c",
+   "title": "Argentina fails in bid to block UK-led oil drilling off Falkland Islands",
+   "summary": "UK says Argentina has ‘failed in its attempt’ to stop Falkland Islanders making their own decisions",
+   "url": "https://www.independent.co.uk/news/world/americas/falkland-islands-oil-drilling-argentina-b3093182.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-28T13:48:18+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Argentina"
+   ]
+  },
+  {
+   "id": "93c623811ad7efd7",
+   "title": "Leading Labour MP to launch pro-Brexit splinter group rejecting Tory campaign",
+   "summary": "Exclusive: Veteran Labour MP Jon Trickett has told The Independent that he is working with Labour MPs and activists to launch a pro-Brexit ‘progressive’ campaign while others in his party are joining with Tories to form a rival group",
+   "url": "https://www.independent.co.uk/news/uk/politics/brexit-groups-labour-mps-tories-b3093190.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-28T13:32:47+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour",
+    "Conservative"
+   ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "9ae72715e578db52",
+   "title": "Pensions and benefits services remain down after ‘cyber incident’",
+   "summary": "The Department for Work and Pensions shut down the systems and the Universal Credit and Pip portals appeared to still be on Saturday morning.",
+   "url": "https://www.independent.co.uk/news/uk/politics/government-pip-universal-credit-b3093179.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-28T12:07:22+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "47a5fab1a96502dd",
+   "title": "Rayner summons housebuilding bosses for cladding remediation talks",
+   "summary": "Angela Rayner, the housing secretary, has summoned some of Britain’s top housebuilding executives to discuss the progress of their cladding remediation programmes.",
+   "url": "https://news.sky.com/story/rayner-summons-housebuilding-bosses-for-cladding-remediation-talks-13617436",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-28T10:28:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [
+    "Housing"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "a90587f2aca78b5d",
+   "title": "DWP and Universal Credit still down after suspected cyber attack",
+   "summary": "The UK’s former chief technology officer says he believes the ‘cyber incident’ that forced benefits and pensions services offline was an attack",
+   "url": "https://www.independent.co.uk/news/uk/politics/dwp-hack-cyber-attack-offline-b3092591.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-28T09:05:46+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": []
+  },
   {
    "id": "0a85f31c22b47990",
    "title": "Butcher blames costs for closure after 127 years",
@@ -20,6 +106,23 @@
    "countries": []
   },
   {
+   "id": "f8e8e7bf6350b17e",
+   "title": "HMV saviour Putman plots bid for high street chain TG Jones",
+   "summary": "The Canadian businessman who rescued HMV seven years ago is plotting a takeover of the high street chain which traded under the WH Smith name for more than 200 years.",
+   "url": "https://news.sky.com/story/hmv-saviour-putman-plots-bid-for-high-street-chain-tg-jones-13617400",
+   "source": "Sky News Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-28T06:42:00+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [],
+   "countries": [
+    "Canada"
+   ]
+  },
+  {
    "id": "daf7990673d80ab1",
    "title": "DWP cyber incident ‘probably an attack’, former UK technology chief says",
    "summary": "No 10 said work is being carried out to restore services.",
@@ -32,23 +135,6 @@
    "parties": [],
    "topics": [],
    "tax": [],
-   "countries": []
-  },
-  {
-   "id": "a90587f2aca78b5d",
-   "title": "Government told to ‘wake up’ to cyber threat after DWP hit by ‘serious’ incident",
-   "summary": "Downing St refuses to rule out attack by ‘malicious actor’ after department forced to take benefits and pensions services offline",
-   "url": "https://www.independent.co.uk/news/uk/politics/dwp-hack-cyber-attack-offline-b3092591.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-27T21:41:03+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Pensions"
-   ],
    "countries": []
   },
   {
@@ -15163,95 +15249,6 @@
    "topics": [],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "3ce8ad732a3023b9",
-   "title": "Wilson apologises for not declaring Israel debate interest",
-   "summary": "The DUP MP said he had \"inadvertently failed\" to declare that he had visited Israel on a trip funded by its embassy.",
-   "url": "https://www.bbc.co.uk/news/articles/c68j49r4r10go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T21:25:48+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "e71d5a80692062c4",
-   "title": "Refused UK asylum seekers to lose five-day grace period and face immediate removal",
-   "summary": "Home Office plans will cause unnecessary distress and anxiety, say refugee charities Asylum seekers who have exhausted the formal appeals process will be stripped of a five-day grace period and become eligible for immediate removal under Home Office plans condemned as “distressing” by refugee…",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T20:06:24+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Immigration"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "6ed8ff198f2a8708",
-   "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
-   "summary": "DHSC to extend US tech firm’s contract for two more years to allow time to line up British companies to replace it Ministers will end the NHS’s contract with the controversial tech firm Palantir – but not until 2029, to allow time to line up British companies to replace it. The Department of Health…",
-   "url": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T19:59:31+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "NHS and care"
-   ],
-   "tax": [],
-   "countries": [
-    "United States"
-   ]
-  },
-  {
-   "id": "5fd325fbc77a4a01",
-   "title": "Leave.EU and Vote Leave veterans launch rival campaigns to defend Brexit",
-   "summary": "Andy Wigmore says there will be no animosity this time between his Enough Official group and Michael Gove-backed Stay Out movement The Brexit wars were a bitter period in political history, fraught with tension and badmouthing – and that was just between the different leave campaigns. Now as a new…",
-   "url": "https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T19:38:45+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "fbbc7948a3113f47",
-   "title": "How Milburn won over Labour on tackling rising youth unemployment",
-   "summary": "Labour grandee seems to have assuaged MPs’ nerves on need for welfare reform to tackle youth unemployment crisis In a boxing gym in Peterborough almost a year ago, Alan Milburn, freshly appointed to run a government review into the nearly 1 million young people out of work and education, said he…",
-   "url": "https://www.theguardian.com/society/2026/nov/16/how-milburn-won-over-labour-tackling-rising-youth-unemployment",
-   "source": "Guardian Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T19:16:19+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Economy"
-   ],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15273,28 +15270,28 @@
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Independent Politics",
    "group": "News",
    "ok": true,
-   "new": 0,
+   "new": 3,
    "note": ""
   },
   {
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
@@ -15809,7 +15806,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 179031,
+   "signatures": 179571,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -15818,7 +15815,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 149792,
+   "signatures": 149974,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -15827,7 +15824,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 123265,
+   "signatures": 123355,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -15836,7 +15833,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 114676,
+   "signatures": 114724,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -15845,7 +15842,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 106850,
+   "signatures": 106861,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": true,
@@ -15854,7 +15851,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 90807,
+   "signatures": 90831,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -15863,7 +15860,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 84169,
+   "signatures": 84179,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -15872,7 +15869,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 77907,
+   "signatures": 78470,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -15881,7 +15878,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 61768,
+   "signatures": 62045,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
@@ -15890,7 +15887,7 @@
   {
    "id": 769616,
    "title": "Provide lifelong vet care and financial support for retired service animals",
-   "signatures": 56078,
+   "signatures": 56083,
    "created": "2026-05-11T16:52:32.448Z",
    "responded": true,
    "debate": false,
@@ -15899,7 +15896,7 @@
   {
    "id": 778680,
    "title": "Launch a public inquiry into the regulation of animal experimentation",
-   "signatures": 53686,
+   "signatures": 53816,
    "created": "2026-08-01T14:22:42.430Z",
    "responded": true,
    "debate": false,
@@ -15908,7 +15905,7 @@
   {
    "id": 783423,
    "title": "End the religious slaughter exemption and require irreversible stunning",
-   "signatures": 47963,
+   "signatures": 48542,
    "created": "2026-10-01T05:08:27.324Z",
    "responded": true,
    "debate": false,
