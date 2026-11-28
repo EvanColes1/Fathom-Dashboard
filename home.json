@@ -1,16 +1,73 @@
 {
- "updated": "2026-11-28T14:32:12.931351+00:00",
+ "updated": "2026-11-28T17:38:07.554343+00:00",
  "government": "Labour",
  "articles": [
   {
+   "id": "a90587f2aca78b5d",
+   "title": "DWP confirms cyber attack forced pension and benefits systems offline",
+   "summary": "‘Alongside the National Cyber Security Centre... we are working to understand the cause of an attempt to gain unauthorised access to our systems,’ Department of Work and Pensions says",
+   "url": "https://www.independent.co.uk/news/uk/politics/dwp-hack-cyber-attack-offline-b3092591.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-28T17:02:47+00:00",
+   "dateonly": false,
+   "parties": [],
+   "topics": [],
+   "tax": [
+    "Pensions"
+   ],
+   "countries": []
+  },
+  {
+   "id": "43dbeebec23653e7",
+   "title": "Brits back Burnham’s push to reopen Brexit debate, major poll finds",
+   "summary": "Exclusive: 80 per cent of Labour voters want closer ties to the European Union, the new poll shows – vindicating Andy Burnham’s push to explore new options",
+   "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-uk-deal-burnham-poll-reset-b3090935.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-28T17:01:18+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Elections",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "ceab1a81f6891b38",
+   "title": "Four in ten Brits think Burnham is reopening Brexit debate to take UK back into EU",
+   "summary": "Exclusive: The prime minister has insisted he has ‘no fixed destination’ in mind for the UK-EU relationship",
+   "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-uk-rejoin-burnham-poll-b3091703.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-28T16:04:16+00:00",
+   "dateonly": false,
+   "parties": [
+    "Labour"
+   ],
+   "topics": [
+    "Party leadership",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
    "id": "a46eaebf77dd269c",
    "title": "Argentina fails in bid to block UK-led oil drilling off Falkland Islands",
-   "summary": "UK says Argentina has ‘failed in its attempt’ to stop Falkland Islanders making their own decisions",
+   "summary": "UK says Argentina has ‘failed in its attempt’ to stop islanders making their own decisions",
    "url": "https://www.independent.co.uk/news/world/americas/falkland-islands-oil-drilling-argentina-b3093182.html",
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-28T13:48:18+00:00",
+   "published": "2026-11-28T16:03:13+00:00",
    "dateonly": false,
    "parties": [],
    "topics": [],
@@ -21,18 +78,54 @@
   },
   {
    "id": "93c623811ad7efd7",
-   "title": "Leading Labour MP to launch pro-Brexit splinter group rejecting Tory campaign",
-   "summary": "Exclusive: Veteran Labour MP Jon Trickett has told The Independent that he is working with Labour MPs and activists to launch a pro-Brexit ‘progressive’ campaign while others in his party are joining with Tories to form a rival group",
+   "title": "Leading Labour MP to launch pro-Brexit splinter group after rejecting Tory campaign",
+   "summary": "Exclusive: Jon Trickett has told The Independent he is working with fellow Labour MPs and activists to launch a pro-Brexit ‘progressive’ campaign while others in his party are joining with Tories to form a rival group",
    "url": "https://www.independent.co.uk/news/uk/politics/brexit-groups-labour-mps-tories-b3093190.html",
    "source": "Independent Politics",
    "group": "News",
    "party_voice": "",
-   "published": "2026-11-28T13:32:47+00:00",
+   "published": "2026-11-28T15:50:35+00:00",
    "dateonly": false,
    "parties": [
     "Labour",
     "Conservative"
    ],
+   "topics": [],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "bce439d5718005ae",
+   "title": "Voices: Kemi Badenoch seems determined to narrow the appeal of the Tory party",
+   "summary": "The Tory leader requires candidates to sign a ‘covenant’ opposing net zero and the European Convention on Human Rights. John Rentoul asks why she seems so determined to narrow the appeal of her party",
+   "url": "https://www.independent.co.uk/voices/kemi-badenoch-s-purity-test-is-extreme-but-there-is-a-logic-to-it-b3093192.html",
+   "source": "Independent Politics",
+   "group": "News",
+   "party_voice": "",
+   "published": "2026-11-28T15:22:36+00:00",
+   "dateonly": false,
+   "parties": [
+    "Conservative"
+   ],
+   "topics": [
+    "Party leadership",
+    "Energy bills",
+    "Europe"
+   ],
+   "tax": [],
+   "countries": []
+  },
+  {
+   "id": "617dcea84d8616f4",
+   "title": "Being scammed is 'such a challenge to overcome'",
+   "summary": "Ollie Griggs says he was scammed two years ago when someone phoned him pretending to be from a bank.",
+   "url": "https://www.bbc.co.uk/news/articles/c6vg2n8px3rko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "Economy news",
+   "party_voice": "",
+   "published": "2026-11-28T15:05:00+00:00",
+   "dateonly": false,
+   "parties": [],
    "topics": [],
    "tax": [],
    "countries": []
@@ -69,23 +162,6 @@
     "Housing"
    ],
    "tax": [],
-   "countries": []
-  },
-  {
-   "id": "a90587f2aca78b5d",
-   "title": "DWP and Universal Credit still down after suspected cyber attack",
-   "summary": "The UK’s former chief technology officer says he believes the ‘cyber incident’ that forced benefits and pensions services offline was an attack",
-   "url": "https://www.independent.co.uk/news/uk/politics/dwp-hack-cyber-attack-offline-b3092591.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-28T09:05:46+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [
-    "Pensions"
-   ],
    "countries": []
   },
   {
@@ -15172,83 +15248,6 @@
    ],
    "tax": [],
    "countries": []
-  },
-  {
-   "id": "4b39e7f903c21146",
-   "title": "UK lost more than it gained from Brexit, Burnham says ahead of EU summit",
-   "summary": "The prime minister tells an audience at the Lord Mayor's Banquet that the \"Brexit we were given has not worked\".",
-   "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T22:10:26+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections",
-    "Party leadership",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "aac36361df2a3e72",
-   "title": "Isolation caused by Brexit is what our enemies want, says Burnham in major speech",
-   "summary": "The prime minister made the remarks during a speech at the Lord Mayor’s banquet at The Guildhall",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-brexit-isolation-eu-uk-b3086001.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T22:03:49+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Elections",
-    "Party leadership",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "45a2408971f1efd3",
-   "title": "UK leader Andy Burnham says Brexit hasn't worked ahead of a reset summit with the EU",
-   "summary": "British Prime Minister Andy Burnham says Brexit has not delivered for the U.K., and the country needs a closer relationship with the European Union",
-   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-brexit-european-union-mayor-keir-starmer-b3086014.html",
-   "source": "Independent Politics",
-   "group": "News",
-   "party_voice": "",
-   "published": "2026-11-16T21:46:34+00:00",
-   "dateonly": false,
-   "parties": [
-    "Labour"
-   ],
-   "topics": [
-    "Party leadership",
-    "Europe"
-   ],
-   "tax": [],
-   "countries": []
-  },
-  {
-   "id": "48097b5ac0521a4d",
-   "title": "Business Daily",
-   "summary": "Jensen Huang quit Nvidia, but the AI chip boom rolls on. What's changed is who's paying?",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct8grt?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "Economy news",
-   "party_voice": "",
-   "published": "2026-11-16T21:30:00+00:00",
-   "dateonly": false,
-   "parties": [],
-   "topics": [],
-   "tax": [],
-   "countries": []
   }
  ],
  "feeds": [
@@ -15270,7 +15269,7 @@
    "name": "Sky News Politics",
    "group": "News",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15284,14 +15283,14 @@
    "name": "BBC Business",
    "group": "Economy news",
    "ok": true,
-   "new": 0,
+   "new": 1,
    "note": ""
   },
   {
    "name": "Sky News Business",
    "group": "Economy news",
    "ok": true,
-   "new": 1,
+   "new": 0,
    "note": ""
   },
   {
@@ -15806,7 +15805,7 @@
   {
    "id": 775267,
    "title": "Legislate to protect ILR applicants from retrospective changes",
-   "signatures": 179571,
+   "signatures": 179697,
    "created": "2026-06-27T00:44:23.134Z",
    "responded": false,
    "debate": true,
@@ -15815,7 +15814,7 @@
   {
    "id": 769589,
    "title": "End the mandatory fortification of white flour with folic acid immediately",
-   "signatures": 149974,
+   "signatures": 150039,
    "created": "2026-05-11T11:31:25.296Z",
    "responded": true,
    "debate": true,
@@ -15824,7 +15823,7 @@
   {
    "id": 780269,
    "title": "Reduce the state pension age to 65 for all",
-   "signatures": 123355,
+   "signatures": 123396,
    "created": "2026-08-23T11:46:16.594Z",
    "responded": true,
    "debate": true,
@@ -15833,7 +15832,7 @@
   {
    "id": 783252,
    "title": "Launch a public inquiry into the UK's role in Israeli operations in Gaza",
-   "signatures": 114724,
+   "signatures": 114742,
    "created": "2026-09-29T14:02:01.115Z",
    "responded": false,
    "debate": true,
@@ -15842,7 +15841,7 @@
   {
    "id": 779259,
    "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
-   "signatures": 106861,
+   "signatures": 106866,
    "created": "2026-08-10T12:22:13.932Z",
    "responded": true,
    "debate": true,
@@ -15851,7 +15850,7 @@
   {
    "id": 773633,
    "title": "Launch a public inquiry into illegal migration in the UK",
-   "signatures": 90831,
+   "signatures": 90884,
    "created": "2026-06-17T16:29:16.669Z",
    "responded": true,
    "debate": false,
@@ -15860,7 +15859,7 @@
   {
    "id": 777710,
    "title": "Make catapult attacks against animals a standalone criminal offence",
-   "signatures": 84179,
+   "signatures": 84187,
    "created": "2026-07-20T20:56:52.894Z",
    "responded": true,
    "debate": false,
@@ -15869,7 +15868,7 @@
   {
    "id": 771401,
    "title": "Permanent driving ban on intoxicated drivers guilty of causing death",
-   "signatures": 78470,
+   "signatures": 78603,
    "created": "2026-06-01T21:45:40.778Z",
    "responded": true,
    "debate": false,
@@ -15878,7 +15877,7 @@
   {
    "id": 781048,
    "title": "Mandatory Prison for Drivers Who Conceal Accidents or Obstruct Investigations",
-   "signatures": 62045,
+   "signatures": 62103,
    "created": "2026-09-04T13:29:23.523Z",
    "responded": false,
    "debate": false,
@@ -15896,7 +15895,7 @@
   {
    "id": 778680,
    "title": "Launch a public inquiry into the regulation of animal experimentation",
-   "signatures": 53816,
+   "signatures": 53878,
    "created": "2026-08-01T14:22:42.430Z",
    "responded": true,
    "debate": false,
@@ -15905,7 +15904,7 @@
   {
    "id": 783423,
    "title": "End the religious slaughter exemption and require irreversible stunning",
-   "signatures": 48542,
+   "signatures": 48919,
    "created": "2026-10-01T05:08:27.324Z",
    "responded": true,
    "debate": false,
